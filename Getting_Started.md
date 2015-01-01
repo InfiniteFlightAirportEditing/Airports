@@ -35,8 +35,9 @@ If it works without errors, you're ready to go!
 One more thing though... (thanks Nik for pointing it out)
 
 Open the Command Prompt (open the start menu and enter "cmd" - it should appear) and enter two commands:
-    git config --global user.name "YOUR NAME HERE"
-    git config --global user.email "YOUR EMAIL HERE"
+
+       git config --global user.name "YOUR NAME HERE"
+        git config --global user.email "YOUR EMAIL HERE"
 
 Editing in WED
 ================
