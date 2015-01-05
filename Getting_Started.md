@@ -5,7 +5,7 @@ Requirements
   - A GitHub account (let Cameron know your username)
   - A copy of X-Plane (you can download the demo from here www.x-plane.com/downloads/landing/)
   - A copy of X-Plane's WED (developer.x-plane.com/tools/worldeditor/)
-  - (recommended) SourceTree for managing git stuff (sourcetree.com)
+  - (recommended) GitHub app (windows.github.com or mac.github.com)
   
   
 Setting up X-Plane
@@ -15,29 +15,11 @@ Setting up X-Plane is very simple - simply download the demo (or install the cd/
 
 Setting up Git (made simpler with SourceTree)
 ================
-Download SourceTree from the link above and install it (follow the instructions, you may need to install Git but ST will cover that for you).
+Download the GitHub app from the link above and login with your username and details.
 
-In the Bookmarks window that appears, tap "New Repository", then "Clone from URL".
+Then, tap the "+" in the top left corner, select the "Clone" tab and select the /infiniteflight repo (make sure Cameron has your username first).
 
-Set the source URL to "https://github.com/carmichaelalonso/infiniteflight.git"
-You can choose the destination path and name - make it somewhere where you can save files to.
-
-Tap Clone, and SourceTree will make a copy of the airports folder to your PC, where you can edit existing airports or add new ones.
-
-Once Cloning has completed, a new window will appear. In the top right corner, tap on Settings, where a section named "Remotes" should appear.
-
-Create a new remote, name it "GitHub", set the url/path to "https://github.com/carmichaelalonso/infiniteflight.git".
-Under "Optional Extended Integration", set the Host Type to GitHub and login with your username and password for GitHub.
-
-Try making a "Pull" by tapping the "Pull" button on the top bar. You may need to click "Refresh" next to "Remote branch to pull" first (it should say "master"), and then tap OK.
-If it works without errors, you're ready to go!
-
-One more thing though... (thanks Nik for pointing it out)
-
-Open the Command Prompt (open the start menu and enter "cmd" - it should appear) and enter two commands:
-
-       git config --global user.name "YOUR NAME HERE"
-        git config --global user.email "YOUR EMAIL HERE"
+Select a location to save, and tap "Clone".
 
 Editing in WED
 ================
@@ -61,15 +43,15 @@ Editing is fairly straightforward, there are tutorials online if you need help w
 Exporting from WED
 ================
 Save the file (ctrl + s), then go to File - Export as apt.dat.
-Save the file to the folder which you cloned in SourceTree, under a new folder named by the ICAO of the airfield.
+Save the file to the folder which you cloned in the GitHub app, under a new folder named by the ICAO of the airfield.
 
 Updating the repo
 ================
-Open SourceTree again, and you should see a list of "Staged" and "Unstaged Files".
-The airport you just export should be listed under the "Unstaged files" sections. Tap the checkbox next to it to add it to staged files.
+Open the GitHub app and select the infiniteflight repo.
 
-Once all files are in "Staged Files", tap on "Commit" in the top bar. Enter a brief message explaining the changes you made (e.g. "added KTMK").
-Select "Immediately push to GitHub/master", then tap on "Commit".
+Select all the changed files under the "Uncommited Changes" section, and add a brief message stating the changes you have made.
+
+Tap "Commit"; once Committing has finished, tap "Sync" in the top-right corner.
 
 
 ---
