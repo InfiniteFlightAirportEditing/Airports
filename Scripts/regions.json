@@ -1,0 +1,143 @@
+[
+ {
+ "LonMin":-123.0,
+ "LatMin":37.0,
+ "LonMax":-121.0,
+ "LatMax":38.0,
+ "Name" : "SanFrancisco",
+ "IsPublic" : "1",
+ "Description" : "27 Airports including San Francisco (KSFO), Oakland (KOAK), San Jose (KSJC), Palo Alto (KPAO), Stockton (KSCK) , Moffett Federal... (KNUQ), Buchanan Field (KCCR), Nasa Crows Landing (KNRC), Hayward Executive (KHWD), Tracy Muni (KTCY)..."
+ 
+},
+ {
+ "LonMin":149,
+ "LatMin":-36,
+ "LonMax":152,
+ "LatMax":-33,
+ "Name" : "Sydney",
+ "IsPublic" : "1",
+ "Description" : "32 Airports including Sydney Intl (YSSY), Canberra (YSCB), Nowra Military (YSNW), Camden (YSCN), Richmond (Nsw) (YSRI), Bankstown (YSBK), Schofields (YSFS), Wollongong (YWOL), Bathurst (YBTH), Jervis Bay (YJBY)..."
+ 
+},
+ {
+ "LonMin":-119,
+ "LatMin":32,
+ "LonMax":-116,
+ "LatMax":35,
+ "Name" : "Socal",
+ "IsPublic" : "1",
+ "Description" : "120 Airports including Los Angeles (KLAX), San Diego (KSAN), Edwards AFB (KEDW), Santa Monica (KSMO), Palm Springs (KPSP) , Long Beach/Daug... (KLGB), Southern Califo... (KVCV), Palmdale Rgnl U... (KPMD), Miramar Mcas (KNKX), Ontario Intl (KONT)..."
+ 
+},
+ {
+ "LonMin":-89,
+ "LatMin":43,
+ "LonMax":-87,
+ "LatMax":45,
+ "Name" : "Oshkosh",
+ "IsPublic" : "1",
+ "Description" : "93 Airports including Wittman Rgnl (KOSH), Austin Straubel... (KGRB), Outagamie Co Rgnl (KATW), Lawrence J Timm... (KMWC), Sheboygan Co Mem (KSBM), Clintonville Muni (KCLI), Fond Du Lac Co (KFLD), Waukesha Co (KUES), Dodge Co (KUNU)..."
+
+},
+ {
+ "LonMin":-2,
+ "LatMin":50,
+ "LonMax":1,
+ "LatMax":53,
+ "Name" : "London",
+ "IsPublic" : "1",
+ "Description" : "128 Airports including London Heathrow (EGLL), Boscombe Down (EGDM), London Gatwick (EGKK), Raf Marham (EGYM), Chalgrove (EGLJ), Raf Lyneham (EGDL), Oxford Kidlington (EGTK), Raf Wyton (EGUY), Raf Henlow (EGWE), Cambridge (EGSC)..."
+
+},
+ {
+ "LonMin":-75,
+ "LatMin":40,
+ "LonMax":-73,
+ "LatMax":42,
+ "Name" : "NewYork",
+ "IsPublic" : "1",
+ "Description" : "108 Airports including John F Kennedy... (KJFK), Newark Liberty... (KEWR), Long Island Mac... (KISP), Stewart (KSWF), Mc Guire Afb (KWRI), La Guardia (KLGA), Teterboro (KTEB), Igor I Sikorsky... (KBDR), Republic (KFRG), Monmouth Executive (KBLM)..."
+
+},
+ {
+ "LonMin":-82,
+ "LatMin":33,
+ "LonMax":-79,
+ "LatMax":36,
+ "Name" : "Charlotte",
+ "IsPublic" : "1",
+ "Description" : "216 Airports including Charlotte Dougl... (KCLT), Barnwell Co (KBNL), Shaw Afb (KSSC), Columbia Metrop... (KCAE), Lumberton Muni (KLBT), Mc Entire Angs (KMMT), Darlington Co J... (KUDG), Chester Catawba... (9A6), Georgetown Co (KGGE)..."
+
+},
+ {
+ "LonMin":-83,
+ "LatMin":25,
+ "LonMax":-80,
+ "LatMax":28,
+ "Name" : "SouthFlorida",
+ "IsPublic" : "1",
+ "Description" : "179 Airports including Miami Intl (KMIA), Tampa Intl (KTPA), St Petersburg C... (KPIE), Fort Lauderdale... (KFLL), Sebring Rgnl (KSEF), Palm Beach Intl (KPBI), Bartow Muni (KBOW), Opa Locka (KOPF), Vero Beach Muni... (KVRB), Witham Fld (KSUA) ..."
+
+},
+ {
+ "LonMin":1,
+ "LatMin":47,
+ "LonMax":4,
+ "LatMax":50,
+ "Name" : "Paris",
+ "IsPublic" : "1",
+ "Description" : "73 Airports including Paris Charles D... (LFPG), Paris Orly (LFPO), Paris Le Bourget (LFPB), Melun Villaroche (LFPM), Bretigny Sur Orge (LFPY), Meaux Esbly (LFPE), Persan Beaumont (LFPA), Orleans Saint D... (LFOZ), Avord (LFOA)..."
+
+},
+ {
+ "LonMin":-64,
+ "LatMin":16,
+ "LonMax":-61,
+ "LatMax":19,
+ "Name" : "Caribbean",
+ "IsPublic" : "1",
+ "Description" : "16 Airports including Pointe A Pitre... (TFFR), Antigua - V C B... (TAPA), St. Kitts/Brads... (TKPK), St Maarten - Pr... (TNCM), Anguilla/Wallblake (TQPF), St Eustatius/F... (TNCE), Nevis/Amory Intl (TKPN), St Maarten - Gr... (TFFG)..."
+
+},
+ {
+ "LonMin":-91,
+ "LatMin":40,
+ "LonMax":-87,
+ "LatMax":43,
+ "Name" : "Chicago",
+ "IsPublic" : "1",
+ "Description" : "564 Airports including Chicago Ohare Intl (KORD), General Mitchel... (KMKE), Chicago Midway... (KMDW), Univ Of Illinoi... (KCMI), Quad City Intl (KMLI), Du Page (KDPA), Rantoul Nationa... (KTIP), Southern Wiscon... (KJVL)..."
+
+},
+ {
+ "LonMin":-108,
+ "LatMin":38,
+ "LonMax":-104,
+ "LatMax":40,
+ "Name" : "Denver",
+ "IsPublic" : "1",
+ "Description" : "101 Airports including Denver Intl (KDEN), Colorado Spring... (KCOS), Aspen (KASE), Centennial (KAPA), Rocky Mountain... (KBJC), Montrose Rgnl (KMTJ), Front Range (KFTG), Usaf Academy Afld (KAFF), Colorado Spring... (A50)..."
+
+},
+ {
+ "LonMin":4,
+ "LatMin":50,
+ "LonMax":8,
+ "LatMax":53,
+ "Name" : "Amsterdam",
+ "IsPublic" : "1",
+ "Description" : "93 Airports including Schiphol (EHAM), Brussels Airport (EBBR), Koln Bonn (EDDK), Volkel (EHVK), Duesseldorf (EDDL), Florennes (EBFS), Liege (EBLG), Kleine Brogel (EBBL), Beauvechain (EBBE), Twenthe (EHTW) ..."
+
+},
+ {
+ "LonMin":-125,
+ "LatMin":45,
+ "LonMax":-121,
+ "LatMax":48,
+ "Name" : "Seattle",
+ "IsPublic" : "1",
+ "Description" : "214 Airports including Seattle Tacoma... (KSEA), Portland Intl (KPDX), Snohomish Co (KPAE), Boeing Field Ki... (KBFI), Mc Chord Afb (KTCM), Astoria Rgnl (KAST), Portland Hillsboro (KHIO), Mc Minnville Muni (KMMV), Columbia Gorge... (KDLS)..."
+
+}
+]
+
