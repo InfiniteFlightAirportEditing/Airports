@@ -13,7 +13,7 @@ Setting up X-Plane
 Setting up X-Plane is very simple - simply download the demo (or install the cd/steam copy), open up your copy of WED and point it to your X-Plane directory.
 
 
-Setting up Git (made simpler with SourceTree)
+Setting up Git
 ================
 Download the GitHub app from the link above and login with your username and details.
 
@@ -43,7 +43,7 @@ Editing is fairly straightforward, there are tutorials online if you need help w
 Exporting from WED
 ================
 Save the file (ctrl + s), then go to File - Export as apt.dat.
-Save the file to the folder which you cloned in the GitHub app, under a new folder named by the ICAO of the airfield.
+Save the file to the folder which you cloned in the GitHub app, under a new folder named by the ICAO of the airfield inside the IF region. - e.g. SoCal/KLAX
 
 Updating the repo
 ================
