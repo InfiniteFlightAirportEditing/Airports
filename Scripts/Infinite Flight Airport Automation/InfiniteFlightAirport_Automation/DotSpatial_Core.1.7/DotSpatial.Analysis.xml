@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotSpatial.Analysis</name>
+    </assembly>
+    <members>
+        <member name="T:DotSpatial.Analysis.Border">
+            <summary>
+            Used to represent a line segment.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Analysis.Border.X1">
+            <summary>
+            Gets or sets the x1.
+            </summary>
+            <value>
+            The x1.
+            </value>
+        </member>
+        <member name="P:DotSpatial.Analysis.Border.X2">
+            <summary>
+            Gets or sets the x2.
+            </summary>
+            <value>
+            The x2.
+            </value>
+        </member>
+        <member name="P:DotSpatial.Analysis.Border.M">
+            <summary>
+            Gets or sets the M.
+            </summary>
+            <value>
+            The M.
+            </value>
+        </member>
+        <member name="P:DotSpatial.Analysis.Border.Q">
+            <summary>
+            Gets or sets the Q.
+            </summary>
+            <value>
+            The Q.
+            </value>
+        </member>
+        <member name="T:DotSpatial.Analysis.Buffer">
+            <summary>
+            A class that makes adding a buffer to a feature set very simpple.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.Buffer.AddBuffer(DotSpatial.Data.IFeatureSet,System.Double,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            A static function to compute the buffer and return the result to the Execute function.
+            </summary>
+            <param name="inputFeatures">The feature set that will be buffered.</param>
+            <param name="bufferDistance">The distance of the buffer.</param>
+            <param name="outputFeatures">The resulting feature set that will show the buffer.</param>
+            <param name="cancelProgressHandler">Optional parameter to report progress and cancel if needed.</param>
+            <returns></returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.Overlay">
+            <summary>
+            A class for supporting methods to generate random points.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.Overlay.EraseFeatures(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Erase features from one feature set where they are intersected by another feature set. 
+            </summary>
+            <param name="TargetFeatures">Features which will be erased in part or whole.</param>
+            <param name="SourceFeatures">Features which represent areas to erase.</param>
+            <param name="cancelProgressHandler">Optional parameter to report progress and cancel entire process if needed.</param>
+            <returns>A point feature set with the randomly created features.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.Overlay.AppendFeatures(DotSpatial.Data.FeatureSet,DotSpatial.Data.FeatureSet)">
+            <summary>
+            Add the features from SourceFeatures to the TargetFeatures feature set. 
+            </summary>
+            <param name="TargetFeatures">Feature set to which features will be added.</param>
+            <param name="SourceFeatures">Source of features to add to the target feature set. </param>
+            <returns>A point feature set with the randomly created features.</returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.RandomGeometry">
+            <summary>
+            A class for supporting methods to generate random points.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.RandomGeometry.RandomPoints(DotSpatial.Data.IFeatureSet,System.Int32,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Creates a specified number of random point features inside multiple polygon features in a feature set. 
+            </summary>
+            <param name="ConstrainingFeatures">Random points will be generated inside all features in this feature set.</param>
+            <param name="NumberOfPoints">The number of points to be randomly generated.</param>
+            <param name="fsOut">FeatureSet, the points should be added to.</param>
+            <param name="cancelProgressHandler">Optional parameter to report progress and cancel entire process if needed.</param>
+            <returns>A point feature set with the randomly created features.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.RandomGeometry.RandomPoints(DotSpatial.Data.Feature,System.Int32)">
+            <summary>
+            Creates a specified number of random point features inside a single polygon feature. 
+            </summary>
+            <param name="ConstrainingFeature">Random points will be generated inside this polygon feature.</param>
+            <param name="NumberOfPoints">The number of points to be randomly generated.</param>
+            <returns>A point feature set with the randomly created features.</returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.ClipRaster">
+            <summary>
+            Clip input raster with polygon.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.GetXStart(DotSpatial.Data.IFeature,DotSpatial.Data.IRaster)">
+            <summary>
+            Finds the X-coordinate of the first scanline
+            </summary>
+            <param name="polygon">The polygon</param>
+            <param name="inputRaster">The input raster</param>
+            <returns>the X-coordinate of the first scanline</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.GetStartColumn(DotSpatial.Data.IFeature,DotSpatial.Data.IRaster)">
+            <summary>
+            Finds the first raster column corresponding to the left-most edge of the poly
+            </summary>
+            <param name="polygon">the polygon</param>
+            <param name="inputRaster">the input raster</param>
+            <returns>The raster column corresponding to the left-most edge of the poly 
+            (if raster starts before left edge of the poly)
+            or the first raster column (if raster starts after left edge of the poly)</returns>
+            <remarks>If the poly sits to the left of the raster then the first column of the raster is returned.</remarks>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.GetEndColumn(DotSpatial.Data.IFeature,DotSpatial.Data.IRaster)">
+            <summary>
+            Finds the last raster column corresponding to the right-most edge of the poly
+            </summary>
+            <param name="polygon">the polygon</param>
+            <param name="inputRaster">the input raster</param>
+            <returns>The raster column corresponding to the right-most edge of the poly 
+            (if raster ends after the right edge of the poly)
+            or the last raster column (if raster ends before right edge of the poly)</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.ClipRasterWithPolygon(System.String,DotSpatial.Data.IFeature,System.String,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Clips a raster with a polygon feature
+            </summary>
+            <param name="inputFileName">The input raster file</param>
+            <param name="polygon">The clipping polygon feature</param>
+            <param name="outputFileName">The output raster file</param>
+            <param name="cancelProgressHandler">Progress handler for reporting progress status and cancelling the operation</param>
+            <returns>The output clipped raster object</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.ClipRasterWithPolygon(DotSpatial.Data.IFeature,DotSpatial.Data.IRaster,System.String,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Clips a raster with a polygon feature
+            </summary>
+            <param name="polygon">The clipping polygon feature</param>
+            <param name="input">The input raster object</param>
+            <param name="outputFileName">the output raster file name</param>
+            <param name="cancelProgressHandler">Progress handler for reporting progress status and cancelling the operation</param>
+            <remarks>We assume there is only one part in the polygon. 
+            Traverses the raster with a vertical scan line from left to right, bottom to top</remarks>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.ParseIntersections(System.Collections.Generic.List{System.Double},System.Double,System.Int32,DotSpatial.Data.IRaster,DotSpatial.Data.IRaster)">
+            <summary>
+            Parses the intersections. Moves bottom to top.
+            </summary>
+            <param name="intersections">The intersections.</param>
+            <param name="xCurrent">The x current.</param>
+            <param name="column">The column.</param>
+            <param name="output">The output.</param>
+            <param name="input">The input.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.GetYIntersections(System.Collections.Generic.IEnumerable{DotSpatial.Analysis.Border},System.Double)">
+            <summary>
+            Gets the Y intersections.
+            </summary>
+            <param name="borders">The borders.</param>
+            <param name="x">The line-scan x-value.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.GetBorders(DotSpatial.Data.IFeature)">
+            <summary>
+            Gets the borders of the specified feature except vertical lines.
+            </summary>
+            <param name="feature">The feature.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.FirstColumnToProcess(System.Double,System.Double,System.Double)">
+            <summary>
+            Finds the x-coordinate of the first raster column to process
+            </summary>
+            <param name="xMinPolygon">The lowest left coordinate of the polygon.</param>
+            <param name="xMinRaster">The lowest left coordinate of the raster.</param>
+            <param name="cellWidth">Size of the cell.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.ColumnIndexToProcess(System.Double,System.Double,System.Double)">
+            <summary>
+            Finds the index of the first raster column to process
+            </summary>
+            <param name="xMinPolygon">The lowest left coordinate of the polygon.</param>
+            <param name="xMinRaster">The lowest left coordinate of the raster.</param>
+            <param name="cellWidth">Size of the cell.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.RowIndexToProcess(System.Double,System.Double,System.Double)">
+            <summary>
+            Finds the index of the first raster row to process
+            </summary>
+            <param name="yMinPolygon">The lowest left coordinate of the polygon.</param>
+            <param name="yMinRaster">The lowest left coordinate of the raster.</param>
+            <param name="cellHeight">Size of the cell.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.ClipRaster.FirstRowToProcess(System.Double,System.Double,System.Double)">
+            <summary>
+            Finds the y-coordinate of the first raster row to process
+            </summary>
+            <param name="yMinPolygon">The lowest left coordinate of the polygon.</param>
+            <param name="yMinRaster">The lowest left coordinate of the raster.</param>
+            <param name="cellHeight">Size of the cell.</param>
+        </member>
+        <member name="T:DotSpatial.Analysis.FileLogger">
+            <summary>
+            Initializes a new instance of the FileLogger class which is an implementation of ILogger designed to save content to a file.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.Exception(System.Exception)">
+            <summary>
+            An exception was thrown, so this will post the stack trace and message to debug.
+            </summary>
+            <param name="ex">The exception to log.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.PublicMethodEntered(System.String,System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            This handles the situation where a public method has been entered.
+            </summary>
+            <param name="methodName">The method name.</param>
+            <param name="parameters">The list of parameters.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.PublicMethodLeft(System.String)">
+            <summary>
+            This handles the situation where a public method has been left.
+            </summary>
+            <param name="methodName">The method name of the function being left.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.Status(System.String)">
+            <summary>
+            Handles the situation where a status message has been posted.
+            </summary>
+            <param name="message">The status message text.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.Progress(System.String,System.Int32,System.String)">
+            <summary>
+            This is not really used because this saves data to a file.
+            </summary>
+            <param name="key">A basic string to help categorize the message, usually just the message with no percentage information.</param>
+            <param name="percent">The string percent to appear in a progress message.</param>
+            <param name="message">The string message combining both the key and the percent information.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.MessageBoxShown(System.String,System.Windows.Forms.DialogResult)">
+            <summary>
+            Handles the situation where a simple message box where only a message was specified
+            was shown to the user.  It also shows the result that the user pressed.
+            </summary>
+            <param name="messageText">The message text.</param>
+            <param name="result">The boolean result.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.FileLogger.InputBoxShown(System.String,System.Windows.Forms.DialogResult,System.String)">
+            <summary>
+            This method allows the logger to receive information about input boxes that were shown
+            as well as the values entered into them and the result.
+            </summary>
+            <param name="messageText">The string message that appeared on the input box.</param>
+            <param name="result">The System.Windows.Forms.DialogResult describing if the value was cancelled.</param>
+            <param name="value">The string containing the value entered.</param>
+        </member>
+        <member name="P:DotSpatial.Analysis.FileLogger.DebugFile">
+            <summary>
+            Gets or sets the string file to append debug messages to.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Analysis.FileLogger.Description">
+            <summary>
+            Gets a description of this logger.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Analysis.FileLogger.Key">
+            <summary>
+            Gets or sets the integer key that allows us to retrieve this logger from the Manager when we wish to remove it.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Analysis.RasterBin">
+            <summary>
+            A class for creating "ranges" of raster values.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.RasterBin.#ctor">
+            <summary>
+            Initializes a new instance of the RasterBin class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.RasterBin.BinRaster(DotSpatial.Data.IRaster,System.String,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            This uses the BaseValue and BinSize properties in order to categorize the values
+            according to the source.  The cells in the bin will receive a value that is equal
+            to the midpoint between the range.  So a range from 0 to 10 will all have the value
+            of 5.  Values with no data continue to be marked as NoData.
+            </summary>
+            <param name="source">The source raster.</param>
+            <param name="destName">The output filename.</param>
+            <param name="progressHandler">The progress handler for messages.</param>
+            <returns>The IRaster of binned values from the original source.</returns>
+        </member>
+        <member name="P:DotSpatial.Analysis.RasterBin.BaseValue">
+            <summary>
+            Gets or sets the "origin" of the bins.  Bins may occur above or below this,
+            in increments of "BinSize".  The default is 0.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Analysis.RasterBin.BinSize">
+            <summary>
+            Gets or sets the double value separating the bins for the raster.  The default is 10.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Analysis.ResampleCells">
+            <summary>
+            This class resamples the given raster cells.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.ResampleCells.Resample(DotSpatial.Data.IRaster,System.Double,System.Double,System.String)">
+            <summary>
+            This will resample the cells.
+            If the cell size is zero, this will default to the shorter of the width or height
+            divided by 256.
+            </summary>
+            <param name="input1">The input raster.</param>
+            <param name="cellHeight">The new cell height.</param>
+            <param name="cellWidth">The new cell width.</param>
+            <param name="outputFileName">The destination file name.</param>
+            <returns>Resampled raster name.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.ResampleCells.Resample(DotSpatial.Data.IRaster,System.Double,System.Double,System.String,DotSpatial.Data.IProgressHandler)">
+            <summary>
+            This will resample the cells.
+            If the cell size is zero, this will default to the shorter of the width or height
+            divided by 256.
+            </summary>
+            <param name="input1">the input raster.</param>
+            <param name="cellHeight">The new cell height or null.</param>
+            <param name="cellWidth">The new cell width or null.</param>
+            <param name="outputFileName">The string name of the output raster.</param>
+            <param name="progressHandler">An interface for handling the progress messages.</param>
+            <returns>The resampled raster.</returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.Slope">
+            <summary>
+            A class for supporting methods to calculate the slope.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.Slope.GetSlope(DotSpatial.Data.IRaster,System.Double,System.Boolean,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the slope generation raster.
+            </summary>
+            <param name="raster">The input altitude raster.</param>
+            <param name="inZFactor">The double precision multiplicative scaling factor for elevation values.</param>
+            <param name="slopeInPercent">A boolean parameter that clarifies the nature of the slope values.  If this is true, the values represent percent slope.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>The output slope raster, or null if the process was unsuccessful.</returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.VectorToRaster">
+            <summary>
+            VectorToRaster uses the help of GDI+ to create a bitmap, draws the features to
+            the bitmap, and then converts the color coded cells to a raster format.
+            This is limited to bitmaps that are within the 8, 000 x 8, 0000 size limits.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.VectorToRaster.ToRaster(DotSpatial.Data.IFeatureSet,System.Double,System.String,System.String)">
+            <summary>
+            Creates a new raster with the specified cell size.  If the cell size
+            is zero, this will default to the shorter of the width or height
+            divided by 256.  If the cell size produces a raster that is greater
+            than 8, 000 pixels in either dimension, it will be re-sized to
+            create an 8, 000 length or width raster.
+            </summary>
+            <param name="fs">The featureset to convert to a raster.</param>
+            <param name="cellSize">The double extent of the cell.</param>
+            <param name="fieldName">The integer field index of the file.</param>
+            <param name="outputFileName">The fileName of the raster to create.</param>
+            <returns>The resulting IRaster generated by the ToRaster operation.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.VectorToRaster.ToRaster(DotSpatial.Data.IFeatureSet,System.Double,System.String,System.String,System.String,System.String[],DotSpatial.Data.IProgressHandler)">
+            <summary>
+            Creates a new raster with the specified cell size.  If the cell size
+            is zero, this will default to the shorter of the width or height
+            divided by 256.  If the cell size produces a raster that is greater
+            than 8, 000 pixels in either dimension, it will be re-sized to
+            create an 8, 000 length or width raster.
+            </summary>
+            <param name="fs">The featureset to convert to a raster.</param>
+            <param name="cellSize">The double extent of the cell.</param>
+            <param name="fieldName">The integer field index of the file.</param>
+            <param name="outputFileName">The fileName of the raster to create.</param>
+            <param name="driverCode">The optional GDAL driver code to use if using GDAL
+            for a format that is not discernable from the file extension.  An empty string
+             is usually perfectly acceptable here.</param>
+            <param name="options">For GDAL rasters, they can be created with optional parameters
+             passed in as a string array.  In most cases an empty string is perfectly acceptable.</param>
+            <param name="progressHandler">An interface for handling the progress messages.</param>
+            <returns>Generates a raster from the vectors.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.VectorToRaster.ToRaster(DotSpatial.Data.IFeatureSet,DotSpatial.Data.Extent,System.Double,System.String,System.String,System.String,System.String[],DotSpatial.Data.IProgressHandler)">
+            <summary>
+            Creates a new raster with the specified cell size.  If the cell size
+            is zero, this will default to the shorter of the width or height
+            divided by 256.  If the cell size produces a raster that is greater
+            than 8, 000 pixels in either dimension, it will be re-sized to
+            create an 8, 000 length or width raster.
+            </summary>
+            <param name="fs">The featureset to convert to a raster.</param>
+            <param name="extent">Force the raster to this specified extent.</param>
+            <param name="cellSize">The double extent of the cell.</param>
+            <param name="fieldName">The integer field index of the file.</param>
+            <param name="outputFileName">The fileName of the raster to create.</param>
+            <param name="driverCode">The optional GDAL driver code to use if using GDAL
+            for a format that is not discernable from the file extension.  An empty string
+             is usually perfectly acceptable here.</param>
+            <param name="options">For GDAL rasters, they can be created with optional parameters
+             passed in as a string array.  In most cases an empty string is perfectly acceptable.</param>
+            <param name="progressHandler">An interface for handling the progress messages.</param>
+            <returns>Generates a raster from the vectors.</returns>
+        </member>
+        <member name="T:DotSpatial.Analysis.Voronoi">
+            <summary>
+            This class provides an application programming interface to access the Voronoi calculations that are wrapped by a tool.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Analysis.Voronoi.DelaunayLines(DotSpatial.Data.IFeatureSet)">
+            <summary>
+            The Voronoi Graph calculation creates a delaunay tesselation where
+            each point is effectively converted into triangles.
+            </summary>
+            <param name="points">The points to use for creating the tesselation.</param>
+            <returns>The generated line featureset.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.Voronoi.VoronoiLines(DotSpatial.Data.IFeatureSet)">
+            <summary>
+            The Voronoi Graph calculation creates the lines that form a voronoi diagram.
+            </summary>
+            <param name="points">The points to use for creating the tesselation.</param>
+            <returns>An IFeatureSet that is the resulting set of lines in the diagram.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.Voronoi.VoronoiPolygons(DotSpatial.Data.IFeatureSet,System.Boolean)">
+            <summary>
+            The Voronoi Graph calculation creates the lines that form a voronoi diagram.
+            </summary>
+            <param name="points">The points to use for creating the tesselation.</param>
+            <param name="cropToExtent">The normal polygons have sharp angles that extend like stars.
+            Cropping will ensure that the original featureset extent plus a small extra buffer amount
+            is the outer extent of the polygons.  Errors seem to occur if the exact extent is used.</param>
+            <returns>The IFeatureSet containing the lines that were formed in the diagram.</returns>
+        </member>
+        <member name="M:DotSpatial.Analysis.Voronoi.VoronoiPolygons(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,System.Boolean)">
+            <summary>
+            The Voronoi Graph calculation creates the lines that form a voronoi diagram.
+            </summary>
+            <param name="points">The points to use for creating the tesselation.</param>
+            <param name="result">The output featureset.</param>
+            <param name="cropToExtent">The normal polygons have sharp angles that extend like stars.
+            Cropping will ensure that the original featureset extent plus a small extra buffer amount
+            is the outer extent of the polygons.  Errors seem to occur if the exact extent is used.</param>
+        </member>
+        <member name="M:DotSpatial.Analysis.Voronoi.HandleBoundaries(DotSpatial.Topology.Voronoi.VoronoiGraph,DotSpatial.Topology.IEnvelope)">
+            <summary>
+            The original algorithm simply allows edges that have one defined point and
+            another "NAN" point.  Simply excluding the not a number coordinates fails
+            to preserve the known direction of the ray.  We only need to extend this
+            long enough to encounter the bounding box, not infinity.
+            </summary>
+            <param name="graph">The VoronoiGraph with the edge list.</param>
+            <param name="bounds">The polygon bounding the datapoints.</param>
+        </member>
+    </members>
+</doc>

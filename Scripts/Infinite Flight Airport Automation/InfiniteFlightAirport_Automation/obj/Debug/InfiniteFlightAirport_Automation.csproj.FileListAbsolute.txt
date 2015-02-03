@@ -1,0 +1,6 @@
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\bin\Debug\InfiniteFlightAirport_Automation.exe.config
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\bin\Debug\InfiniteFlightAirport_Automation.exe
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\bin\Debug\InfiniteFlightAirport_Automation.pdb
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\obj\Debug\InfiniteFlightAirport_Automation.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\obj\Debug\InfiniteFlightAirport_Automation.exe
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Scripts\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\obj\Debug\InfiniteFlightAirport_Automation.pdb

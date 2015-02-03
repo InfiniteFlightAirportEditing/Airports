@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotSpatial.Positioning.Design</name>
+    </assembly>
+    <members>
+        <member name="T:DotSpatial.Positioning.Design.AngleConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Angle</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Angle</strong> object to be converted between
+                other data types, such as <strong>Double</strong>, <strong>Integer</strong> and
+                <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Angle</strong>, and also allows developers to type in string values such as
+                "1.50" and have them converted to <strong>Angle</strong> objects automatically.
+                Finally, this class controls design-time serialization of <strong>Angle</strong>
+                object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PositioningNumericObjectConverter">
+            <summary>
+            An abstract class that is inherited by several other classes to handle type conversions.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PositioningObjectConverter">
+            <summary>
+            A base Expandable object converter
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningObjectConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningObjectConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningObjectConverter.CanConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningObjectConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositioningObjectConverter.HandledTypeName">
+            <summary>
+            Indicates the name of the type handled by this type converter.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositioningObjectConverter.HandledAssemblyName">
+            <summary>
+            Indicates the full nume of the assembly housing objects handled by this type converter.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositioningObjectConverter.HandledAssemblyVersion">
+            <summary>
+            Gets the hard coded assembly version of the library that this designer handles.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningNumericObjectConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningNumericObjectConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositioningNumericObjectConverter.CanConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AngleConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AngleConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AngleConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AngleConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.AngleConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.AreaConverter">
+            <summary>
+            Provides functionality to convert string values to and from Area objects at design time.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AreaConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AreaConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AreaConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AreaConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.AreaConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.AzimuthConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Azimuth</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Azimuth</strong> object to be converted between
+                other data types, such as <strong>Double</strong>, <strong>Integer</strong> and
+                <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Azimuth</strong>, and also allows developers to type in string values such
+                as "NNW" and have them converted to <strong>Azimuth</strong> objects automatically.
+                Finally, this class controls design-time serialization of <strong>Azimuth</strong>
+                object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AzimuthConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AzimuthConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AzimuthConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.AzimuthConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.AzimuthConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.CartesianPointConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>CartesianPoint</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>CartesianPoint</strong> object to be converted between
+                other data types, such as <strong>String</strong>. This class is used primarily
+                during the Windows Forms designer to give detailed information about properties of
+                type <strong>CartesianPoint</strong>, and also allows developers to type in string values
+                such as "10m, 20m, 100m" and have them converted to <strong>CartesianPoint</strong> objects
+                automatically. Finally, this class controls design-time serialization of
+                <strong>CartesianPoint</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.CartesianPointConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.CartesianPointConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.CartesianPointConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.CartesianPointConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.CartesianPointConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter">
+            <summary>
+            Provides functionality to convert string values to and from DilutionOfPrecision objects at design time.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PositioningFormsNumericObjectConverter">
+            <summary>
+            The PositioningFormsNumericObjectConverter handles the object conversion but is tailored to work with the DotSpatial.Positioning.Forms class.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositioningFormsNumericObjectConverter.HandledAssemblyVersion">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositioningFormsNumericObjectConverter.HandledAssemblyName">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.DilutionOfPrecisionConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.DistanceConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Distance</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Distance</strong> object to be converted
+                between other data types, such as <strong>String</strong>. This class is used
+                primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>Distance</strong>, and also allows developers to type in
+                string values such as "2 miles" and have them converted to
+                <strong>Distance</strong> objects automatically. Finally, this class controls
+                design-time serialization of <strong>Distance</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DistanceConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DistanceConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DistanceConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.DistanceConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.DistanceConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.ElevationConverter">
+            <summary>
+            Provides functionality to converting values to and from
+            <strong>Elevation</strong> objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Elevation</strong> object to be converted
+                between other data types, such as <strong>Double</strong>, <strong>Integer</strong>
+                and <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Elevation</strong>, and also allows developers to type in string values
+                such as "45" and have them converted to <strong>Elevation</strong> objects
+                automatically. Finally, this class controls design-time serialization of
+                <strong>Elevation</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.ElevationConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.ElevationConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.ElevationConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.ElevationConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.ElevationConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.GeographicRectangleConverter">
+            <summary>
+            Provides functionality to converting values to and from
+            <strong>GeographicRectangle</strong> objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>GeographicRectangle</strong> object to be
+                converted between other data types, such as <strong>String</strong>. This class is
+                used primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>GeographicRectangle</strong>, and also allows developers
+                to type in string values such as "1, 2, 10, 10" and have them converted to
+                <strong>GeographicRectangle</strong> objects automatically. Finally, this class
+                controls design-time serialization of <strong>GeographicRectangle</strong> object
+                properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicRectangleConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicRectangleConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicRectangleConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicRectangleConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.GeographicRectangleConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.GeographicSizeConverter">
+            <summary>
+            Provides functionality to converting values to and from
+            <strong>GeographicSize</strong> objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>GeographicSize</strong> object to be converted
+                between other data types, such as <strong>String</strong>. This class is used
+                primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>GeographicSize</strong>, and also allows developers to
+                type in string values such as "1, 2" and have them converted to
+                <strong>GeographicSize</strong> objects automatically. Finally, this class controls
+                design-time serialization of <strong>GeographicSize</strong> object
+                properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicSizeConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicSizeConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicSizeConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.GeographicSizeConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.GeographicSizeConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.LatitudeConverter">
+            <summary>
+            Provides functionality to convert string values to and from Latitude objects at design time.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Latitude</strong> object to be converted
+                between other data types, such as <strong>Double</strong>, <strong>Integer</strong>
+                and <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Latitude</strong>, and also allows developers to type in string values such
+                as "12N" (for 12° North) and have them converted to <strong>Latitude</strong>
+                objects automatically. Finally, this class controls design-time serialization of
+                <strong>Latitude</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LatitudeConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LatitudeConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LatitudeConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LatitudeConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.LatitudeConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.LongitudeConverter">
+            <summary>
+            Provides functionality to convert string values to and from Longitude objects at design time.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Longitude</strong> object to be converted
+                between other data types, such as <strong>Double</strong>, <strong>Integer</strong>
+                and <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Longitude</strong>, and also allows developers to type in string values
+                such as "54E" (for 54° East) and have them converted to <strong>Longitude</strong>
+                objects automatically. Finally, this class controls design-time serialization of
+                <strong>Longitude</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LongitudeConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LongitudeConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LongitudeConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.LongitudeConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.LongitudeConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PercentConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Percent</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Percent</strong> object to be converted between
+                other data types, such as <strong>Double</strong>, <strong>Integer</strong> and
+                <strong>String</strong>. This class is used primarily during the Windows Forms
+                designer to give detailed information about properties of type
+                <strong>Percent</strong>, and also allows developers to type in string values such as
+                "1.50" and have them converted to <strong>Percent</strong> objects automatically.
+                Finally, this class controls design-time serialization of <strong>Percent</strong>
+                object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PercentConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PercentConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PercentConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PercentConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PercentConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PointDConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>PointD</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>PointD</strong> object to be converted between
+                other data types, such as <strong>String</strong>. This class is used primarily
+                during the Windows Forms designer to give detailed information about properties of
+                type <strong>PointD</strong>, and also allows developers to type in string values
+                such as "10.123, 20.123" and have them converted to <strong>PointD</strong> objects
+                automatically. Finally, this class controls design-time serialization of
+                <strong>PointD</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PointDConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PointDConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PointDConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PointDConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PointDConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.PositionConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Position</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Position</strong> object to be converted
+                between other data types, such as <strong>String</strong>. This class is used
+                primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>Position</strong>, and also allows developers to type in
+                string values such as "29N, 42W" (for 29°North by 42°West) and have them converted
+                to <strong>Position</strong> objects automatically. Finally, this class controls
+                design-time serialization of <strong>Position</strong> object properties. UTM
+                coordinates such as "13S 12345E 12345N" are also accepted.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositionConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositionConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositionConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.PositionConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.PositionConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.RadianConverter">
+            <summary>
+            Type converter for angles in radians
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RadianConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RadianConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RadianConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RadianConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdoc/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.RadianConverter.HandledTypeName">
+            <inheritdoc/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.RectangleDConverter">
+            <summary>
+            Provides functionality to converting values to and from
+            <strong>RectangleD</strong> objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>RectangleD</strong> object to be converted
+                between other data types, such as <strong>String</strong>. This class is used
+                primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>RectangleD</strong>, and also allows developers to type
+                in string values such as "1.5, 2.5, 4.5, 7.8" and have them converted to
+                <strong>RectangleD</strong> objects automatically. Finally, this class controls
+                design-time serialization of <strong>RectangleD</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RectangleDConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RectangleDConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RectangleDConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.RectangleDConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.RectangleDConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter">
+            <summary>
+            Provides functionality to convert string values to and from SignalToNoiseRatio objects at design time.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.SignalToNoiseRatioConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.SizeDConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>SizeD</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Position</strong> object to be converted
+                between other data types, such as <strong>String</strong>. This class is used
+                primarily during the Windows Forms designer to give detailed information about
+                properties of type <strong>Position</strong>, and also allows developers to type in
+                string values such as "29.23, 15.65" and have them converted to
+                <strong>Position</strong> objects automatically. Finally, this class controls
+                design-time serialization of <strong>Position</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SizeDConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SizeDConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SizeDConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SizeDConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.SizeDConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+        <member name="T:DotSpatial.Positioning.Design.SpeedConverter">
+            <summary>
+            Provides functionality to converting values to and from <strong>Speed</strong>
+            objects.
+            </summary>
+            <remarks>
+            	<para>This class allows any <strong>Speed</strong> object to be converted between
+                other data types, such as <strong>String</strong>. This class is used primarily
+                during the Windows Forms designer to give detailed information about properties of
+                type <strong>Speed</strong>, and also allows developers to type in string values
+                such as "120 km/h" and have them converted to <strong>Speed</strong> objects
+                automatically. Finally, this class controls design-time serialization of
+                <strong>Speed</strong> object properties.</para>
+            	<para>In most situations this class is used by the Visual Studio.NET IDE and is
+                rarely created at run-time.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Design.SpeedConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Design.SpeedConverter.HandledTypeName">
+            <inheritdocs/>
+        </member>
+    </members>
+</doc>

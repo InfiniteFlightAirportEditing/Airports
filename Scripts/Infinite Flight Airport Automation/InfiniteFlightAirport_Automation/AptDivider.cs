@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Script for diving a large apt.dat into smaller files
+ * Sorts by region
+ * By Cameron Carmichael Alonso
+*/
+
+using System;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using System.Globalization;
@@ -8,7 +14,6 @@ namespace AirportParser
 {
 	public static class AptDivider
 	{
-	
 
 		//ENTER REGION INFO BEFORE RUNNING SCRIPT
 		static float LatMin = 16.0f;
@@ -17,7 +22,7 @@ namespace AirportParser
 		static float LonMax = -61f;
 		static string RegionName = "Caribbean";
 
-		static string BasePath = "/Users/Cameron/InfiniteFlight/Airports/";
+		static public string BasePath = "/Users/Cameron/InfiniteFlight/Airports/";
 
 		public static void AptDividerFunction () {
 

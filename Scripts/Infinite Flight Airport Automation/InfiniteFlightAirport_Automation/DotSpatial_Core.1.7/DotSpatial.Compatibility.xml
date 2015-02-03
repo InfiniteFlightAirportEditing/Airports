@@ -1,0 +1,3147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotSpatial.Compatibility</name>
+    </assembly>
+    <members>
+        <member name="T:DotSpatial.Compatibility.AppInfo">
+            <summary>
+            AppInfo
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IAppInfo">
+            <summary>
+            AppInfo
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.ApplicationName">
+            <summary>
+            The name of the main application.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.DefaultDir">
+            <summary>
+            The default directory for file dialogs
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.FormIcon">
+            <summary>
+            The icon to be displayed as the default form icon
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.HelpFilePath">
+            <summary>
+            The path to the help file to be displayed from the Help menu.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.ShowWelcomeScreen">
+            <summary>
+            Whether or not to show a welcome screen (overriding the Splash Screen)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.SplashPicture">
+            <summary>
+            The image to be displayed on the splash screen.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.SplashTime">
+            <summary>
+            How long the splash screen should be displayed
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.URL">
+            <summary>
+            The URL to be displayed on the Help->About dialog.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.UseSplashScreen">
+            <summary>
+            Whether to display a splash screen on starting the application
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IAppInfo.WelcomePlugin">
+            <summary>
+            The name of the plugin responsible for displaying a custom welcome screen
+            in response to the WELCOME_SCREEN message.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.ApplicationName">
+            <summary>
+            The name of the main application.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.DefaultDir">
+            <summary>
+            The default directory for file dialogs
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.FormIcon">
+            <summary>
+            The icon to be displayed as the default form icon
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.HelpFilePath">
+            <summary>
+            The path to the help file to be displayed from the Help menu.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.ShowWelcomeScreen">
+            <summary>
+            Whether or not to show a welcome screen (overriding the Splash Screen)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.SplashPicture">
+            <summary>
+            The image to be displayed on the splash screen.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.SplashTime">
+            <summary>
+            How long the splash screen should be displayed
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.URL">
+            <summary>
+            The URL to be displayed on the Help->About dialog.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.UseSplashScreen">
+            <summary>
+            Whether to display a splash screen on starting the application
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.AppInfo.WelcomePlugin">
+            <summary>
+            The name of the plugin responsible for displaying a custom welcome screen
+            in response to the WELCOME_SCREEN message.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ClickLocation">
+            <summary>
+            Location of a click event within the legend.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.ClickLocation.None">
+            <summary>The user clicked outside of any group or layer.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.ClickLocation.Layer">
+            <summary>The user clicked on a layer.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.ClickLocation.Group">
+            <summary>The user clicked on a group.</summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.CursorMode">
+            <summary>
+            CursorModes
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.CursorMode.cmNone">
+            <summary>
+            No built in behavior
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.CursorMode.cmPan">
+            <summary>
+            Left click to Pan
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.CursorMode.cmSelection">
+            <summary>
+            Select
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.CursorMode.cmZoomIn">
+            <summary>
+            Left click to zoom in
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.CursorMode.cmZoomOut">
+            <summary>
+            Right click to zoom in
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.HJustification">
+            <summary>
+            HJustification
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.HJustification.Center">
+            <summary>
+            The item is centered
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.HJustification.Left">
+            <summary>
+            The item is justified to the left
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.HJustification.Right">
+            <summary>
+            The item is justified to the right
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IComboBoxItem">
+            <summary>
+            Object given back when a ComboBox is added to the Toolbar.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IComboBoxItem.Items">
+            <summary>
+            Returns a collection of items
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Cursor">
+            <summary>
+            Gets/Sets the cursor
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Description">
+            <summary>
+            Gets/Sets the description for the control (used when the user customizes the Toolbar)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.DropDownStyle">
+            <summary>
+            Gets/Sets the style of the combo box
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Enabled">
+            <summary>
+            Gets/Sets the enabled state of the ComboBoxItem
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Name">
+            <summary>
+            Gets the name of the ComboBoxItem object
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.SelectedIndex">
+            <summary>
+            Gets/Sets the zero based index of the selected item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.SelectedItem">
+            <summary>
+            Gets/Sets the selected object
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.SelectedText">
+            <summary>
+            Gets/Sets the selected item text
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.SelectionLength">
+            <summary>
+            Gets/Sets the length of the highlighted text
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.SelectionStart">
+            <summary>
+            Gets/Sets the start index of the highlighted text
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Text">
+            <summary>
+            Gets/Sets the text for this object
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Tooltip">
+            <summary>
+            Gets/Sets the tooltip text for the control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IComboBoxItem.Width">
+            <summary>
+            Gets/Sets the width of the control
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IdentifiedShapes">
+            <summary>
+            This interface is used to access the list of shapes that were found during an Identify function call.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IdentifiedShapes.Count">
+            <summary>
+            Returns the number of shapes that were identified.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IdentifiedShapes.Item(System.Int32)">
+            <summary>
+            Returns the shape index of an identified that is stored at the position
+            specified by the Index parameter.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IDraw">
+            <summary>
+            The draw interface is used to add custom drawing to the DotSpatial view.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.ClearDrawing(System.Int32)">
+            <summary>
+            Clears all custom drawing on the specified drawing layer.
+            </summary>
+            <param name="drawHandle">Handle of the drawing layer to clear.</param>
+            <remarks>Clearing a single drawing (using the drawing handle) is faster than clearing all drawings.</remarks>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.ClearDrawings">
+            <summary>
+            Clears all custom drawings on all drawing layers.
+            </summary>
+            <remarks>Clearing a single drawing (using the drawing handle) is faster than clearing all drawings.</remarks>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.DrawCircle(System.Double,System.Double,System.Double,System.Drawing.Color,System.Boolean)">
+            <summary>
+            Draws a circle on the current drawing layer.
+            </summary>
+            <param name="x">X coordinate of the center of the circle.</param>
+            <param name="y">Y coordinate of the center of the circle.</param>
+            <param name="pixelRadius">Radius of the circle in pixels.</param>
+            <param name="color">Color to use when drawing the circle.</param>
+            <param name="fillCircle">Specifies whether or not the circle is drawn filled.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.DrawLine(System.Double,System.Double,System.Double,System.Double,System.Int32,System.Drawing.Color)">
+            <summary>
+            Draws a line on the current drawing layer.
+            </summary>
+            <param name="x1">First x coordinate.</param>
+            <param name="y1">First y coordinate.</param>
+            <param name="x2">Second x coordinate.</param>
+            <param name="y2">Second y coordinate.</param>
+            <param name="pixelWidth">Width of the line in pixels</param>
+            <param name="color">Color to draw the line with.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.DrawPoint(System.Double,System.Double,System.Int32,System.Drawing.Color)">
+            <summary>
+            Draws a point on the current drawing layer.
+            </summary>
+            <param name="x">X coordinate.</param>
+            <param name="y">Y coordinate.</param>
+            <param name="pixelSize">Size of the point in pixels.</param>
+            <param name="color">Color to draw the point with.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.DrawPolygon(System.Double[],System.Double[],System.Drawing.Color,System.Boolean)">
+            <summary>
+            Draws a polygon on the current drawing layer.
+            </summary>
+            <param name="x">Array of x points for the polygon.</param>
+            <param name="y">Array of y points for the polygon.</param>
+            <param name="color">Color to draw the polygon with.</param>
+            <param name="fillPolygon">Specifies whether or not to fill the polygon.</param>
+            <remarks>The points in a polygon should be defined in a clockwise order and have no
+            crossing lines if they are to be filled.  The first and last point should be the same.</remarks>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IDraw.NewDrawing(DotSpatial.Compatibility.ReferenceType)">
+            <summary>
+            Creates a new drawing layer.
+            </summary>
+            <param name="projection">Specifies whether to use screen coordinates or projected map coordinates.</param>
+            <returns>Returns a drawing handle.  You should save this handle if you wish to clear this drawing later.</returns>
+            <remarks>The concept of drawing layers is only partially implemented in this version of the MapWinGIS, which is used
+            by the DotSpatial.  There is only one active drawing layer, which is the most recently created one.  There is no
+            way to access any other drawing layers other than the current one.</remarks>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IDraw.DoubleBuffer">
+            <summary>
+            Specifies whether or not to use double buffering.  Double buffering makes the drawing of the
+            custom drawings smoother (not flickering). It is recommended that you use double buffering.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IIdentifiedLayers">
+            <summary>
+            IdentifiedLayers is used to access the list of layers that contained any
+            information gathered during an Identify function call.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IIdentifiedLayers.Count">
+            <summary>
+            Returns the number of layers that had information from the Identify function call.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IIdentifiedLayers.Item(System.Int32)">
+            <summary>
+            Returns an <c>IdentifiedShapes</c> object containing inforamtion about shapes that were
+            identified during the Identify function call.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ILayerOld">
+            <summary>
+            Layer
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.AddLabel(System.String,System.Drawing.Color,System.Double,System.Double,DotSpatial.Compatibility.HJustification)">
+            <summary>
+            Adds a label to this layer.
+            </summary>
+            <param name="text">The text of the label.</param>
+            <param name="textColor">The color of the label text.</param>
+            <param name="xPos">X position in projected map units.</param>
+            <param name="yPos">Y position in projected map units.</param>
+            <param name="justification">Text justification.  Can be hjCenter, hjLeft or hjRight.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.AddLabelEx(System.String,System.Drawing.Color,System.Double,System.Double,DotSpatial.Compatibility.HJustification,System.Double)">
+            The following function was added for plug-in 3.1 version compatibility
+             <summary>
+             Adds an extended label to this layer.
+             </summary>
+             <param name="text">The text of the label.</param>
+             <param name="textColor">The color of the label text.</param>
+             <param name="xPos">X position in projected map units.</param>
+             <param name="yPos">Y position in projected map units.</param>
+             <param name="justification">Text justification.  Can be hjCenter, hjLeft or hjRight.</param>
+             <param name="rotation">The rotation angle for the label.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.ClearLabels">
+            <summary>
+            Clears all labels for this layer.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.ClearUDPointImageList">
+            <summary>
+            Clears out the list of images to be used by the tkImageList point type.
+            See also UserPointImageListAdd, UserPointImageListItem, UserPointImageListCount,
+            and (on the shape interface) ShapePointImageListID.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.Font(System.String,System.Int32)">
+            <summary>
+            Sets the font to use for all labels on this layer.
+            </summary>
+            <param name="fontName">Name of the font or font family.  Example:  "Arial"</param>
+            <param name="fontSize">Size of the font.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.GetObject">
+            <summary>
+            Gets the underlying MapWinGIS object for this layer.  The object can be either a
+            <c>MapWinGIS.Shapefile</c> or a <c>MapWinGIS.Image</c>.  If the layer is a grid layer the
+            <c>MapWinGIS.Grid</c> object can be retrieved using the <c>GetGridObject</c> method.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.GetUserFillStipple(System.Int32)">
+            <summary>
+            Gets a single row in the user defined line stipple.  There are 32 rows in a fill stipple
+            (0-31).  Each row is defined the same way as a <c>UserLineStipple</c>.
+            </summary>
+            <param name="row">The index of the row to get.  Must be between 0 and 31 inclusive.</param>
+            <returns>A single stipple row.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.HideVertices">
+            <summary>
+            Hides all vertices in the shapefile.  Only applies to line and polygon shapefiles.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.LoadShapeLayerProps">
+            <summary>
+            Loads the shapefile rendering properties from a .mwsr file whose base fileName matches the shapefile.
+            If the file isn't found, false is returned.
+            Function call is ignored and returns false if the layer is a grid.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.LoadShapeLayerProps(System.String)">
+            <summary>
+            Loads the shapefile rendering properties from the specified fileName.
+            Function call is ignored and returns false if the layer is a grid.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.MoveTo(System.Int32,System.Int32)">
+            <summary>
+            Moves this layer to a new position in the layer list.  The highest position is the topmost layer
+            in the display.
+            </summary>
+            <param name="newPosition">The new position.</param>
+            <param name="targetGroup">The group to put this layer in.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.SaveShapeLayerProps">
+            <summary>
+            Saves the shapefile rendering properties to a .mwsr file whose base fileName matches the shapefile.
+            Function call is ignored and returns false if the layer is a grid.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.SaveShapeLayerProps(System.String)">
+            <summary>
+            Saves the shapefile rendering properties to the specified fileName.
+            Function call is ignored if the layer is a grid.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.SetUserFillStipple(System.Int32,System.Int32)">
+            <summary>
+            Sets a single row in the user defined line stipple.  There are 32 rows in a fill stipple
+            (0-31).  Each row is defined the same way as a <c>UserLineStipple</c>.
+            </summary>
+            <param name="row">The index of the row to set.  Must be between 0 and 31 inclusive.</param>
+            <param name="value">The row value to set in the fill stipple.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.UpdateLabelInfo">
+            <summary>
+            Updates the label information file stored for this layer.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.UserPointImageListAdd(System.Drawing.Image)">
+            <summary>
+            Adds an image to the list of point images used by the tkImageList point type.
+            See also UserPointImageListItem, UserPointImageListCount, ClearUDPointImageList,
+            and (on the shape interface) ShapePointImageListID.
+            </summary>
+            <param name="newValue">The new image to add.</param>
+            <returns>The index for this image, to be passed to ShapePointImageListID or other functions.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.UserPointImageListCount">
+            <summary>
+            Gets the count of images from the list of images to be used by the tkImageList point type.
+            See also UserPointImageListAdd, UserPointImageListItem, ClearUDPointImageList,
+            and (on the shape interface) ShapePointImageListID.
+            </summary>
+            <returns>The count of items in the image list.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.UserPointImageListItem(System.Int64)">
+            <summary>
+            Gets an image from the list of images to be used by the tkImageList point type.
+            See also UserPointImageListAdd, UserPointImageListCount, ClearUDPointImageList,
+            and (on the shape interface) ShapePointImageListID.
+            </summary>
+            <param name="imageIndex">The image index to retrieve.</param>
+            <returns>The index associated with this index; or null/nothing if nonexistant.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.ZoomTo">
+            <summary>
+            Zooms the display to this layer, taking into acount the <c>View.ExtentPad</c>.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.ShowVertices(System.Drawing.Color,System.Int32)">
+            <summary>
+            Shows all vertices for the entire shapefile.  Applies only to line and polygon shapefiles.
+            </summary>
+            <param name="color">The color to draw vertices with.</param>
+            <param name="vertexSize">The size of each vertex.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayerOld.ToString">
+            <summary>
+            Returns information about the given layer in a human-readible string.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.GetGridObject">
+            <summary>
+            Returns the <c>MapWinGIS.Grid</c> object associated with the layer.  If the layer is not a
+            grid layer, "Nothing" will be returned.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.SkipOverDuringSave">
+            <summary>
+            Indicates whether to skip over the layer when saving a project.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Color">
+            <summary>
+            Gets or sets the color of this shapefile.  Applies only to shapefiles.  Setting the color of the
+            shapefile will clear any selected shapes and will also reset each individual shape to the same color.
+            The coloring scheme will also be overriden.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.ColoringScheme">
+            <summary>
+            Gets or sets the coloring scheme.  The <c>Shapefile</c> and <c>Grid</c> objects each have
+            their own coloring scheme object.  It is important to cast the <c>ColoringScheme</c> to the
+            proper type.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.DrawFill">
+            <summary>
+            Gets or sets whether or not to draw the fill for a polygon shapefile.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.DynamicVisibilityExtents">
+             <summary>
+             Gets or sets the extents where the layer changes from visible to not visible or vice versa.
+            
+             If the map is zoomed beyond these extents, the layer is invisible until the map is zoomed to
+             be within these extents.
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Expanded">
+            <summary>
+            Gets or sets whether the layer's coloring scheme is expanded in the legend.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Extents">
+            <summary>
+            Returns the extents of this layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.FileName">
+            <summary>
+            Returns the fileName of this layer.  If the layer is memory-based only it may not have a valid fileName.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.FillStipple">
+             <summary>
+             Gets or sets the stipple pattern to use for the entire shapefile.
+            
+             The valid values for this property are:
+             <list type="bullet">
+             <item>Custom</item>
+             <item>DashDotDash</item>
+             <item>Dashed</item>
+             <item>Dotted</item>
+             <item>None</item>
+             </list>
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.GlobalPosition">
+            <summary>
+            Gets or sets the position of the layer without respect to any group.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.GroupHandle">
+            <summary>
+            Gets or sets the handle of the group that this layer belongs to.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.GroupPosition">
+            <summary>
+            Gets or sets the position of the layer within a group.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Handle">
+            <summary>
+            Returns the layer handle of this layer.  The DotSpatial automatically sets the <c>LayerHandle</c> for the layer, and it cannot be reset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.HideFromLegend">
+            <summary>
+            Indicates whether to skip over the layer when drawing the legend.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Icon">
+            <summary>
+            Gets or sets the icon to use in the legend for this layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.ImageTransparentColor">
+            <summary>
+            Gets or sets the color that represents transparent in an <c>Image</c> layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LabelsOffset">
+            The following label properties were added for plug-in 3.1 version compatibility
+             <summary>
+             Determines the distance from the label point to the text for the label in pixels.
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LabelsScale">
+            <summary>
+            Determines whether labels are scaled for this layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LabelsShadow">
+            <summary>
+            Determines whether labels are shadowed for this layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LabelsShadowColor">
+            <summary>
+            Determines the color of the labels shadows.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LabelsVisible">
+            <summary>
+            Turns labels on or off for this layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LayerType">
+            <summary>
+            Returns the type of this layer.  Valid values are:
+            <list type="bullet">
+            <item>Grid</item>
+            <item>Image</item>
+            <item>Invalid</item>
+            <item>LineShapefile</item>
+            <item>PointShapefile</item>
+            <item>PolygonShapefile</item>
+            </list>
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LineOrPointSize">
+            <summary>
+            Gets or sets the line or point size.  If the <c>PointType</c> is <c>ptUserDefined</c> then the
+            size of the user defined point will be multiplied by the <c>LineOrPointSize</c>.  For all other
+            points and for lines, the <c>LineOrPointSize</c> is represented in pixels.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LineSeparationFactor">
+            The following was added for plug-in 3.1 version compatibility
+             <summary>
+             Sets the width between lines for multiple-line drawing styles (e.g, doublesolid).
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.LineStipple">
+             <summary>
+             Gets or sets the stipple pattern to use for the entire shapefile.
+            
+             The valid values for this property are:
+             <list type="bullet">
+             <item>Custom</item>
+             <item>DashDotDash</item>
+             <item>Dashed</item>
+             <item>Dotted</item>
+             <item>None</item>
+             </list>
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Projection">
+            <summary>
+            Returns or sets the projection of this layer.
+            Projections must be / will be in PROJ4 format.
+            If no projection is present, "" will be returned.
+            If an invalid projection is provided, it's not guaranteed to be saved!
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Name">
+            <summary>
+            Gets or sets the layer name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.OutlineColor">
+            <summary>
+            Gets or sets the outline color for this layer.  Only applies to polygon shapefile layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.PointImageScheme">
+            <summary>
+            Gets or sets the Point Image Scheme object for a given point layer. To be used from DotSpatial only
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.PointType">
+             <summary>
+             Gets or sets the point type for this shapefile.
+            
+             The valid values for this property are:
+             <list type="bullet">
+             <item>ptCircle</item>
+             <item>ptDiamond</item>
+             <item>ptSquare</item>
+             <item>ptTriangleDown</item>
+             <item>ptTriangleLeft</item>
+             <item>ptTriangleRight</item>
+             <item>ptTriangleUp</item>
+             <item>ptUserDefined</item>
+             </list>
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Shapes">
+            <summary>
+            This property gives access to all shapes in the layer.  Only applies to shapefile layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Tag">
+            <summary>
+            Gets or sets the tag for this layer.  The tag is simply a string that can be used by the
+            programmer to store any information desired.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.UseDynamicVisibility">
+            <summary>
+            Specifies whether or not to use <c>DynamicVisibility</c>.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.UseLabelCollision">
+            <summary>
+            Determines whether MapWinGIS ocx will hide labels which collide with already drawn labels or not.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.UserLineStipple">
+            <summary>
+            Gets or sets the user defined line stipple.  A line stipple is simply a 32-bit integer
+            whose bits define a pattern that can be displayed on the screen.  For example, the value
+            0011 0011 in binary would represent a dashed line (  --  --).
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.UserPointType">
+            <summary>
+            Gets or sets the user defined point image for this layer.  To display the user defined point
+            the layer's <c>PointType</c> must be set to <c>ptUserDefined</c>.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.UseTransparentColor">
+            <summary>
+            Gets or sets whether to use transparency on an <c>Image</c> layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.VerticesVisible">
+            <summary>
+            (Doesn't apply to line shapefiles)
+            Indicates whether the vertices of a line or polygon are visible.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayerOld.Visible">
+            <summary>
+            Gets or sets whether the layer is visible.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ILayers">
+            <summary>
+            Layers
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add">
+            <summary>
+            Default add layer overload.  Displays an open file dialog
+            </summary>
+            <returns>An array of <c>DotSpatial.Interfaces.Layer</c> objects.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(System.String)">
+            <summary>
+            Adds a layer by fileName.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(System.String,System.String)">
+            <summary>
+            Adds a layer by fileName.  The layer name is also set.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IImageData)">
+            <summary>
+            Adds an <c>Image</c> layer to the DotSpatial.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IImageData,System.String)">
+            <summary>
+            Adds an <c>Image</c> layer to the DotSpatial with the specified layer name.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IFeatureSet)">
+            <summary>
+            Adds a <c>FeatureSet</c> layer to the DotSpatial.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IFeatureSet,System.String)">
+            <summary>
+            Adds a <c>FeatureSet</c> layer to the DotSpatial with the specified layer name.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IFeatureSet,System.String,System.Int32,System.Int32)">
+            <summary>
+            Adds a <c>FeatureSet</c> layer to the DotSpatial with the specified properties.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IFeatureSet,System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Adds a <c>FeatureSet</c> layer to the DotSpatial with the specified properties.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IRaster)">
+            <summary>
+            Adds a <c>Raster</c> layer to the DotSpatial.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IRaster,DotSpatial.Symbology.IRasterSymbolizer)">
+            <summary>
+            Adds a <c>Raster</c> layer to the DotSpatial, with the specified coloring scheme.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IRaster,System.String)">
+            <summary>
+            Adds a <c>Raster</c> layer to the DotSpatial with the specified layer name.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(DotSpatial.Data.IRaster,DotSpatial.Symbology.IRasterSymbolizer,System.String)">
+            <summary>
+            Adds a <c>Rster</c> object to the DotSpatial with the specified properties.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(System.String,System.String,System.Boolean)">
+            <summary>
+            Adds a layer by fileName.  The layer name is also set, as well as the legend visibility.
+            </summary>
+            <returns>Returns a <c>Layer</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Add(System.String,System.String,System.Boolean,System.Boolean)">
+            <summary>
+            Adds a layer to the map, optionally placing it above the currently selected layer (otherwise at top of layer list).
+            </summary>
+            <param name="fileName">The name of the file to add.</param>
+            <param name="layerName">The name of the layer, as displayed in the legend.</param>
+            <param name="visible">Whether or not the layer is visible upon adding it.</param>
+            <param name="placeAboveCurrentlySelected">Whether the layer should be placed above currently selected layer, or at top of layer list.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Clear">
+            <summary>
+            Removes all layers from the map.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.IsValidHandle(System.Int32)">
+            <summary>
+            Returns true if the layer handle specified belongs to a valid layer.  Drawing layers are not
+            considered normal layers so this function will not return consistent results if a drawing
+            layer is passed in.
+            </summary>
+            <param name="layerHandle">Handle of the layer to check.</param>
+            <returns>True if the layer handle is valid.  False otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.MoveLayer(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Moves a layer to another position and/or group.
+            </summary>
+            <param name="handle">Handle of the layer to move.</param>
+            <param name="newPosition">New position in the target group.</param>
+            <param name="targetGroup">Group to move the layer to.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.RebuildGridLayer(System.Int32,DotSpatial.Data.IRaster,DotSpatial.Symbology.IRasterSymbolizer)">
+            <summary>
+            Rebuilds a grid layer using the specified <c>GridColorScheme</c>
+            </summary>
+            <param name="layerHandle">Handle of the grid layer.</param>
+            <param name="gridObject">Grid object corresponding to that layer handle.</param>
+            <param name="colorScheme">Coloring scheme to use when rebuilding.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.Remove(System.Int32)">
+            <summary>
+            Removes the layer from the DotSpatial.
+            </summary>
+            <param name="layerHandle"></param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ILayers.GetHandle(System.Int32)">
+            <summary>
+            Finds a layer handle when given the global position of a layer.
+            </summary>
+            <param name="globalPosition">Position in the layers list, disregarding groups.</param>
+            <returns>The handle of the layer at the specified position, or -1 if no layer is found there.</returns>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayers.CurrentLayer">
+            <summary>
+            Gets or sets the current layer handle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayers.Groups">
+            <summary>
+            Allows access to group properties in the legend.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayers.NumLayers">
+            <summary>
+            Returns the number of layers loaded in the DotSpatial.  Drawing layers are not counted.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ILayers.Item(System.Int32)">
+            <summary>
+            Returns the layer object corresponding the the specified <c>LayerHandle</c>
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IMapWin">
+            <summary>
+            IMapWin
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.ClearCustomWindowTitle">
+            <summary>
+            Returns dialog title for the main window to the default "project name" title.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.GetProjectionFromUser(System.String,System.String)">
+            <summary>
+             Prompt the user to select a projection, and return the PROJ4 representation of this
+             projection. Specify the dialog caption and an optional default projection ("" for none).
+            </summary>
+            <param name="dialogCaption">The text to be displayed on the dialog, e.g. "Please select a projection."</param>
+            <param name="defaultProjection">The PROJ4 projection string of the projection to default to, "" for none.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.Refresh">
+            <summary>
+            Refreshes the DotSpatial display.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.RefreshDynamicVisibility">
+            <summary>
+            Refreshes Dynamic Visibility
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.SetCustomWindowTitle(System.String)">
+            <summary>
+            Sets the dialog title to be displayed after the "AppInfo" name for the main window.
+            Overrides the default "project name" title.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.ShowErrorDialog(System.Exception)">
+            <summary>
+            Displays the DotSpatial error dialog.
+            </summary>
+            <param name="ex"></param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMapWin.ShowErrorDialog(System.Exception,System.String)">
+            <summary>
+            Displays the DotSpatial error dialog, sending to a specific address.
+            </summary>
+            <param name="ex"></param>
+            <param name="sendEmailTo"></param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.GetOCX">
+            <summary>
+            Returns the underlying MapWinGIS activex control for advanced operations.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.ApplicationInfo">
+            <summary>
+            Provides control over application-level settings like the app name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.DisplayFullProjectPath">
+            <summary>
+            Specify whether the full project path should be specified rather than just fileName, in title bar for main window.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.LastError">
+            <summary>
+            Gets the last error message set.  Note:  This error message could have been set at any time.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Layers">
+            <summary>
+            Returns the <c>Layers</c> object that handles layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Menus">
+            <summary>
+            Returns the <c>Menus</c> object that manages the menus.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Plugins">
+            <summary>
+            Returns the <c>Plugins</c> object that manages plugins.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.PreviewMap">
+            <summary>
+            Returns the <c>PreviewMap</c> object that manages the preview map.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Project">
+            <summary>
+            Provides control over project and configuration files.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Reports">
+            <summary>
+            Provides access to report generation methods and properties.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.StatusBar">
+            <summary>
+            Returns the <c>StausBar</c> object that manages the status bar.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.Toolbar">
+            <summary>
+            Returns the <c>Toolbar</c> object that manages toolbars.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.UiPanel">
+            <summary>
+            Provides access to the user panel in the lower right of the DotSpatial form.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.UserInteraction">
+            <summary>
+            User-interactive functions. Used to prompt users to enter things, or otherwise prompt users.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMapWin.View">
+            <summary>
+            Returns the <c>View</c> object that handles the map view.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IMenuItem">
+            <summary>
+            An object that represents a menu item within the Main Menu
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenuItem.SubItem(System.Int32)">
+            <summary>
+            Gets a submenu item by its 0-based index
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenuItem.SubItem(System.String)">
+            <summary>
+            Gets a submenu item by its string name
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Text">
+            <summary>
+            Gets/Sets the Text shown for the MenuItem
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Picture">
+            <summary>
+            Gets/Sets the icon for the menu item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Category">
+            <summary>
+            Gets/Sets the category for this item (used when the user customizes the menu)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Checked">
+            <summary>
+            Gets/Sets the checked state of the item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Tooltip">
+            <summary>
+            Gets/Sets the tool tip text that will pop up for the item when a mouse over event occurs
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.BeginsGroup">
+            <summary>
+            Gets/Sets whether or not this item should draw a dividing line between itself and any
+            items before this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Cursor">
+            <summary>
+            Gets/Sets the cursor used when the mouse is over this control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Description">
+            <summary>
+            Gets/Sets the description of this menu item, used in customization of menu by the user
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Displayed">
+            <summary>
+            Gets/Sets the Displayed state of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Enabled">
+            <summary>
+            Gets/Sets the enabled state of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Name">
+            <summary>
+            Gets the Name of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.Visible">
+            <summary>
+            Gets/Sets the visibility state of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.NumSubItems">
+            <summary>
+            Gets the count of the submenu items contained within this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenuItem.IsFirstVisibleSubmenuItem">
+            <summary>
+            Returns whether this menu item is the first visible submenu item.
+            This is only valid in submenus, i.e. menus which have a parent.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IMenus">
+            <summary>
+            Used for manipulation of the menu system for the application
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String)">
+            <summary>
+            Adds a menu with the specified name
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.Drawing.Image)">
+            <summary>
+            Adds a menu with the specified name and icon
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.Drawing.Image,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name to the menu indicated by ParentMenu
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.String,System.Drawing.Image)">
+            <summary>
+            Adds a menu with the specified name and icon to the menu indicated by ParentMenu
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.String,System.Drawing.Image,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text to the specified ParentMenu
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.String,System.Drawing.Image,System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text to the specified ParentMenu and after the specifed item
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.AddMenu(System.String,System.String,System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name and text to the specified ParentMenu and before the specifed item
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IMenus.Remove(System.String)">
+            <summary>
+            Removes a MenuItem
+            </summary>
+            <param name="name">Name of the item to remove</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IMenus.Item(System.String)">
+            <summary>
+            Gets a MenuItem by its name
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IPlugin">
+            <summary>
+            During the Initialize method, the
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.Initialize(DotSpatial.Compatibility.IMapWin,System.Int32)">
+            <summary>
+            This method is called by the DotSpatial when the plugin is loaded.
+            </summary>
+            <param name="mapWin">The <c>IMapWin</c> interface to use when interacting with the DotSpatial.</param>
+            <param name="parentHandle">The windows handle of the DotSpatial form.  This can be used to make the DotSpatial the parent of any forms in the plugin.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.ItemClicked(System.String,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when a toolbar or menu item is clicked.
+            </summary>
+            <param name="itemName">Name of the item that was clicked.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LayersAdded(DotSpatial.Compatibility.ILayerOld[])">
+            <summary>
+            This method is called by the DotSpatial when one or more layer(s) is/are added.
+            </summary>
+            <param name="layers">An array of <c>Layer</c> objects that were added.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LayersCleared">
+            <summary>
+            This method is called by the DotSpatial when all layers are cleared from the map.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LayerRemoved(System.Int32)">
+            <summary>
+            This method is called by the DotSpatial when a layer is removed from the map.
+            </summary>
+            <param name="handle">Handle of the layer that was removed.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LayerSelected(System.Int32)">
+            <summary>
+            This method is called by the DotSpatial when a layer is selected in code or by the legend.
+            </summary>
+            <param name="handle">Handle of the newly selected layer.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LegendDoubleClick(System.Int32,DotSpatial.Compatibility.ClickLocation,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user double-clicks on the legend.
+            </summary>
+            <param name="handle">Handle of the layer or group that was double-clicked</param>
+            <param name="location">Location that was clicked.  Either a layer or a group.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LegendMouseDown(System.Int32,System.Int32,DotSpatial.Compatibility.ClickLocation,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user presses a mouse button on the legend.
+            </summary>
+            <param name="handle">Handle of the layer or group that was under the cursor.</param>
+            <param name="button">The mouse button that was pressed.  You can use the <c>vb6Buttons</c> enumeration to determine which button was pressed.</param>
+            <param name="location">Location that was clicked.  Either a layer or a group</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.LegendMouseUp(System.Int32,System.Int32,DotSpatial.Compatibility.ClickLocation,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user releases a mouse button on the legend.
+            </summary>
+            <param name="handle">Handle of the layer or group that was under the cursor.</param>
+            <param name="button">The mouse button that was released.  You can use the <c>vb6Buttons</c> enumeration to determine which button it was.</param>
+            <param name="location">Location that was clicked.  Either a layer or a group</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.MapExtentsChanged">
+            <summary>
+            This method is called by the DotSpatial when the extents of the map have changed.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.MapMouseDown(System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user presses a mouse button over the map.
+            </summary>
+            <param name="button">The button that was pressed.  These values can be compared to the <c>vb6Butttons</c> enumerations.</param>
+            <param name="shift">This value represents the state of the <c>ctrl</c>, <c>alt</c> and <c>shift</c> keyboard buttons.  The values use VB6 values.</param>
+            <param name="x">The x coordinate in pixels.</param>
+            <param name="y">The y coordinate in pixels.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.MapMouseMove(System.Int32,System.Int32,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user moves the mouse over the map display.
+            </summary>
+            <param name="screenX">The x coordinate in pixels.</param>
+            <param name="screenY">The y coordinate in pixels.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.MapMouseUp(System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user releases a mouse button over the map.
+            </summary>
+            <param name="button">The button that was released.  These values can be compared to the <c>vb6Butttons</c> enumerations.</param>
+            <param name="shift">This value represents the state of the <c>ctrl</c>, <c>alt</c> and <c>shift</c> keyboard buttons.  The values use VB6 values.</param>
+            <param name="x">The x coordinate in pixels.</param>
+            <param name="y">The y coordinate in pixels.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.MapDragFinished(System.Drawing.Rectangle,System.Boolean@)">
+            <summary>
+            This method is called by the DotSpatial when the user completes a dragging operation on the map.
+            </summary>
+            <param name="bounds">The rectangle that was selected, in pixel coordinates.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.ProjectLoading(System.String,System.String)">
+            <summary>
+            This method is called by the DotSpatial when a project is being loaded.
+            </summary>
+            <param name="projectFile">Filename of the project file.</param>
+            <param name="settingsString">Settings string for this plugin from the project file.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.ProjectSaving(System.String,System.String@)">
+            <summary>
+            This method is called by the DotSpatial when a project is being saved.
+            </summary>
+            <param name="projectFile">Filename of the project file.</param>
+            <param name="settingsString">Reference parameter.  Set this value in order to save your plugin's settings string in the project file.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.Terminate">
+            <summary>
+            This method is called by the DotSpatial when the plugin is unloaded.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.ShapesSelected(System.Int32,DotSpatial.Compatibility.ISelectInfo)">
+            <summary>
+            This method is called by the DotSpatial when shapes are selected by the user.
+            </summary>
+            <param name="handle">Handle of the shapefile layer that was selected on.</param>
+            <param name="selectInfo">The <c>SelectInfo</c> object containing information about the selected shapes.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugin.Message(System.String,System.Boolean@)">
+            <summary>
+            This message is relayed by the DotSpatial when another plugin broadcasts a message.  Messages can be used to send messages between plugins.
+            </summary>
+            <param name="msg">The message being relayed.</param>
+            <param name="handled">Set this parameter to true if your plugin handles this so that no other plugins recieve this message.</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.Author">
+            <summary>
+            Author of the plugin.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.Description">
+            <summary>
+            Short description of the plugin.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.SerialNumber">
+            <summary>
+            Plugin serial number.  NO LONGER NEEDED; kept for backward compatibility.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.Name">
+            <summary>
+            Name of the plugin.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.BuildDate">
+            <summary>
+            Build date.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugin.Version">
+            <summary>
+            Plugin version.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IPlugins">
+            <summary>
+            Interface for manipulating plugins of the IPlugin type.
+            This differs from "CondensedPlugins" in that the Item ([]) property returns IPlugin
+            instead of IPluginDetails. The original "Plugins" (this one) cannot be changed without breaking
+            the backward compatibility of the interface.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.Clear">
+            <summary>
+            clears all plugins from the list of available plugins, but doesn't unload loaded plugins
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.AddFromFile(System.String)">
+            <summary>
+            Add a plugin from a file
+            </summary>
+            <param name="path">path to the plugin</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.AddFromDir(System.String)">
+            <summary>
+            Adds any compatible plugins from a directory(recursive into subdirs)
+            </summary>
+            <param name="path">path to the directory</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.LoadFromObject(DotSpatial.Compatibility.IPlugin,System.String,System.String)">
+            <summary>
+            Loads a plugin from an instance of an object
+            </summary>
+            <param name="plugin">the Plugin object to load</param>
+            <param name="pluginKey">The Key by which this plugin can be identified at a later time</param>
+            <param name="settingsString">A string that contains any settings that should be passed to the plugin after it is loaded into the system</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.LoadFromObject(DotSpatial.Compatibility.IPlugin,System.String)">
+            <summary>
+            Loads a plugin from an instance of an object
+            </summary>
+            <param name="plugin">the Plugin object to load</param>
+            <param name="pluginKey">The Key by which this plugin can be identified at a later time</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.StartPlugin(System.String)">
+            <summary>
+            Starts (loads) a specified plugin
+            </summary>
+            <param name="key">Identifying key for the plugin to start</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.StopPlugin(System.String)">
+            <summary>
+            Stops (unloads) a specified plugin
+            </summary>
+            <param name="key">Identifying key for the plugin to stop</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.Remove(System.Object)">
+            <summary>
+            Removes a plugin from the list of available plugins and unloads the plugin if loaded
+            </summary>
+            <param name="indexOrKey">0-based integer index or string key for the plugin to remove</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.PluginIsLoaded(System.String)">
+            <summary>
+            Checks to see if a plugin is currently loaded (running)
+            </summary>
+            <param name="key">Unique key identifying the plugin</param>
+            <returns>true if loaded, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.ShowPluginDialog">
+            <summary>
+            Shows the dialog for loading/starting/stopping plugins
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.BroadcastMessage(System.String)">
+            <summary>
+            Sends a broadcast message to all loaded plugins
+            </summary>
+            <param name="message">The message that should be sent</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPlugins.GetPluginKey(System.String)">
+            <summary>
+            Returns the key belonging to a plugin with the given name. An empty string is returned if the name is not found.
+            </summary>
+            <param name="pluginName">The name of the plugin</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugins.Count">
+            <summary>
+            number of available plugins
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugins.Item(System.Int32)">
+            <summary>
+            Gets an IPlugin object from the list of all loaded plugins
+            <param name="index">0-based index into the list of plugins</param>
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPlugins.PluginFolder">
+            <summary>
+            Gets or Sets the default folder where plugins are loaded from
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IPreviewMap">
+            <summary>
+            Interface for manipulating the PreviewMap
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPreviewMap.GetPictureFromMap">
+            <summary>
+            Tells the PreviewMap to rebuild itself by getting new data from the main view
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPreviewMap.Update">
+            <summary>
+            Tells the PreviewMap to rebuild itself by getting new data from the main view (current extents).
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPreviewMap.Update(DotSpatial.Compatibility.PreviewExtentMode)">
+            <summary>
+            Tells the PreviewMap to rebuild itself by getting new data from the main view.
+            <param name="updateExtents">Update from full extent or current view?</param>
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IPreviewMap.GetPictureFromFile(System.String)">
+            <summary>
+            Loads a picture into the PreviewMap from a specified file
+            </summary>
+            <param name="fileName">The path to the file to load</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPreviewMap.BackColor">
+            <summary>
+            Gets/Sets the back color
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPreviewMap.Picture">
+            <summary>
+            Gets/Sets the Picture to be displayed
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IPreviewMap.LocatorBoxColor">
+            <summary>
+            Gets/Sets the color used for the LocatorBox
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IProject">
+            <summary>
+            Project
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IProject.Load(System.String)">
+            <summary>
+            Loads a project file.
+            </summary>
+            <param name="fileName">Filename of the project to load.</param>
+            <returns>Returns true if successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IProject.LoadIntoCurrentProject(System.String)">
+            <summary>
+            Loads a project file into the current project as a subgroup.
+            </summary>
+            <param name="fileName">Filename of the project to load.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IProject.Save(System.String)">
+            <summary>
+            Saves the current project.
+            </summary>
+            <param name="fileName">Filename to save the project as.</param>
+            <returns>Returns true if successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IProject.SaveConfig(System.String)">
+            <summary>
+            Saves the current configuration to a configuration file.
+            </summary>
+            <param name="fileName">The fileName to save the configuration as.</param>
+            <returns>Returns true if successful.</returns>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.ConfigFileName">
+            <summary>
+            Returns the fileName of the configuration file that was used to load the current DotSpatial project.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.ConfigLoaded">
+            <summary>
+            Returns whether the configuration file specified by the project has been loaded.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.FileName">
+            <summary>
+            Returns the fileName of the current project.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.MapUnits">
+            <summary>
+            Return or set the current map units, in the format
+            "Meters", "Feet", etc
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.MapUnitsAlternate">
+            <summary>
+            Return or set the current alternate display units, in the format
+            "Meters", "Feet", etc
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.Modified">
+            <summary>
+            Gets or sets the project modified flag.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.ProjectProjection">
+            <summary>
+            Return or set the current project projection, in the format
+            "+proj=tmerc +ellps=WGS84 etc etc +datum=WGS84"
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.RecentProjects">
+            <summary>
+            Returns an ArrayList of the recent projects (the full path to the projects)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IProject.SaveShapeSettings">
+            <summary>
+            Gets or sets the option to save shape-level formatting.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IReports">
+            <summary>
+            Reports
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetLegendLayerSnapshot(System.Int32,System.Int32)">
+            <summary>
+            Similar to <c>GetLegendSnapshot</c> except that only one layer is considered.
+            </summary>
+            <param name="layerHandle">Handle of the layer to take a snapshot of.</param>
+            <param name="imgWidth">Maximum width of the image.  The height of the image depends on the coloring scheme of the layer.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetLegendSnapshot(System.Boolean,System.Int32)">
+            <summary>
+            Returns an image of the legend.
+            </summary>
+            <param name="visibleLayersOnly">Specifies that only the visible layers are part of the snapshot.</param>
+            <param name="imgWidth">Maximum width of the image.  The height of the image depends on the number of layers loaded.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetNorthArrow">
+            <summary>
+            Returns an image of a north arrow.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetScaleBar(DotSpatial.Compatibility.UnitsOfMeasure,DotSpatial.Compatibility.UnitsOfMeasure,System.Int32)">
+            <summary>
+            Returns an image that represents an accurate scale bar.
+            </summary>
+            <param name="mapUnits">You must specify what the map units are.</param>
+            <param name="scalebarUnits">The unit of measurement to display on the scale bar.  This function can convert the map units to any other unit.</param>
+            <param name="maxWidth">Maximum width of the scale bar image.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetScaleBar(System.String,System.String,System.Int32)">
+            <summary>
+            Returns an image that represents an accurate scale bar.
+            </summary>
+            <param name="mapUnits">You must specify what the map units are.</param>
+            <param name="scalebarUnits">The unit of measurement to display on the scale bar.  This function can convert the map units to any other unit.</param>
+            <param name="maxWidth">Maximum width of the scale bar image.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IReports.GetScreenPicture(DotSpatial.Topology.Envelope)">
+            <summary>
+            Returns a <c>MapWinGIS.Image</c> of the view at the specified extents.
+            </summary>
+            <param name="boundBox">The area that you wish to take the picture of.  Uses projected map units.</param>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ISelectedShape">
+            <summary>
+            The <c>SelectedShape</c> interface is used to access information about a shape that is selected in the DotSpatial.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectedShape.Add(System.Int32,System.Drawing.Color)">
+            <summary>
+            Initializes all information in the <c>SelectedShape</c> object then highlights the shape on the map.
+            </summary>
+            <param name="shapeIndex">Index of the shape in the shapefile.</param>
+            <param name="selectColor">Color to use when highlighting the shape.</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectedShape.Extents">
+            <summary>
+            Returns the extents of this selected shape.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectedShape.ShapeIndex">
+            <summary>
+            Returns the shape index of this selected shape.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ISelectInfo">
+            <summary>
+            This interface is used to manage and access all selected shapes.
+            </summary>
+            <remarks>All selection is done only to the selected layer.  The selected layer handle can be accessed using the <c>LayerHandle</c> property.</remarks>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectInfo.AddSelectedShape(DotSpatial.Compatibility.ISelectedShape)">
+            <summary>
+            Adds a <c>SelectedShape</c> object to the managed collection of all selected shapes.
+            </summary>
+            <param name="newShape">The <c>SelectedShape</c> object to add.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectInfo.AddByIndex(System.Int32,System.Drawing.Color)">
+            <summary>
+            Adds a new <c>SelectedShape</c> to the collection from the provided shape index.
+            </summary>
+            <param name="shapeIndex">The index of the shape to add.</param>
+            <param name="selectColor">The color to use when highlighting the shape.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectInfo.ClearSelectedShapes">
+            <summary>
+            Clears the list of selected shapes, returning each selected shape to it's original color.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectInfo.RemoveSelectedShape(System.Int32)">
+            <summary>
+            Removes a <c>SelectedShape</c> from the collection, reverting it to it's original color.
+            </summary>
+            <param name="listIndex">Index in the collection of the <c>SelectedShape</c>.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.ISelectInfo.RemoveByShapeIndex(System.Int32)">
+            <summary>
+            Removes a <c>SelectedShape</c> from the collection, reverting it to it's original color.
+            </summary>
+            <param name="shapeIndex">The shape index of the <c>SelectedShape</c> to remove.</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectInfo.LayerHandle">
+            <summary>
+            Returns the LayerHandle of the selected layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectInfo.NumSelected">
+            <summary>
+            Returns the number of shapes that are currently selected.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectInfo.SelectBounds">
+            <summary>
+            Returns the total extents of all selected shapes.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.ISelectInfo.Item(System.Int32)">
+            <summary>
+            Returns the <c>SelectedShape</c> at the specified index.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IStatusBar">
+            <summary>
+            Used to manipulate the status bar at the bottom of Mapwindow.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.AddPanel">
+            <summary>
+            Adds a new panel to the status bar.  This function has been deprecated.  Please use the
+            <c>AddPanel(Text)</c> overload.
+            </summary>
+            <returns>The StatusBarItem that was just added</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.AddPanel(System.Int32)">
+            <summary>
+            Adds a new panel to the status bar.  This function has been deprecated.  Please use the
+            <c>AddPanel(Text)</c> overload.
+            </summary>
+            <param name="insertAt">The index at which the panel should be added</param>
+            <returns>The StatusBarItem that was just added</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.AddPanel(System.String,System.Int32,System.Int32,System.Windows.Forms.StatusBarPanelAutoSize)">
+            <summary>
+            This is the preferred method to use to add a statusbar panel.
+            </summary>
+            <param name="text">Text to display in the panel.</param>
+            <param name="position">Position to insert panel at.</param>
+            <param name="width">Width of the panel in pixels.</param>
+            <param name="autoSize">Panel <c>AutoSize</c> property.</param>
+            <returns>A <c>StatusBarPanel</c> object.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.RemovePanel(System.Int32)">
+            <summary>
+            Removes the specified Panel.  There must always be one panel.  If you remove the last panel, the <c>DotSpatial</c> will automatically add one.
+            </summary>
+            <param name="index">Zero-Based index of the panel to be removed</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.RemovePanel(System.Windows.Forms.StatusBarPanel@)">
+            <summary>
+            Removes the panel object specified.  There must always be one panel.  If you remove the last panel, the <c>DotSpatial</c> will automatically add one.
+            </summary>
+            <param name="panel"><c>StatusBarPanel</c> to remove.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IStatusBar.ResizeProgressBar">
+            <summary>
+            This function makes the progress bar fit into the last panel of the status bar. Call this function whenever you change the size of ANY panel in the status bar.  You do not need to call this on <c>AddPanel</c> or <c>RemovePanel</c>.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBar.Enabled">
+            <summary>
+            Gets/Sets the enabled state of the StatusBar
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBar.ShowProgressBar">
+            <summary>
+            Gets/Sets whether or not the StatusBar's ProgressBar should be shown
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBar.ProgressBarValue">
+            <summary>
+            Gets/Sets the value of the StatusBar's ProgressBar
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBar.Item(System.Int32)">
+            <summary>
+            Iterator for all panels within the StatusBar
+            </summary>
+            <param name="index">Index of the StatusBarItem to retrieve</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBar.NumPanels">
+            <summary>
+            Returns the number of panels in the <c>StatusBar</c>.
+            </summary>
+            <returns>Number of panels in the <c>StatusBar</c>.</returns>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IStatusBarItem">
+            <summary>
+            The object given back when a panel is added to the status bar.  This object can
+            be used to
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBarItem.Alignment">
+            <summary>
+            Gets/Sets the Alignment of the text
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBarItem.AutoSize">
+            <summary>
+            Gets/Sets whether or not this StatusBarItem should auto size itself
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBarItem.MinWidth">
+            <summary>
+            Gets/Sets the minimum allowed width for this StatusBarItem
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBarItem.Text">
+            <summary>
+            Gets/Sets the Text within the StatusBarItem
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IStatusBarItem.Width">
+            <summary>
+            Gets/Sets the width of the StatusBarItem
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IToolbar">
+            <summary>
+            Used to add/remove Toolbars, buttons, combo boxes, etc. to/from the application
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddToolbar(System.String)">
+            <summary>
+            Adds a Toolbar group to the Main Toolbar
+            </summary>
+            <param name="name">The name to give to the Toolbar item</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String)">
+            <summary>
+            Adds a button to a specified to the default Toolbar
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String,System.Boolean)">
+            <summary>
+            Adds a button to a specified to the default Toolbar
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton</param>
+            <param name="isDropDown">Should this button support drop-down items?</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String,System.String,System.Boolean)">
+            <summary>
+            Adds a button to a specified to the default Toolbar
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton</param>
+            /// <param name="toolbar">The name of the Toolbar to which this ToolbarButton should belong (if null or empty, then the default Toolbar will be used</param>
+            <param name="isDropDown">Should this button support drop-down items?</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButtonDropDownSeparator(System.String,System.String,System.String)">
+            <summary>
+            Adds a separator to a toolstrip dropdown button.
+            </summary>
+            <param name="name">The name to give to the new separator.</param>
+            <param name="toolbar">The name of the Toolbar to which this separator should belong (if null or empty, then the default Toolbar will be used.</param>
+            <param name="parentButton">The name of the ToolbarButton to which this new separator should be added as a subitem.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String,System.Object)">
+            <summary>
+            Adds a button to a specified to the default Toolbar
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton</param>
+            <param name="picture">The Icon/Bitmap to use as a picture on the ToolbarButton face</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String,System.Object,System.String)">
+            <summary>
+            Adds a button to a specified to the default Toolbar
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton</param>
+            <param name="picture">The Icon/Bitmap to use as a picture on the ToolbarButton face</param>
+            <param name="text">The text name for the ToolbarButton.  This is the text the user will see if customizing the Toolbar</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddButton(System.String,System.String,System.String,System.String)">
+            <summary>
+            Adds a button to a specified to the specified Toolbar.
+            </summary>
+            <param name="name">The name to give to the new ToolbarButton.</param>
+            <param name="toolbar">The name of the Toolbar to which this ToolbarButton should belong (if null or empty, then the default Toolbar will be used.</param>
+            <param name="parentButton">The name of the ToolbarButton to which this new ToolbarButton should be added as a subitem.</param>
+            <param name="after">The name of the ToolbarButton after which this new ToolbarButton should be added.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.AddComboBox(System.String,System.String,System.String)">
+            <summary>
+            Adds a ComboBoxItem to a specified to the default Toolbar.
+            </summary>
+            <param name="name">The name to give to the new ComboBoxItem.</param>
+            <param name="toolbar">The name of the Toolbar to which this ToolbarButton should belong.</param>
+            <param name="after">The name of the ToolbarButton/ComboBoxItem afterwhich this new item should be added.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.ButtonItem(System.String)">
+            <summary>
+            returns the specified ToolbarButton (null on failure)
+            </summary>
+            <param name="name">The name of the ToolbarButton to retrieve</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.ComboBoxItem(System.String)">
+            <summary>
+            returns the specified ComboBoxItem
+            </summary>
+            <param name="name">Name of the item to retrieve</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.NumToolbarButtons(System.String)">
+            <summary>
+            Returns the number of buttons on the specified toolbar, or 0 if the toolbar can't be found.
+            </summary>
+            <param name="toolbarName">The name of the toolbar.</param>
+            <returns>The number of buttons on the toolbar.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.PressToolbarButton(System.String)">
+            <summary>
+            Presses the specified ToolBar button (if it's enabled) as if a user
+            had pressed it.
+            </summary>
+            <param name="name">The name of the toolbar button to press.</param>
+            <returns>true on success, false on failure (i.e. bad toolbar button name)</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.RemoveToolbar(System.String)">
+            <summary>
+            Removes the specified Toolbar and any ToolbarButton/ComboBoxItems contained within the control
+            </summary>
+            <param name="name">The name of the Toolbar to be removed</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.RemoveButton(System.String)">
+            <summary>
+            Removes the specified ToolbarButton item
+            </summary>
+            <param name="name">The name of the ToolbarButton to be removed</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbar.RemoveComboBox(System.String)">
+            <summary>
+            Removes the specified ComboBoxItem
+            </summary>
+            <param name="name">The name of the ComboBoxItem to be removed</param>
+            <returns>true on success, false on failure</returns>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IToolbarButton">
+            <summary>
+            Object given back when a button is added to a Toolbar.  This
+            object can then be used to manipulate (change properties) for the button.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbarButton.SubItem(System.Int32)">
+            <summary>
+            Returns the Subitem with the specified zero-based index (null if out of range)
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IToolbarButton.SubItem(System.String)">
+            <summary>
+            returns the Subitem with the specified name (null if it doesn't exist)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.BeginsGroup">
+            <summary>
+            Gets/Sets a flag indicating that this item starts a new group by drawing a seperator line if necessary
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Category">
+            <summary>
+            Gets/Sets the Category for this ToolbarButton item (used when user is customizing the Toolbar)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Cursor">
+            <summary>
+            Gets/Sets the Cursor for this control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Description">
+            <summary>
+            Gets/Sets the description for the control (used when the user customizes the Toolbar)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Displayed">
+            <summary>
+            Gets/Sets a flag marking whether or not this ToolbarButton is displayed
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Enabled">
+            <summary>
+            Gets/Sets the enabled state
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Name">
+            <summary>
+            Gets the name of the ToolbarButton item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.NumSubItems">
+            <summary>
+            Gets the number of subitems
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Picture">
+            <summary>
+            Gets/Sets the picture for the ToolbarButton
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Pressed">
+            <summary>
+            Gets/Sets the pressed state of the ToolbarButton
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Text">
+            <summary>
+            Gets/Sets the Text/Caption of the ToolbarButton
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Tooltip">
+            <summary>
+            Gets/Sets the tooltip text for the control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IToolbarButton.Visible">
+            <summary>
+            Gets/Sets the visibility of the ToolbarButton
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.OnPanelClose">
+            <summary>
+            A function that is called upon close of a panel. The
+            name (caption) of the closed panel is passed into the
+            OnPanelClose function.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IUIPanel">
+            <summary>
+            UiPanel
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUIPanel.AddOnCloseHandler(System.String,DotSpatial.Compatibility.OnPanelClose)">
+            <summary>
+            Adds a function (onCloseFunction) which
+            is called when the panel specified by caption is closed.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUIPanel.CreatePanel(System.String,DotSpatial.Compatibility.SpatialDockStyle)">
+            <summary>
+            Returns a Panel that can be used to add dockable content to DotSpatial.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUIPanel.CreatePanel(System.String,System.Windows.Forms.DockStyle)">
+            <summary>
+            Returns a Panel that can be used to add dockable content to DotSpatial.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUIPanel.DeletePanel(System.String)">
+            <summary>
+            Deletes the specified panel.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUIPanel.SetPanelVisible(System.String,System.Boolean)">
+            <summary>
+            Hides or shows a panel without necessarily deleting it.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IUserInteraction">
+            <summary>
+            UserInteraction
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUserInteraction.GetProjectionFromUser(System.String,System.String)">
+            <summary>
+             Prompt the user to select a projection, and return the PROJ4 representation of this
+             projection. Specify the dialog caption and an optional default projection ("" for none).
+            </summary>
+            <param name="dialogCaption">The text to be displayed on the dialog, e.g. "Please select a projection."</param>
+            <param name="defaultProjection">The PROJ4 projection string of the projection to default to, "" for none.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IUserInteraction.GetColorRamp(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color@,System.Drawing.Color@)">
+            <summary>
+             Retrieve a color ramp, defined by a start and end color, from the user.
+            </summary>
+            <param name="suggestedStart">The start color to initialize the dialog with.</param>
+            <param name="suggestedEnd">The end color to initialize the dialog with.</param>
+            <param name="selectedStart">The start color that the user selected.</param>
+            <param name="selectedEnd">The end color that the user selected.</param>
+            <returns>Boolean, true if the effort was successful.</returns>
+        </member>
+        <member name="T:DotSpatial.Compatibility.IViewOld">
+            <summary>
+            The View interface is used to manipulate or work with the main DotSpatial display.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ClearSelectedShapes">
+            <summary>
+            Clears all selected shapes from the DotSpatial, reverting them to their original colors.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.Identify(System.Double,System.Double,System.Double)">
+            <summary>
+            Queries all of the active shapefile layers for any within the specified tolerance of the given point.
+            </summary>
+            <param name="projX">The x coordinate, in projected map units, of the point to query.</param>
+            <param name="projY">The y coordinate, in projected map units, of the point to query.</param>
+            <param name="tolerance">Tolerance is the distance, in projected map units, around the point to include in the query.</param>
+            <returns>Returns an <c>IdentifiedLayers</c> object containing query results.</returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.LockLegend">
+            <summary>
+            Prevents the legend from showing any changes made to it until the <c>UnlockLegend</c> function is called.
+            The legend maintains a count of the number of locks it has, only redrawing if there are no locks.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.UnlockLegend">
+            <summary>
+            Unlocking the Legend allows it to redraw and update the view to reflect any changes that were made.
+            The legend maintains a count of the number of locks it has, only redrawing if there are no locks.
+            There can never be a negative number of locks.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.LockMap">
+            <summary>
+            Prevents the map from updating due to any changes made to the layers that are loaded until the <c>UnlockMap</c> function is called.
+            The map maintains a count of the number of locks it has, only redrawing if there are no locks.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.UnlockMap">
+            <summary>
+            Allows the map to redraw entirely when changes are made.
+            The map maintains a count of the number of locks it has, only redrawing if there are no locks.
+            There can never be a negative number of locks.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.PixelToProj(System.Double,System.Double,System.Double@,System.Double@)">
+            <summary>
+            Converts a point in pixel coordinates to a point in projected map units.
+            </summary>
+            <param name="pixelX">X coordinate of the original point in pixels.</param>
+            <param name="pixelY">Y coordinate of the original point in pixels.</param>
+            <param name="projX">ByRef.  X coordinate of the projected point.</param>
+            <param name="projY">ByRef.  Y coordinate of the projected point.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ProjToPixel(System.Double,System.Double,System.Double@,System.Double@)">
+            <summary>
+            Converts a point in projected map units to a point in screen coordinates.
+            </summary>
+            <param name="projX">X coordinate of the projected map point.</param>
+            <param name="projY">Y coordinate of the projected map point.</param>
+            <param name="pixelX">ByRef. X coordinate of the screen point in pixels.</param>
+            <param name="pixelY">ByRef. Y coordinate of the screen point in pixels.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.Redraw">
+            <summary>
+            Forces the map to redraw.  This function has no effect if the map is locked.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ShowToolTip(System.String,System.Int32)">
+            <summary>
+            Shows a tooltip under the cursor on the map.
+            </summary>
+            <param name="text">The text to display in the tooltip.</param>
+            <param name="milliseconds">Number of milliseconds before the tooltip automatically disappears.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ZoomToMaxExtents">
+            <summary>
+            Zooms the view to the maximum extents of all the loaded and visible layers.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ZoomIn(System.Double)">
+            <summary>
+            Zooms the display in by the given factor.
+            </summary>
+            <param name="percent">The percentage to zoom by.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ZoomOut(System.Double)">
+            <summary>
+            Zooms the display out by the given factor.
+            </summary>
+            <param name="percent">The percentage to zoom by.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.ZoomToPrev">
+            <summary>
+            Zooms to the previous extent.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.Snapshot(DotSpatial.Topology.IEnvelope)">
+            <summary>
+            Takes a snapshot of the currently visible layers at the extents specified.
+            </summary>
+            <param name="bounds">The area to take the snapshot of.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.LabelsRelabel(System.Int32)">
+            <summary>
+            Triggers reloading of field values for the given layer. No action will occur if the layer handle is invalid, not a shapefile, or has no labels.
+            </summary>
+            <param name="layerHandle"></param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.LabelsEdit(System.Int32)">
+            <summary>
+            Displays the label editor form for the specified layer. No action will occur if the layer handle is invalid or not a shapefile.
+            </summary>
+            <param name="layerHandle"></param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.Select(System.Int32,System.Int32,System.Boolean)">
+            <summary>
+            Selects shapes in the mapwindow from the specified point.  The tolerance used is the global
+            tolerance set through the <c>View.SelectionTolerance</c>.  This function uses the same selection
+            routines that are called when a user selects with a mouse.
+            </summary>
+            <param name="screenX">The x coordinate in pixels of the location to select.</param>
+            <param name="screenY">The y coordinate in pixels of the location to select.</param>
+            <param name="clearOldSelection">Specifies whether to clear all previously selected shapes or not.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.IViewOld.Select(System.Drawing.Rectangle,System.Boolean)">
+            <summary>
+            Selects shapes in the mapwindow from the specified rectangle.  This function uses the
+            same selection routines that are called when a user selects with a mouse.
+            </summary>
+            <param name="screenBounds">The rectangle to select shapes with.  This rectangle must be in screen (pixel) coordinates.</param>
+            <param name="clearOldSelection">Specifies whether to clear all previously selected shapes or not.</param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.PreviewVisible">
+            <summary>
+            Determines whether the preview map panel is visible.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.LegendVisible">
+            <summary>
+            Determines whether the legend panel is visible.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.BackColor">
+            <summary>
+            Gets or sets the background color of the map.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.CursorMode">
+            <summary>
+            Gets or sets the current cursor mode.  The cursor mode can be any of the following:
+            <list type="bullet">
+            <item>None</item>
+            <item>Pan</item>
+            <item>Selection</item>
+            <item>ZoomIn</item>
+            <item>ZoomOut</item>
+            </list>
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.Draw">
+            <summary>
+            Returns a <c>DotSpatial.Interfaces.Draw</c> interface used to add custom drawing to the map.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.ExtentPad">
+            <summary>
+            Gets or sets the amount to pad around the extents when calling <c>ZoomToMaxExtents</c>,
+            <c>ZoomToLayer</c>, and <c>ZoomToShape</c>.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.Extents">
+            <summary>
+            Gets or sets the map's current extents.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.MapCursor">
+            <summary>
+            Gets or sets the cursor to use on the map.  The enumeration can be any of the following:
+            <list type="bullet">
+            <item>crsrAppStarting</item>
+            <item>crsrArrow</item>
+            <item>crsrCross</item>
+            <item>crsrHelp</item>
+            <item>crsrIBeam</item>
+            <item>crsrMapDefault</item>
+            <item>crsrNo</item>
+            <item>crsrSizeAll</item>
+            <item>crsrSizeNESW</item>
+            <item>crsrSizeNS</item>
+            <item>crsrSizeNWSE</item>
+            <item>crsrSizeWE</item>
+            <item>crsrUpArrow</item>
+            <item>crsrUserDefined</item>
+            <item>crsrWait</item>
+            </list>
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.HandleFileDrop">
+            <summary>
+            Indicates that the map should handle file drag-drop events (as opposed to firing a message indicating file(s) were dropped).
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.MapState">
+            <summary>
+            Gets or sets the <c>MapState</c> string which describes in a single string the entire
+            map state, including layers and coloring schemes.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.SelectedShapes">
+            <summary>
+            Returns a <c>SelectInfo</c> object containing information about all shapes that are currently selected.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.LabelsUseProjectLevel">
+            <summary>
+            Determines whether labels are loaded from and saved to a project-specific label file or from a shapefile-specific label file. Using a project-level label file will create a new subdirectory with the project's name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.SelectionPersistence">
+            <summary>
+            Gets or sets whether selection should be persistent.  If selection is persistent, previously selected
+            shapes are not cleared before selecting the new shapes.  When selection is persistent you must select
+            nothing to clear the selection.  The default value for this property is false.  When selection is not
+            persistent, all selected shapes are cleared between selection routines unless the user is holding down
+            a control or shift key.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.SelectionTolerance">
+            <summary>
+            The tolerance, in projected map units, to use for selection.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.SelectMethod">
+            <summary>
+            Gets or sets the selection method to use.
+            <list type="bullet">
+            <item>Inclusion</item>
+            <item>Intersection</item>
+            </list>
+            Inclusion means that the entire shape must be within the selection bounds in order to select
+            the shape.  Intersection means that only a portion of the shape must be within the selection
+            bounds in order for the shape to be selected.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.SelectColor">
+            <summary>
+            Gets or sets the color used to indicate a selected shape.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.Tag">
+            <summary>
+            Gets or sets a tag for the map.  The tag is a string variable that can be used by a developer
+            to store any information they desire.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.UserCursorHandle">
+            <summary>
+            Gets or sets the handle of the cursor to use when the <c>CursorMode</c> is <c>cmUserDefined</c>.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.IViewOld.ZoomPercent">
+            <summary>
+            Gets or sets the default zoom percentage to use when interacting with the map using a mouse.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.LayerType">
+            <summary>
+            LayerType
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.Grid">
+            <summary>
+            Raster Layer
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.Image">
+            <summary>
+            Image Layer
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.Invalid">
+            <summary>
+            Not a valid layer format
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.LineShapefile">
+            <summary>
+            Line FeatureSet Layer
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.PointShapefile">
+            <summary>
+            Point FeatureSet Layer
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LayerType.PolygonShapefile">
+            <summary>
+            Polygon FeatureSet Layer
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.LegacyPluginManager">
+            <summary>
+            PluginManager for dealing with additional plugins
+            </summary>
+            <summary>
+            The Designer for hte Legacy Plugin Manager class
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.#ctor">
+            <summary>
+            Constructor for Plugin Manager
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.#ctor(System.ComponentModel.IContainer)">
+            <summary>
+            Constructor for Plugin Manager
+            </summary>
+            <param name="container">A Container</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.AddPluginMenu">
+            <summary>
+            Checks the dlls in the Plugins folder or any subfolder and
+            adds a new checked menu item for each one that it finds.
+            This can also be controlled using the PluginMenuIsVisible property.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.RemovePluginMenu">
+            <summary>
+            Looks for a menu named Plug-ins and removes it.
+            Control this through the PluginMenuIsVisible property.
+            This can also be controlled using the PluginMenuIsVisible property.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.LegacyPluginManager.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.LegacyPluginManager.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.Legend">
+            <summary>
+            Gets or sets the Legend associated with this plugin manager
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.Map">
+            <summary>
+            Gets or sets the Map associated with this plugin manager
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.MapMenuStrip">
+            <summary>
+            Gets or sets the MapMenuStrip associated with this plugin manager
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.MapToolstrip">
+            <summary>
+            Gets or sets the MapToolStrip associated with this plugin manager
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.PreviewMap">
+            <summary>
+            Gets or sets the Preview Map associated with this plugin manager
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.LegacyPluginManager.PluginMenuIsVisible">
+            <summary>
+            Controls whether or not a Plugin menu will be added to the MapMenuStrip
+            specified by this Plugin Manager
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.MapCursorMode">
+            <summary>
+            MapCursorModes
+            </summary>
+            <item>AppStarting</item>
+            <item>Arrow</item>
+            <item>Cross</item>
+            <item>Help</item>
+            <item>IBeam</item>
+            <item>MapDefault</item>
+            <item>No</item>
+            <item>SizeAll</item>
+            <item>SizeNESW</item>
+            <item>SizeNS</item>
+            <item>SizeNWSE</item>
+            <item>SizeWE</item>
+            <item>UpArrow</item>
+            <item>UserDefined</item>
+            <item>Wait</item>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.AppStarting">
+            <summary>
+            App starting icon
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.Arrow">
+            <summary>
+            typical white arrow with black border
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.Cross">
+            <summary>
+            A right angle cross
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.Help">
+            <summary>
+            Question mark
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.IBeam">
+            <summary>
+            An IBeam like for editing text
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.MapDefault">
+            <summary>
+            An arrow
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.No">
+            <summary>
+            A circle with a diagonal line
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.SizeAll">
+            <summary>
+            Arrows pointing north, south, east and west
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.SizeNESW">
+            <summary>
+            A diagonal line with arrows pointing northeast and southwest
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.SizeNS">
+            <summary>
+            A vertical line with arrows up and down
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.SizeNWSE">
+            <summary>
+            A diagonal line with arrows pointing northwest and southeast
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.SizeWE">
+            <summary>
+            A horizontal line with arrows pointing west and east
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.UpArrow">
+            <summary>
+            An up pointed arrow
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.UserDefined">
+            <summary>
+            Use a custom icon
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.MapCursorMode.Wait">
+            <summary>
+            Windows wait cursor (varies from system to system)
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.MapWin">
+            <summary>
+            MapWin
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.#ctor">
+            <summary>
+            Constructs a new empty instance of this interface wrapper that is mostly used
+            for backwards compatibility.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.#ctor(DotSpatial.Controls.IBasicMap,DotSpatial.Controls.ILegend,System.Windows.Forms.Form,System.Windows.Forms.MenuStrip)">
+            <summary>
+            Constructs a new instance of a MapWin interface where the Map, Legend, Form and MenuStrip
+            are all specified.
+            </summary>
+            <param name="inMap">Any valid implementation of IBasicMap</param>
+            <param name="inLegend">Any valid implementation of ILegend</param>
+            <param name="inMainForm">Any valid windows Form</param>
+            <param name="inMenuStrip">Any valid windows MenuStrip</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.ClearCustomWindowTitle">
+            <summary>
+            Returns dialog title for the main window to the default "project name" title.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.GetProjectionFromUser(System.String,System.String)">
+            <summary>
+             Prompt the user to select a projection, and return the PROJ4 representation of this
+             projection. Specify the dialog caption and an optional default projection ("" for none).
+            </summary>
+            <param name="dialogCaption">The text to be displayed on the dialog, e.g. "Please select a projection."</param>
+            <param name="defaultProjection">The PROJ4 projection string of the projection to default to, "" for none.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.Refresh">
+            <summary>
+            Refreshes the DotSpatial display.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.RefreshDynamicVisibility">
+            <summary>
+            Refreshes Dynamic Visibility
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.SetCustomWindowTitle(System.String)">
+            <summary>
+            Sets the dialog title to be displayed after the "AppInfo" name for the main window.
+            Overrides the default "project name" title.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.ShowErrorDialog(System.Exception)">
+            <summary>
+            Displays the DotSpatial error dialog.
+            </summary>
+            <param name="ex"></param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MapWin.ShowErrorDialog(System.Exception,System.String)">
+            <summary>
+            Displays the DotSpatial error dialog, sending to a specific address.
+            </summary>
+            <param name="ex"></param>
+            <param name="sendEmailTo"></param>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.GetOCX">
+            <summary>
+            In The new context, this return whatever the BasicMap is.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.ApplicationInfo">
+            <summary>
+            Provides control over application-level settings like the app name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.DisplayFullProjectPath">
+            <summary>
+            Specify whether the full project path should be specified rather than just fileName, in title bar for main window.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.LastError">
+            <summary>
+            Gets the last error message set.  Note:  This error message could have been set at any time.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Layers">
+            <summary>
+            Returns the <c>Layers</c> object that handles layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Menus">
+            <summary>
+            Returns the <c>Menus</c> object that manages the menus.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Plugins">
+            <summary>
+            Returns the <c>Plugins</c> object that manages plugins.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.PreviewMap">
+            <summary>
+            Returns the <c>PreviewMap</c> object that manages the preview map.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Project">
+            <summary>
+            Provides control over project and configuration files.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Reports">
+            <summary>
+            Provides access to report generation methods and properties.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.StatusBar">
+            <summary>
+            Returns the <c>StausBar</c> object that manages the status bar.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Toolbar">
+            <summary>
+            Returns the <c>Toolbar</c> object that manages toolbars.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.UiPanel">
+            <summary>
+            Provides access to the user panel in the lower right of the DotSpatial form.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.UserInteraction">
+            <summary>
+            User-interactive functions. Used to prompt users to enter things, or otherwise prompt users.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.View">
+            <summary>
+            Returns the <c>View</c> object that handles the map view.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Map">
+            <summary>
+            Gets or sets the basic map for this MapWin
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.Legend">
+            <summary>
+            Gets or sets the legend to use for this MapWin
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.MainForm">
+            <summary>
+            Gets or sets the main form to use for this MapWin
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MapWin.MenuStrip">
+            <summary>
+            Gets or sets the menu strip to use for this MapWin
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.MenuItem">
+            <summary>
+            MenuItem
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MenuItem.#ctor(System.Windows.Forms.ToolStripMenuItem)">
+            <summary>
+            Creates a new instance of MenuItem
+            </summary>
+            <param name="inMenuItem">The ToolStripMenuItem to wrap with this item</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MenuItem.SubItem(System.Int32)">
+            <summary>
+            Gets a submenu item by its 0-based index
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.MenuItem.SubItem(System.String)">
+            <summary>
+            Gets a submenu item by its string name
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Text">
+            <summary>
+            Gets/Sets the Text shown for the MenuItem
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Picture">
+            <summary>
+            Gets/Sets the icon for the menu item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Category">
+            <summary>
+            Gets/Sets the category for this item (used when the user customizes the menu)
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Checked">
+            <summary>
+            Gets/Sets the checked state of the item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Tooltip">
+            <summary>
+            Gets/Sets the tool tip text that will pop up for the item when a mouse over event occurs
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.BeginsGroup">
+            <summary>
+            Gets/Sets whether or not this item should draw a dividing line between itself and any
+            items before this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Cursor">
+            <summary>
+            Gets/Sets the cursor used when the mouse is over this control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Description">
+            <summary>
+            Gets/Sets the description of this menu item, used in customization of menu by the user
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Displayed">
+            <summary>
+            Gets/Sets the Displayed state of this item
+            ... Side Note
+            ... I have no idea what this is supposed to do, so it is redundant with visible for now
+            and possibly should be made obsolete.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Enabled">
+            <summary>
+            Gets/Sets the enabled state of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Name">
+            <summary>
+            Gets the Name of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.Visible">
+            <summary>
+            Gets/Sets the visibility state of this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.NumSubItems">
+            <summary>
+            Gets the count of the submenu items contained within this item
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Compatibility.MenuItem.IsFirstVisibleSubmenuItem">
+            <summary>
+            Returns whether this menu item is the first visible submenu item.
+            This is only valid in submenus, i.e. menus which have a parent.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.Menus">
+            <summary>
+            Menus
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.#ctor(System.Windows.Forms.MenuStrip)">
+            <summary>
+            Creates a new instance of Menus
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String)">
+            <summary>
+            Adds a menu with the specified name and uses the name as the text.
+            </summary>
+            <param name="name">The string name of the menu item to add.</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.Drawing.Image)">
+            <summary>
+            Adds a menu with the specified name and image, and uses the name as the text.
+            </summary>
+            <param name="name">the string name of the menu item and text</param>
+            <param name="picture">The image to associate with the menu item</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.Drawing.Image,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text
+            </summary>
+            <param name="name">The name to use to identify this item later</param>
+            <param name="picture">An image to associate with this item</param>
+            <param name="text">The string text to appear for this item</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name to the menu indicated by ParentMenu
+            </summary>
+            <param name="name">The string name to use</param>
+            <param name="parentMenu">The string name of the parent to add the menu to</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.String,System.Drawing.Image)">
+            <summary>
+            Adds a menu with the specified name and icon to the menu indicated by ParentMenu
+            </summary>
+            <param name="name">the name to use as a key to identify this item and as text</param>
+            <param name="parentMenu">the parent menu item</param>
+            <param name="picture">The image to use for this item</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.String,System.Drawing.Image,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text to the specified ParentMenu
+            </summary>
+            <param name="name">The string name to use as a key for this item</param>
+            <param name="parentMenu">The name of the parent menu to add this new item to</param>
+            <param name="picture">The picture to add for this item</param>
+            <param name="text">The string text to add for this item</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.String,System.Drawing.Image,System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name, icon and text to the specified ParentMenu and after the specifed item
+            </summary>
+            <param name="name">The string name to use as a key for this item</param>
+            <param name="parentMenu">The name of the parent menu to add this new item to</param>
+            <param name="picture">The picture to add for this item</param>
+            <param name="text">The string text to add for this item</param>
+            <param name="after">The name of the sibling menu item to add this item directly after</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.AddMenu(System.String,System.String,System.String,System.String)">
+            <summary>
+            Adds a menu with the specified name and text to the specified ParentMenu and before the specifed item
+            </summary>
+            <param name="name">The string name to use as a key for this item</param>
+            <param name="parentMenu">The name of the parent menu to add this new item to</param>
+            <param name="text">The string text to add for this item</param>
+            <param name="before">The name of the sibling to insert this menu item on top of</param>
+        </member>
+        <member name="M:DotSpatial.Compatibility.Menus.Remove(System.String)">
+            <summary>
+            Removes a MenuItem
+            </summary>
+            <param name="name">Name of the item to remove</param>
+            <returns>true on success, false otherwise</returns>
+        </member>
+        <member name="P:DotSpatial.Compatibility.Menus.Item(System.String)">
+            <summary>
+            Gets a MenuItem by its name
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.PointType">
+            <summary>
+            PointTypes
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.Circle">
+            <summary>
+            Circular points
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.Diamond">
+            <summary>
+            Diamond
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.Square">
+            <summary>
+            Square
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.TriangleDown">
+            <summary>
+            Triangle pointed down
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.TriangleLeft">
+            <summary>
+            Triangle pointed left
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.TriangleRight">
+            <summary>
+            Triangle pointed right
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.TriangleUp">
+            <summary>
+            Triangle pointed up
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PointType.UserDefined">
+            <summary>
+            User defined
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.PreviewExtentMode">
+            <summary>
+            Enumeration of possible preview map update types.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PreviewExtentMode.FullExtents">
+            <summary>
+            Update using full exents.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.PreviewExtentMode.CurrentMapView">
+            <summary>
+            Update using current map view.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.ReferenceType">
+            <summary>
+            ReferenceTypes
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.ReferenceType.Screen">
+            <summary>
+            The coordinates are drawn in screen coordinates on the layer, and stay fixed as the map
+            zooms and pans
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.ReferenceType.Geographic">
+            <summary>
+            The drawing layer is geographically referenced and will move with the other spatially
+            referenced map content.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.SelectMode">
+            <summary>
+            Gets or sets the selection method to use.
+            <list type="bullet">
+            <item>Inclusion</item>
+            <item>Intersection</item>
+            </list>
+            Inclusion means that the entire shape must be within the selection bounds in order to select
+            the shape.  Intersection means that only a portion of the shape must be within the selection
+            bounds in order for the shape to be selected.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SelectMode.Inclusion">
+            <summary>
+            The entire contents of the potentially selected item must fall withing the specified extents
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SelectMode.Intersection">
+            <summary>
+            The item will be selected if any of the contents of the potentially selected item can be found
+            in the specified extents.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.SpatialDockStyle">
+            <summary>
+            Docking styles for DotSpatial UIPanels
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.None">
+            <summary>Floating</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.Left">
+            <summary>Dock Left</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.Right">
+            <summary>Dock Right</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.Top">
+            <summary>Dock Top</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.Bottom">
+            <summary>Dock Bottom</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.LeftAutoHide">
+            <summary>Dock Left Autohidden</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.RightAutoHide">
+            <summary>Dock Right Autohidden</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.TopAutoHide">
+            <summary>Dock Top Autohidden</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.SpatialDockStyle.BottomAutoHide">
+            <summary>Dock Bottom Autohidden</summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.Stipple">
+            <summary>
+            FillStipple
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.Stipple.Custom">
+            <summary>
+            Use a custom stipple pattern
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.Stipple.DashDotDash">
+            <summary>
+            A dashes and dots
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.Stipple.Dashed">
+            <summary>
+            Dashes only
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.Stipple.Dotted">
+            <summary>
+            Dots only
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.Stipple.None">
+            <summary>
+            No stipple pattern should be used
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.UnitsOfMeasure">
+            <summary>
+            UnitOfMeasure
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.DecimalDegrees">
+            <summary>The units are in decimal degrees.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Millimeters">
+            <summary>The units are in millimeters.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Centimeters">
+            <summary>The units are in centimeters.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Inches">
+            <summary>The units are in inches.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Feet">
+            <summary>The units are in feet.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Yards">
+            <summary>The units are in Yards.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Meters">
+            <summary>The units are in meters.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Miles">
+            <summary>The units are in miles.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Kilometers">
+            <summary>The units are in kilometers.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.NauticalMiles">
+            <summary>The units are in nautical miles.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Acres">
+            <summary>The units are in acres.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Hectares">
+            <summary>The units are in hectares.</summary>
+        </member>
+        <member name="F:DotSpatial.Compatibility.UnitsOfMeasure.Unknown">
+            <summary>The units are unknown.</summary>
+        </member>
+        <member name="T:DotSpatial.Compatibility.UserInteraction">
+            <summary>
+            UserInteraction
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Compatibility.UserInteraction.GetProjectionFromUser(System.String,System.String)">
+            <summary>
+             Prompt the user to select a projection, and return the PROJ4 representation of this
+             projection. Specify the dialog caption and an optional default projection ("" for none).
+            </summary>
+            <param name="dialogCaption">The text to be displayed on the dialog, e.g. "Please select a projection."</param>
+            <param name="defaultProjection">The PROJ4 projection string of the projection to default to, "" for none.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Compatibility.UserInteraction.GetColorRamp(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color@,System.Drawing.Color@)">
+            <summary>
+             Retrieve a color ramp, defined by a start and end color, from the user.
+            </summary>
+            <param name="suggestedStart">The start color to initialize the dialog with.</param>
+            <param name="suggestedEnd">The end color to initialize the dialog with.</param>
+            <param name="selectedStart">The start color that the user selected.</param>
+            <param name="selectedEnd">The end color that the user selected.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+    </members>
+</doc>

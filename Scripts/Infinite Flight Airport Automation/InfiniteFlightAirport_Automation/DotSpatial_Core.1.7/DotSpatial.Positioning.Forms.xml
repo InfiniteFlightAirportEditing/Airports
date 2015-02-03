@@ -1,0 +1,2577 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotSpatial.Positioning.Forms</name>
+    </assembly>
+    <members>
+        <member name="T:DotSpatial.Positioning.Forms.Altimeter">
+            <summary>Represents a user control used to display altitude.</summary>
+            <remarks>
+            Altimeters are used to visually represent some form of altitude, typically the
+            user's current altitude above sea level. Altitude is measured using three needles which
+            represent (from longest to shortest) hundreds, thousands and tens-of-thousands. The
+            display of the Altimeter is controlled via the <strong>Value</strong> property.
+            </remarks>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarControl">
+            <summary>
+            Represents a base class for round controls painted using polar
+            coordinates.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.DoubleBufferedControl">
+             <summary>
+             Represents a base class for designing flicker-free, multithreaded user
+             controls.
+             </summary>
+             <remarks>
+             	<para>This powerful and versatile class provides a framework upon which to create
+                 high-performance owner-drawn controls. Common rendering challenges such as
+                 multithreading, thread synchronization, double-buffering, performance tuning,
+                 platform tuning and animation are all handled by this class.</para>
+             	<para>Controls which inherit from this class perform all paint operations by
+                 overriding the <strong>OnPaintOffScreen</strong> method, and optionally the
+                 <strong>OnPaintOffScreenBackground</strong> and
+                 <strong>OnPaintOffScreenAdornments</strong> methods. Controls which demand higher
+                 performance should perform all rendering on a separate thread. This is done by
+                 setting the <strong>IsPaintingOnSeparateThread</strong> property to
+                 <strong>True</strong>. Since the actual painting of the control is handled by this
+                 class, the <strong>OnPaint</strong> method should not be overridden.</para>
+             	<para>When all off-screen paint operations have completed, this class will copy the
+                 contents of the off-screen bitmap to the on-screen bitmap which is visibly
+                 displayed on the control. By deferring all rendering operations to another thread,
+                 the user interface remains very responsive even during time-consuming paint
+                 operations.</para>
+             	<para>Performance tuning is another major feature of this class. The
+                 <strong>OptimizationMode</strong> property gives developers the ability to tune
+                 rendering performance for animation speed, rendering quality, low CPU usage, or a
+                 balance between all three.</para>
+             	<para>While thread synchronization has been implemented wherever possible in this
+                 class, and the class is almost entirely thread-safe, some care should be taken when
+                 accessing base <strong>Control</strong> properties from a separate thread. Even
+                 basic properties like <strong>Visible</strong> can fail, especially on the Compact
+                 Framework. For minimal threading issues, avoid reading control properties during
+                 paint events.</para>
+             	<para>This class has been tuned to deliver the best performance on all versions of
+                 the .NET Framework (1.0, 1.1 and 2.0) as well as the .NET Compact Framework (1.0
+                 and 2.0). Compatibility is also managed internally, which simplifies the process of
+                 porting controls to the Compact Framework.</para>
+             </remarks>
+             <example>
+                 This example demonstrates how little code is required to use features like
+                 double-buffering and multithreading. <strong>IsPaintingOnSeparateThread</strong>
+                 enables multithreading, and all paint operations take place in the
+                 <strong>OnPaintOffScreen</strong> method instead of <strong>OnPaint</strong>. To
+                 prevent memory leaks, all GDI objects are disposed of during the
+                 <strong>Dispose</strong> method.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+                 Dim MyBrush As New SolidBrush(Color.Blue)
+            
+                 Sub New()
+                     IsPaintingOnSeparateThread = True
+                 End Sub
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                 End Sub
+            
+                 Public Overrides Sub Dispose(ByVal disposing As Boolean)
+                     MyBrush.Dispose()
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 SolidBrush MyBrush = new SolidBrush(Color.Blue);
+            
+                 MyControl()
+                 {
+                     IsPaintingOnSeparateThread = true;
+                 }
+            
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50));
+                 }
+            
+                 public override void Dispose(bool disposing)
+                 {
+                     MyBrush.Dispose();
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.#ctor">
+            <summary>Creates a new instance.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.#ctor(System.String)">
+            <summary>Creates a new instance using the specified thread name.</summary>
+            <param name="threadName">
+            The name associated with the rendering thread when rendering is multithreaded.
+            This name appears in the Output window when the thread exits and can be useful during
+            debugging. The name should also contain a company or support URL.
+            </param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.ResumePainting">
+            <summary>
+            Allows the control to be repainted after a call to SuspendPainting.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.SuspendPainting">
+            <summary>
+            Temporarily pauses all painting operations.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.InvokeRepaint">
+            <summary>
+            Repaints the control either directly or via the painting thread.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.Repaint">
+            <summary>
+            Redraws the control off-screen.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnPaintException(System.Exception)">
+             <summary>Occurs when an exception occurs during a multithreaded paint operation.</summary>
+             <remarks>
+             	<para>Exceptions caught during rendering iterations are channeled through this
+                 method instead of being re-thrown. This allows developers the ability to silently
+                 handle rendering problems without letting them interrupt the user interface. This
+                 method invokes the <strong>ExceptionOccurred</strong> event.</para>
+             </remarks>
+             <example>
+                 This example demonstrates how to be notified of rendering failures using the
+                 <strong>OnPaintException</strong> method.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     ' Cause an error by using a null pen
+                     e.Graphics.DrawRectangle(Nothing, Rectangle.Empty)
+                 End Sub
+            
+                 Protected Overrides Sub OnPaintException(ByVal e As ExceptionEventArgs)
+                     Throw e.Exception
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     // Cause an error by using a null pen
+                     e.Graphics.DrawRectangle(null, Rectangle.Empty);
+                 }
+            
+                 protected override void OnPaintException(ExceptionEventArgs e)
+                 {
+                     throw e.Exception;
+                 }
+             }
+                 </code>
+             </example>
+             <param name="exception">An <strong>Exception</strong> object describing the rendering error.</param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnHandleCreated(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnHandleDestroyed(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnTargetFrameRateChanged(System.Int32)">
+            <summary>Occurs when the desired frame rate has changed.</summary>
+            <remarks>
+            This virtual method is called whenever the <strong>TargetFrameRate</strong>
+            property has changed. This method gives controls the opportunity to adjust animation
+            effects to achieve the frame rate as closely as possible.
+            </remarks>
+            <param name="framesPerSecond">
+            An <strong>Integer</strong> specifying the ideal or desired frame rate for the
+            control.
+            </param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <summary>Performs all major painting operations for the control.</summary>
+            <remarks>
+            	<para>This method must be overridden. All painting operations for the control take
+                place during this method. After this method completes, the
+                <strong>OnPaintOffScreenAdornments</strong> method is called. When all painting
+                operations have completed, the task of repainting the control visually takes place
+                automatically.</para>
+            	<para>Developers seeking to upgrade their existing controls to use this control
+                must move all code from <strong>OnPaint</strong> into
+                <strong>OnPaintOffScreen</strong>. For best performance, the
+                <strong>OnPaint</strong> method would not be overridden at all.</para>
+            </remarks>
+            <param name="e">
+            A <strong>CancelablePaintEventArgs</strong> object used for all painting
+            operations, as well as to signal when a rendering iteration has been aborted.
+            </param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnPaintOffScreenBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Optional. Performs painting operations which draw the control's
+            background.
+            </summary>
+            <remarks>
+            	<para>This method provides the ability to prepare the background of the control
+                before major painting operations take place. By default, this method calls the
+                <strong>Graphics.Clear</strong> method to erase the control to the background
+                color.</para>
+            	<para>This method can be overridden to perform certain visual effects. For example,
+                the <strong>PolarControl</strong> class, which inherits from this class, uses this
+                method to apply a fading circular gradient to create a 3D illusion. Then, the
+                <strong>OnPaintOffScreenAdornments</strong> method is also overridden to apply a
+                second effect which gives the appearance of glass over the control. For more
+                information on glass effects, see the <strong>Effect</strong> property of the
+                <strong>PolarControl</strong> class.</para>
+            </remarks>
+            <param name="e">
+            A <strong>CancelablePaintEventArgs</strong> object used for all painting
+            operations, as well as to signal when a rendering iteration has been aborted.
+            </param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnPaintOffScreenAdornments(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Optional. Performs any additional painting operations after the main portions of
+            the control are painted.
+            </summary>
+            <remarks>
+            By default, this method does nothing. This method can be overridden to apply
+            certain details, however, such as a watermark, company logo, or glass. For example, the
+            <strong>PolarControl</strong> class overrides this method to apply a glass effect on
+            top of anything that has already been painted. For more information on glass effects,
+            see the <strong>Effect</strong> property of the <strong>PolarControl</strong>
+            class.
+            </remarks>
+            <param name="e">
+            A <strong>CancelablePaintEventArgs</strong> object used for all painting
+            operations, as well as to signal when a rendering iteration has been aborted.
+            </param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnResize(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnVisibleChanged(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnInitialize">
+            <summary>
+            Occurs when the control is about to be rendered for the first time.
+            </summary>
+            <remarks>
+            	<para>This virtual method provides the ability to prepare any local variables
+                before the control is painted for the first time. This method is typically used to
+                create GDI objects such as <strong>Pen</strong>, <strong>Brush</strong>, and
+                <strong>Font</strong> immediately before they are needed. It is recommended that
+                this event be used to create any such GDI objects. Additionally, it is also
+                recommended that GDI objects get created outside of the
+                <strong>OnPaintOffScreen</strong> method if they are used repeatedly.</para>
+            	<para>For desktop framework applications, this method is called when the control's
+                handle is created. For Compact Framework 1.0 applications, there is no handle
+                creation event, so this method is called when the first call to
+                <strong>OnPaint</strong> occurs.</para>
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>Occurs when the control is to be redrawn on-screen.</summary>
+            <remarks>
+            	<para>In the <strong>DoubleBufferedControl</strong> class, the process of painting
+                the control on-screen is handled automatically. As a result, this method does not
+                have to be overloaded to paint the control. In fact, this method should not be
+                overridden to perform any painting operations because it would defeat the purpose
+                of the control and re-introduce flickering problems.</para>
+            	<para>Ideally, well-written controls will move any and all painting operations from
+                the <strong>OnPaint</strong> method into the <strong>OnPaintOffScreen</strong>
+                method, and avoid overriding <strong>OnPaint</strong> entirely. By keeping the
+                <strong>OnPaint</strong> method as lightweight as possible, user interfaces remain
+                responsive and free from flickering problems.</para>
+            </remarks>
+            <example>
+            	<para>This example demonstrates how a user control is upgraded from Control to the
+                <strong>DoubleBufferedControl</strong> class. Upgrading is straightforward: All
+                painting operations are moved from <strong>OnPaint</strong> to
+                <strong>OnPaintOffScreen</strong> and <strong>OnPaint</strong> is no longer
+                overridden.</para>
+            	<code lang="VB" title="[New Example]" description="Before: A control's paint operations before being upgraded to use the DoubleBufferedControl class.">
+            Public Class MyControl
+                Inherits Control
+                Protected Overrides Sub OnPaint(ByVal e As PaintEventArgs)
+                    Dim MyBrush As New SolidBrush(Color.Blue)
+                    e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                    MyBrush.Dispose();
+                End Sub
+            End Class
+                </code>
+            	<code lang="CS" title="[New Example]" description="Before: A control's paint operations before being upgraded to use the DoubleBufferedControl class.">
+            public class MyControl : Control
+            {
+                protected override void OnPaint(PaintEventArgs e)
+                {
+                    SolidBrush MyBrush = new SolidBrush(Color.Blue);
+                    e.Graphics.FillRectangle(MyBrush, new Rectangle(50, 50, 50, 50));
+                    MyBrush.Dispose();
+                }
+            }
+                </code>
+            	<code lang="VB" title="[New Example]" description="After: A control's paint operations after upgrading to DoubleBufferedControl.">
+            Public Class MyControl
+                Inherits DoubleBufferedControl
+                Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                    Dim MyBrush As New SolidBrush(Color.Blue)
+                    e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                    MyBrush.Dispose();
+                End Sub
+            End Class
+                </code>
+            	<code lang="CS" title="[New Example]">
+            public class MyControl : DoubleBufferedControl
+            {
+                protected override void OnPaintOffScreen(PaintEventArgs e)
+                {
+                    SolidBrush MyBrush = new SolidBrush(Color.Blue);
+                    e.Graphics.FillRectangle(MyBrush, new Rectangle(50, 50, 50, 50));
+                    MyBrush.Dispose();
+                }
+            }
+                </code>
+            </example>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.Finalize">
+            <summary>
+            Finalizes an instance of the DoubleBufferedControl class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.Dispose(System.Boolean)">
+             <summary>Releases memory and GDI resources created by the control.</summary>
+             <remarks>
+             	<para>This method is very important to implement properly when working with
+                 controls. Any <strong>Brush</strong>, <strong>Pen</strong>, <strong>Font</strong>,
+                 <strong>Matrix</strong>, <strong>GraphicsPath</strong>, <strong>Region</strong> or
+                 other GDI+ object containing a <strong>Dispose</strong> method must be disposed of
+                 before they are destructed by the garbage collector.</para>
+             	<para>Well-written controls will create unmanaged GDI+ objects outside of the
+                 <strong>OnPaintOffScreen</strong> method, then dispose of them during the
+                 <strong>Dispose</strong> method. This practice improves performance by creating as
+                 new new objects and resources as possible while minimizing problems which may occur
+                 due to resources which are not properly released.</para>
+             	<para>Failure to call the <strong>Dispose</strong> method on GDI+ objects will
+                 cause memory leaks which will slowly eat up available memory until the application
+                 can no longer function. Use the "GDI Objects" column of the Windows Task Manager to
+                 monitor the number of GDI objects allocated. Memory leaks will cause the GDI Object
+                 count to increase continuously, whereas well-written controls will experience a GDI
+                 Object count that remains fairly constant over a longer period of time.</para>
+             	<para>To view the GDI Objects column in the Windows Task Manager:</para>
+             	<para class="xmldocnumberedlist"></para>
+             	<list type="bullet">
+             		<item>Open the Windows Task Manager</item>
+             		<item>Select the "Processes" tab.</item>
+             		<item>Select "Choose Columns..." from the View menu.</item>
+             		<item>Check the "GDI Objects" box and click OK.</item>
+             	</list>
+             </remarks>
+             <example>
+                 This example demonstrates how a control might create subtle problems when the
+                 <strong>Dispose</strong> method is not used on every GDI+ object.
+                 <code lang="VB" title="[New Example]" description="An example of a poorly written control: A new SolidBrush is created on every paint iteration when it only needs to be created once. The brush is never disposed of, creating a memory leak.">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     Dim MyBrush As New SolidBrush(Color.Blue)
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                 End Sub
+            
+                 ' Notice: MyBrush is never disposed.  A memory leak
+                 ' will occur!
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]" description="An example of a poorly written control: A new SolidBrush is created on every paint iteration when it only needs to be created once. The brush is never disposed of, creating a memory leak.">
+             public class MyControl : DoubleBufferedControl
+             {
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     SolidBrush MyBrush = new SolidBrush(Color.Blue);
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50));
+                 }
+            
+                 // Notice: MyBrush is never disposed.  A memory leak
+                 // will occur!
+             }
+                 </code>
+             	<code lang="VB" title="[New Example]" description="Problems are solved by properly implementing the Dispose method. Performance is improved by moving the SolidBrush declaration out of OnPaintOffScreen.">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+                 ' 1. GDI objects are created outside of the OnPaintOffScreen
+                 '    methods whenever possible.
+                 Dim MyBrush As New SolidBrush(Color.Blue)
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     ' 2. The paint method is as lightweight as possible,
+                     '    improving rendering performance
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                 End Sub
+            
+                 Public Overrides Sub Dispose(ByVal disposing As Boolean)
+                     ' 3. Any GDI+ objects are disposed of properly
+                     MyBrush.Dispose()
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]" description="Problems are solved by properly implementing the Dispose method. Performance is improved by moving the SolidBrush declaration out of OnPaintOffScreen.">
+             public class MyControl : DoubleBufferedControl
+             {
+                 // 1. GDI objects are created outside of the OnPaintOffScreen
+                 //    methods whenever possible.
+                 SolidBrush MyBrush = new SolidBrush(Color.Blue);
+            
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     // 2. The paint method is as lightweight as possible,
+                     //    improving rendering performance
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50));
+                 }
+            
+                 public override void Dispose(bool disposing)
+                 {
+                     // 3. Any GDI+ objects are disposed of properly
+                     MyBrush.Dispose();
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.DoubleBufferedControl.ColorFromAhsb(System.Int32,System.Single,System.Single,System.Single)">
+            <summary>
+            Converts a color from HSB (hue, saturation, brightness) to RGB.
+            </summary>
+            <param name="a"></param>
+            <param name="h"></param>
+            <param name="s"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.DoubleBufferedControl.ExceptionOccurred">
+             <summary>Occurs when an exception is thrown during off-screen painting operations.</summary>
+             <remarks>
+             	<para>When the control is rendering on a separate thread, exceptions cannot be
+                 caught by a regular <strong>Try..Catch</strong> statement. Exceptions are instead
+                 channeled through this event. The control will also attempt to display exception
+                 information on-screen to inform developers of the code which failed.</para>
+             	<para>It is important to capture this event or override the
+                 <strong>OnPaintException</strong> method in order to be properly notified of
+                 problems. Without doing this, the control could fail to paint properly yet give no
+                 indication that there is a problem.</para>
+             </remarks>
+             <example>
+                 This example hooks into the <strong>ExceptionOccurred</strong> event of a control
+                 in order to handle painting exceptions.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Sub New()
+                     ' Receive notifications of paint problems
+                     AddHandler ExceptionOccurred, AddressOf HandleExceptions
+                 End Sub
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     ' Try to paint with a null Pen
+                     e.Graphics.DrawRectangle(Nothing, Rectangle.Empty)
+                 End Sub
+            
+                 Private Sub HandleExceptions(ByVal sender As Object, ByVal e As ExceptionEventArgs)
+                     ' Write the error to the Debug window
+                     Debug.WriteLine(e.Exception.ToString())
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 MyControl()
+                 {
+                     // Receive notifications of paint problems
+                     ExceptionOccurred += new ExceptionEventHandler(HandleExceptions);
+                 }
+            
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     // Try to paint with a null Pen.
+                     e.Graphics.DrawRectangle(null, Rectangle.Empty);
+                 }
+            
+                 private sub HandleExceptions(object sender, ExceptionEventArgs e)
+                 {
+                     // Write the error to the Console
+                     Console.WriteLine(e.Exception.ToString());
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.DoubleBufferedControl.PaintOffScreen">
+            <summary>
+            Occurs when the control is to be redrawn in the background.
+            </summary>
+            <remarks>In the DoubleBufferedControl class, all painting occurs off-screen.  Then, the off-screen bitmap is quickly
+            drawn on-screen when painting completes.  This event is called immediately after the PaintOffScreenBackground event.</remarks>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.DoubleBufferedControl.PaintOffScreenBackground">
+            <summary>
+            Occurs when the control's background is to be redrawn before the main graphics of the control.
+            </summary>
+            <remarks>In the DoubleBufferedControl class, all painting occurs off-screen.  Then, the off-screen bitmap is quickly
+            drawn on-screen when painting completes.   This event is called to paint any background graphics before the main elements of the
+            control are drawn.  Some painting effects, such as glass or plastic, use this event along with PaintOffScreenAdornments
+            to add annotations to the control.  This event is called immediately before the PaintOffScreen event.</remarks>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.DoubleBufferedControl.PaintOffScreenAdornments">
+            <summary>
+            Occurs when additional graphics or annotations must be added to the control.
+            </summary>
+            <remarks>In the DoubleBufferedControl class, all painting occurs off-screen.  Then, the off-screen bitmap is quickly
+            drawn on-screen when painting completes.   This event is called to paint any additional graphics after the main elements of the
+            control are drawn.  Some painting effects, such as glass, adding text or logos, use this event to draw on the control.  This event is called immediately after the PaintOffScreen event.</remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.IsDesignMode">
+            <summary>
+            Indicates whether the control is currently running inside of a Windows Forms designer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.IsDisposed">
+            <summary>Indicates if the control and its resources have been disposed.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.IsPaintingOnSeparateThread">
+             <summary>
+             Indicates if all off-screen rendering takes place on a separate thread.
+             </summary>
+             <remarks>
+             	<para>This powerful property controls whether or not rendering operations are
+                 multithreaded. When set to <strong>True</strong>, a new thread is launched and all
+                 subsequent calls to <strong>OnPaintOffScreen</strong>,
+                 <strong>OnPaintOffScreenBackground</strong> and
+                 <strong>OnPaintOffScreenAdornments</strong> occur on that thread. Thread
+                 synchronization features are enabled so that painting operations never interfere
+                 with rendering operations. The priority of the rendering thread is controlled via
+                 the <strong>ThreadPriority</strong> property.</para>
+             	<para>When this property is <strong>False</strong>, the rendering thread is torn
+                 down and all rendering occurs on the owner's thread. Controls which perform
+                 significant painting operations should enable this property to allow the user
+                 interface to be more responsive. As a general rule, any intense processing should
+                 be moved away from the user interface thread.</para>
+             </remarks>
+             <example>
+                 This example instructs the control to perform all rendering on a separate thread.
+                 Notice that all thread management is handled automatically -- the only operation
+                 required is enabling the property.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Sub New()
+                     ' Enable multithreading
+                     IsPaintingOnSeparateThread = True
+                 End Sub
+            
+                 ' This method is now called from another thread
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     Dim MyBrush As New SolidBrush(Color.Blue)
+                     e.Graphics.FillRectangle(MyBrush, New Rectangle(50, 50, 50, 50))
+                     MyBrush.Dispose()
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 MyControl()
+                 {
+                     // Enable multithreading
+                     IsPaintingOnSeparateThread = true;
+                 }
+            
+                 // This method is now called from another thread
+                 protected overrides void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     SolidBrush MyBrush = new SolidBrush(Color.Blue);
+                     e.Graphics.FillRectangle(MyBrush, new Rectangle(50, 50, 50, 50));
+                     MyBrush.Dispose();
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.OffScreenBitmapOffset">
+            <summary>
+            Controls the upper-left portion of the off-screen bitmap to paint
+            on-screen.
+            </summary>
+            <value>
+            A <strong>Point</strong> structure indicating the corner of the off-screen bitmap
+            to draw on-screen. Default is <strong>Empty</strong>.
+            </value>
+            <remarks>
+            	<para>If the size of the off-screen bitmap is different than the on-screen bitmap,
+                a control may need to draw different portions of the off-screen bitmap. For
+                example, if an off-screen bitmap is 200x200 pixels but the visible portion of the
+                control is only 50x50 pixels, an offset of (10, 10) instructs the control to paint
+                the off-screen bitmap from (10, 10)-(60, 60).</para>
+            	<para>for most controls, this property does not need to be overridden. Controls
+                which override this property also override the <strong>OffScreenBitmapSize</strong>
+                property to specify a size defferent than the visible portion of the
+                control.</para>
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.OffScreenBitmap">
+            <summary>Returns the bitmap used for off-screen painting operations.</summary>
+            <value>A <strong>Bitmap</strong> containing off-screen painted data.</value>
+            <remarks>
+            	<para>This control maintains two separate bitmaps: an "off-screen" bitmap, where
+                all painting operations take place, and an "on-screen" bitmap which is displayed
+                visually to the user. When an off-screen painting operation completes successfully,
+                the off-screen bitmap is copies to the on-screen bitmap, then painted on the
+                display. This property returns the off-screen bitmap created during the most recent
+                paint iteration.</para>
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.ThreadPriority">
+             <summary>Controls the relative priority of multithreaded painting operations.</summary>
+             <value>
+             A <strong>ThreadPriority</strong> value. Default is
+             <strong>Normal</strong>.
+             </value>
+             <remarks>
+             Painting operations may require more CPU time if they represent the majority of
+             a user interface, or if painting operations are more complicated. Performance can be
+             improved by increasing the priority of the rendering thread. Likewise, if a control is
+             of minor importance to an application, a lower thread priority can improve performance
+             in more important areas of the application.
+             </remarks>
+             <example>
+                 This example enables multithreaded painting then changes the priority of the
+                 rendering thread to <strong>Lowest</strong> to give the rest of the application
+                 more CPU time.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Sub New()
+                     ' Enable multithreading
+                     IsPaintingOnSeparateThread = True
+                     ' Set a low thread priority
+                     ThreadPriority = ThreadPriority.Lowest
+                 End Sub
+            
+                 ' This method is now called from another thread
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                    ' ...etc.
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 MyControl()
+                 {
+                     // Enable multithreading
+                     IsPaintingOnSeparateThread = true;
+                     // Set a low thread priority
+                     ThreadPriority = ThreadPriority.Lowest;
+                 }
+            
+                 // This method is now called from another thread
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                    // ...etc.
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.BackColor">
+            <summary>Controls the background color of the control.</summary>
+            <value>A <strong>Color</strong> structure representing the background color.</value>
+            <remarks>
+            The default <strong>BackColor</strong> property of the <strong>Control</strong>
+            class cannot be accessed from a thread other than the UI thread. As a result, this
+            property was shadowed in order to make it thread-safe.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.IsExceptionTextAllowed">
+            <summary>
+            Controls whether exception messages are displayed on the control.
+            </summary>
+            <remarks>In some situations, an exception can occur during a paint operation.  To notify
+            developers of the problem, the error text is written directly to the control.  This behavior
+            may not be suitable for some developers, however, who want to trap errors more gracefully.
+            Setting this property to False causes error messages to never be drawn on the control.  The
+            ExceptionOccurred event should instead be used to gracefully handle errors when they occur.</remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.Width">
+            <summary>Returns the width of the control in pixels.</summary>
+            <value>An <strong>Integer</strong> indicating the width of the control in pixels.</value>
+            <remarks>
+            The default <strong>Width</strong> property of the <strong>Control</strong> class
+            cannot be accessed from a thread other than the UI thread. As a result, this property
+            was shadowed in order to make it thread-safe.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.Size">
+            <summary>
+            Returns the horizontal and vertical length of the control in pixels.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.Height">
+            <remarks>
+            The default <strong>Height</strong> property of the <strong>Control</strong>
+            class cannot be accessed from a thread other than the UI thread. As a result, this
+            property was shadowed in order to make it thread-safe.
+            </remarks>
+            <summary>Returns the height of the control in pixels.</summary>
+            <value>An <strong>Integer</strong> indicating the width of the control in pixels.</value>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.OnScreenBitmap">
+            <summary>Returns the bitmap used to paint the visible portion of the control.</summary>
+            <value>A <strong>Bitmap</strong> containing data to be painted on the display.</value>
+            <remarks>
+            	<para>This control maintains two separate bitmaps: an "off-screen" bitmap, where
+                all painting operations take place, and an "on-screen" bitmap which is displayed
+                visually to the user. When an off-screen painting operation completes successfully,
+                the off-screen bitmap is copies to the on-screen bitmap, then painted on the
+                display. This property returns the on-screen bitmap matching what is actually seen
+                in the control.</para>
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.TargetFramesPerSecond">
+             <summary>Controls the desired frame rate for rendering operations.</summary>
+             <value>
+             An <strong>Integer</strong> indicating the desired frame rate. Default is
+             <strong>30</strong>.
+             </value>
+             <remarks>
+             	<para>This property is used by controls which make use of animation effects.
+                 Typically, this property tells a control how long to delay between repaint
+                 operations, or how many frames to allocate for a certain time period. Controls
+                 which do not do any custom animation effects ignore this property and it has no
+                 effect. When this property changes, the <strong>OnTargetFrameRateChanged</strong>
+                 virtual method is called.</para>
+             	<para>If a control is able to repaint itself very quickly, smooth animation effects
+                 can be achieved. A refresh rate of 30 frames per second or above is necessary to
+                 give the human eye the illusion of motion. Refresh rates of 60 or even 120 are
+                 possible for extremely fast controls and can result in very nice, smooth animation
+                 effects.</para>
+             	<para>This property can be a bit confusing for developers because it does not
+                 control the rate at which the control is actually repainted. (The control is only
+                 repainted when necessary, whenever that occurs.) This property is used only to tune
+                 custom effects implemented by controls inheriting from this class.</para>
+             </remarks>
+             <example>
+                 This example animates a green rectangle. The default target frame rate is set to 60
+                 frames per second, which causes the interval of a timer to change. The timer
+                 changes the position of the rectangle.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+                 Dim AnimatedRectangle As Rectangle
+            
+                 Sub New()
+                     ' Set a 60 frames per second target
+                     TargetFramesPerSecond = 60
+                 End Sub
+            
+                 Protected Overrides Sub OnTargetFrameRateChanged()
+                     ' Change the timer to fire 60 times per second
+                     MyTimer.Interval = 1000 / TargetFramesPerSecond
+                 End Sub
+            
+                 Private Sub MyTimer_Tick(ByVal sender As Object, ByVal e As EventArgs)
+                     ' Change the location of an animated thing
+                     AnimatedRectangle = New Rectangle((AnimatedRectangle.X + 1) Mod Width,
+                                                       (AnimatedRectangle.Y + 1) Mod Height,
+                                                       50, 50)
+                     ' And cause the control to repaint
+                     InvokeRepaint()
+                 End Sub
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     Dim MyBrush As New SolidBrush(Color.Green)
+                     e.Graphics.FillRectangle(MyBrush, AnimatedRectangle)
+                     MyBrush.Dispose()
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+                 Rectangle AnimatedRectangle;
+            
+                 MyControl()
+                 {
+                     // Set a 60 frames per second target
+                     TargetFramesPerSecond = 60;
+                 }
+            
+                 protected override void OnTargetFrameRateChanged()
+                 {
+                     // Change the timer to fire 60 times per second
+                     MyTimer.Interval = 1000 / TargetFramesPerSecond
+                 }
+            
+                 private void MyTimer_Tick(object sender, EventArgs e)
+                 {
+                     // Change the location of an animated thing
+                     AnimatedRectangle = New Rectangle((AnimatedRectangle.X + 1) ^ Width,
+                                                       (AnimatedRectangle.Y + 1) ^ Height,
+                                                       50, 50);
+                     // And cause the control to repaint
+                     InvokeRepaint();
+                 }
+            
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     SolidBrush MyBrush = new SolidBrush(Color.Green);
+                     e.Graphics.FillRectangle(MyBrush, AnimatedRectangle);
+                     MyBrush.Dispose();
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.GraphicsSettings">
+            <summary>
+            Controls the graphics quality settings for the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.DoubleBufferedControl.Center">
+             <summary>
+             Indicates the point at the center of the control.
+             </summary>
+             <remarks>This property is typically used for centering items in the control.  This property
+             is updated automatically as the control is resized.</remarks>
+             <value>
+             A <strong>Point</strong> structure representing the pixel at the center of the
+             control.
+             </value>
+             <example>
+                 This example uses the <strong>Center</strong> property to center a rectangle in the
+                 middle of the control.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     ' Center a rectangle in the middle of the control
+                     Dim MyShape As New Rectangle(Center.X - 25, Center.Y - 25, 50, 50)
+                     ' Now paint it
+                     Dim MyBrush As New SolidBrush(Color.Green)
+                     e.Graphics.FillRectangle(MyBrush, MyShape)
+                     MyBrush.Dispose()
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     // Center a rectangle in the middle of the control
+                     Rectangle MyShape = new Rectangle(Center.X - 25, Center.Y - 25, 50, 50);
+                     // Now paint it
+                     SolidBrush MyBrush = new SolidBrush(Color.Green);
+                     e.Graphics.FillRectangle(MyBrush, MyShape);
+                     MyBrush.Dispose();
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarControl.GlassReflectionBrush">
+            <summary>
+            Glass reflection
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarControl.GlassReflectionRectangle">
+            <summary>
+            Glass reflection rectangle
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.#ctor">
+            <summary>
+            Creates a new instance.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.#ctor(System.String)">
+            <summary>
+            Creates a new instance using the specified thread name.
+            </summary>
+            <param name="threadName">A <strong>String</strong> representing the friendly name of the control.</param>
+            <remarks>The thread name is dusplayed in the Visual Studio "Threads" debugging window.  Multithreaded debugging
+            can be simplified when threads are clearly and uniquely named.</remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.Dispose(System.Boolean)">
+            <summary>Cleans up any unmanaged GDI+ resources used during painting.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnBackColorChanged(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.MakeBrushes">
+            <summary>
+            Make Brushes
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnEffectChanged(DotSpatial.Positioning.Forms.PolarControlEffect)">
+            <summary>Occurs when the control's effect has changed.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnResize(System.EventArgs)">
+            <summary>Occurs when the control's size has changed.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnRotationChanged(DotSpatial.Positioning.Angle)">
+            <summary>Occurs when the control's rotation has changed.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnOriginChanged(DotSpatial.Positioning.Azimuth)">
+            <summary>Occurs when the compass direction associated with 0° has changed.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnOrientationChanged(DotSpatial.Positioning.Forms.PolarCoordinateOrientation)">
+            <summary>Occurs when the control's orientation has changed.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.CreatePolarGraphics">
+            <summary>
+            Create Graphics
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.CreatePolarGraphics(System.Drawing.Graphics)">
+            <summary>
+            Create Polar Graphics
+            </summary>
+            <param name="graphics"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnPaintOffScreenBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>Occurs when the control's background is painted.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnPaintOffScreenAdornments(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Occurs when additional painting is performed on top of the control's main
+            content.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.Rotate(DotSpatial.Positioning.Angle)">
+            <summary>Rotates the entire control to the specified value.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarControl.OnTargetFrameRateChanged(System.Int32)">
+            <summary>Occurs when the desired animation frame rate has changed.</summary>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.PolarControl.RotationChanged">
+            <summary>Occurs when the rotation amount has changed.</summary>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.PolarControl.OriginChanged">
+            <summary>Occurs when the compass direction associated with 0° has changed.</summary>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.PolarControl.OrientationChanged">
+            <summary>Occurs when the control's coordinate orientation has changed.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.Effect">
+            <summary>Controls the special painting effect applied to the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.Rotation">
+            <summary>Controls the amount of rotation applied to the entire control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.RotationInterpolated">
+            <summary>Returns the current amount of rotation during an animation.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.RotationInterpolationMethod">
+            <summary>Controls the acceleration and deceleration technique used during rotation.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.Origin">
+            <summary>
+            Returns the compass direction which matches zero degrees.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.MaximumR">
+            <summary>Returns the radius corresponding to the edge of the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.BackColor">
+            <summary>Controls the background color of the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.CenterR">
+            <summary>Returns the radius corresponding to the center of the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarControl.Orientation">
+            <summary>
+            Returns whether positive values are applied in a clockwise or counter-clockwise direction.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Altimeter.#ctor">
+            <summary>Creates a new instance.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Altimeter.Dispose(System.Boolean)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Altimeter.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Altimeter.OnTargetFrameRateChanged(System.Int32)">
+            <inheritdocs/>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.Altimeter.ValueChanged">
+            <summary>
+            Occurs when the Value property has changed.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.IsUsingRealTimeData">
+            <summary>
+            Indicates if the control should automatically display the current
+            altitude.
+            </summary>
+            <value>
+            A <strong>Boolean</strong>, <strong>True</strong> if the control automatically
+            displays the current altitude.
+            </value>
+            <remarks>
+            When this property is enabled, the control will examine the
+            <strong>CurrentAltitude</strong> property of the
+            <strong>DotSpatial.Positioning.Gps.Devices</strong> class and update itself when the property
+            changes. When disabled, the <strong>Value</strong> property must be set manually to
+            change the control.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ValueFont">
+            <summary>Controls the font used for displaying altitude text.</summary>
+            <remarks>
+            This property controls the font used to display altitude text on the control. To
+            control the font of numbers drawn around the edge of the control, see the
+            <strong>AltitudeLabelFont</strong> property.
+            </remarks>
+            <seealso cref="P:DotSpatial.Positioning.Forms.Altimeter.AltitudeLabelFont">AltitudeLabelFont Property</seealso>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ValueColor">
+            <summary>Controls the color of altitude text.</summary>
+            <remarks>
+            This property controls the color of the altitude text on the control. To change
+            the color of numbers drawn around the edge of the control, see the
+            <strong>AltitudeLabelColor</strong> property.
+            </remarks>
+            <seealso cref="P:DotSpatial.Positioning.Forms.Altimeter.AltitudeLabelColor">AltitudeLabelColor Property</seealso>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ValueInterpolationMethod">
+            <summary>
+            Controls how the control smoothly transitions from one value to another.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ValueFormat">
+            <summary>Controls the format of altitude values.</summary>
+            <value>
+            A <strong>String</strong> which is compatible with the <strong>ToString</strong>
+            method of the <strong>Distance</strong> class.
+            </value>
+            <remarks>
+            This property controls how text is output on the control. By default, the format
+            is "<strong>v uu</strong>" where <strong>v</strong> represents the numeric portion of
+            the altitude, and <strong>uu</strong> represents units.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.Value">
+            <summary>Controls the altitude to display on the control.</summary>
+            <value>A <strong>Distance</strong> structure measuring the altitude to display.</value>
+            <remarks>
+            Changing this property causes the needles on the control to move so that they
+            represent the value.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.AltitudeLabelColor">
+            <summary>Controls the color of numbers around the edge of the control.</summary>
+            <remarks>
+            This property controls the color of numbers around the edge of the control. To
+            control the color of altitude text, see the <strong>ValueColor</strong>
+            property.
+            </remarks>
+            <seealso cref="P:DotSpatial.Positioning.Forms.Altimeter.ValueColor">ValueColor Property</seealso>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.AltitudeLabelFont">
+            <summary>Controls the font of numbers drawn around the edge of the control.</summary>
+            <remarks>
+            This property controls the font used to draw numbers around the edge of the
+            control. To control the font used to draw altitude text, see the
+            <strong>ValueFont</strong> property.
+            </remarks>
+            <seealso cref="P:DotSpatial.Positioning.Forms.Altimeter.ValueFont">ValueFont Property</seealso>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.MinorTickColor">
+            <summary>
+            Controls the color of smaller tick marks drawn around the edge of the
+            control.
+            </summary>
+            <remarks>
+            Minor tick marks are drawn between major tick marks around the control. These
+            tick marks can be made invisible by changing the color to
+            <strong>Transparent</strong>.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.MajorTickColor">
+            <remarks>
+            There are ten major tick marks in an altimeter, drawn next to numbers on the
+            control. These tick marks can be made invisible by changing the color to
+            <strong>Transparent</strong>.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.TensOfThousandsNeedleFillColor">
+            <summary>Controls the interior color of the tens-of-thousands needle.</summary>
+            <remarks>
+            The tens-of-thousands needle is the smallest needle of the control. The interior
+            can be made invisible by setting this property to <strong>Transparent</strong>.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ThousandsNeedleFillColor">
+            <summary>
+            Controls the color of the interior of the thousands needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.HundredsNeedleFillColor">
+            <summary>
+            Controls the color of the interior of the hundreds needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.TensOfThousandsNeedleOutlineColor">
+            <summary>
+            Controls the color of the edge of the tens-of-thousands needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.ThousandsNeedleOutlineColor">
+            <summary>
+            Controls the color of the edge of the thousands needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.HundredsNeedleOutlineColor">
+            <summary>
+            Controls the color of the edge of the hundreds needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.NeedleShadowColor">
+            <summary>
+            Controls the color of the shadow cast by the altitude needles.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Altimeter.NeedleShadowSize">
+            <summary>
+            Controls the size of the shadow cast by the altitude needles.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.ClockDisplayMode">
+            <summary>
+            Indicates which time is displayed by the clock control.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.ClockDisplayMode.SatelliteDerivedTime">
+            <summary>
+            GPS satellite signals are used to display the current time.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.ClockDisplayMode.LocalMachineTime">
+            <summary>
+            The computer's system clock is used to display the current time.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.ClockDisplayMode.Manual">
+            <summary>
+            A custom time will be displayed by setting the Value property manually.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.Clock">
+            <summary>
+            Represents a user control which displays the local or satellite-derived time.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Clock.#ctor">
+            <summary>
+            The constructor provides a name for the control.  This name is used as the name of the thread if multithreading is enabled.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Clock.Dispose(System.Boolean)">
+            <summary>
+            Dispose
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Clock.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            This method is called whenever the control must be rendered.  All rendering takes
+            place off-screen, which prevents flickering.  The "PolarControl" base class automatically
+            handles tasks such as resizing and smoothing.  All you have to be concerned with is
+            calculating the polar coordinates to draw.
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.Clock.ValueChanged">
+            <summary>
+            Occurs when the value changes
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.MinorTickColor">
+            <summary>
+            Controls the color of smaller tick marks drawn around the edge of the
+            control.
+            </summary>
+            <remarks>
+            Minor tick marks are drawn between major tick marks around the control. These
+            tick marks can be made invisible by changing the color to
+            <strong>Transparent</strong>.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.MajorTickColor">
+            <remarks>
+            There are ten major tick marks in an altimeter, drawn next to numbers on the
+            control. These tick marks can be made invisible by changing the color to
+            <strong>Transparent</strong>.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.HoursFont">
+            <summary>
+            Controls the font used to draw the hour labels around the edge of the clock.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.HoursColor">
+            <summary>
+            Controls the color of the shortest hand on the clock, representing hours.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.MinutesColor">
+            <summary>
+            Controls the color of the minutes hand on the clock.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.SecondsColor">
+            <summary>
+            Controls the color of the seconds hand on the clock.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.DisplayMode">
+            <summary>
+            Controls the technique used to display the current time.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.UpdateInterval">
+            <summary>
+            Controls the amount of time allowed to elapse before the clock is refreshed with the latest time report.  This property works only when the control is set to display the local machine's time.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.Value">
+            <summary>
+            Controls the time being displayed by the device.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Clock.ValueColor">
+            <summary>
+            Controls the color used to paint numeric labels for hours.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.ColorInterpolator">
+            <summary>Calculates intermediate colors between two other colors.</summary>
+            <remarks>
+            	<para>This class is used to create a smooth transition from one color to another.
+                After specifying a start color, end color, and number of intervals, the indexer
+                will return a calculated <strong>Color</strong>. Specifying a greater number of
+                intervals creates a smoother color gradient.</para>
+            	<para>Instances of this class are guaranteed to be thread-safe because the class
+                uses thread synchronization.</para>
+            	<para>On the .NET Compact Framework, the alpha channel is not supported.</para>
+            </remarks>
+            <example>
+                This example uses a <strong>ColorInterpolator</strong> to calculate ten colors
+                between (and including) <strong>Blue</strong> and <strong>Red</strong> .
+                <code lang="VB" title="[New Example]">
+            ' Create a New color interpolator
+            Dim Interpolator As New ColorInterpolator(Color.Blue, Color.Red, 10)
+            ' Output Each calculated color
+            Dim i As Integer
+            For i = 0 To 9
+                ' Get the Next color In the sequence
+                Dim NewColor As Color = Interpolator(i)
+                ' Output RGB values of this color
+                Debug.Write(NewColor.R.ToString() + ",")
+                Debug.Write(NewColor.G.ToString() + ",")
+                Debug.WriteLine(NewColor.B.ToString())
+            Next i
+                </code>
+            	<code lang="CS" title="[New Example]">
+            // Create a new color interpolator
+            ColorInterpolator Interpolator = new ColorInterpolator(Color.Blue, Color.Red, 10);
+            // Output each calculated color
+            for (int i = 0; i &lt; 10; i++)
+            {
+                // Get the next color in the sequence
+                Color NewColor = Interpolator[i];
+                // Output RGB values of this color
+                Console.Write(NewColor.R.ToString() + ",");
+                Console.Write(NewColor.G.ToString() + ",");
+                Console.WriteLine(NewColor.B.ToString());
+            }
+                </code>
+            </example>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.ColorInterpolator.#ctor(System.Drawing.Color,System.Drawing.Color,System.Int32)">
+            <summary>Creates a new instance.</summary>
+            <param name="startColor">A <strong>Color</strong> at the start of the sequence.</param>
+            <param name="endColor">A <strong>Color</strong> at the end of the sequence.</param>
+            <param name="count">
+            The total number of colors in the sequence, including the start and end
+            colors.
+            </param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.ColorInterpolator.Item(System.Int32)">
+            <summary>Returns a calculated color in the sequence.</summary>
+            <value>A <strong>Color</strong> value representing a calculated color.</value>
+            <example>
+                This example creates a new color interpolator between blue and red, then accesses
+                the sixth item in the sequence.
+                <code lang="VB" title="[New Example]">
+            ' Create a New color interpolator
+            Dim Interpolator As New ColorInterpolator(Color.Blue, Color.Red, 10)
+            ' Access the sixth item
+            Color CalculatedColor = Interpolator(5);
+                </code>
+            	<code lang="CS" title="[New Example]">
+            // Create a New color interpolator
+            ColorInterpolator Interpolator = new ColorInterpolator(Color.Blue, Color.Red, 10);
+            // Access the sixth item
+            Color CalculatedColor = Interpolator[5];
+                </code>
+            </example>
+            <param name="index">
+            An <strong>Integer</strong> between 0 and <strong>Count</strong> minus
+            one.
+            </param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.ColorInterpolator.InterpolationMethod">
+            <summary>
+            Controls the interpolation technique used to calculate intermediate
+            colors.
+            </summary>
+            <value>
+            An <strong>InterpolationMethod</strong> value indicating the interpolation
+            technique. Default is <strong>Linear</strong>.
+            </value>
+            <remarks>
+            This property controls the rate at which the start color transitions to the end
+            color. Values other than Linear can "accelerate" and/or "decelerate" towards the end
+            color.
+            </remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.ColorInterpolator.StartColor">
+            <summary>Controls the first color in the sequence.</summary>
+            <value>
+            A <strong>Color</strong> object representing the first color in the
+            sequence.
+            </value>
+            <remarks>Changing this property causes the entire sequence to be recalculated.</remarks>
+            <example>
+            This example changes the start color from Green to Orange.
+            </example>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.ColorInterpolator.EndColor">
+            <value>
+            A <strong>Color</strong> object representing the last color in the
+            sequence.
+            </value>
+            <summary>Controls the last color in the sequence.</summary>
+            <remarks>Changing this property causes the entire sequence to be recalculated.</remarks>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.ColorInterpolator.Count">
+            <summary>Controls the number of colors in the sequence.</summary>
+            <remarks>Changing this property causes the entire sequence to be recalculated.</remarks>
+            <value>
+            An <strong>Integer</strong> indicating the total number of colors, including the
+            start and end colors.
+            </value>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.Compass">
+            <summary>
+            Represents a user control used to display the current direction of travel.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Compass.#ctor">
+            <summary>
+            A compass control
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Compass.Dispose(System.Boolean)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Compass.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Compass.OnTargetFrameRateChanged(System.Int32)">
+            <inheritdocs/>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.Compass.ValueChanged">
+            <summary>
+            Occurs when the value changes
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.Value">
+            <summary>
+            Controls the direction that the needle points to.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.ValueInterpolationMethod">
+            <summary>
+            Controls how the control smoothly transitions from one value to another.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.AngleLabelInterval">
+            <summary>
+            Controls the number of degrees in between each label around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.AngleLabelColor">
+            <summary>
+            Controls the color of degree labels drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.AngleLabelFont">
+            <summary>
+            Controls the font of degree labels drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.DirectionLabelInterval">
+            <summary>
+            Controls the number of degrees in between each compass direction (i.e. \"N\", \"NW\") around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.DirectionLabelColor">
+            <summary>
+            Controls the color of compass labels on the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.DirectionTickColor">
+            <summary>
+            Controls the color of tick marks next to each direction label on the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.IsUsingRealTimeData">
+            <summary>
+            Controls whether the Value property is set manually, or automatically read from any available GPS device.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.DirectionLabelFont">
+            <summary>
+            Controls the font used to draw direction labels on the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.AngleLabelFormat">
+            <summary>
+            Controls the output format of labels drawn around the control. (i.e.  h°m's\")"
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.MinorTickInterval">
+            <summary>
+            Controls the number of degrees in between each small tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.MinorTickColor">
+            <summary>
+            Controls the color of smaller tick marks drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.MajorTickInterval">
+            <summary>
+            Controls the number of degrees in between each larger tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.MajorTickColor">
+            <summary>
+            Controls the color of larger tick marks drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.NorthNeedleFillColor">
+            <summary>
+            Controls the color of the interior of the needle which points North.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.NorthNeedleOutlineColor">
+            <summary>
+            Controls the color of the edge of the needle which points North.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.SouthNeedleFillColor">
+            <summary>
+            Controls the color of the interior of the needle which points South.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.SouthNeedleOutlineColor">
+            <summary>
+            Controls the color of the edge of the needle which points South.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.NeedleShadowColor">
+            <summary>
+            Controls the color of the shadow cast by the compass needle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Compass.NeedleShadowSize">
+            <summary>
+            Controls the size of the shadow cast by the compass needle.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.CancelablePaintEventArgs">
+            <summary>Represents information about a cancelable paint iteration.</summary>
+            <remarks>
+            This class is used primarily by the <strong>OnPaintOffScreen</strong> method of
+            the <strong>DoubleBufferedControl</strong> class when paint operations need to be
+            performed. This class behaves the same as <strong>PaintEventArgs</strong>, but includes
+            an extra <strong>IsCanceled</strong> property to indicate when a rendering iteration
+            should be aborted.
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.CancelablePaintEventArgs.#ctor(System.Drawing.Graphics,System.Drawing.Rectangle)">
+            <summary>
+            Creates a new instance using the specified <strong>Graphics</strong> object and
+            clipping rectangle.
+            </summary>
+            <param name="graphics">
+            A <strong>Graphics</strong> object used for all painting within the
+            control.
+            </param>
+            <param name="clipRectangle">
+            A <strong>Rectangle</strong> that defines the area that should be painted.
+            Typically the size of the entire control.
+            </param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.CancelablePaintEventArgs.Canceled">
+             <summary>Indicates if the painting operation should be completely aborted.</summary>
+             <value>
+             A <strong>Boolean</strong>, <strong>True</strong> if painting was aborted.
+             Default is <strong>False</strong>.
+             </value>
+             <remarks>
+             	<para>This property is used by controls which allow their paint operations to be
+                 cancelled. When set to True, the entire painting iteration is stopped and
+                 restarted. This property is useful if a control always needs to display the very
+                 latest information.</para>
+             	<para>Setting this property to <strong>True</strong> can have some undesirable
+                 affects. For example, if a paint iteration is cancelled repeatedly, the control
+                 will never get far enough in a paint operation to paint on-screen. Some care should
+                 be taken when using this property.</para>
+             </remarks>
+             <example>
+                 This example demonstrates how to write a cancelable paint operation. It's typically
+                 a good idea to check for conditions which should cause a paint to cancel before
+                 beginning a time-consuming painting task. In this case, the
+                 <strong>IsPaintingAborted</strong> property is examined before entering a large
+                 loop. <strong>IsPaintingAborted</strong> becomes <strong>True</strong> when a new
+                 request to paint the control is made after starting the current paint iteration.
+                 <code lang="VB" title="[New Example]">
+             Public Class MyControl
+                 Inherits DoubleBufferedControl
+            
+                 Sub New()
+                     IsPaintingOnSeparateThread = True
+                 End Sub
+            
+                 Protected Overrides Sub OnPaintOffScreen(ByVal e As CancelablePaintEventArgs)
+                     ' Should painting be cancelled?
+                     If IsPaintingAborted
+                         ' Yes.  Abort all painting
+                         e.IsCanceled = True
+                         Exit Sub
+                     End If
+            
+                     ' Otherwise, A big paint operation begins
+                     Dim Count As Integer
+                     For Count = 1 To 20000
+                         Dim MyBrush As New SolidBrush(Color.Green)
+                         e.Graphics.DrawRectangle(MyBrush, New Rectangle(Count, Count, 5, 5))
+                         MyBrush.Dispose()
+                     Next Count
+                 End Sub
+             End Class
+                 </code>
+             	<code lang="CS" title="[New Example]">
+             public class MyControl : DoubleBufferedControl
+             {
+                 MyControl()
+                 {
+                     IsPaintingOnSeparateThread = true;
+                 }
+            
+                 protected override void OnPaintOffScreen(PaintEventArgs e)
+                 {
+                     // Should painting be cancelled?
+                     if (IsPaintingAborted)
+                     {
+                         // Yes.  Abort all painting
+                         e.IsCanceled = true;
+                         return;
+                     }
+            
+                     // Otherwise, A big paint operation begins
+                     for (int Count = 1; Count &lt;= 20000; Count++)
+                     {
+                         SolidBrush MyBrush = new SolidBrush(Color.Green);
+                         e.Graphics.DrawRectangle(MyBrush, new Rectangle(Count, Count, 5, 5));
+                         MyBrush.Dispose();
+                     }
+                 }
+             }
+                 </code>
+             </example>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.GraphicsSettings">
+            <summary>
+            Represents a collection of rendering performance and quality settings.
+            </summary>
+            <remarks>
+            	<para>This class is used to control the quality of all painting operations in
+                GIS.NET. Settings are biased either towards rendering performance, quality, or a
+                compromise between the two. The <strong>HighPerformance</strong> static member is
+                used to paint quickly at the cost of quality; the <strong>HighQuality</strong>
+                member paints better-looking results but painting operations require more time. The
+                <strong>Balanced</strong> member provides minimal quality improvements while
+                preserving moderate rendering speed.</para>
+            </remarks>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.GraphicsSettings.Balanced">
+            <summary>
+            Represents graphics settings balanced between quality and rendering performance.
+            </summary>
+            <value>A <strong>GraphicsSettings</strong> object.</value>
+            <remarks>
+            	<para>When this setting is used, painting operations will enable a few
+                quality-improving features while still allowing for faster rendering performance.
+                This quality setting is recommended for "draft" quality, where a more responsive
+                map is preferable to quality.</para>
+            </remarks>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.GraphicsSettings.HighQuality">
+            <summary>
+            Represents graphics settings which maximize quality.
+            </summary>
+            <value>A <strong>GraphicsSettings</strong> object.</value>
+            <remarks>
+            This is the default setting used by the GIS.NET rendering engine. All possible
+            smoothing features are enabled, including anti-aliasing, bicubic image interpolation,
+            and ClearText. With this setting, the smallest geographic features and even most text
+            are readable. This setting is recommended for production use, as well as
+            printing.
+            </remarks>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.GraphicsSettings.HighPerformance">
+            <summary>
+            Represents graphics settings which maximize rendering performance.
+            </summary>
+            <value>A <strong>GraphicsSettings</strong> object.</value>
+            <remarks>
+            When this setting is used, all quality enhancement features are disabled. The
+            resulting map will render more quickly, but the resulting quality will be hardly
+            suitable for production use. This setting is best suited for situations where panning
+            and zooming performance must have all possible speed.
+            </remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.GraphicsSettings.#ctor">
+            <summary>
+            Creates a new instance.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.GraphicsSettings.#ctor(System.Drawing.Drawing2D.CompositingQuality,System.Drawing.Drawing2D.InterpolationMode,System.Drawing.Drawing2D.PixelOffsetMode,System.Drawing.Drawing2D.SmoothingMode,System.Drawing.Text.TextRenderingHint,System.Int32)">
+            <summary>
+            Creates a new instance using the specified settings.
+            </summary>
+            <param name="compositingQuality"></param>
+            <param name="interpolationMode"></param>
+            <param name="pixelOffsetMode"></param>
+            <param name="smoothingMode"></param>
+            <param name="textRenderingHint"></param>
+            <param name="textContrast"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.GraphicsSettings.Apply(System.Drawing.Graphics)">
+            <summary>
+            Applies the graphics settings to the specified grahpics container.
+            </summary>
+            <param name="graphics">A <strong>Graphics</strong> object.</param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.CompositingQuality">
+            <summary>
+            Controls the technique used to merge bitmap images.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.InterpolationMode">
+            <summary>
+            Controls the method used to calculate color values between pixels.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.PixelOffsetMode">
+            <summary>
+            Controls the amount of shift for each pixel to improve anti-aliasing.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.SmoothingMode">
+            <summary>
+            Controls the technique used to blend edges.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.TextRenderingHint">
+            <summary>
+            Controls the technique used to smoothen the edges of text.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.GraphicsSettings.TextContrast">
+            <summary>
+            Controls the amount of gamma correction applied to text.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarControlEffect">
+            <summary>Indicates the special effect applied to polar controls during painting.</summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarControlEffect.None">
+            <summary>No effect is applied.</summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarControlEffect.Glass">
+            <summary>
+            Additional painting is performed during
+            <strong>OnPaintOffScreenBackground</strong> and
+            <strong>OnPaintOffScreenAdornments</strong> to give the appearance of lighting and
+            glass.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarCoordinate">
+            <summary>Represents a coordinate measured relative to the center of a circle.</summary>
+            <remarks>
+            	<para>Instances of this class are guaranteed to be thread-safe because the class is
+                immutable (its properties can only be changed via constructors).</para>
+            </remarks>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarCoordinate.Empty">
+            <summary>Represents a polar coordinate with no value.</summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarCoordinate.Center">
+            <summary>Represents a polar coordinate at the center of a circle.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.Single,DotSpatial.Positioning.Angle)">
+            <summary>
+            Creates a new instance using the specified radius and angle.
+            </summary>
+            <param name="r">A <strong>Double</strong> indicating a radius.  Increasing values represent a distance further away from the center of a circle.</param>
+            <param name="theta">An <strong>Angle</strong> representing a direction from the center of a circle.</param>
+            <remarks>The radius "r," when combined with an angle "theta" will create a coordinate relative to
+            the center of a circle.  By default, an angle of zero represents the top of the circle ("North") and
+            increasing angles wind clockwise around the circle.</remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.Single,System.Double)">
+            <summary>
+            Creates a new instance using the specified radius and angle.
+            </summary>
+            <param name="r">A <strong>Double</strong> indicating a radius.  Increasing values represent a distance further away from the center of a circle.</param>
+            <param name="theta">An <strong>Angle</strong> representing a direction from the center of a circle.</param>
+            <remarks>The radius "r," when combined with an angle "theta" will create a coordinate relative to
+            the center of a circle.  By default, an angle of zero represents the top of the circle ("North") and
+            increasing angles wind clockwise around the circle.</remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.Single,DotSpatial.Positioning.Angle,DotSpatial.Positioning.Azimuth,DotSpatial.Positioning.Forms.PolarCoordinateOrientation)">
+            <summary>
+            Creates a new instance using the specified radius, angle, origin and winding direction.
+            </summary>
+            <param name="r">A <strong>Double</strong> indicating a radius.  Increasing values represent a distance further away from the center of a circle.</param>
+            <param name="theta">An <strong>Angle</strong> representing a direction from the center of a circle.</param>
+            <param name="origin">An <strong>Azimuth</strong> indicating which compass direction is associated with zero degrees.  (Typically North.)</param>
+            <param name="orientation">A <strong>PolarCoordinateOrientation</strong> value indicating whether increasing Theta values wind clockwise or counter-clockwise.</param>
+            <remarks>The radius "r," when combined with an angle "theta" will create a coordinate relative to
+            the center of a circle.  The BearingOrigin will associate a compass direction with zero degrees (0°), but this value is typically "North".</remarks>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.Single,System.Double,DotSpatial.Positioning.Azimuth,DotSpatial.Positioning.Forms.PolarCoordinateOrientation)">
+            <summary>
+            Creates a new Polar Coordinate
+            </summary>
+            <param name="r"></param>
+            <param name="theta"></param>
+            <param name="origin"></param>
+            <param name="orientation"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.String)">
+            <summary>
+            Creates a new instance by converting the specified string.
+            </summary>
+            <param name="value">A <strong>String</strong> describing a polar coordinate in the current culture.</param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.#ctor(System.String,System.Globalization.CultureInfo)">
+            <summary>
+            Creates a new instance by converting the specified string.
+            </summary>
+            <param name="value">A <strong>String</strong> describing a polar coordinate in any culture.</param>
+            <param name="culture">A <strong>CultureInfo</strong> object describing how to parse the specified string.</param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToPoint">
+            <summary>Converts the current instance to a pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToPointF">
+            <summary>Converts the current instance to a precise pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToPointD">
+            <summary>Converts the current instance to a highly-precise pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToCartesianPointD">
+            <summary>Converts the current instance to a highly-precise Cartesian coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.Rotate(System.Double)">
+            <summary>
+            Applies rotation to the existing coordinate.
+            </summary>
+            <param name="angle">The amount of rotation to apply (above zero for clockwise).</param>
+            <returns>A <strong>PolarCoordinate</strong> adjusted by the specified rotation amount.</returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.SetRotation(System.Double)">
+            <summary>
+            Sets the rotation of the angle
+            </summary>
+            <param name="angle">The angle to set</param>
+            <returns>the PolarCoordinate</returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToOrientation(DotSpatial.Positioning.Azimuth,DotSpatial.Positioning.Forms.PolarCoordinateOrientation)">
+            <summary>
+            Returns the current instance adjusted to the specified orientation and
+            origin.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.Parse(System.String)">
+            <summary>
+            Parses the value as a PolarCoordinate
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.Parse(System.String,System.Globalization.CultureInfo)">
+            <summary>
+            Parses the value in the specified culter as a polar coordinate
+            </summary>
+            <param name="value"></param>
+            <param name="culture"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToString">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.ToString(System.String,System.IFormatProvider)">
+            <summary>
+             Customizes the string with a format provider
+            </summary>
+            <param name="format"></param>
+            <param name="formatProvider"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.op_Explicit(System.String)~DotSpatial.Positioning.Forms.PolarCoordinate">
+            <summary>
+            Polar Coordinate
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.op_Explicit(DotSpatial.Positioning.Forms.PolarCoordinate)~System.String">
+            <summary>
+            string
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.op_Explicit(DotSpatial.Positioning.Forms.PolarCoordinate)~System.Drawing.Point">
+            <summary>
+            Point
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.op_Explicit(DotSpatial.Positioning.Forms.PolarCoordinate)~System.Drawing.PointF">
+            <summary>
+            PointF
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinate.op_Explicit(DotSpatial.Positioning.Forms.PolarCoordinate)~DotSpatial.Positioning.PointD">
+            <summary>
+            PointD
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarCoordinate.Theta">
+            <summary>
+            Returns <em>Theta</em>, the amount of clockwise rotation of the
+            coordinate.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarCoordinate.R">
+            <summary>
+            Returns <em>R</em>, the distance away from the center of an imaginary
+            circle.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarCoordinate.Origin">
+            <summary>
+            Returns the compass direction which matches zero degrees.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarCoordinate.Orientation">
+            <summary>
+            Returns whether positive values are applied in a clockwise or counter-clockwise direction.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarCoordinateOrientation">
+            <summary>
+            Controls the winding direction of increasing angular values.
+            </summary>
+            <remarks>This enumeration is used by the <strong>PolarCoordinate</strong> class
+            to determine where a coordinate is on a circle.</remarks>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarCoordinateOrientation.Clockwise">
+            <summary>
+            Increasing angles are further clockwise around the circle.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.PolarCoordinateOrientation.Counterclockwise">
+            <summary>
+            Increasing angles are further counter-clockwise around the circle.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarCoordinateOrientationEventArgs">
+            <summary>
+            Polar Coordinate Orientation Event Args
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarCoordinateOrientationEventArgs.#ctor(DotSpatial.Positioning.Forms.PolarCoordinateOrientation)">
+            <summary>
+            Creates a new instance of the Polar coordinate orientation event arguments
+            </summary>
+            <param name="orientation"></param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarCoordinateOrientationEventArgs.Orientation">
+            <summary>
+            The orientation
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.PolarGraphics">
+            <summary>
+            Encapsulates a GDI+ drawing surface using polar coordinates instead of pixel coordinates.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPoint(DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Converts a polar coordinate to a pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointD(DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Converts a polar coordinate to a highly-precise pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPolarCoordinate(System.Drawing.Point)">
+            <summary>
+            To Polar Coordinate
+            </summary>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPolarCoordinate(System.Drawing.PointF)">
+            <summary>
+            To Polar Coordinate
+            </summary>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPolarCoordinate(DotSpatial.Positioning.PointD)">
+            <summary>
+            To Polar coordinate
+            </summary>
+            <param name="point"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.PointDToPolarCoordinate(DotSpatial.Positioning.PointD)">
+            <summary>Converts the current instance into a polar coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointF(DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Converts a polar coordinate to a precise pixel coordinate.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointF(DotSpatial.Positioning.PointD)">
+            <summary>
+            To PointF
+            </summary>
+            <param name="pointD"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.Clear(System.Drawing.Color)">
+            <summary>Erases the control's background to the specified color.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawLine(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Draws a single straight line.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawString(System.String,System.Drawing.Font,System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate,System.Drawing.StringFormat)">
+            <summary>
+            DrawString
+            </summary>
+            <param name="s"></param>
+            <param name="font"></param>
+            <param name="brush"></param>
+            <param name="point"></param>
+            <param name="format"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawString(System.String,System.Drawing.Font,System.Drawing.SolidBrush,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>
+            Draw String
+            </summary>
+            <param name="s"></param>
+            <param name="font"></param>
+            <param name="brush"></param>
+            <param name="point"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawCenteredString(System.String,System.Drawing.Font,System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate,System.Drawing.StringFormat)">
+            <summary>
+            Draw Centered String
+            </summary>
+            <param name="s"></param>
+            <param name="font"></param>
+            <param name="brush"></param>
+            <param name="point"></param>
+            <param name="format"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawCenteredString(System.String,System.Drawing.Font,System.Drawing.SolidBrush,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>
+            Draw Centered String
+            </summary>
+            <param name="s"></param>
+            <param name="font"></param>
+            <param name="brush"></param>
+            <param name="point"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawRectangle(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Draws a square or rectangular shape.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.FillEllipse(System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate,System.Single)">
+            <summary>Fills the interior of a circular shape.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawEllipse(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate,System.Single)">
+            <summary>Draws a circular shape.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.FillPolygon(System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>Fills the interior of a closed shape.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToGraphicsPath(DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>
+            Converts an array of polar coordinates into a <strong>GraphicsPath</strong>
+            object.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawAndFillPolygon(System.Drawing.Pen,System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>Fills and outlines a polygon using the specified style.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawPolygon(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>Draws a closed shape.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawRotatedString(System.String,System.Drawing.Font,System.Drawing.Brush,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Draws text rotated by the specified amount.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointArray(DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>Converts an array of polar coordinates to an array of pixel coordinates.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointFArray(DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>
+            Converts an array of polar coordinates to an array of precise pixel
+            coordinates.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.ToPointDArray(DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>
+            Converts an array of polar coordinates to an array of highly-precise pixel
+            coordinates.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawArc(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Draws a rounded line.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawBezier(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate,DotSpatial.Positioning.Forms.PolarCoordinate)">
+            <summary>Draws a rounded line that travels through several points.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawBeziers(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>Draws multiple rounded lines that travels through several points.</summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawClosedCurve(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>
+            Draw Closed Curve
+            </summary>
+            <param name="pen"></param>
+            <param name="points"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawClosedCurve(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[],System.Single,System.Drawing.Drawing2D.FillMode)">
+            <summary>
+            Draw Closed Curve
+            </summary>
+            <param name="pen"></param>
+            <param name="points"></param>
+            <param name="tension"></param>
+            <param name="fillMode"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawCurve(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[])">
+            <summary>
+            Draw Curve
+            </summary>
+            <param name="pen"></param>
+            <param name="points"></param>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.PolarGraphics.DrawCurve(System.Drawing.Pen,DotSpatial.Positioning.Forms.PolarCoordinate[],System.Int32,System.Int32,System.Single)">
+            <summary>
+            Draw Curve
+            </summary>
+            <param name="pen"></param>
+            <param name="points"></param>
+            <param name="offset"></param>
+            <param name="numberOfSegments"></param>
+            <param name="tension"></param>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.Origin">
+            <summary>
+            Returns the compass direction which matches zero degrees.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.Orientation">
+            <summary>
+            Returns whether positive values are applied in a clockwise or counter-clockwise direction.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.CenterR">
+            <summary>Returns the value of <em>R</em> associated with the center of the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.MaximumR">
+            <summary>Returns the value of <em>R</em> associated with the edge of the control.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.Graphics">
+            <summary>Returns the GDI+ drawing surface used for painting.</summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.PolarGraphics.Rotation">
+            <summary>Returns the amount of rotation applied to the entire control.</summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.SatelliteSignalBar">
+            <summary>
+            Represents a control used to display satellite signal strengths.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.#ctor">
+            <summary>
+            Satellite Signal Bar
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.OnHandleCreated(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.OnHandleDestroyed(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.Dispose(System.Boolean)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.OnInitialize">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteSignalBar.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.DefaultSize">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.Satellites">
+            <summary>
+            Controls the satellites which are currently being viewed in the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.GapWidth">
+            <summary>
+            Controls the number of pixels in between vertical satellite signal bars.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.NoSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with no signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.PoorSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a weak signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.ModerateSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a moderate signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.GoodSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.ExcellentSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a very strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.NoSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with no signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.PoorSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a weak signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.ModerateSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a moderate signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.GoodSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.ExcellentSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a very strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.FixColor">
+            <summary>
+            Controls the color of the ellipse drawn around fixed satellites.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.IsUsingRealTimeData">
+            <summary>
+            Controls whether the Satellites property is set manually, or automatically read from any available GPS device.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.SignalStrengthLabelFont">
+            <summary>
+            Controls the font used to draw the strength of each satellite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.SignalStrengthLabelColor">
+            <summary>
+            Controls the color used to draw the strength of each satellite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.PseudorandomNumberFont">
+            <summary>
+            Controls the font used to draw the ID of each satellite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteSignalBar.PseudorandomNumberColor">
+            <summary>
+            Controls the color used to draw the ID of each satellite.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.RotationOrientation">
+            <summary>
+            Controls whether controls are rotated to show the current bearing straight up.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.RotationOrientation.NorthUp">
+            <summary>
+            The control will be rotated so that North always points to the top of the screen.
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Positioning.Forms.RotationOrientation.TrackUp">
+            <summary>
+            The control will be rotated so the the current bearing points to the top of the screen.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.SatelliteViewer">
+            <summary>
+            Represents a user control used to display the location and signal strength of GPS satellites.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.#ctor">
+            <summary>
+            Creates a new instance.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.OnHandleCreated(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.OnHandleDestroyed(System.EventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.OnInitialize">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.Dispose(System.Boolean)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.SatelliteViewer.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.Bearing">
+            <summary>
+            Controls the amount of rotation applied to the entire control to indicate the current direction of travel.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.IsUsingRealTimeData">
+            <summary>
+            Controls whether the Satellites property is set manually, or automatically read from any available GPS device.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.MinorTickInterval">
+            <summary>
+            Controls the number of degrees in between each smaller tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.DirectionLabelFormat">
+            <summary>
+            Controls the format of compass directions drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.MajorTickInterval">
+            <summary>
+            Controls the number of degrees in between each larger tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.MinorTickColor">
+            <summary>
+            Controls the color used to draw smaller tick marks around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.MajorTickColor">
+            <summary>
+            Controls the color used to draw larger tick marks around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.DirectionLabelInterval">
+            <summary>
+            Controls the number of degrees in between each compass label around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.DirectionLabelColor">
+            <summary>
+            Controls the color used to display compass direction letters around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.DirectionLabelFont">
+            <summary>
+            Controls the font used to draw compass labels around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.NoSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with no signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.PoorSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a weak signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.ModerateSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a moderate signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.GoodSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.ExcellentSignalFillColor">
+            <summary>
+            Controls the color inside of satellite icons with a very strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.NoSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with no signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.PoorSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a weak signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.ModerateSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a moderate signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.GoodSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.ExcellentSignalOutlineColor">
+            <summary>
+            Controls the color around satellite icons with a very strong signal.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.FixColor">
+            <summary>
+            Controls the color of the ellipse drawn around fixed satellites.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.RotationOrientation">
+            <summary>
+            Controls which bearing points straight up on the screen.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.Satellites">
+            <summary>
+            Contains the list of satellites drawn inside of the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.Origin">
+            <summary>
+            The Origin Azimuth angle
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.Rotation">
+            <summary>
+            The rotation angle
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.ShadowColor">
+            <summary>
+            Controls the color of the shadow cast by satellite icons.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.PseudorandomNumberFont">
+            <summary>
+            Controls the font used to display the ID of each satellite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.SatelliteViewer.PseudorandomNumberColor">
+            <summary>
+            Controls the color used to display the ID of each satellite.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Positioning.Forms.Speedometer">
+            <summary>
+            Represents a user control used to measure speed graphically.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Speedometer.#ctor">
+            <summary>
+            Speedometer
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Speedometer.Dispose(System.Boolean)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Speedometer.OnPaintOffScreen(System.Windows.Forms.PaintEventArgs)">
+            <inheritdocs/>
+        </member>
+        <member name="M:DotSpatial.Positioning.Forms.Speedometer.OnTargetFrameRateChanged(System.Int32)">
+            <inheritdocs/>
+        </member>
+        <member name="E:DotSpatial.Positioning.Forms.Speedometer.ValueChanged">
+            <summary>
+             Occurs when the value changed
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.Origin">
+            <summary>
+            The azimuth angle of hte origin
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.Rotation">
+            <summary>
+            The rotation angle
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.NeedleOutlineColor">
+            <summary>
+            Gets or sets the spedometer needle color of the edge
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.NeedleFillColor">
+            <summary>
+            Gets or sets the needle fill color.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.NeedleShadowColor">
+            <summary>
+            The Needle Shadow Brush color intially semitransparent black.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.NeedleShadowSize">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.Value">
+            <summary>
+            Controls the amount of speed being displayed in the control
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.ValueInterpolationMethod">
+            <summary>
+            Controls how the control smoothly transitions from one value to another.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MaximumSpeed">
+            <summary>
+            Controls the fastest speed allowed by the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.SpeedLabelInterval">
+            <summary>
+            Controls the amount of speed in between each label around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MinorTickInterval">
+            <summary>
+            Controls the number of degrees in between each smaller tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MajorTickInterval">
+            <summary>
+            Controls the number of degrees in between each larger tick mark around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MinorTickColor">
+            <summary>
+            the color of the minor ticks.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.IsUnitLabelVisible">
+            <summary>
+            Controls whether the speed label is drawn in the center of the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.IsUsingRealTimeData">
+            <summary>
+            Controls whether the Value property is set manually, or automatically read from any available GPS device.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MajorTickColor">
+            <summary>
+            Gets or sets the Major Tick Color
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.SpeedLabelFormat">
+            <summary>
+            Controls the display format used for speed labels drawn around the control.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.Font">
+            <inheritdocs/>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.SpeedLabelColor">
+            <summary>
+            Gets or sets the Speed Label font color
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MinimumAngle">
+            <summary>
+            Controls the angle associated with the smallest possible speed.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Positioning.Forms.Speedometer.MaximumAngle">
+            <summary>
+            Controls the angle associated with the largest possible speed.
+            </summary>
+        </member>
+    </members>
+</doc>

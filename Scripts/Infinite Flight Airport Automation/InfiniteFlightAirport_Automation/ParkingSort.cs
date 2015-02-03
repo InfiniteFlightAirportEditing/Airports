@@ -1,4 +1,8 @@
-﻿//Code by Cameron Alonso and Imran Ahmed
+﻿/*
+ * Script for seperating parking spots into categories
+ * Uses RegEx to sort by naming/type
+ * By Imran Ahmed
+*/
 
 using System;
 using System.Collections.Generic;
@@ -6,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
-namespace Airport_Parser
+namespace AirportParser
 {
     public class Parking:IComparable<Parking>
     {
@@ -46,9 +50,9 @@ namespace Airport_Parser
             return Name.CompareTo(another.Name);
         }
     }
-    class Program
+    class ParkingSort
     {
-        static void Main(string[] args)
+        static public void MainBlock()
         {
             //Instantiate Airport Data list
             List<Parking> Airport = new List<Parking>();

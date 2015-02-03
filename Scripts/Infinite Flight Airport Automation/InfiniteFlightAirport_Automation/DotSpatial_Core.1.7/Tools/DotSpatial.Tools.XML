@@ -1,0 +1,3056 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotSpatial.Tools</name>
+    </assembly>
+    <members>
+        <member name="T:DotSpatial.Tools.BitmapResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.BitmapResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.BitmapResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.BufferTool">
+            <summary>
+            This tool provides access to buffer functionality native to DotSpatial.Features. 
+            DotSpatial tools are intended to be used through the DotSpatial toolbox or modeler.
+            To perform buffer analysis through code, consider using DotSpatial.Feature.Buffer directly.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.BufferTool.#ctor">
+            <summary>
+            Create a new instance of the buffer tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.BufferTool.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured, the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.BufferTool.Initialize">
+            <summary>
+            Inititalize input and output arrays with parameter types and default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.BufferTool.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array. 
+            Number of parameter and parameter types are defined during initialize. 
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.BufferTool.OutputParameters">
+            <summary>
+            Gets or Sets the input paramater array. 
+            Number of parameter and parameter types are defined during initialize. 
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.ClipRasterWithPolygon">
+            <summary>
+            Clip With Polygon
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipRasterWithPolygon.#ctor">
+            <summary>
+            Initializes a new instance of the ClipRasterWithPolygon class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipRasterWithPolygon.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipRasterWithPolygon.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipRasterWithPolygon.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipRasterWithPolygon.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RandomGeometryTool">
+            <summary>
+            This tool provides access to the random geometry functionality in DotSpatial.Analysis.RandomGeometry.
+            DotSpatial tools are intended to be used through the DotSpatial toolbox or modeler.
+            To perform buffer analysis through code, consider using DotSpatial.Analysis.RandomGeometry directly.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RandomGeometryTool.#ctor">
+            <summary>
+            Create a new instance of the RandomGeometry tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RandomGeometryTool.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the random geometry tool, returning true when it has completed.
+            </summary>
+            <param name="cancelProgressHandler"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RandomGeometryTool.Initialize">
+            <summary>
+            Inititalize input and output arrays with parameter types and default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RandomGeometryTool.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array. 
+            Number of parameter and parameter types are defined during initialize. 
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RandomGeometryTool.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array. 
+            Number of parameter and parameter types are defined during initialize. 
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterBinTool">
+            <summary>
+            Raster Slope
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterBinTool.#ctor">
+            <summary>
+            Initializes a new instance of the RasterBinTool class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterBinTool.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterBinTool.Execute(DotSpatial.Data.IRaster,System.Double,System.Double,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the slope generation raster.
+            </summary>
+            <param name="source">The input altitude raster.</param>
+            <param name="baseValue">The double precision base value.</param>
+            <param name="binSize">The double size of the output bin.</param>
+            <param name="result">The output slope raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>True if the method worked.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterBinTool.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterBinTool.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the parameters value has been changed, usually when a user changes a input or output Parameter value, this can be used to populate input2 Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterBinTool.InputParameters">
+            <summary>
+            Gets or Sets the input parameter array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterBinTool.OutputParameters">
+            <summary>
+            Gets or Sets the output parameter array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterFromLAS">
+            <summary>
+            Raster Add
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterFromLAS.#ctor">
+            <summary>
+            Initializes a new instance of the RasterFromLAS class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterFromLAS.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if successful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterFromLAS.Execute(System.String,DotSpatial.Data.Extent,System.Int32,System.Int32,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the RasterFromLAS tool.
+            </summary>
+            <param name="filenameLAS">The string filename of the LAS file to convert.</param>
+            <param name="outputExtent">The extent of the output raster.</param>
+            <param name="numRows">The integer number of rows of the output raster.</param>
+            <param name="numColumns">The integer number of columns.</param>
+            <param name="output">The output raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterFromLAS.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterFromLAS.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the parameters value has been changed, usually when a user changes a input or
+            output Parameter value, this can be used to populate input2 Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterFromLAS.InputParameters">
+            <summary>
+            Gets or Sets the input parameter array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterFromLAS.OutputParameters">
+            <summary>
+            Gets or Sets the output parameter array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterMagic">
+            <summary>
+            Used to consolidate duplicate code across multiple tools.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMagic.#ctor">
+            <summary>
+            Initializes a new instance of the RasterMagic class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMagic.#ctor(DotSpatial.Tools.RasterMagic.OperationDelegate)">
+            <summary>
+            Initializes a new instance of the RasterMagic class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMagic.UnionEnvelope(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster)">
+            <summary>
+            Expands the first envelope to include the second.
+            </summary>
+            <param name="input1">The first input raster to union the envelope for.</param>
+            <param name="input2">The second input raster to union the envelope for.</param>
+            <returns>The expanded envelope.</returns>
+        </member>
+        <member name="T:DotSpatial.Tools.Voronoi">
+            <summary>
+            Class for creating voronoi (Thiessen) polygons
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Voronoi.#ctor">
+            <summary>
+            Creates a new instance of the voronoi polygon tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Voronoi.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Voronoi.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Voronoi.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Voronoi.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterToPolygon">
+            <summary>
+            Raster to Polygon tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterToPolygon.#ctor">
+            <summary>
+            Initializes a new instance of the RasterToPolygon class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterToPolygon.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterToPolygon.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Create polygons from raster.
+            </summary>
+            <param name="input">The Polygon Raster(Grid file).</param>
+            <param name="output">The Polygon shapefile path.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterToPolygon.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Create polygons from raster.
+            </summary>
+            <param name="input">The Polygon Raster(Grid file).</param>
+            <param name="connectionGrid">Connection Grid.</param>
+            <param name="output">The Polygon shapefile path.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterToPolygon.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterToPolygon.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterToPolygon.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.ReprojectFeatureSet">
+            <summary>
+            Reproject Feature Set
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReprojectFeatureSet.#ctor">
+            <summary>
+            Initializes a new instance of the ReprojectFeatureSet class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReprojectFeatureSet.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if successful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReprojectFeatureSet.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Projections.ProjectionInfo,DotSpatial.Projections.ProjectionInfo,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the ReprojectFeatureSet Operation tool programaticaly.
+            </summary>
+            <param name="featureSet">The input FeatureSet.</param>
+            <param name="sourceProjection">The input Expression string to select features to Delete.</param>
+            <param name="destProjection">The target projected coordinate system to reproject the featureset to</param>
+            <param name="output">The output FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            Ping deleted "static" for external testing
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ReprojectFeatureSet.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReprojectFeatureSet.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the parameters value has been changed, usually when a user changes a input or output
+            parameters value, this can be used to populate input2 parameters default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ReprojectFeatureSet.InputParameters">
+            <summary>
+            Gets or Sets the input parameter array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ReprojectFeatureSet.OutputParameters">
+            <summary>
+            Gets or Sets the output parameter array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.FindAverageSlope">
+            <summary>
+            A tool for finding the average slope
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FindAverageSlope.#ctor">
+            <summary>
+            Initializes a new instance of the FindAverageSlope class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FindAverageSlope.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FindAverageSlope.Execute(DotSpatial.Data.IRaster,System.Double,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Finds the average slope in the given polygons.
+            </summary>
+            <param name="ras">The dem Raster(Grid file).</param>
+            <param name="zFactor">The scaler factor</param>
+            <param name="poly">The flow poly shapefile path.</param>
+            <param name="output">The resulting DEM of slopes</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.FindAverageSlope.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FindAverageSlope.Slope(DotSpatial.Data.IRaster@,System.Double,System.Boolean,DotSpatial.Data.IRaster@,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the slope generation raster.
+            </summary>
+            <param name="ras">The input altitude raster.</param>
+            <param name="inZFactor">The multiplicitive scaling factor for elveation.</param>
+            <param name="slopeInPercent">Boolean that is true if the slope values should be returned as percentages.</param>
+            <param name="result">The output slope raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+        <member name="P:DotSpatial.Tools.FindAverageSlope.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.FindAverageSlope.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented">
+            <summary>
+            Find the slope
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.#ctor">
+            <summary>
+            Initializes a new instance of the FindAverageSlopeExtented class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.Execute(DotSpatial.Data.IRaster,System.Double,System.Boolean,DotSpatial.Data.IFeatureSet,System.String,DotSpatial.Data.IFeatureSet,System.Int32,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Finds the average slope in the given polygons with more user preferences.
+            </summary>
+            <param name="ras">The dem Raster(Grid file).</param>
+            <param name="inZFactor">The scaler factor</param>
+            <param name="slopeInPercent">The slope in percentage.</param>
+            <param name="poly">The flow poly shapefile path.</param>
+            <param name="fldInPolyToStoreSlope">The field name to store average slope in the attribute.</param>
+            <param name="outerShpFile">The Featureset where we have the area of interest</param>
+            <param name="outerShpIndex">The index of featureset which give paticular area of interest.</param>
+            <param name="output">The path to save created slope Feature set.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.Slope(DotSpatial.Data.IRaster,System.Double,System.Boolean,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the slope generation raster.
+            </summary>
+            <param name="ras">The input altitude raster.</param>
+            <param name="inZFactor">A multiplicative scaling factor to be applied to the elevation values before calculating the slope.</param>
+            <param name="slopeInPercent">If this is true, the slope is returned as a percentage.</param>
+            <param name="result">The output slope raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+        </member>
+        <member name="P:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Terrain_Analysis.FindAverageSlopeExtented.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.TextStrings">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.addallfeatures">
+            <summary>
+              Looks up a localized string similar to This will add all features of input with attributes..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddFeature">
+            <summary>
+              Looks up a localized string similar to Add Feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddFeatureDescription">
+            <summary>
+              Looks up a localized string similar to This will add Feature in the Feature Set..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddFeatureintheFeatureSet">
+            <summary>
+              Looks up a localized string similar to Add Feature in the FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddRasterLayers">
+            <summary>
+              Looks up a localized string similar to Add Raster Layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddTwoRasteLayer">
+            <summary>
+              Looks up a localized string similar to This will Add Two Raster  Layer cell by cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AddtwoRasterLayers">
+            <summary>
+              Looks up a localized string similar to Add two Raster Layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Aggregate">
+            <summary>
+              Looks up a localized string similar to Aggregate.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AggregateToollip">
+            <summary>
+              Looks up a localized string similar to Aggregate features combines all the features in the featureset to form a single feature..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Analysis">
+            <summary>
+              Looks up a localized string similar to Analysis.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Area">
+            <summary>
+              Looks up a localized string similar to Area.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AreaDescription">
+            <summary>
+              Looks up a localized string similar to This tool calculates the area of each polygon in a polygon feature set and appends the results to the Output feature sets attribute table..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AreaToolTip">
+            <summary>
+              Looks up a localized string similar to Calculates the area of polygons.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.averageslopeinarribute">
+            <summary>
+              Looks up a localized string similar to The average slope will calculate and add in every polygon in its arribute.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.AveSlope">
+            <summary>
+              Looks up a localized string similar to Ave_Slope.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.BaseFeatureSet">
+            <summary>
+              Looks up a localized string similar to Base Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.BinToolDescription">
+            <summary>
+              Looks up a localized string similar to This bins the values of a raster so that there will be large regions of equal values..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.boxSlopeInPercentage">
+            <summary>
+              Looks up a localized string similar to box Slope In Percentage.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Buffer">
+            <summary>
+              Looks up a localized string similar to Buffer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.BufferDescription">
+            <summary>
+              Looks up a localized string similar to This will add the buffer Polygon FeatureSet with Specified Distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.BufferDistance">
+            <summary>
+              Looks up a localized string similar to Buffer Distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Bufferwithdistance">
+            <summary>
+              Looks up a localized string similar to Buffer with distance around input..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.CalculateAreas">
+            <summary>
+              Looks up a localized string similar to Calculate Areas.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Calculateseuclideandistance">
+            <summary>
+              Looks up a localized string similar to Calculates the euclidean distance from each raster cell to the nearest target cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.CalculateSlopegivenpolygons">
+            <summary>
+              Looks up a localized string similar to Calculate Average Slope for given polygons..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Calculatesproximitydistance">
+            <summary>
+              Looks up a localized string similar to Calculates the distance (proximity) from each cell to the nearest target cell. By default, all.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.CellSize">
+            <summary>
+              Looks up a localized string similar to Cel lSize.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ChangeCellSize">
+            <summary>
+              Looks up a localized string similar to Change Cell Size.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ChildFeatureSet">
+            <summary>
+              Looks up a localized string similar to Child Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Clipbounds">
+            <summary>
+              Looks up a localized string similar to Clip bounds.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ClipFeatureSetWithPolygon">
+            <summary>
+              Looks up a localized string similar to Clip Feature Set With Polygon.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ClipGridswithPolygon">
+            <summary>
+              Looks up a localized string similar to This will Clip Grids with Polygon Shape File.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Clippedfeatureset">
+            <summary>
+              Looks up a localized string similar to Clipped feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ClipPolygonwithLine">
+            <summary>
+              Looks up a localized string similar to Clip Polygon with Line.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ClipRasterLayer">
+            <summary>
+              Looks up a localized string similar to Clip Raster Layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ClipRasterLayerwithPolygon">
+            <summary>
+              Looks up a localized string similar to Clip Raster Layer with Polygon.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Clipslayerwithlayer">
+            <summary>
+              Looks up a localized string similar to Clips a layer with another layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.computethevoronoidiagram">
+            <summary>
+              Looks up a localized string similar to This too uses the Fortune algorithm to compute the voronoi diagram for a given set of points.  In this diagram, every polygon represents the region where any point inside that polygon is closer to the original point in that polygon than it is to any other point..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Conversion">
+            <summary>
+              Looks up a localized string similar to Conversion.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Convertedfeatureset">
+            <summary>
+              Looks up a localized string similar to Converted feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ConvertingLAS">
+            <summary>
+              Looks up a localized string similar to Converting LAS points from.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.CreateVoronoiPolygons">
+            <summary>
+              Looks up a localized string similar to Create Voronoi Polygons.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DeleteFeatures">
+            <summary>
+              Looks up a localized string similar to Delete Features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DeleteFeaturesDescription">
+            <summary>
+              Looks up a localized string similar to This will delete Features from FeatureSet..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DeleteFeaturesfromFeatureSet">
+            <summary>
+              Looks up a localized string similar to Delete Features from FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.deleteuserselectedFeatures">
+            <summary>
+              Looks up a localized string similar to This will delete user selected Features from FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DesiredCellSize">
+            <summary>
+              Looks up a localized string similar to Desired Cell Size or 0 to automatically calculate cell size.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DesiredOutputProjection">
+            <summary>
+              Looks up a localized string similar to Desired Output Projection.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DisplayingistheOldCellHight">
+            <summary>
+              Looks up a localized string similar to Displaying is the Old Cell Hight. input New value for &apos;change&apos; or leave that for &apos;no change&apos;.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DotSpatialDevelopmentTeam">
+            <summary>
+              Looks up a localized string similar to DotSpatial Development Team.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DotSpatialRasterFromLAS">
+            <summary>
+              Looks up a localized string similar to DotSpatial RasterFromLAS.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DouglasPeuckerlinesimplification">
+            <summary>
+              Looks up a localized string similar to This tool reduces the number of points on polylines using the Douglas-Peucker line simplification algorithm.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.DPlinesimplification">
+            <summary>
+              Looks up a localized string similar to DP line simplification.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.EliminateSecondFeatureset">
+            <summary>
+              Looks up a localized string similar to This will eliminate Second featureset from first featureset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Erase">
+            <summary>
+              Looks up a localized string similar to Erase.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Erase2ndinput">
+            <summary>
+              Looks up a localized string similar to Erase 2nd input from 1st input.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ErasedResultFeatureSet">
+            <summary>
+              Looks up a localized string similar to Erased Result Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Exceptioninclipin">
+            <summary>
+              Looks up a localized string similar to Exception in Executer the polygon cliping with line.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ExpressionSelectFeatures">
+            <summary>
+              Looks up a localized string similar to Expression to Select the Features from Featureset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.featuresetcontainareainterest">
+            <summary>
+              Looks up a localized string similar to This feature set contain the area of interest where the average slope want to calculate..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.featuresetcreated">
+            <summary>
+              Looks up a localized string similar to The feature set created from converting the raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Featuresettoclip">
+            <summary>
+              Looks up a localized string similar to Feature set to clip.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FeatureToRaster">
+            <summary>
+              Looks up a localized string similar to Feature To Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FeatureToRasterDescription">
+            <summary>
+              Looks up a localized string similar to This will generate a new raster from given Polygon..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Fieldnamecolomavrageslope">
+            <summary>
+              Looks up a localized string similar to Field name for average slope which will add new colom in the attribute.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Fieldnameforavrageslope">
+            <summary>
+              Looks up a localized string similar to Field name for average slope..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FindAverageSlope">
+            <summary>
+              Looks up a localized string similar to Find Average Slope.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FindAverageSlopeDescription">
+            <summary>
+              Looks up a localized string similar to This will Generate the average slope in the given polygons..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FindAverageSlopeExtentedDescription">
+            <summary>
+              Looks up a localized string similar to Calculate Average Slope for given polygons with more user preference.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FindAvrageSlopeExtented">
+            <summary>
+              Looks up a localized string similar to Find Average Slope Extented...
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FixedCount">
+            <summary>
+              Looks up a localized string similar to Fixed Count.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FixedDistance">
+            <summary>
+              Looks up a localized string similar to Fixed Distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.FixedDistanceHelpText">
+            <summary>
+              Looks up a localized string similar to Fixed Distance: When using fixed distance if the minimum number of points is not found within the search radius it is increased until the minimum is found. Enter 0 for no minimum count.\n\nFixedCount: When using fixed count the maximum number of points will be used as long as they fall within the maximum search radius..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Generalization">
+            <summary>
+              Looks up a localized string similar to Generalization.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Generateaverageslopewithpreferences">
+            <summary>
+              Looks up a localized string similar to This will Generate the average slope in the given polygons with more user preferences..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GenerateCentroid">
+            <summary>
+              Looks up a localized string similar to Generate Centroid.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GenerateCentroidDescription">
+            <summary>
+              Looks up a localized string similar to This will generate centroid FeatureSet from input FeatureSet..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.generatecentroidFeatureSet">
+            <summary>
+              Looks up a localized string similar to This will generate centroid FeatureSet from input FeatureSet..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GenerateCentroidfrominputFeatureSet">
+            <summary>
+              Looks up a localized string similar to Generate Centroid from input FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GenerateRasterfromPolygon">
+            <summary>
+              Looks up a localized string similar to This will Generate Raster from given Polygon..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GenerateslopeRasterLayer">
+            <summary>
+              Looks up a localized string similar to Generate slope Raster Layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.GeographicExtent">
+            <summary>
+              Looks up a localized string similar to The geographic extent for the output raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Givenafeatureset">
+            <summary>
+              Looks up a localized string similar to Given a feature set, this will combine all of the features into a single shape.  Polygons that touch will lose the separation boundaries..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.HelpLASTool">
+            <summary>
+              Looks up a localized string similar to Converts the point elevations in a LAS file to a Raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.IDWDescription">
+            <summary>
+              Looks up a localized string similar to This tool creates a raster from a point feature set using Inverse Distance Weighting..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Index">
+            <summary>
+              Looks up a localized string similar to Index.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.IndexNotoOverwrite">
+            <summary>
+              Looks up a localized string similar to Index No to Overwrite Feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Indexofareaofinterestfeature">
+            <summary>
+              Looks up a localized string similar to Index of area of interest feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.indexspecificarea">
+            <summary>
+              Looks up a localized string similar to This is the index which give the specific area of interest feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1altitudeRaster">
+            <summary>
+              Looks up a localized string similar to input1 altitude Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1FeatureSet">
+            <summary>
+              Looks up a localized string similar to input1 Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1polygonfeatureset">
+            <summary>
+              Looks up a localized string similar to input1 polygon feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1PolygonShapefile">
+            <summary>
+              Looks up a localized string similar to input1 Polygon Shape file..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1polygontoRaster">
+            <summary>
+              Looks up a localized string similar to input1 polygon to Raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input1Raster">
+            <summary>
+              Looks up a localized string similar to Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input2FeatureSettoAdd">
+            <summary>
+              Looks up a localized string similar to Feature Set to Add.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input2FeatureSettoOverwrite">
+            <summary>
+              Looks up a localized string similar to Feature Set to Overwrite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input2LineforCliping">
+            <summary>
+              Looks up a localized string similar to Line for Clipping.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input2PolygonforCliping">
+            <summary>
+              Looks up a localized string similar to Polygon for Clipping.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.input2Raster">
+            <summary>
+              Looks up a localized string similar to Second Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSet">
+            <summary>
+              Looks up a localized string similar to Input Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSetaddnewfeatures">
+            <summary>
+              Looks up a localized string similar to Input FeatureSet which has new features to add.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSettobeoverwrite">
+            <summary>
+              Looks up a localized string similar to Input FeatureSet which has new feature to be overwrite.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSettodelete">
+            <summary>
+              Looks up a localized string similar to Input FeatureSet to delete features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSettogenerate">
+            <summary>
+              Looks up a localized string similar to Input FeatureSet to generate Centroid features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFeatureSettoreproject">
+            <summary>
+              Looks up a localized string similar to Input FeatureSet to reproject.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputFirstRaster">
+            <summary>
+              Looks up a localized string similar to Input First Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Inputlineforcliping">
+            <summary>
+              Looks up a localized string similar to Input line for cliping.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputnewcellHight">
+            <summary>
+              Looks up a localized string similar to Input new cell Hight.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputnewcellWidth">
+            <summary>
+              Looks up a localized string similar to Input new cell Width.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputPolygonforCliping">
+            <summary>
+              Looks up a localized string similar to Input Polygon for Cliping.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputPolygonforclipingtoRaster">
+            <summary>
+              Looks up a localized string similar to Input Polygon for cliping to Raste.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputPolygontochange">
+            <summary>
+              Looks up a localized string similar to Input Polygon to change to Raster featureset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.inputRaster">
+            <summary>
+              Looks up a localized string similar to input Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputRastercontainingtargetcells">
+            <summary>
+              Looks up a localized string similar to Input Raster containing the target cells.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputRasterforaverageslopecalculation">
+            <summary>
+              Looks up a localized string similar to Input Raster for average slope calculation.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputRasterforCliping">
+            <summary>
+              Looks up a localized string similar to Input Raster for Cliping.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputRasternoValue">
+            <summary>
+              Looks up a localized string similar to Input the Raster for No Data Value Change.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.inputrastetoconvert">
+            <summary>
+              Looks up a localized string similar to The input raster to convert into a polygon featureset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputSecondRasterforAdding">
+            <summary>
+              Looks up a localized string similar to Input Second Raster for Adding.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputSecondRasterforMerging">
+            <summary>
+              Looks up a localized string similar to Input Second Raster for Merging.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputSecondRasterforMultiply">
+            <summary>
+              Looks up a localized string similar to Input Second Raster for Multiply.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputSecondRasterforSubtract">
+            <summary>
+              Looks up a localized string similar to Input Second Raster for Subtract.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.inputtheareaofinterest">
+            <summary>
+              Looks up a localized string similar to input the area of interest.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputtheRasterforCellsizeChange">
+            <summary>
+              Looks up a localized string similar to Input the Raster for Cell size Change.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.inputZfactor">
+            <summary>
+              Looks up a localized string similar to input Z factor.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InputZfactorforslopedisplay">
+            <summary>
+              Looks up a localized string similar to Input Z factor for slope display.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Interpolation">
+            <summary>
+              Looks up a localized string similar to Interpolation.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.InverseDistanceWeighting">
+            <summary>
+              Looks up a localized string similar to Inverse Distance Weighting.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ISU">
+            <summary>
+              Looks up a localized string similar to ISU.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.lasFilename">
+            <summary>
+              Looks up a localized string similar to lasFilename.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.LasFullpath">
+            <summary>
+              Looks up a localized string similar to Enter the full path value of the LAS filename..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.layercontainsvalues">
+            <summary>
+              Looks up a localized string similar to The field in the input point feature set layer that contains the values to interpolate..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.LineFeatureSet">
+            <summary>
+              Looks up a localized string similar to Line Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MainFeatureset">
+            <summary>
+              Looks up a localized string similar to Main Feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindow_Tools">
+            <summary>
+              Looks up a localized string similar to MapWindow.Tools.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowAddFeature">
+            <summary>
+              Looks up a localized string similar to MapWindow Add Feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowAggregate">
+            <summary>
+              Looks up a localized string similar to MapWindow Aggregate.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowBuffer">
+            <summary>
+              Looks up a localized string similar to MapWindow Buffer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowCalculateAreas">
+            <summary>
+              Looks up a localized string similar to MapWindow Calculate Areas.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowChangeCellSize">
+            <summary>
+              Looks up a localized string similar to MapWindow Change Cell Size.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowChangeNoDataValues">
+            <summary>
+              Looks up a localized string similar to MapWindow Change No Data Values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowClip">
+            <summary>
+              Looks up a localized string similar to MapWindow Clip.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowDeleteFeatures">
+            <summary>
+              Looks up a localized string similar to MapWindow Delete Features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowErase">
+            <summary>
+              Looks up a localized string similar to MapWindow Erase.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowFeatureToRaster">
+            <summary>
+              Looks up a localized string similar to MapWindow FeatureToRaster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowFindAverageSlope">
+            <summary>
+              Looks up a localized string similar to MapWindow FindAverageSlope.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowFindAverageSlopeExtented">
+            <summary>
+              Looks up a localized string similar to MapWindow FindAverageSlope Extented...
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowGenerateCentroid">
+            <summary>
+              Looks up a localized string similar to MapWindow Generate Centroid.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowInverseDistance">
+            <summary>
+              Looks up a localized string similar to MapWindow Inverse Distance Weighting.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowLineSimplification">
+            <summary>
+              Looks up a localized string similar to MapWindow Line Simplification.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowOverWriteFeature">
+            <summary>
+              Looks up a localized string similar to MapWindow OverWrite Feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowPolygonClipWithLine">
+            <summary>
+              Looks up a localized string similar to MapWindow Polygon Clip With Line.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterAdd">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Add.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterClip">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Clip.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterEuclideanDistance">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Euclidean Distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterMerge">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Merge.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterMultiply">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Multiply.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterSlope">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Slope.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowRasterSubtraction">
+            <summary>
+              Looks up a localized string similar to MapWindow Raster Subtraction.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowReprojectFeatures">
+            <summary>
+              Looks up a localized string similar to MapWindow Reproject Features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowSimpeRasterToPolygon">
+            <summary>
+              Looks up a localized string similar to MapWindow SimpeRasterToPolygon.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowTheissenPolygons">
+            <summary>
+              Looks up a localized string similar to MapWindow Theissen Polygons.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowUnion">
+            <summary>
+              Looks up a localized string similar to MapWindow Union.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MapWindowVoronoi">
+            <summary>
+              Looks up a localized string similar to Voronoi.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Maximumdistance">
+            <summary>
+              Looks up a localized string similar to Maximum distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Maximumdistancetobecalculated">
+            <summary>
+              Looks up a localized string similar to Maximum distance to be calculated. Cells with a distance to nearest target greater than &apos;Maximum distance&apos; will be assigned a &apos;no data&apos; value.&quot;;.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MergeGridsDescription">
+            <summary>
+              Looks up a localized string similar to This will Merge Two Raster  Layer cell by cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MergeRasterLayers">
+            <summary>
+              Looks up a localized string similar to Merge Raster Layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MergetwoRasterLayers">
+            <summary>
+              Looks up a localized string similar to Merge two Raster Layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MinMaxdistance">
+            <summary>
+              Looks up a localized string similar to Min / Max distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MinMaxnumberofpoints">
+            <summary>
+              Looks up a localized string similar to Min / Max number of points.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.MultiplyRasterLayers">
+            <summary>
+              Looks up a localized string similar to Multiply Raster Layers.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Multiplytworasters">
+            <summary>
+              Looks up a localized string similar to This will Multiply two rasters values cell by cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.NeighborhoodType">
+            <summary>
+              Looks up a localized string similar to Neighborhood Type.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Newnumberofpoints">
+            <summary>
+              Looks up a localized string similar to New number of points:.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.newrastername">
+            <summary>
+              Looks up a localized string similar to The new raster will put on the Output raster name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.newrasteronspecifiedfeatureset">
+            <summary>
+              Looks up a localized string similar to Creates a new raster based on the specified featureset using the specified field to determine distinct polygons and assign the raster values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.NoDataValueChange">
+            <summary>
+              Looks up a localized string similar to No Data Value Change .
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.NoDataValueChangeDescription">
+            <summary>
+              Looks up a localized string similar to This will Change the No Data Values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.numberofcolums">
+            <summary>
+              Looks up a localized string similar to The number of columns to create in the output raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.numberofrows">
+            <summary>
+              Looks up a localized string similar to The number of rows to create in the output image..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.NumColumns">
+            <summary>
+              Looks up a localized string similar to NumColumns.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.NumRows">
+            <summary>
+              Looks up a localized string similar to NumRows.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Oneparameterinnull">
+            <summary>
+              Looks up a localized string similar to One of the parameter layers in null.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Optional">
+            <summary>
+              Looks up a localized string similar to Optional - leave default for NoDataValue or input Exsisting Value.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Optionaltochange">
+            <summary>
+              Looks up a localized string similar to This is Optional where User want to change the Value to other Value. Defalt will be No Data Value change.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Originalnumberofpoints">
+            <summary>
+              Looks up a localized string similar to Original number of points:.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OutputFeatureSet">
+            <summary>
+              Looks up a localized string similar to Output FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Outputfeaturesetwithaverageslope">
+            <summary>
+              Looks up a localized string similar to Output feature set with average slope..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OutputPolygonFeatureSet">
+            <summary>
+              Looks up a localized string similar to Output Polygon Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OutputRaster">
+            <summary>
+              Looks up a localized string similar to Output Raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OutputShapefile">
+            <summary>
+              Looks up a localized string similar to Output Shapefile.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OutputslopeRaster">
+            <summary>
+              Looks up a localized string similar to Output slope Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Outputwithaverageslope">
+            <summary>
+              Looks up a localized string similar to Output feature set with average slope..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OverWriteFeature">
+            <summary>
+              Looks up a localized string similar to OverWrite Feature.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OverWriteFeaturebyindex">
+            <summary>
+              Looks up a localized string similar to This will OverWrite Feature in the FeatureSet reference by index.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OverWriteFeatureDescription">
+            <summary>
+              Looks up a localized string similar to This will OverWrite Feature in the FeatureSet..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.OverWriteFeatureintheFeatureSet">
+            <summary>
+              Looks up a localized string similar to OverWrite Feature in the FeatureSet.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Pass1">
+            <summary>
+              Looks up a localized string similar to Pass 1:.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Pass2">
+            <summary>
+              Looks up a localized string similar to Pass 2:.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.PointFeatureSet">
+            <summary>
+              Looks up a localized string similar to Point Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.PolygonFeatureSet">
+            <summary>
+              Looks up a localized string similar to Polygon Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Power">
+            <summary>
+              Looks up a localized string similar to Power.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.progresscompleted">
+            <summary>
+              Looks up a localized string similar to % progress completed.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Progresstoraster">
+            <summary>
+              Looks up a localized string similar to toraster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RandomGeometry">
+            <summary>
+              Looks up a localized string similar to Random Points.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RandomGeometryDescription">
+            <summary>
+              Looks up a localized string similar to Generate any number of randomly placed points within a specified area of the map..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RandomGeometryNumPoint">
+            <summary>
+              Looks up a localized string similar to The number of points to generate..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RandomGeometryToolTip">
+            <summary>
+              Looks up a localized string similar to Select an area from the map and specify the number of points to generate inside of it..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Raster">
+            <summary>
+              Looks up a localized string similar to Raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterDistance">
+            <summary>
+              Looks up a localized string similar to Raster Distance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterDistanceproximity">
+            <summary>
+              Looks up a localized string similar to Raster Distance (proximity).
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterExtent">
+            <summary>
+              Looks up a localized string similar to Raster Extent.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterFromLAS">
+            <summary>
+              Looks up a localized string similar to Raster From LAS.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterMultiplyDescription">
+            <summary>
+              Looks up a localized string similar to This will Multiply two rasters values cell by cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterOverlay">
+            <summary>
+              Looks up a localized string similar to Raster Overlay.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterSlopeDescription">
+            <summary>
+              Looks up a localized string similar to This will Generate slope raster from given altitude raster..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterSubractDescription">
+            <summary>
+              Looks up a localized string similar to This will Subtract second raster from first raster cell by cell.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterToPolygon">
+            <summary>
+              Looks up a localized string similar to Raster To Polygon.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RasterToPolygonDescription">
+            <summary>
+              Looks up a localized string similar to This will generate a polygon featureset from a raster.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RemoveFeatureSet">
+            <summary>
+              Looks up a localized string similar to Remove Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ReprojectFeatures">
+            <summary>
+              Looks up a localized string similar to Reproject Features.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ReprojectFeatureSetDescription">
+            <summary>
+              Looks up a localized string similar to This will reproject the specified featureset to a new coordinate system.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Reprojectsallcoordinates">
+            <summary>
+              Looks up a localized string similar to Reprojects all the coordinates in the featureset to the specified coordinate system.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ReSampleGridDescription">
+            <summary>
+              Looks up a localized string similar to This will Change the cell size.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Resultofaverageslope">
+            <summary>
+              Looks up a localized string similar to Select the Result of Output feature set with average slope in the attribute..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ResultRasterDirectory">
+            <summary>
+              Looks up a localized string similar to Select the Result Raster Directory and Name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ResultShapefile">
+            <summary>
+              Looks up a localized string similar to Result Shapefile.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.RraseDescription">
+            <summary>
+              Looks up a localized string similar to This will eliminate Second featureset from first featureset.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SecondFeatureset">
+            <summary>
+              Looks up a localized string similar to Second Feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.secondinputlayer">
+            <summary>
+              Looks up a localized string similar to The second input layer must be a polygon feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SelectFeaturestoDelete">
+            <summary>
+              Looks up a localized string similar to Select Features to Delete.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SelectResultFeatureSetDirectory">
+            <summary>
+              Looks up a localized string similar to Select the Result FeatureSet Directory and Name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SelectresultrasterfileName">
+            <summary>
+              Looks up a localized string similar to Select the result raster file name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SelectResultShapefileDirectory">
+            <summary>
+              Looks up a localized string similar to Select the Result Shapefile Directory and Name.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SelecttheResultofOutput">
+            <summary>
+              Looks up a localized string similar to Select the Result of Output feature set with average slope in the attribute..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Selectthetypeofneighborhood">
+            <summary>
+              Looks up a localized string similar to Select the type of neighborhood to use when searching for point. \n\nFixed Distance: Searches a set distance from a cell for points and uses all of the points that are found to compute a cells value. If there are less points collected then the minimum specified the search radius is expanded until there are suffcient points found. \n\nFixed Count: Searches for the closest points to the cell until the max number of points specified is reached or the maximum distance is reached..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SimplifyLines">
+            <summary>
+              Looks up a localized string similar to Simplify Lines.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Slopegridfileisnull">
+            <summary>
+              Looks up a localized string similar to Slope grid file is null..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.slopeinpercentage">
+            <summary>
+              Looks up a localized string similar to slope in percentage.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.slopeinpercentageindegree">
+            <summary>
+              Looks up a localized string similar to slope in percentage true otherwise it will be in Degree.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SlopeRasterLayer">
+            <summary>
+              Looks up a localized string similar to Slope Raster Layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SourceProjection">
+            <summary>
+              Looks up a localized string similar to Source Projection.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.sourceprojectiondifferent">
+            <summary>
+              Looks up a localized string similar to If the source projection should be different from what is already on the feature set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SpatialReference">
+            <summary>
+              Looks up a localized string similar to Spatial Reference.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Statistics">
+            <summary>
+              Looks up a localized string similar to Statistics.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.stringnameoffield">
+            <summary>
+              Looks up a localized string similar to The string name of the field to use in the data table.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.SubtractRasterLayer">
+            <summary>
+              Looks up a localized string similar to Subtract Raster Layer.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.TerrainAnalysis">
+            <summary>
+              Looks up a localized string similar to Terrain Analysis.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Thecellsizeingeographicunits">
+            <summary>
+              Looks up a localized string similar to The cellsize in the geographic units of the input layer. If 0 the width is calculate as the extent of the input layer divided by 255.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Thedestinationprojection">
+            <summary>
+              Looks up a localized string similar to The destination projection..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Theinfluenceofdistance">
+            <summary>
+              Looks up a localized string similar to The influence of distance points. A higher power reduces the influences of distant points, a lower value increases it..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Themaximumnumber">
+            <summary>
+              Looks up a localized string similar to The maximum number of rows/columns is 8000, so a cell size that is too small will be adjusted.  A zero value calculates the values so that the shorter dimension between width and height will measure 256 cells..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Thevalueofeachcell">
+            <summary>
+              Looks up a localized string similar to The value of each cell will either be assigned the value from this field or will attept to parse the string field member as a number.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ThiessenPolygons">
+            <summary>
+              Looks up a localized string similar to Thiessen Polygons.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Tolerance">
+            <summary>
+              Looks up a localized string similar to Tolerance.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.toolcombinespolygons">
+            <summary>
+              Looks up a localized string similar to This tool combines many different polygons into a single, all encompassing shape, though the shape may have mutliple parts..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.ToolFromLasToRaster">
+            <summary>
+              Looks up a localized string similar to This tool will read in LAS point files and produce raster representations for an area.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.tooltakesafeatureset">
+            <summary>
+              Looks up a localized string similar to This tool takes a feature set and a polygon feature set and clips the first feature set to the are defined by the polygon feature set..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Union">
+            <summary>
+              Looks up a localized string similar to Union.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.UnionDescription">
+            <summary>
+              Looks up a localized string similar to This will add all features of input with attributes..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.UnionFeatureSet">
+            <summary>
+              Looks up a localized string similar to Union Feature Set.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.UnioningShapes">
+            <summary>
+              Looks up a localized string similar to Unioning Shapes.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Unionofinputs">
+            <summary>
+              Looks up a localized string similar to Union of inputs.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.UserinputNewValue">
+            <summary>
+              Looks up a localized string similar to User Can input New Value to replace Old Value.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.UserNewValues">
+            <summary>
+              Looks up a localized string similar to User New Values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.VectorOverlay">
+            <summary>
+              Looks up a localized string similar to Vector Overlay.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.VoronoiDescription">
+            <summary>
+              Looks up a localized string similar to This tool computes voronoi polygons around each of the points, defining the regions that are closer to that point than any other points..
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.TextStrings.Zvalue">
+            <summary>
+              Looks up a localized string similar to Z-value.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.AddFeature">
+            <summary>
+            An add feature tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.AddFeature.#ctor">
+            <summary>
+            Initializes a new instance of the AddFeature class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.AddFeature.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.AddFeature.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the add features Opaeration tool programaticaly.
+            Ping deleted "static" for external Testing
+            </summary>
+            <param name="input1">The input FeatureSet.</param>
+            <param name="input2">The input2 featureSet which has the new features to add.</param>
+            <param name="output">The output FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.AddFeature.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.AddFeature.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.AddFeature.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.DeleteFeatures">
+            <summary>
+            A tool for deleting the features
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DeleteFeatures.#ctor">
+            <summary>
+            Initializes a new instance of the DeleteFeatures class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DeleteFeatures.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DeleteFeatures.Execute(DotSpatial.Data.IFeatureSet,System.String,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Erase Opaeration tool programaticaly.
+            Ping deleted static for external testing 01/2010
+            </summary>
+            <param name="input1">The input FeatureSet.</param>
+            <param name="input2">The input Expression string to select features to Delete.</param>
+            <param name="output">The output FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.DeleteFeatures.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DeleteFeatures.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the paramters value has beend changed, usually when a user changes a input or output parameters value, this can be used to populate input2 parameters default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.DeleteFeatures.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.DeleteFeatures.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Erase">
+            <summary>
+            An Erase tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Erase.#ctor">
+            <summary>
+            Initializes a new instance of the Erase class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Erase.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Erase.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Erase.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Erase.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.ClipPolygonWithLine">
+            <summary>
+            Clip Polygon with line tool
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Tools.ClipPolygonWithLine.FindIntersectionTolerance">
+            <summary>
+             Intersection tolerance for comparing to near 0.0
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.#ctor">
+            <summary>
+            Initializes a new instance of the ClipPolygonWithLine class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Accurate_ClipPolygonWithLine(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            Accurate Clip Polygon with Line
+            </summary>
+            <param name="polygon"></param>
+            <param name="line"></param>
+            <param name="resultFeatureSet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ClipMultiPartPolyWithLine(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@,System.Boolean)">
+            <summary>
+            This will clip MultiPart Polygon with line.
+            </summary>
+            <param name="polygon">Input Polygon.</param>
+            <param name="line">Input Line.</param>
+            <param name="resultFile">Output Featureset.</param>
+            <param name="speedOptimized">The speed optimizer.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ClipPolygonFeatureSetWithPolygon(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeature,DotSpatial.Data.IFeatureSet,System.Boolean)">
+            <summary>
+            Returns the portions of the polygons in polySF that lie within polygon as a
+            new shapefile of polygons: resultPolySF.
+            </summary>
+            <param name="polygonFeatureSet">The shapefile of polygons that are to be clipped.</param>
+            <param name="polygon">The polygon used for clipping.</param>
+            <param name="resultFeatureSet">The result shapefile for the resulting polygons to be saved (in-memory).</param>
+            <param name="copyAttributes">True if copying attrs</param>
+            <returns>False if an error was encountered, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.CombineParts(DotSpatial.Data.IFeature[]@,DotSpatial.Data.IFeature@)">
+            <summary>
+            Takes an array of simple polygons and combines them into one multi-part shape.
+            </summary>
+            <param name="parts">The array of polygons.</param>
+            <param name="resultShp">The resulting multi-part shape.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ConvertPolyToVertexArray(DotSpatial.Data.IFeature@,DotSpatial.Topology.Coordinate[][]@)">
+            <summary>
+            Takes a MapWinGIS polygon shape and stores all x/y coordinates into a vertex array.
+            </summary>
+            <param name="poly">The polygon to be converted.</param>
+            <param name="polyVertArray">The array[numParts][] that will contain the polygon vertices.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.DoClipPolygonWithLine(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            Divides a polygon into multiple sections depending on where a line crosses it. Saves the resulting
+            polygon sections to a new polygon shapefile.
+            </summary>
+            <param name="polygon">The polygon to be divided.</param>
+            <param name="line">The line that will be used to divide the polgyon.</param>
+            <param name="resultSf">The in-memory shapefile where resulting polygons should be saved.</param>
+            <returns>False if an error was encountered, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ErasePolygonShapefileWithPolygonShapefile(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet)">
+            <summary>
+            Removes portions of the input polygon shapefile that are within the erase polygons.
+            </summary>
+            <param name="inputShapefile">The input polygon shapefile.</param>
+            <param name="eraseShapefile">The erase polygon shapefile.</param>
+            <param name="resultShapefile">The resulting shapefile, with portions removed.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Fast_ClipPolygonWithLine(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            For faster clipping of polygons with lines. Limits the finding of intersections to
+            outside->inside or inside->outside 2pt segments. Assumes only one intersections exists
+            per segment, that a segment of two inside points or two outside points will not intersect
+            the polygon.
+            </summary>
+            <param name="polygon">The polygon that will be sectioned by the line.</param>
+            <param name="line">The line that will clip the polygon into multiple parts.</param>
+            <param name="resultFeatureSet">The in-memory shapefile where the polygon sections will be saved.</param>
+            <returns>False if errors are encountered, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.FindAndSortValidIntersects(System.Int32,DotSpatial.Topology.Point[]@,DotSpatial.Topology.Point[]@,DotSpatial.Topology.Point@)">
+            <summary>
+            Sorts all valid intersects in the array intersectPts.
+            </summary>
+            <param name="numIntersects">Expected number of valid intersects.</param>
+            <param name="intersectPts">Array of all possible intersect points.</param>
+            <param name="validIntersects">Array that will contain only the valid intersect points in sorted order.</param>
+            <param name="startPt">The reference point to sort the valid intersect points by.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.FindIntersections(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeature,System.Int32[]@,DotSpatial.Topology.Point[][]@,System.Int32[][]@)">
+            <summary>
+            Find the intersection points of lines that cross a polygon
+            </summary>
+            <param name="lineFeatureSet">The line features</param>
+            <param name="polygon">The polygon feature</param>
+            <param name="intersectsPerLineSeg">Output array of intersection counts</param>
+            <param name="intersectionPts">Output array of intersection points</param>
+            <param name="polyIntersectLocs">Output array of intersection locations in reference to polygon vertex indices</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.FixMultiPartPoly(DotSpatial.Data.IFeature@)">
+            <summary>
+            Determines which shapes are holes and which shapes are islands in
+            a multi-part polygon and fixes their orientations accordingly.
+            </summary>
+            <param name="polygon">The multi-part polygon whose parts need to be checked.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.PtDistance(DotSpatial.Topology.Point@,DotSpatial.Topology.Point@)">
+            <summary>
+            Calculates the distance between two points.
+            </summary>
+            <param name="pt0">The first point.</param>
+            <param name="pt1">The second point.</param>
+            <returns>The distance between pt0 and pt1.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.SeparateParts(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature[]@)">
+            <summary>
+            Separate Parts
+            </summary>
+            <param name="poly"></param>
+            <param name="polyParts"></param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the ClipPolygonWithLine Operation tool programaticaly.
+            Ping deleted static for external testing 01/2010
+            </summary>
+            <param name="input1">The input Polygon FeatureSet.</param>
+            <param name="input2">The input Polyline FeatureSet.</param>
+            <param name="output">The output Polygon FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.Fast_ProcessPartInAndOut(System.Boolean[],DotSpatial.Data.IFeature,DotSpatial.Data.IFeature,DotSpatial.Data.IFeatureSet)">
+            <summary>
+            Given a line that contains portion both inside and outside of the polygon, this
+            function will split the polygon based only on the segments that completely bisect
+            the polygon. It assumes: out->out, and in->in 2pt segments do not intersect the
+            polygon, and out->in, in->out 2pt segments have only one point of intersection.
+            </summary>
+            <param name="insidePts">A boolean array indicating if a point is inside the polygon or not.</param>
+            <param name="line">The line that intersects the polygon.</param>
+            <param name="polygon">The polygon that will be split by the intersecting line.</param>
+            <param name="resultFeatureSet">The shapefile that the polygon sections will be saved to.</param>
+            <returns>False if errors were encountered or an assumption violated, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.FindAndSortValidIntersects(System.Int32,DotSpatial.Topology.Point[]@,DotSpatial.Topology.Point[]@,DotSpatial.Topology.Point@,System.Int32[]@)">
+            <summary>
+            Sorts all valid intersects in the array intersectPts, along with corresponding polygon locations in array polyLoc.
+            </summary>
+            <param name="numIntersects">Expected number of valid intersects.</param>
+            <param name="intersectPts">Array of all possible intersect points.</param>
+            <param name="validIntersects">Array that will contain only the valid intersect points in sorted order.</param>
+            <param name="startPt">The reference point to sort the valid intersect points by.</param>
+            <param name="polyLoc">Array with corresponding indicies to where an intersect pt occurs in polygon.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ProcessAllInside(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            For lines where every point lies within the polygon, this function will
+            find if any 2pt segment crosses through the polygon. If so, it will split
+            the polygon into mutliple parts using the intersecting line segments.
+            </summary>
+            <param name="line">The line whose points are all inside the polygon.</param>
+            <param name="polygon">The polygon being checked for intersection.</param>
+            <param name="resultFeatureSet">The file where new polygon sections should be saved to.</param>
+            <returns>False if errors were encountered, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ProcessAllOutside(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            For lines where every point lies outside the polygon, this function will
+            find if any 2pt segment crosses through the polygon. If so, it will split
+            the polygon into mutliple parts using the intersecting line segments.
+            </summary>
+            <param name="line">The line whose points are all inside the polygon.</param>
+            <param name="polygon">The polygon being checked for intersection.</param>
+            <param name="resultFeatureSet">The file where new polygon sections should be saved to.</param>
+            <returns>False if errors were encountered, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ProcessPartInAndOut(System.Boolean[]@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            Given a line that contains portions both inside and outside of the polygon, this
+            function will split the polygon based only on the segments that completely bisect
+            the polygon. The possibility of mutliple intersections for any 2pt segment is taken
+            into account.
+            </summary>
+            <param name="insidePts">A boolean array indicating if a point is inside the polygon or not.</param>
+            <param name="line">The line that intersects the polygon.</param>
+            <param name="polygon">The polygon that will be split by the intersecting line.</param>
+            <param name="resultFeatureSet">The shapefile that the polygon sections will be saved to.</param>
+            <returns>False if errors were encountered or an assumption violated, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.SectionPolygonWithLine(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,System.Int32,System.Int32,DotSpatial.Data.IFeatureSet@)">
+            <summary>
+            Sections a polygon into multiple parts depending on where line crosses it and if previous sectioning has occured.
+            </summary>
+            <param name="line">The line that splits the polygon. First and last points are intersect points.</param>
+            <param name="polygon">The polygon that is to be split by the line.</param>
+            <param name="polyStart">Index to polygon segment where the first intersect point is found.</param>
+            <param name="polyEnd">Index to polygon segment where last intersect point is found.</param>
+            <param name="resultFeatureSet">Reference to result shapefile where new polygon sections will be saved.</param>
+            <returns>False if an error occurs, true otherwise.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.SortIntersectAndLocationArrays(DotSpatial.Topology.Point@,DotSpatial.Topology.Point[]@,System.Int32[]@)">
+            <summary>
+            Given a reference point to the line, and an array of points that
+            lie along the line, this method sorts the array of points from the point
+            closest to the reference pt to the pt farthest away. It also sorts the corresponding
+            polygon location array so that the indicies refer to the correct intersection point.
+            </summary>
+            <param name="startPt">Point in line segment used as reference.</param>
+            <param name="intersectPts">Array of points that lie on the same line as startPt.</param>
+            <param name="polyLoc">Array indexing where in polygon an intersect occurs.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.SortPointsArray(DotSpatial.Topology.Point@,DotSpatial.Topology.Point[]@)">
+            <summary>
+            Given a reference point to the line, and an array of points that
+            lie along the line, this method sorts the array of points from the point
+            closest to the reference pt to the pt farthest away.
+            </summary>
+            <param name="startPt">Point in line segment used as reference.</param>
+            <param name="intersectPts">Array of points that lie on the same line as startPt.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.SplitPolyInTwo(DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,System.Int32,System.Int32,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@)">
+            <summary>
+            Splits original polygon into two portions depending on where line crosses it.
+            </summary>
+            <param name="line">The line the crosses the polygon. First and last points are intersects.</param>
+            <param name="polygon">The polygon that is split by the line.</param>
+            <param name="beginPolySeg">The section of the polygon where the first intersect point is found.</param>
+            <param name="endPolySeg">The section of the polygon where the last intersect point is found.</param>
+            <param name="poly1">First portion of polygon returned after splitting.</param>
+            <param name="poly2">Second portion of polygon returned after splitting.</param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.TurboDeterm(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Calculates the determinant of a 3X3 matrix, where the first two rows
+            represent the x, y values of two lines, and the third row is (1 1 1).
+            </summary>
+            <param name="elem11">The first element of the first row in the matrix.</param>
+            <param name="elem12">The second element of the first row in the matrix.</param>
+            <param name="elem13">The third element of the first row in the matrix.</param>
+            <param name="elem21">The first element of the second row in the matrix.</param>
+            <param name="elem22">The second element of the second row in the matrix.</param>
+            <param name="elem23">The third element of the second row in the matrix.</param>
+            <returns>The determinant of the matrix.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.RemoveDuplicateFeaturesFromFeatureSet(DotSpatial.Data.IFeatureSet@)">
+             <summary>
+            
+             </summary>
+             <param name="resultFeatureSet"></param>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithLine.ProcessPartInAndOutWithWholeLine(System.Boolean[]@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeature@,DotSpatial.Data.IFeatureSet@,System.Int32,System.Int32,DotSpatial.Topology.Point[][],System.Int32[][],System.Int32,System.Collections.Generic.List{DotSpatial.Data.IFeature},System.Collections.Generic.List{DotSpatial.Topology.Coordinate})">
+             <summary>
+            
+             </summary>
+             <param name="insidePts"></param>
+             <param name="line"></param>
+             <param name="polygon"></param>
+             <param name="resultFeatureSet"></param>
+             <param name="numIntersects"></param>
+             <param name="numLineSegs"></param>
+             <param name="intersectPts"></param>
+             <param name="polyIntLocs"></param>
+             <param name="numPolyPts"></param>
+             <param name="colLineParts"></param>
+             <param name="colPolyIntLocPoints"></param>
+             <returns></returns>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipPolygonWithLine.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipPolygonWithLine.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterSlope">
+            <summary>
+            Raster Slope
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSlope.#ctor">
+            <summary>
+            Initializes a new instance of the RasterSlope class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSlope.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSlope.Execute(DotSpatial.Data.IRaster,System.Double,System.Boolean,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the slope generation raster.
+            </summary>
+            <param name="ras">The input altitude raster.</param>
+            <param name="inZFactor">A multiplicative scaling factor to be applied to the elevation values before calculating the slope.</param>
+            <param name="slopeInPercent">If this is true, the resulting slopes are returned as percentages.</param>
+            <param name="output">The output slope raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>True if the method worked.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSlope.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterSlope.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterSlope.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Aggregate">
+            <summary>
+            Union all of the features from one polygon feature set into a single polygon.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Aggregate.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DotSpatial.Tools.Aggregate"/> class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Aggregate.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameters have been configured, the Execute command can be called, it returns true if succesful.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Aggregate.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Union Opaeration tool programaticaly
+            </summary>
+            <param name="sourceData">The source FeatureSet to aggregate the features for..</param>
+            <param name="resultData">The result FeatureSet of aggregated features..</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean if the result is true.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.Aggregate.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Aggregate.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Aggregate.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.MergeGrids">
+            <summary>
+            Merge Grids
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.MergeGrids.#ctor">
+            <summary>
+            Initializes a new instance of the MergeGrids class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.MergeGrids.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.MergeGrids.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Erase Opaeration tool programaticaly
+            Ping deleted static for external testing 01/2010.
+            </summary>
+            <param name="input1">The first input raster.</param>
+            <param name="input2">The second input raster.</param>
+            <param name="output">The output raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the merge is successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.MergeGrids.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.MergeGrids.UnionEnvelope(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster)">
+            <summary>
+            Execute the union region for output envelope.
+            </summary>
+            <param name="input1">the first input raster to union the envelope for.</param>
+            <param name="input2">input second input raster to union the envelope for.</param>
+            <returns>The combined envelope.</returns>
+        </member>
+        <member name="P:DotSpatial.Tools.MergeGrids.HelpText">
+            <summary>
+            Help text to be displayed when no input field is selected
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.MergeGrids.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.MergeGrids.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.NoDataValueChange">
+            <summary>
+            No Data Value Change
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.NoDataValueChange.#ctor">
+            <summary>
+            Initializes a new instance of the NoDataValueChange class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.NoDataValueChange.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.NoDataValueChange.Execute(DotSpatial.Data.IRaster,System.Double,System.Double,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Erase Opaeration tool programaticaly
+            Ping Yang deleted static for external testing 01/2010
+            </summary>
+            <param name="input">The input raster</param>
+            <param name="oldValue">The original double value representing no-data</param>
+            <param name="newValue">The new double value representing no-data</param>
+            <param name="output">The output raster</param>
+            <param name="cancelProgressHandler">The progress handler</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.NoDataValueChange.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.NoDataValueChange.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the paramters value has beend changed, usually when a user changes a input or output Parameter value, this can be used to populate input2 Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.NoDataValueChange.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.NoDataValueChange.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterDistance">
+            <summary>
+            Raster Distance tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.#ctor">
+            <summary>
+            Initializes a new instance of the RasterDistance class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,System.Double,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Raster distance calculation
+            Ping Yang deleted static for external testing 10/2010
+            </summary>
+            <param name="input">The input raster</param>
+            <param name="output">The output raster</param>
+            <param name="maxDistance">The maximum distance value. Cells with a larger distance to nearest
+            target cell than maxDistance will be assigned 'no data' value.</param>
+            <param name="cancelProgressHandler">The progress handler</param>
+            <returns>true if execution successful, false otherwise</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.ReadInputRow(DotSpatial.Data.IRaster,System.Int32,System.Int32[],System.Int32,System.Int32)">
+            <summary>
+            Reads and converts the specified row from input raster to an array of integer
+            It assigns noDataVal to 'noData' values and assigns dataVal to other values
+            </summary>
+            <param name="input"></param>
+            <param name="rowNumber"></param>
+            <param name="rowArray">The array where the row is saved. This array must be correctly dimensioned.</param>
+            <param name="dataVal">New value which will be assigned to value cells</param>
+            <param name="noDataVal">New value which will be assigned to 'no data value' cells</param>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterDistance.WriteOutputRow(DotSpatial.Data.Raster{System.Int32},System.Int32,System.Int32[])">
+            <summary>
+            Writes the integer row array to the output raster. The square distance is
+            converted to a normal distance. Unknown distance is converted to 'no data' value
+            </summary>
+            <param name="output"></param>
+            <param name="rowNumber"></param>
+            <param name="rowArray"></param>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterDistance.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterDistance.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.ReSampleGrid">
+            <summary>
+            Grid Resample
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReSampleGrid.#ctor">
+            <summary>
+            Creates a new instance of the resample grid tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReSampleGrid.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReSampleGrid.Execute(DotSpatial.Data.IRaster,System.Double,System.Double,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the ReSample Opaeration tool programaticaly
+            Ping deleted the static property for external testing.
+            </summary>
+            <param name="input1">The input raster.</param>
+            <param name="newCellHeight">The size of the cell's hight.</param>
+            <param name="newCellWidth">The size of the cell's width.</param>
+            <param name="output">The output raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.ReSampleGrid.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ReSampleGrid.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the paramters value has beend changed, usually when a user changes a input or output Parameter value, this can be used to populate input2 Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ReSampleGrid.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ReSampleGrid.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterMultiply">
+            <summary>
+            Raster Multiply
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMultiply.#ctor">
+            <summary>
+            Initializes a new instance of the RasterMultiply class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMultiply.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMultiply.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes RastersMultiply Opaeration tool programaticaly
+            Ping Yang deleted static property for external testing 01/2010.
+            </summary>
+            <param name="input1">The original input input raster for raster multiplication.</param>
+            <param name="input2">The second input raster with values to multiply by.</param>
+            <param name="output">The output raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the execute was successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterMultiply.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterMultiply.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterMultiply.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterSubract">
+            <summary>
+            Raster subtract
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSubract.#ctor">
+            <summary>
+            Initializes a new instance of the RasterSubract class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSubract.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSubract.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Erase Opaeration tool programaticaly
+            Ping Yang deleted static for external testing 01/2010.
+            </summary>
+            <param name="input1">The original input raster.</param>
+            <param name="input2">The second input raster.</param>
+            <param name="output">The output raster</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterSubract.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterSubract.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterSubract.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.RasterAdd">
+            <summary>
+            Raster Add
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterAdd.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:DotSpatial.Tools.RasterAdd"/> class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterAdd.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterAdd.Execute(DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Erase Operation tool programaticaly, 01/10 Ping Yang changed it for external testing.
+            </summary>
+            <param name="input1">The first input raster.</param>
+            <param name="input2">The input raster.</param>
+            <param name="output">The output raster.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns>Boolean, true if the method was successful.</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.RasterAdd.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterAdd.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.RasterAdd.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.NeighborhoodType">
+            <summary>
+            Fixed Count or Distance
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Tools.NeighborhoodType.FixedDistance">
+            <summary>
+            Returns as many neighbors as fall within the specified range
+            </summary>
+        </member>
+        <member name="F:DotSpatial.Tools.NeighborhoodType.FixedCount">
+            <summary>
+            Returns the nearest x values, regardless of how close.
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.InverseDistanceWeighting">
+            <summary>
+            Inverse distance weighting tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.InverseDistanceWeighting.#ctor">
+            <summary>
+            Creates a new instance of the inverse distance weighting interpolation tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.InverseDistanceWeighting.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.InverseDistanceWeighting.Execute(DotSpatial.Data.IFeatureSet,System.String,System.Double,System.Double,DotSpatial.Tools.NeighborhoodType,System.Int32,System.Double,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Area tool with programatic input
+            Ping delete static for external testing
+            </summary>
+            <param name="input">The input raster</param>
+            <param name="zField">The field name containing the values to interpolate</param>
+            <param name="cellSize">The double geographic size of the raster cells to create</param>
+            <param name="power">The double power representing the inverse</param>
+            <param name="neighborType">Fixed distance of fixed number of neighbors</param>
+            <param name="pointCount">The number of neighbors to include if the neighborhood type
+            is Fixed</param>
+            <param name="distance">Points further from the raster cell than this distance are not included
+            in the calculation if the neighborhood type is Fixed Distance.</param>
+            <param name="output">The output raster where values are stored.  The fileName is used, but the number
+            of rows and columns will be computed from the cellSize and input featureset</param>
+            <param name="cancelProgressHandler">A progress handler for receiving progress messages</param>
+            <returns>A boolean, true if the IDW process worked correctly</returns>
+        </member>
+        <member name="M:DotSpatial.Tools.InverseDistanceWeighting.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.InverseDistanceWeighting.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the paramters value has beend changed, usually when a user changes a input or output Parameter value, this can be used to populate other Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.InverseDistanceWeighting.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.InverseDistanceWeighting.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Area">
+            <summary>
+            Area
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Area.#ctor">
+            <summary>
+            Creates a new instance of the area calculation tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Area.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Area.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+             <summary>
+            
+             </summary>
+             <param name="input"></param>
+             <param name="output"></param>
+             <param name="cancelProgressHandler"></param>
+             <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.Area.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Area.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Area.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.DpSimplification">
+            <summary>
+            Line-simplification using Douglas-Peucker algorithm
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DpSimplification.#ctor">
+            <summary>
+            Initializes a new instance of the DpSimplification class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DpSimplification.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.DpSimplification.Execute(DotSpatial.Data.IFeatureSet,System.Double,DotSpatial.Data.IFeatureSet)">
+            <summary>
+            Executes the DP line simplefy tool programaticaly
+            Ping Yang Added it for external Testing
+            </summary>
+            <param name="input">The input polygon feature set</param>
+            <param name="tolerance">The tolerance to use when simplefiying</param>
+            <param name="output">The output polygon feature set</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.DpSimplification.Execute(DotSpatial.Data.IFeatureSet,System.Double,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the DP line simplefy tool programaticaly
+            </summary>
+            <param name="input">The input polygon feature set</param>
+            <param name="tolerance">The tolerance to use when simplefiying</param>
+            <param name="output">The output polygon feature set</param>
+            <param name="cancelProgressHandler">The progress handler</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.DpSimplification.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.DpSimplification.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.DpSimplification.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.ClipPolygonWithPolygon">
+            <summary>
+            Clip Polygon with Polygon
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithPolygon.#ctor">
+            <summary>
+            Initializes a new instance of the ClipPolygonWithPolygon class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithPolygon.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithPolygon.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the ClipPolygonWithPolygon tool with programatic input
+            </summary>
+            <param name="input">The input feature set to clip</param>
+            <param name="input2">The input polygon feature set to clip with</param>
+            <param name="output">The output feature set</param>
+            <param name="cancelProgressHandler">The progress handler for progress message updates</param>
+            <returns></returns>
+            Ping delete "static" for external testing
+        </member>
+        <member name="M:DotSpatial.Tools.ClipPolygonWithPolygon.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipPolygonWithPolygon.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.ClipPolygonWithPolygon.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.GenerateCentroid">
+            <summary>
+            Generate Centroid tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.GenerateCentroid.#ctor">
+            <summary>
+            Creates a new instance of the centroid tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.GenerateCentroid.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.GenerateCentroid.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the generate centroid FeatureSet Opaeration tool programaticaly.
+            Ping deleted static for external testing 01/2010
+            </summary>
+            <param name="input1">The input FeatureSet.</param>
+            <param name="output">The output FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.GenerateCentroid.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.GenerateCentroid.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.GenerateCentroid.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.OverWriteFeature">
+            <summary>
+            Overwrite feature
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.OverWriteFeature.#ctor">
+            <summary>
+            Initializes a new instance of the OverWriteFeature class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.OverWriteFeature.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the parameters have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.OverWriteFeature.Execute(DotSpatial.Data.IFeatureSet,System.Int32,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the overwrite feature Opaeration tool programaticaly.
+            </summary>
+            <param name="input1">The input FeatureSet.</param>
+            <param name="index">The Index to overwrite</param>
+            <param name="input2">The input2 featureSet which has the new feature to overwrite.</param>
+            <param name="output">The output FeatureSet.</param>
+            <param name="cancelProgressHandler">The progress handler.</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.OverWriteFeature.Initialize">
+            <summary>
+            The parameters array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.OverWriteFeature.HelpText">
+            <summary>
+            Help text to be displayed when no input field is selected
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.OverWriteFeature.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.OverWriteFeature.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.FeatureToRaster">
+            <summary>
+            This tool creates a raster by drawing the specified feature onto the raster.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FeatureToRaster.#ctor">
+            <summary>
+            Initializes a new instance of the FeatureToRaster class.
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FeatureToRaster.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FeatureToRaster.Execute(DotSpatial.Data.IFeatureSet,System.Double,System.String,DotSpatial.Data.IRaster,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Generates a new raster given the specified featureset.  Values will be given to
+            each cell that coincide with the values in the specified field of the attribute
+            table.  If the cellSize is 0, then it will be automatically calculated so that
+            the smaller dimension (between width and height) is 256 cells.
+            Ping Yang delete static for external testing 01/2010
+            </summary>
+            <param name="source">The featureset to convert into a vector format</param>
+            <param name="cellSize">A double giving the geographic cell size.</param>
+            <param name="fieldName">The string fieldName to use</param>
+            <param name="output">The raster that will be created</param>
+            <param name="cancelProgressHandler">A progress handler for handling progress messages</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.FeatureToRaster.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.FeatureToRaster.ParameterChanged(DotSpatial.Modeling.Forms.Parameter)">
+            <summary>
+            Fires when one of the paramters value has beend changed, usually when a user changes a input or output Parameter value, this can be used to populate input2 Parameter default values.
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.FeatureToRaster.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.FeatureToRaster.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+        <member name="T:DotSpatial.Tools.Union">
+            <summary>
+            Union the features
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Union.#ctor">
+            <summary>
+            Creates a new instance of the Union tool
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Union.Execute(DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Once the Parameter have been configured the Execute command can be called, it returns true if succesful
+            </summary>
+        </member>
+        <member name="M:DotSpatial.Tools.Union.Execute(DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.IFeatureSet,DotSpatial.Data.ICancelProgressHandler)">
+            <summary>
+            Executes the Union Opaeration tool programaticaly
+            </summary>
+            <param name="self">The input are feature set</param>
+            <param name="other">The second input feature set</param>
+            <param name="output">The output feature set</param>
+            <param name="cancelProgressHandler">The progress handler</param>
+            <returns></returns>
+        </member>
+        <member name="M:DotSpatial.Tools.Union.Initialize">
+            <summary>
+            The Parameter array should be populated with default values here
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Union.InputParameters">
+            <summary>
+            Gets or Sets the input paramater array
+            </summary>
+        </member>
+        <member name="P:DotSpatial.Tools.Union.OutputParameters">
+            <summary>
+            Gets or Sets the output paramater array
+            </summary>
+        </member>
+    </members>
+</doc>
