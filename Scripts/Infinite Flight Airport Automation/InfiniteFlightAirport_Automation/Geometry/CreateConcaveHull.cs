@@ -1,6 +1,7 @@
 ﻿/*
  * Script for creating concave hull around LatLng points
  * Creates boundary for airports, based around node points.
+ * Bends in towards points
  * Based on samples from StackOverflow - this is an excellent one http://stackoverflow.com/questions/16407533/translating-concave-hull-algorithm-to-c-sharp
  * By Cameron Carmichael Alonso
 */
@@ -121,7 +122,7 @@ namespace AirportParser
 
         private static Vertex[] sortByAngle(Vertex[] vs, Vertex v, double angle)
         {
-            //TODO
+            
             return new Vertex[] { };
         }
 
@@ -300,10 +301,11 @@ namespace AirportParser
 
     }
 
-    public class Vertex
+    public class Vertex 
     {
         public double X = 12;
         public double Y = 15;
+
         public Vertex() { }
         public Vertex(double x, double y)
         {

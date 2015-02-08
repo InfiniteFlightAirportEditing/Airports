@@ -12,8 +12,8 @@ namespace AirportParser
         static void Main(string[] args)
         {
 
-                Console.WriteLine("Infinite Flight Airports");
-                Console.WriteLine("Copyright 2015, Flying Development Studios. and respective content owners.\n");
+                Console.WriteLine("Infinite Flight Airport Editing");
+                Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
 
                 //define functions
                 Console.WriteLine("Available functions:");

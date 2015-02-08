@@ -50,11 +50,25 @@
     <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>favicon %281%29.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Loyc.Collections">
+      <HintPath>..\packages\LoycCore.1.0.0\lib\net45\Loyc.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Loyc.Essentials">
+      <HintPath>..\packages\LoycCore.1.0.0\lib\net45\Loyc.Essentials.dll</HintPath>
+    </Reference>
+    <Reference Include="Loyc.Syntax">
+      <HintPath>..\packages\LoycCore.1.0.0\lib\net45\Loyc.Syntax.dll</HintPath>
+    </Reference>
+    <Reference Include="Loyc.Utilities">
+      <HintPath>..\packages\LoycCore.1.0.0\lib\net45\Loyc.Utilities.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -65,13 +79,16 @@
     <Compile Include="AptDivider.cs" />
     <Compile Include="BoundaryCreator.cs" />
     <Compile Include="FileParser.cs" />
+    <Compile Include="Geometry\CreateBoundingBox.cs" />
+    <Compile Include="Geometry\CreateConvexHull.cs" />
     <Compile Include="ParkingSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ConcaveHull\CreateConcaveHull.cs" />
+    <Compile Include="Geometry\CreateConcaveHull.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
     <None Include="regions.json" />
   </ItemGroup>
   <ItemGroup>
@@ -90,9 +107,6 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="favicon %281%29.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
