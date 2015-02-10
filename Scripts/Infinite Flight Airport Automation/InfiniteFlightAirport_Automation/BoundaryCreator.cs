@@ -57,6 +57,8 @@ namespace AirportParser
                     //found boundary
                     break;
 
+                    //uncomment to check differences
+
                 }
 
                 if (i == (data.Length - 1))
@@ -121,7 +123,7 @@ namespace AirportParser
                         }
                         catch (System.FormatException)
                         {
-                            //exception - uses Older format
+                            /*//exception - uses Older format
                             Console.WriteLine("Older format");
 
 
@@ -142,7 +144,7 @@ namespace AirportParser
                             p2.Y = Longitude2;
 
                             PointsEnum.Add(p2);
-                            
+                            */
                         }
                     }
                     else

@@ -47,17 +47,17 @@ namespace AirportParser
                 return null;
 
             }
-                
+
 
         }
 
         public static Dictionary<string, string> ParseRunway(string Runway)
         {
-            string Latitude1 = Runway.Substring (29, 12);
-			string Longitude1 = Runway.Substring (42, 12);
+            string Latitude1 = Runway.Substring(29, 12);
+            string Longitude1 = Runway.Substring(42, 12);
             string Latitude2 = Runway.Substring(77, 12);
             string Longitude2 = Runway.Substring(90, 12);
-            
+
 
             Dictionary<string, string> dictionary = new Dictionary<string, string>();
             dictionary.Add("Latitude1", Latitude1);
@@ -95,6 +95,8 @@ namespace AirportParser
         public static Dictionary<string, string> ParseNode(string Runway)
         {
 
+            try {
+
             string Latitude = Runway.Substring(3, 12);
             string Longitude = Runway.Substring(17, 12);
 
@@ -103,10 +105,126 @@ namespace AirportParser
             dictionary.Add("Longitude", Longitude);
             dictionary.Add("Format", "Other");
 
+
             return dictionary;
+
+            }
+                catch (System.ArgumentOutOfRangeException)
+            {
+
+                Dictionary<string, string> dictionary = new Dictionary<string, string>();
+                dictionary.Add("Latitude", "0");
+                dictionary.Add("Longitude", "0");
+                dictionary.Add("Format", "Other");
+
+
+                return dictionary;
+
+    }
+
+
 
         }
 
 
+        /*public static Dictionary<string, double> ReturnLatLngDiff(string[] data)
+        {
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                string line = data[i];
+                Dictionary<string, double> DictToReturn = new Dictionary<string, double>();
+                
+                if (line.StartsWith("130 "))
+                {
+                    //found start of def
+
+                    for (int y = (i + 1); y < data.Length; y++)
+                    {
+
+                        //search for final line
+
+                        string endLine = data[y];
+
+                        if (endLine.StartsWith("113 "))
+                        {
+                            //found end line
+
+                            string[] Airport = new List<string>(data).GetRange(i, (y - i)).ToArray();
+                            List<double> Latitudes = new List<double>();
+                            List<double> Longitudes = new List<double>();
+
+                            foreach (string obj in Airport)
+                            {
+
+                                if (obj.StartsWith("130 "))
+                                {
+
+
+                                }
+                                else
+                                {
+
+                                    Dictionary<string, string> dict = ParseNode(obj);
+                                    double lat = Convert.ToDouble(dict["Latitude"]);
+                                    double lng = Convert.ToDouble(dict["Longitude"]);
+
+                                    Latitudes.Add(lat);
+                                    Longitudes.Add(lng);
+                                }
+
+                            }
+
+                            double[] lats = Latitudes.ToArray();
+                            double[] lngs = Longitudes.ToArray();
+
+                            double HighestLat = lats.Max();
+                            double HighestLng = lngs.Max();
+
+                            double HighestDiffLat = 0.0;
+                            double HighestDiffLng = 0.0;
+
+                            for (int ii = 0; i < lats.Length; i++)
+                            {
+
+                                //try max - ii
+                                double calc = HighestLat - lats[ii];
+
+                                if (calc > HighestDiffLat)
+                                {
+                                    //larger value - assign
+                                    HighestDiffLat = calc;
+                                }
+
+                            }
+
+                            for (int ii = 0; i < lngs.Length; i++)
+                            {
+
+                                //try max - ii
+                                double calc = HighestLng - lngs[ii];
+
+                                if (calc > HighestDiffLng)
+                                {
+                                    //larger value - assign
+                                    HighestDiffLng = calc;
+                                }
+
+                            }
+
+                            DictToReturn.Add("Lng", HighestDiffLng);
+                            DictToReturn.Add("Lat", HighestDiffLat);
+                            return DictToReturn;
+
+                        }
+
+                    }
+
+
+                }
+                break;
+            }
+
+        }*/
     }
 }

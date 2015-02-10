@@ -79,6 +79,7 @@
     <Compile Include="AptDivider.cs" />
     <Compile Include="BoundaryCreator.cs" />
     <Compile Include="FileParser.cs" />
+    <Compile Include="Geometry\CheckBoundaryDifference.cs" />
     <Compile Include="Geometry\CreateBoundingBox.cs" />
     <Compile Include="Geometry\CreateConvexHull.cs" />
     <Compile Include="ParkingSort.cs" />

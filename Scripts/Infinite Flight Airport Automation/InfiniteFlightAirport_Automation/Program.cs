@@ -9,8 +9,14 @@ namespace AirportParser
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+
+        static public void Main () {
+
+                FileStream filestream = new FileStream("C:\\Users\\Cameron\\Documents\\InfiniteFlight\\Airports\\out.txt", FileMode.Create);
+                var streamwriter = new StreamWriter(filestream);
+                streamwriter.AutoFlush = true;
+                Console.SetOut(streamwriter);
+                Console.SetError(streamwriter);
 
                 Console.WriteLine("Infinite Flight Airport Editing");
                 Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
@@ -20,6 +26,7 @@ namespace AirportParser
                 Console.WriteLine("1 - AptDivider");
                 Console.WriteLine("2 - ParkingSort");
                 Console.WriteLine("3 - BoundaryCreator");
+                Console.WriteLine("4 - BoundaryChecker");
                 Console.WriteLine("\nEnter the number for the function you wish to run.");
 
 
@@ -55,18 +62,35 @@ namespace AirportParser
 
                     ParkingSort.MainBlock();
 
-                } else if (input == "3")
+                }
+                else if (input == "3")
                 {
                     //selected BoundaryCreator
                     Console.WriteLine("Running BoundaryCreator...");
                     BoundaryCreator.CreateBoundary();
-                    
+
 
                 }
+                else if (input == "4")
+                {
+                    //selected BoundaryChecker
+                    Console.WriteLine("Running BoundaryChecker...");
+                    CheckBoundaryDifference.CheckBoundary();
+
+
+                }
+                else
+                {
+
+                    Console.WriteLine("Wrong value!");
+
+                }
+
                
 
             }
 
         }
+        }
     }
-}
+
