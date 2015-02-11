@@ -6,26 +6,26 @@ Got a passion for design, and want to help improve Infinite Flight? Here, you ca
 
 How to help
 ===================
-Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials:
+Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials:<br>
 **[carmichaelalonso.github.io/InfiniteFlight-Airports](http://carmichaelalonso.github.io/InfiniteFlight-Airports/)**
 
 Do's and Don'ts
 ==================
-**DO**
--Use accurate imagery for airports
--Add taxiways
--Add taxiway lines
--Add parking spots
--Modify runways
--Add airport boundaries
+**DO**<br>
+-Use accurate imagery for airports<br>
+-Add taxiways<br>
+-Add taxiway lines<br>
+-Add parking spots<br>
+-Modify runways<br>
+-Add airport boundaries<br>
 
-**DON'T**
--Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).
--Forget to include a boundary.
--Make up an airport - it HAS to be a real airport
+**DON'T**<br>
+-Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
+-Forget to include a boundary.<br>
+-Make up an airport - it **HAS** to be a real airport<br>
 
 One last thing...
 ==================
 We appreciate every contribution that is made! Thank you very much to each person that contributes, you are really helping to make the Infinite Flight world a better place.
 
-**[Be sure to join our Facebook group, where you will get help on anything you need](http://www.facebook.com/groups/infiniteflightairportediting/)**
+**[Be sure to join our Facebook group, where you will get help on anything you need!](http://www.facebook.com/groups/infiniteflightairportediting/)**
