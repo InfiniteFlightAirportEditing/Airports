@@ -1,4 +1,4 @@
-﻿/*
+﻿ /*
  * Script for creating concave hull around LatLng points
  * Creates boundary for airports, based around node points.
  * Based on samples from StackOverflow - this is an excellent one http://stackoverflow.com/questions/16407533/translating-concave-hull-algorithm-to-c-sharp
