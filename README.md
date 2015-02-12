@@ -7,7 +7,8 @@ Got a passion for design, and want to help improve Infinite Flight? Here, you ca
 How to help
 ===================
 Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials:<br>
-**[carmichaelalonso.github.io/InfiniteFlight-Airports](http://carmichaelalonso.github.io/InfiniteFlight-Airports/)**
+**[carmichaelalonso.github.io/InfiniteFlight-Airports](http://carmichaelalonso.github.io/InfiniteFlight-Airports/)**<br><br>
+**Please check the Issue Tracker before starting your airport. Make sure it isn't already in progress, and if it isn't, please create a new issue**
 
 Do's and Don'ts
 ==================
@@ -18,6 +19,7 @@ Do's and Don'ts
 -Add parking spots<br>
 -Modify runways<br>
 -Add airport boundaries<br>
+-Add airport ATC frequencies (please see websites such as airnav.com for this)<br>
 
 **DON'T**<br>
 -Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
