@@ -16,13 +16,14 @@ namespace AirportParser
 	{
 
 		//ENTER REGION INFO BEFORE RUNNING SCRIPT
-		static float LatMin = 16.0f;
-		static float LatMax = 19.0f;
-		static float LonMin = -64f;
-		static float LonMax = -61f;
-		static string RegionName = "Caribbean";
+		static float LatMin = 18.0f;
+		static float LatMax = 22.0f;
+		static float LonMin = -159.0f;
+		static float LonMax = -154.0f;
+		static string RegionName = "Hawaii";
 
 		static public string BasePath = "/Users/Cameron/InfiniteFlight/Airports/";
+		static public string MDat = "/Users/Cameron/InfiniteFlight/Airports/apt.mdat";
 
 		public static void AptDividerFunction () {
 
@@ -105,7 +106,7 @@ namespace AirportParser
 
 			if ((Latitude <= LatMax) && (Latitude >= LatMin) && (Longitude <= LonMax) && (Longitude >= LonMin)) {
 				//airport is within current region
-
+				Console.WriteLine ("Is in region");
 				SaveAirportInRepo (ICAO, Latitude, Longitude, Airport);
 
 			}

@@ -20,12 +20,12 @@ namespace AirportParser
         public static void CreateBoundary()
         {
             //list regions
-            List<string> RegionsList = new List<string> { "Amsterdam", "Caribbean", "Charlotte", "Chicago", "Denver", "London", "NewYork", "Oshkosh", "Paris", "SanFrancisco", "Seattle", "SoCal", "SouthFlorida", "Sydney" };
+            List<string> RegionsList = new List<string> { "Singapore-KualaLumpur", "Hawaii" };
 
             for (int RL = 0; RL < RegionsList.Count; RL++ )
             {
 
-                string RPath = (@"C:\Users\Cameron\Documents\InfiniteFlight\Airports\" + RegionsList[RL]);
+				string RPath = (@"/Users/Cameron/InfiniteFlight/Airports/" + RegionsList[RL]);
 
                 DirectoryInfo dInfo = new DirectoryInfo(RPath);
                 DirectoryInfo[] subdirs = dInfo.GetDirectories();
@@ -35,7 +35,7 @@ namespace AirportParser
                     //get individual directories
                     DirectoryInfo DirectoryAtIndex = subdirs[Dir];
                     
-                    string apt = (RPath + '\\' + DirectoryAtIndex.Name + "\\apt.dat");
+                    string apt = (RPath + '/' + DirectoryAtIndex.Name + "/apt.dat");
                     LoadFile(apt);
 
 

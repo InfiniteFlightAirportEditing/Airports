@@ -12,12 +12,12 @@ namespace AirportParser
 
         static public void Main () {
 
-                FileStream filestream = new FileStream("C:\\Users\\Cameron\\Documents\\InfiniteFlight\\Airports\\out.txt", FileMode.Create);
+               /* FileStream filestream = new FileStream("C:\\Users\\Cameron\\Documents\\InfiniteFlight\\Airports\\out.txt", FileMode.Create);
                 var streamwriter = new StreamWriter(filestream);
                 streamwriter.AutoFlush = true;
                 Console.SetOut(streamwriter);
                 Console.SetError(streamwriter);
-
+*/
                 Console.WriteLine("Infinite Flight Airport Editing");
                 Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
 
@@ -41,13 +41,13 @@ namespace AirportParser
                     Console.WriteLine("Running AptDivider...\n");
 
                     //check if file exists at base directory
-                    if (File.Exists(AptDivider.BasePath))
+					if (File.Exists(AptDivider.MDat))
                     {
                         AptDivider.AptDividerFunction();
 
                     } else {
 
-                        Console.WriteLine("Error: Can't find directory at path: " + AptDivider.BasePath);
+						Console.WriteLine("Error: Can't find directory at path: " + AptDivider.MDat);
                         Console.WriteLine("Adjust BasePath variable to directory containing apt.mdat in root.");
                         Console.WriteLine("Ending program...");
                         Console.ReadKey();
