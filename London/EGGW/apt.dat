@@ -858,10 +858,12 @@ A
 18   51.87318364 -000.36819777 1 BCN
 19   51.87393507 -000.37989210 1 WS
 19   51.87722004 -000.35860140 1 WS
-50 12057 Arrival and Departure Information
-53 12175 Luton ground
-54 12672 Luton tower
+50 12057 ATIS
+53 12175 Luton Ground
+54 12188 Luton Delivery
 54 13255 Luton Tower
-55 12875 Luton Radar
-55 12955 Luton Radar
+55 12160 Luton Fire
+55 12672 Luton Radar
+56 12955 Luton Departure
+56 12875 Luton Approach
 
