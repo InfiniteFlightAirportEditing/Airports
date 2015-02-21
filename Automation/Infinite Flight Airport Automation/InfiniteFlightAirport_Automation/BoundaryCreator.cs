@@ -35,7 +35,8 @@ namespace AirportParser
                     //get individual directories
                     DirectoryInfo DirectoryAtIndex = subdirs[Dir];
                     
-                    string apt = (RPath + '/' + DirectoryAtIndex.Name + "/apt.dat");
+                    string apt = (RPath + '/' + DirectoryAtIndex.Name + "/" +
+                    	"apt.dat");
                     LoadFile(apt);
 
 
