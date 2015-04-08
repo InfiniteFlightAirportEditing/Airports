@@ -12,7 +12,7 @@ namespace AirportParser
 
         public static void CheckBoundary() {
 
-            List<string> RegionsList = new List<string> { "Amsterdam", "Caribbean", "Charlotte", "Chicago", "Denver", "London", "NewYork", "Oshkosh", "Paris", "SanFrancisco", "Seattle", "SoCal", "SouthFlorida", "Sydney" };
+            List<string> RegionsList = new List<string> { "Amsterdam", "Caribbean", "Charlotte", "Chicago", "Denver", "London", "NewYork", "Oshkosh", "Paris", "SanFrancisco", "Seattle", "SoCal", "SouthFlorida", "Sydney", "Singapore-KualaLumpur", "Hawaii" };
 
             for (int RL = 0; RL < RegionsList.Count; RL++ )
             {

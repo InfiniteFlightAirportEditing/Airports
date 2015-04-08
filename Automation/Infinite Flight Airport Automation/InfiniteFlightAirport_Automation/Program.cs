@@ -12,22 +12,23 @@ namespace AirportParser
 
         static public void Main () {
 
-               /* FileStream filestream = new FileStream("C:\\Users\\Cameron\\Documents\\InfiniteFlight\\Airports\\out.txt", FileMode.Create);
-                var streamwriter = new StreamWriter(filestream);
-                streamwriter.AutoFlush = true;
-                Console.SetOut(streamwriter);
-                Console.SetError(streamwriter);
-*/
-                Console.WriteLine("Infinite Flight Airport Editing");
-                Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
+           /* FileStream filestream = new FileStream("C:\\Users\\Cameron\\Documents\\InfiniteFlight\\Airports\\out.txt", FileMode.Create);
+            var streamwriter = new StreamWriter(filestream);
+            streamwriter.AutoFlush = true;
+            Console.SetOut(streamwriter);
+            Console.SetError(streamwriter);
+          */
+            Console.WriteLine("Infinite Flight Airport Editing");
+            Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
 
-                //define functions
-                Console.WriteLine("Available functions:");
-                Console.WriteLine("1 - AptDivider");
-                Console.WriteLine("2 - ParkingSort");
-                Console.WriteLine("3 - BoundaryCreator");
-                Console.WriteLine("4 - BoundaryChecker");
-                Console.WriteLine("\nEnter the number for the function you wish to run.");
+            //define functions
+            Console.WriteLine("Available functions:");
+            Console.WriteLine("1 - AptDivider");
+            Console.WriteLine("2 - ParkingSort");
+            Console.WriteLine("3 - BoundaryCreator");
+            Console.WriteLine("4 - BoundaryChecker");
+            Console.WriteLine("5 - TowerHeightIncrease");
+            Console.WriteLine("\nEnter the number for the function you wish to run.");
 
 
             while (true) // Loop indefinitely 
@@ -79,6 +80,13 @@ namespace AirportParser
 
 
                 }
+                else if (input == "5")
+                {
+                    //selected TowerHeightIncrease
+                    Console.WriteLine("Increasing tower heights...");
+                    TowerHeightIncrease.IncreaseHeight();
+
+                } 
                 else
                 {
 
