@@ -18,6 +18,8 @@ namespace AirportParser
             Console.SetOut(streamwriter);
             Console.SetError(streamwriter);
           */
+            Console.Title = "Infinite Flight Airport Editing";
+
             Console.WriteLine("Infinite Flight Airport Editing");
             Console.WriteLine("© Copyright Cameron Carmichael Alonso, 2015. All rights reserved.\n");
 
