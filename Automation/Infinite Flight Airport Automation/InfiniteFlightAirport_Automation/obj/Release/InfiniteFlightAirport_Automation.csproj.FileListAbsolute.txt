@@ -16,3 +16,4 @@ C:\Users\Cameron\Documents\InfiniteFlight\Airports\Automation\Infinite Flight Ai
 C:\Users\Cameron\Documents\InfiniteFlight\Airports\Automation\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\bin\Release\Loyc.Utilities.pdb
 C:\Users\Cameron\Documents\InfiniteFlight\Airports\Automation\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\bin\Release\Loyc.Utilities.xml
 C:\Users\Cameron\Documents\InfiniteFlight\Airports\Automation\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\obj\Release\InfiniteFlightAirport_Automation.pdb
+C:\Users\Cameron\Documents\InfiniteFlight\Airports\Automation\Infinite Flight Airport Automation\InfiniteFlightAirport_Automation\obj\Release\InfiniteFlightAirport_Automation.csprojResolveAssemblyReference.cache

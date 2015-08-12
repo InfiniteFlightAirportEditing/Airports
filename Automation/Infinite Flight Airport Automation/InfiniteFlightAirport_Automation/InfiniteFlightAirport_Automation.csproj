@@ -78,6 +78,7 @@
   <ItemGroup>
     <Compile Include="AptDivider.cs" />
     <Compile Include="BoundaryCreator.cs" />
+    <Compile Include="DuplicateRemover.cs" />
     <Compile Include="FileParser.cs" />
     <Compile Include="Geometry\CheckBoundaryDifference.cs" />
     <Compile Include="Geometry\CreateBoundingBox.cs" />

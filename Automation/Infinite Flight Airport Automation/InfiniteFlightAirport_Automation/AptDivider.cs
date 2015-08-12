@@ -22,12 +22,12 @@ namespace AirportParser
 		static float LonMax = -154.0f;
 		static string RegionName = "Hawaii";
 
-		static public string BasePath = "/Users/Cameron/InfiniteFlight/Airports/";
-		static public string MDat = "/Users/Cameron/InfiniteFlight/Airports/apt.mdat";
+		static public string BasePath = "/Users/Cameron/Documents/InfiniteFlight/Airports/";
+		static public string MDat = "/Users/Cameron/Documents/InfiniteFlight/Airports/apt.mdat";
 
 		public static void AptDividerFunction () {
 
-			string[] data = System.IO.File.ReadAllLines( @"/Users/Cameron/InfiniteFlight/Airports/apt.mdat"); //replace dir with location of clone of github.com/carmichaelalonso/infiniteflight
+			string[] data = System.IO.File.ReadAllLines( @"/Users/Cameron/Documents/InfiniteFlight/Airports/apt.mdat"); //replace dir with location of clone of github.com/carmichaelalonso/infiniteflight
 
 
 			for (int i = 0; i < data.Length; i++)
