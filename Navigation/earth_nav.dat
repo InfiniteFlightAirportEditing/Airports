@@ -26768,10 +26768,6 @@ I
 13 49.20933151   7.39577818     1201    10910    25   0.000  ZND ZWEIBRUCKEN DME
 13 38.40000153 -77.40000153      172    10875    25   0.000   ZZ ZZZ TEST D DME
 13 45.69054413  15.99247169      471    10985    80   0.000  LUK Zagreb DME
-99
-I
-810 Version - data cycle 2013.10, build 20131334, metadata NavXP810.  Copyright � 2013, Robin A. Peel (robin@x-plane.com).   This data is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.  You should have received a copy of the GNU General Public License along with this program ("AptNavGNULicence.txt"); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
-
 2  68.72318300 -052.78476400      0   336  25    0.0 AA   AASIAAT NDB
 2  49.01544444 -122.48777778      0   344  50    0.0 XX   ABBOTSFORD NDB
 2  05.34908300 -003.89041700      0   306  50    0.0 AN   ABIDJAN NDB
