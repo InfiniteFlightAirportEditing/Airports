@@ -30,6 +30,8 @@ namespace AirportParser
             Console.WriteLine("3 - BoundaryCreator");
             Console.WriteLine("4 - BoundaryChecker");
             Console.WriteLine("5 - TowerHeightIncrease");
+            Console.WriteLine("6 - Duplicate fix remover");
+            Console.WriteLine("7 - Duplicate nav object remover");
             Console.WriteLine("\nEnter the number for the function you wish to run.");
 
 
@@ -88,7 +90,21 @@ namespace AirportParser
                     Console.WriteLine("Increasing tower heights...");
                     TowerHeightIncrease.IncreaseHeight();
 
-                } 
+                }
+                else if (input == "6")
+                {
+                    //selected DuplicateFixRemover
+                    Console.WriteLine("Removing duplicate fix objects");
+                    DuplicateRemover.RemoveDuplicateFixes();
+
+                }
+                else if (input == "7")
+                {
+                    //selected DuplicateNavRemover
+                    Console.WriteLine("Removing duplicate nav objects");
+                    DuplicateRemover.RemoveDuplicateNavItems();
+
+                }
                 else
                 {
 
