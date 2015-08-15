@@ -14,3 +14,14 @@
 /Users/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Essentials.dll
 /Users/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Syntax.dll
 /Users/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Utilities.dll
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/obj/Debug/InfiniteFlightAirport_Automation.exe
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/obj/Debug/InfiniteFlightAirport_Automation.exe.mdb
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Collections.dll
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Essentials.dll
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Syntax.dll
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Loyc.Utilities.dll
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/InfiniteFlightAirport_Automation.exe.config
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/InfiniteFlightAirport_Automation.exe.mdb
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/InfiniteFlightAirport_Automation.exe
+/Volumes/Hard Drive/Cameron/InfiniteFlight/Airports/Automation/Infinite Flight Airport Automation/InfiniteFlightAirport_Automation/bin/Debug/Newtonsoft.Json.dll

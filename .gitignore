@@ -1,2 +1,4 @@
 #ignore large apt.mdat
 *.mdat
+airports.json
+countries.json

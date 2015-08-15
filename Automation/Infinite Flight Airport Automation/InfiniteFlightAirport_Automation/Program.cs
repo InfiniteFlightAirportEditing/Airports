@@ -32,6 +32,7 @@ namespace AirportParser
             Console.WriteLine("5 - TowerHeightIncrease");
             Console.WriteLine("6 - Duplicate fix remover");
             Console.WriteLine("7 - Duplicate nav object remover");
+			Console.WriteLine("8 - Worldwide Airport Generator");
             Console.WriteLine("\nEnter the number for the function you wish to run.");
 
 
@@ -105,6 +106,13 @@ namespace AirportParser
                     DuplicateRemover.RemoveDuplicateNavItems();
 
                 }
+				else if (input == "8")
+				{
+					//selected AptWorldwideParser
+					Console.WriteLine("Creating worldwide airports");
+					AirportParser.AptWorldwide.Parser ();
+
+				}
                 else
                 {
 
