@@ -33,6 +33,7 @@ namespace AirportParser
             Console.WriteLine("6 - Duplicate fix remover");
             Console.WriteLine("7 - Duplicate nav object remover");
 			Console.WriteLine("8 - Worldwide Airport Generator");
+			Console.WriteLine("9 - Worldwide Airport Generator - Country Name Fixer");
             Console.WriteLine("\nEnter the number for the function you wish to run.");
 
 
@@ -111,6 +112,13 @@ namespace AirportParser
 					//selected AptWorldwideParser
 					Console.WriteLine("Creating worldwide airports");
 					AirportParser.AptWorldwide.Parser ();
+
+				}
+				else if (input == "9")
+				{
+					//selected CountryNameFixer
+					Console.WriteLine("Fixing Country Names");
+					AirportParser.AptWorldwide.UpdateCountryNames ();
 
 				}
                 else
