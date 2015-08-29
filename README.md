@@ -23,6 +23,7 @@ Do's and Don'ts
 
 **DON'T**<br>
 -Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
+-Create jet bridges/air bridges using the Taxiway tool.<br>
 -Forget to include a boundary.<br>
 -Make up an airport - it **HAS** to be a real airport<br>
 
