@@ -7771,17 +7771,26 @@ A
 20  02.74066062  101.72049237 146.0000 0 3 {@L}L{@Y}{^l}N2
 20  02.74027762  101.72089137 236.0000 0 3 {@L}N2{@Y}L{^r}
 14  02.74590527  101.68531589 134.51 0 KLIA 2 Tower
-1300  02.73930541  101.69002242   1.17 misc heavy|jets|turboprops|props KLIA 2: L0
-1300  02.73841409  101.68875682 282.05 misc heavy|jets|turboprops|props KLIA 2: J0
-1300  02.74044941  101.68578798 -34.55 misc heavy|jets|turboprops|props KLIA 2: P7
-1300  02.74115893  101.68422259 146.21 misc heavy|jets|turboprops|props KLIA 2: P6
-1300  02.73810873  101.68555488 145.74 misc heavy|jets|turboprops|props KLIA 2: J16
-1300  02.74425003  101.68857768 145.69 misc heavy|jets|turboprops|props KLIA 2: Q6
-1300  02.74112047  101.69262619 326.13 misc heavy|jets|turboprops|props KLIA 2: L11
-1300  02.74428752  101.69114187 325.38 misc heavy|jets|turboprops|props KLIA 2: Q19
-1300  02.74189368  101.69122805 145.54 misc heavy|jets|turboprops|props KLIA 2: K10
-1300  02.73645325  101.68536641 325.78 misc heavy|jets|turboprops|props KLIA 2: J13
-1300  02.73605517  101.68490926 325.78 misc heavy|jets|turboprops|props KLIA 2: J15
+1300  02.73762822  101.68498055 145.65 misc heavy|jets|turboprops|props KLIA 2: Q19
+1300  02.73952792  101.68776232 145.53 misc heavy|jets|turboprops|props KLIA 2: Q3
+1300  02.74104023  101.68998452 145.80 misc heavy|jets|turboprops|props KLIA 2: P5
+1300  02.73745009  101.68699761 326.01 misc heavy|jets|turboprops|props KLIA 2: Q4
+1300  02.73708885  101.68646156 325.91 misc heavy|jets|turboprops|props KLIA 2: J9
+1300  02.74120160  101.69257106 326.08 misc heavy|jets|turboprops|props KLIA 2: P8
+1300  02.73674040  101.68594259 325.64 misc heavy|jets|turboprops|props KLIA 2: Q6
+1300  02.73570775  101.68440846 325.59 misc heavy|jets|turboprops|props KLIA 2: Q14
+1300  02.74321570  101.68956333 325.53 misc heavy|jets|turboprops|props KLIA 2: J10
+1300  02.74057291  101.68570422 326.00 misc heavy|jets|turboprops|props KLIA 2: K8
+1300  02.74013987  101.68507669 326.53 misc heavy|jets|turboprops|props KLIA 2: K12
+1300  02.74386587  101.69050519 325.53 misc heavy|jets|turboprops|props KLIA 2: J16
+1300  02.74133025  101.68454240 144.83 misc heavy|jets|turboprops|props KLIA 2: L7
+1300  02.74070178  101.68363724 145.76 misc heavy|jets|turboprops|props KLIA 2: L11
+1300  02.74477878  101.68960129 145.01 misc heavy|jets|turboprops|props KLIA 2: J9
+1300  02.74549872  101.69050664 145.51 misc heavy|jets|turboprops|props KLIA 2: J15
+1300  02.74034828  101.69130284 325.71 misc heavy|jets|turboprops|props KLIA 2: P4
+1300  02.73925950  101.69002242   1.17 misc heavy|jets|turboprops|props KLIA 2: P0
+1300  02.73841409  101.68875682 282.05 misc heavy|jets|turboprops|props KLIA 2: Q0
+1300  02.74189368  101.69122933 145.54 misc heavy|jets|turboprops|props KLIA 2: P13
 15  02.74052840  101.71548479 146.10 22
 15  02.74097937  101.71613152 146.10 23
 15  02.75559043  101.70991572  56.10 59
