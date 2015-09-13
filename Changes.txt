@@ -1,3 +1,5 @@
+Update released in August 2015. Includes following changes:
+
 Amsterdam/EBBR
 Amsterdam/EBSP
 Amsterdam/EDDK
