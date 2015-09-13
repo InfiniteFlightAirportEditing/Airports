@@ -1,3 +1,7 @@
+<img src="http://3.bp.blogspot.com/-fKTKY3P8Ie0/U74Ufh1kIhI/AAAAAAAAAdI/TJyapM-vsSo/s1600/InfiniteFlightLogo450x180.png" />
+
+#Primary Programs to Install#
+
 The following applications & programs are primarily used to edit airports for Infinite Flight. Links are attached to names.
 
 
