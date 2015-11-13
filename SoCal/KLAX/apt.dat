@@ -16158,12 +16158,12 @@ I
 1300  33.94017572 -118.41866936 264.08 misc heavy|jets|turboprops|props HOLD 343
 1300  33.94114485 -118.41878079 264.08 misc heavy|jets|turboprops|props HOLD 344
 1300  33.94433603 -118.41678636 442.43 misc heavy|jets|turboprops|props HOLD 345
-1300  33.94429817 -118.41518055 263.55 misc heavy|jets|turboprops|props HANGAR QANTAS
-1300  33.94393983 -118.41672905 442.43 misc heavy|jets|turboprops|props MAINT QANTAS 5
-1300  33.94433603 -118.41678636 442.43 misc heavy|jets|turboprops|props MAINT QANTAS 4
-1300  33.94469403 -118.41682320 442.43 misc heavy|jets|turboprops|props MAINT QANTAS 3
-1300  33.94512188 -118.41691266 442.43 misc heavy|jets|turboprops|props MAINT QANTAS 2
-1300  33.94553664 -118.41695476 442.43 misc heavy|jets|turboprops|props MAINT QANTAS 1
+1300  33.94429817 -118.41518055 263.55 misc heavy|jets|turboprops|props HANGAR Qantas
+1300  33.94393983 -118.41672905 442.43 misc heavy|jets|turboprops|props MAINT Qantas 5
+1300  33.94433603 -118.41678636 442.43 misc heavy|jets|turboprops|props MAINT Qantas 4
+1300  33.94469403 -118.41682320 442.43 misc heavy|jets|turboprops|props MAINT Qantas 3
+1300  33.94512188 -118.41691266 442.43 misc heavy|jets|turboprops|props MAINT Qantas 2
+1300  33.94553664 -118.41695476 442.43 misc heavy|jets|turboprops|props MAINT Qantas 1
 1300  33.94097529 -118.41545100  87.85 misc heavy|jets|turboprops|props HANGAR American
 1300  33.93871484 -118.41613740 170.10 misc heavy|jets|turboprops|props MAINT American 12
 1300  33.93871484 -118.41571015 170.10 misc heavy|jets|turboprops|props MAINT American 11
@@ -16208,16 +16208,16 @@ I
 1300  33.93390100 -118.39154271 176.52 misc heavy|jets|turboprops|props CARGO Korean Airlines 1
 1300  33.93401450 -118.39058519 176.52 misc heavy|jets|turboprops|props CARGO Japan Airlines 2
 1300  33.93402911 -118.38978831 176.52 misc heavy|jets|turboprops|props CARGO Japan Airlines 1
-1300  33.93390856 -118.38902224 173.03 misc heavy|jets|turboprops|props FEDEX 1
+1300  33.93390856 -118.38902224 173.03 misc heavy|jets|turboprops|props CARGO FEDEX 1
 1300  33.93343427 -118.40059490 173.03 misc heavy|jets|turboprops|props CARGO 1 Nippon
 1300  33.93289714 -118.40565804 173.03 misc heavy|jets|turboprops|props CARGO 7 Qantas
 1300  33.93270399 -118.40476014 173.03 misc heavy|jets|turboprops|props CARGO 6 Qantas
 1300  33.93316681 -118.40372263 173.03 misc heavy|jets|turboprops|props CARGO 5 Qantas
 1300  33.93323033 -118.40292979 173.03 misc heavy|jets|turboprops|props CARGO 4 Qantas
 1300  33.94192437 -118.38414301 -88.61 misc heavy|jets|turboprops|props CARGO American - Apron 941 
-1300  33.94211907 -118.38717972 352.55 misc heavy|jets|turboprops|props CARGO UNITED 3
-1300  33.94208792 -118.38784150 352.55 misc heavy|jets|turboprops|props CARGO UNITED 2
-1300  33.94203729 -118.38839064 352.55 misc heavy|jets|turboprops|props CARGO UNITED 1
+1300  33.94211907 -118.38717972 352.55 misc heavy|jets|turboprops|props CARGO United 3
+1300  33.94208792 -118.38784150 352.55 misc heavy|jets|turboprops|props CARGO United 2
+1300  33.94203729 -118.38839064 352.55 misc heavy|jets|turboprops|props CARGO United 1
 1300  33.94144990 -118.39095751 352.55 misc heavy|jets|turboprops|props MAINT United 29
 1300  33.94130385 -118.39165037 352.55 misc heavy|jets|turboprops|props MAINT United 28
 1300  33.94124731 -118.39215013 352.55 misc heavy|jets|turboprops|props MAINT United 27 
@@ -16229,10 +16229,10 @@ I
 1300  33.94227769 -118.38999247  46.57 misc heavy|jets|turboprops|props MAINT United 21
 1300  33.94248833 -118.39044384  22.74 misc heavy|jets|turboprops|props MAINT United 20
 1300  33.94257834 -118.39064595  14.94 misc heavy|jets|turboprops|props MAINT United 19
-1300  33.94260741 -118.39093462   1.54 misc heavy|jets|turboprops|props MAINT UNited 18
-1300  33.94241582 -118.39137280 -33.54 misc heavy|jets|turboprops|props MAINT UNited 17
+1300  33.94260741 -118.39093462   1.54 misc heavy|jets|turboprops|props MAINT United 18
+1300  33.94241582 -118.39137280 -33.54 misc heavy|jets|turboprops|props MAINT United 17
 1300  33.94240782 -118.39191713  -7.07 misc heavy|jets|turboprops|props MAINT United 16
-1300  33.94236586 -118.39234826  -7.07 misc heavy|jets|turboprops|props MAINT UNited 15
+1300  33.94236586 -118.39234826  -7.07 misc heavy|jets|turboprops|props MAINT United 15
 1300  33.93969698 -118.41376155 -94.68 misc heavy|jets|turboprops|props MAINT American 8
 1300  33.94009213 -118.41380357 -94.68 misc heavy|jets|turboprops|props MAINT American 7 
 1300  33.94046984 -118.41383859 -94.68 misc heavy|jets|turboprops|props MAINT American 6
