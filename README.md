@@ -7,7 +7,7 @@ Got a passion for design, and want to help improve Infinite Flight? Here, you ca
 How to help
 ===================
 Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials:<br>
-**[carmichaelalonso.github.io/InfiniteFlight-Airports](http://carmichaelalonso.github.io/InfiniteFlight-Airports/)**<br><br>
+**[infiniteflightairportediting.github.io/](http://infiniteflightairportediting.github.io/)**<br><br>
 **Please check the [Issue Tracker](https://github.com/carmichaelalonso/InfiniteFlight-Airports/issues) before starting your airport. Make sure it isn't already in progress, and if it hasn't been started, please create a new issue with the name of the airport.**
 
 Do's and Don'ts
