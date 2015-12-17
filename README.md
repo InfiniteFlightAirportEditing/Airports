@@ -8,24 +8,25 @@ How to help
 ===================
 Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials:<br>
 **[infiniteflightairportediting.github.io/](http://infiniteflightairportediting.github.io/)**<br><br>
-**Please check the [Issue Tracker](https://github.com/carmichaelalonso/InfiniteFlight-Airports/issues) before starting your airport. Make sure it isn't already in progress, and if it hasn't been started, please create a new issue with the name of the airport.**
+**Please check the [Issue Tracker](https://github.com/InfiniteFlightAirportEditing/Airports/issues) before starting your airport. Make sure it isn't already in progress, and if it hasn't been started, please create a new issue with the name of the airport.**
 
-Do's and Don'ts
+DO's and DON'Ts
 ==================
 **DO**<br>
--Use accurate imagery for airports<br>
--Add taxiways<br>
--Add taxiway lines<br>
--Add parking spots<br>
--Modify runways<br>
--Add airport boundaries<br>
--Add airport ATC frequencies (please see websites such as airnav.com for this)<br>
+* Use accurate imagery for airports.<br>
+* Add taxiways.<br>
+* Add taxiway lines.<br>
+* Add parking spots.<br>
+* Modify runways.<br>
+* Add airport boundaries.<br>
+* Add airport ATC frequencies (please see websites such as airnav.com for this).<br>
 
 **DON'T**<br>
--Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
--Create jet bridges/air bridges using the Taxiway tool.<br>
--Forget to include a boundary.<br>
--Make up an airport - it **HAS** to be a real airport<br>
+* Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
+* Create jet bridges using the taxiway tool.<br>
+* Forget to include a boundary.<br>
+* Make up an airport - it **HAS** to be a real airport.<br>
+* Outline buildings with a taxi line.<br>
 
 One last thing...
 ==================
