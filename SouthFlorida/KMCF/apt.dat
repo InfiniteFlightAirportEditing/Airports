@@ -1489,7 +1489,7 @@ I
 14  27.85261888 -082.52398903 590.55 0 Tower Viewpoint 
 1300  27.84292007 -082.52025438 310.07 gate heavy|jets|turboprops|props Run-up 6 Runway 04
 1300  27.84325554 -082.51994040 310.07 gate heavy|jets|turboprops|props Run-up 5 Runway 04
-1300  27.84359571 -082.51962209 310.07 gate heavy|jets|turboprops|props Run-up 4Runway 04
+1300  27.84359571 -082.51962209 310.07 gate heavy|jets|turboprops|props Run-up 4 Runway 04
 1300  27.84389990 -082.51932722 310.07 gate heavy|jets|turboprops|props Run-up 3 Runway 04
 1300  27.84419365 -082.51905263 310.07 gate heavy|jets|turboprops|props Run-up 2 Runway 04
 1300  27.84447080 -082.51878274 310.07 gate heavy|jets|turboprops|props Run-up 1 Runway 04
@@ -1520,9 +1520,6 @@ I
 1300  27.85769139 -082.49101995 224.45 gate heavy|jets|turboprops|props Ramp 3
 1300  27.85801518 -082.49143889 224.45 gate heavy|jets|turboprops|props Ramp 2
 1300  27.85834388 -082.49187171 224.45 gate heavy|jets|turboprops|props Ramp 1
-15  27.85448707 -082.51201589  23.96 New Ramp Start 3
-15  27.85535546 -082.51148243  23.96 New Ramp Start 2
-15  27.85612247 -082.51100381  23.96 New Ramp Start 1
 18  27.85027701 -082.52246498 4 BCN
 19  27.83747733 -082.53352058 1 WS
 19  27.86120053 -082.50890626 1 WS
