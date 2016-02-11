@@ -6,7 +6,7 @@ We have no information about these airports other than their name, ICAO and loca
 
 These airports will have to be done from scratch, which includes adding runways, taxiways, parking locations, boundaries...
 
-**Generated airports are marked with [*]**.
+**Generated airports are marked with [-]**.
 
 *   00AK - US
 *   00AL - US
