@@ -395,7 +395,6 @@ I
 130 Airport Boundary 297
 111  19.72213654 -156.04739433
 111  19.72197933 -156.04627664
-111  19.72293472 -156.04621241
 111  19.72229376 -156.04577561
 111  19.72217282 -156.04468362
 111  19.72337009 -156.04359162
@@ -3913,20 +3912,20 @@ I
 21  19.74953979 -156.04439056 2 184.7700 3.0 New PAPI-4L
 21  19.72733258 -156.04746261 2 4.7700 3.0 New PAPI-4L
 14  19.73396018 -156.04161058  59.06 0 New Tower Viewpoint 45
-1300  19.72492904 -156.04357140 190.78 misc heavy|jets|turboprops|props Commuter 6
-1300  19.72489213 -156.04320544 184.57 misc heavy|jets|turboprops|props Commuter 5
-1300  19.72632851 -156.04323158 180.00 misc heavy|jets|turboprops|props Stand 8
-1300  19.72636542 -156.04358447 186.17 misc heavy|jets|turboprops|props Stand 7
-1300  19.72691599 -156.04283948 186.01 misc heavy|jets|turboprops|props Stand 6
-1300  19.72696520 -156.04317930 183.74 misc heavy|jets|turboprops|props Stand 5
-1300  19.72698673 -156.04355507 185.19 misc heavy|jets|turboprops|props Stand 4
-1300  19.72761419 -156.04282314 186.98 misc heavy|jets|turboprops|props Stand 3
-1300  19.72761111 -156.04315970 183.18 misc heavy|jets|turboprops|props Stand 2
-1300  19.72761111 -156.04347665 185.31 misc heavy|jets|turboprops|props Stand 1
-1300  19.73039963 -156.04229945   0.00 misc heavy|jets|turboprops|props Cargo 4
-1300  19.73039615 -156.04243410  10.62 misc heavy|jets|turboprops|props Cargo 3
-1300  19.73067283 -156.04229949 184.76 misc heavy|jets|turboprops|props Cargo 2
-1300  19.73129029 -156.04239486  92.82 misc heavy|jets|turboprops|props Cargo 1
+1300  19.72492904 -156.04357140 190.78 misc heavy|jets|turboprops|props Commuter 06
+1300  19.72489213 -156.04320544 184.57 misc heavy|jets|turboprops|props Commuter 05
+1300  19.72632851 -156.04323158 180.00 misc heavy|jets|turboprops|props Stand 08
+1300  19.72636542 -156.04358447 186.17 misc heavy|jets|turboprops|props Stand 07
+1300  19.72691599 -156.04283948 186.01 misc heavy|jets|turboprops|props Stand 06
+1300  19.72696520 -156.04317930 183.74 misc heavy|jets|turboprops|props Stand 05
+1300  19.72698673 -156.04355507 185.19 misc heavy|jets|turboprops|props Stand 04
+1300  19.72761419 -156.04282314 186.98 misc heavy|jets|turboprops|props Stand 03
+1300  19.72761111 -156.04315970 183.18 misc heavy|jets|turboprops|props Stand 02
+1300  19.72761111 -156.04347665 185.31 misc heavy|jets|turboprops|props Stand 01
+1300  19.73039963 -156.04229945   0.00 misc heavy|jets|turboprops|props Cargo 04
+1300  19.73039615 -156.04243410  10.62 misc heavy|jets|turboprops|props Cargo 03
+1300  19.73067283 -156.04229949 184.76 misc heavy|jets|turboprops|props Cargo 02
+1300  19.73129029 -156.04239486  92.82 misc heavy|jets|turboprops|props Cargo 01
 1300  19.73405055 -156.04201754 191.31 misc turboprops|props GA 23
 1300  19.73406317 -156.04214834 180.00 misc turboprops|props GA 22
 1300  19.73407264 -156.04228416 183.37 misc turboprops|props GA 21
@@ -3941,31 +3940,31 @@ I
 1300  19.73318073 -156.04206724   2.73 misc turboprops|props GA 12
 1300  19.73316208 -156.04213126 180.00 misc turboprops|props GA 11
 1300  19.73318934 -156.04232486 357.61 misc turboprops|props GA 10
-1300  19.73316351 -156.04239041 182.05 misc turboprops|props GA 9
-1300  19.73281771 -156.04209163   3.27 misc turboprops|props GA 8
-1300  19.73281771 -156.04215565 180.00 misc turboprops|props GA 7
-1300  19.73284210 -156.04235382   0.00 misc turboprops|props GA 6
-1300  19.73282632 -156.04241480 181.91 misc turboprops|props GA 5
-1300  19.73250347 -156.04211602   4.76 misc turboprops|props GA 4
-1300  19.73248482 -156.04217852 181.74 misc turboprops|props GA 3
-1300  19.73249343 -156.04243766 178.09 misc turboprops|props GA 1
-1300  19.73250589 -156.04237075   0.00 misc turboprops|props GA 2
-1300  19.73467750 -156.04189444  54.83 misc heavy|jets|turboprops|props Gate 1
-1300  19.72485522 -156.04294077 181.68 misc heavy|jets|turboprops|props Commuter 4
-1300  19.72559340 -156.04352565 185.36 misc heavy|jets|turboprops|props Commuter 3
-1300  19.72557495 -156.04320871 182.29 misc heavy|jets|turboprops|props Commuter 2
-1300  19.72554419 -156.04290810 183.27 misc heavy|jets|turboprops|props Commuter 1
+1300  19.73316351 -156.04239041 182.05 misc turboprops|props GA 09
+1300  19.73281771 -156.04209163   3.27 misc turboprops|props GA 08
+1300  19.73281771 -156.04215565 180.00 misc turboprops|props GA 07
+1300  19.73284210 -156.04235382   0.00 misc turboprops|props GA 06
+1300  19.73282632 -156.04241480 181.91 misc turboprops|props GA 05
+1300  19.73250347 -156.04211602   4.76 misc turboprops|props GA 04
+1300  19.73248482 -156.04217852 181.74 misc turboprops|props GA 03
+1300  19.73249343 -156.04243766 178.09 misc turboprops|props GA 01
+1300  19.73250589 -156.04237075   0.00 misc turboprops|props GA 02
+1300  19.73467750 -156.04189444  54.83 misc heavy|jets|turboprops|props Gate 01
+1300  19.72485522 -156.04294077 181.68 misc heavy|jets|turboprops|props Commuter 04
+1300  19.72559340 -156.04352565 185.36 misc heavy|jets|turboprops|props Commuter 03
+1300  19.72557495 -156.04320871 182.29 misc heavy|jets|turboprops|props Commuter 02
+1300  19.72554419 -156.04290810 183.27 misc heavy|jets|turboprops|props Commuter 01
 1300  19.72598403 -156.04261402 234.16 misc heavy|jets|turboprops|props Fuel farm
-15  19.72628896 -156.04289634 182.91 Stand 9
-15  19.73473618 -156.04232248 154.13 Gate 2
-15  19.73526254 -156.04230222 155.62 Gate 3
-15  19.73569382 -156.04226068 156.47 Gate 4
-15  19.73561265 -156.04195099 -118.26 Gate 5
-15  19.73652416 -156.04178364 422.44 Gate 6
-15  19.73638647 -156.04221634 151.31 Gate 7
+15  19.72628896 -156.04289634 182.91 Stand 09
+15  19.73473618 -156.04232248 154.13 Gate 02
+15  19.73526254 -156.04230222 155.62 Gate 03
+15  19.73569382 -156.04226068 156.47 Gate 04
+15  19.73561265 -156.04195099 -118.26 Gate 05
+15  19.73652416 -156.04178364 422.44 Gate 06
+15  19.73638647 -156.04221634 151.31 Gate 07
 1300  19.73775360 -156.04167679 165.62 misc heavy|jets|turboprops|props Gate 10
-1300  19.73763049 -156.04233244 128.13 misc heavy|jets|turboprops|props Gate 9
-15  19.73699879 -156.04219707 148.48 Gate 8
+1300  19.73763049 -156.04233244 128.13 misc heavy|jets|turboprops|props Gate 09
+15  19.73699879 -156.04219707 148.48 Gate 08
 18  19.73941732 -156.04406907 1 Rotating Beacon
 19  19.74004118 -156.04456381 1 New Windsock 2
 50 12740 ATIS
