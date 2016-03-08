@@ -4099,37 +4099,37 @@ I
 21  27.39880621 -082.54935486 2 217.9600 3.0 22-PAPI-4L
 21  27.39033533 -082.54990756 2 314.5400 3.0 32-PAPI-4L
 14  27.40296735 -082.55267460 118.11 0 Tower
-1300  27.40155566 -082.55138468 304.82 misc jets|turboprops Flight Train 5
-1300  27.40216607 -082.55140491 120.59 misc jets|turboprops Flight Train 4
-1300  27.40292977 -082.54952036 178.40 misc jets|turboprops Flight Train 3
-1300  27.40150573 -082.55000467 359.21 misc jets|turboprops Flight Train 2
-1300  27.40151022 -082.54962046 359.21 misc jets|turboprops Flight Train 1
+1300  27.40155566 -082.55138468 304.82 misc jets|turboprops Flight Train 05
+1300  27.40216607 -082.55140491 120.59 misc jets|turboprops Flight Train 04
+1300  27.40292977 -082.54952036 178.40 misc jets|turboprops Flight Train 03
+1300  27.40150573 -082.55000467 359.21 misc jets|turboprops Flight Train 02
+1300  27.40151022 -082.54962046 359.21 misc jets|turboprops Flight Train 01
 1300  27.39762196 -082.54754848 269.53 misc jets|turboprops E Hangar
-1300  27.39715418 -082.54763549 269.53 misc jets|turboprops Flighter Jet 2
-1300  27.39695178 -082.54762735 269.53 misc jets|turboprops Flighter Jet 1
-1300  27.39296711 -082.54741005 359.21 misc jets|turboprops Rectrix 4
-1300  27.39235189 -082.54806998 359.21 misc jets|turboprops Rectrix 3
-1300  27.39463394 -082.54823819 178.08 misc jets|turboprops Rectrix 2
-1300  27.39418590 -082.54796233 178.08 misc jets|turboprops Rectrix 1
-1300  27.39540319 -082.55805897 -135.63 misc jets|turboprops Dolphin Aviation 5
-1300  27.39441559 -082.55725108  -0.55 misc jets|turboprops Dolphin Aviation 4
-1300  27.39422870 -082.55776366  -0.55 misc jets|turboprops Dolphin Aviation 3
-1300  27.39512858 -082.55887547 179.41 misc jets|turboprops Dolphin Aviation 2
-1300  27.39530894 -082.55924378 179.41 misc jets|turboprops Dolphin Aviation 1
+1300  27.39715418 -082.54763549 269.53 misc jets|turboprops Flighter Jet 02
+1300  27.39695178 -082.54762735 269.53 misc jets|turboprops Flighter Jet 01
+1300  27.39296711 -082.54741005 359.21 misc jets|turboprops Rectrix 04
+1300  27.39235189 -082.54806998 359.21 misc jets|turboprops Rectrix 03
+1300  27.39463394 -082.54823819 178.08 misc jets|turboprops Rectrix 02
+1300  27.39418590 -082.54796233 178.08 misc jets|turboprops Rectrix 01
+1300  27.39540319 -082.55805897 -135.63 misc jets|turboprops Dolphin Aviation 05
+1300  27.39441559 -082.55725108  -0.55 misc jets|turboprops Dolphin Aviation 04
+1300  27.39422870 -082.55776366  -0.55 misc jets|turboprops Dolphin Aviation 03
+1300  27.39512858 -082.55887547 179.41 misc jets|turboprops Dolphin Aviation 02
+1300  27.39530894 -082.55924378 179.41 misc jets|turboprops Dolphin Aviation 01
 1300  27.39050061 -082.55394711 185.84 misc jets|turboprops Gate B14
 1300  27.39268202 -082.55753185 126.81 misc jets|turboprops W Hangar
 1300  27.39026337 -082.55429248 151.06 misc jets|turboprops Gate B12
 1300  27.38991998 -082.55441275 110.01 misc jets|turboprops Gate B10
-1300  27.38955355 -082.55436323  98.54 misc jets|props Gate B8
-1300  27.38913294 -082.55424690  98.54 misc jets|turboprops Gate B6
-1300  27.38868486 -082.55417380  98.54 misc jets|turboprops Gate B4
+1300  27.38955355 -082.55436323  98.54 misc jets|props Gate B08
+1300  27.38913294 -082.55424690  98.54 misc jets|turboprops Gate B06
+1300  27.38868486 -082.55417380  98.54 misc jets|turboprops Gate B04
 1300  27.39038960 -082.55343935 213.68 misc jets|turboprops Gate B11
-1300  27.39009551 -082.55327699 -113.95 misc jets|turboprops Gate B9
-1300  27.38972733 -082.55319770 -98.59 misc jets|turboprops Gate B7
-1300  27.38931683 -082.55316901 -98.59 misc jets|turboprops Gate B5
-1300  27.38877770 -082.55306586 271.75 misc jets|turboprops Gate B3
-1300  27.38843602 -082.55314452 296.40 misc jets|turboprops Gate B1
-1300  27.38835613 -082.55402523  73.18 misc jets|turboprops Gate B2
+1300  27.39009551 -082.55327699 -113.95 misc jets|turboprops Gate B09
+1300  27.38972733 -082.55319770 -98.59 misc jets|turboprops Gate B07
+1300  27.38931683 -082.55316901 -98.59 misc jets|turboprops Gate B05
+1300  27.38877770 -082.55306586 271.75 misc jets|turboprops Gate B03
+1300  27.38843602 -082.55314452 296.40 misc jets|turboprops Gate B01
+1300  27.38835613 -082.55402523  73.18 misc jets|turboprops Gate B02
 18  27.39308000 -082.55683900 1 BCN
 19  27.38730000 -082.54484600 1 WS
 19  27.39091100 -082.55751800 1 WS
