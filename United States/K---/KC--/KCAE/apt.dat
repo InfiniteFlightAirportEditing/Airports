@@ -1284,6 +1284,7 @@ I
 130 Airport Boundary 134
 111  33.94910823 -081.14078458
 111  33.94416438 -081.14133118
+111  33.93865572 -081.12122482
 111  33.92779071 -081.12706484
 111  33.92749726 -081.12262477
 111  33.93232636 -081.10842567
@@ -2925,33 +2926,33 @@ I
 21  33.94383096 -081.13374522 2 104.4000 3.0 11-PAPI-4L
 21  33.93143799 -081.11967960 3 44.5200 3.0 05-PAPI-4R
 21  33.94090539 -081.10857065 5 224.5300 3.0 23-VASI-4L
-1300  33.94211065 -081.10451772 220.53 misc jets|turboprops|props E Hangar 1
-1300  33.94165660 -081.10477927 310.37 misc jets|turboprops|props E Hangar 2
-1300  33.94146775 -081.10504081 310.37 misc jets|turboprops|props E Hangar 3
-1300  33.94055533 -081.10600353 -39.32 misc jets|turboprops|props East Park 1
-1300  33.94027333 -081.10634098 -36.20 misc jets|turboprops|props East Park 2
-1300  33.94641125 -081.13441764  15.38 misc jets|turboprops|props FEDEX 1
-1300  33.94630253 -081.13501192  15.38 misc jets|turboprops|props FEDEX 2
-1300  33.94245860 -081.11451609  14.00 misc jets|turboprops|props GA 1
-1300  33.94285210 -081.11362674  14.00 misc jets|turboprops|props GA 2
-1300  33.94300647 -081.11069139  14.00 misc jets|turboprops|props GA 3
+1300  33.94211065 -081.10451772 220.53 misc jets|turboprops|props E Hangar 01
+1300  33.94165660 -081.10477927 310.37 misc jets|turboprops|props E Hangar 02
+1300  33.94146775 -081.10504081 310.37 misc jets|turboprops|props E Hangar 03
+1300  33.94055533 -081.10600353 -39.32 misc jets|turboprops|props East Park 01
+1300  33.94027333 -081.10634098 -36.20 misc jets|turboprops|props East Park 02
+1300  33.94641125 -081.13441764  15.38 misc jets|turboprops|props FEDEX 01
+1300  33.94630253 -081.13501192  15.38 misc jets|turboprops|props FEDEX 02
+1300  33.94245860 -081.11451609  14.00 misc jets|turboprops|props GA 01
+1300  33.94285210 -081.11362674  14.00 misc jets|turboprops|props GA 02
+1300  33.94300647 -081.11069139  14.00 misc jets|turboprops|props GA 03
 1300  33.94452877 -081.11744296 108.93 misc jets|turboprops|props Hangar
-1300  33.94331745 -081.11899034 108.93 misc jets|turboprops|props Maintenance
-1300  33.94563364 -081.12476874 230.21 misc jets|turboprops|props Gate 1
-1300  33.94534834 -081.12452636 252.88 misc jets|turboprops|props Gate 2
-1300  33.94495481 -081.12434931 301.28 misc jets|turboprops|props Gate 3
-1300  33.94473472 -081.12454091 -47.66 misc jets|turboprops|props Gate 4
-1300  33.94461367 -081.12491615 -16.23 misc jets|turboprops|props Gate 5
-1300  33.94458683 -081.12528767  22.75 misc jets|turboprops|props Gate 6
-1300  33.94474314 -081.12604033 391.90 misc jets|turboprops|props Gate 7
-1300  33.94494519 -081.12640925  88.55 misc jets|turboprops|props Gate 8
-1300  33.94527489 -081.12642648 112.60 misc jets|turboprops|props Gate 9
+1300  33.94331745 -081.11899034 108.93 misc jets|turboprops|props MAINT 01
+1300  33.94563364 -081.12476874 230.21 misc jets|turboprops|props Gate 01
+1300  33.94534834 -081.12452636 252.88 misc jets|turboprops|props Gate 02
+1300  33.94495481 -081.12434931 301.28 misc jets|turboprops|props Gate 03
+1300  33.94473472 -081.12454091 -47.66 misc jets|turboprops|props Gate 04
+1300  33.94461367 -081.12491615 -16.23 misc jets|turboprops|props Gate 05
+1300  33.94458683 -081.12528767  22.75 misc jets|turboprops|props Gate 06
+1300  33.94474314 -081.12604033 391.90 misc jets|turboprops|props Gate 07
+1300  33.94494519 -081.12640925  88.55 misc jets|turboprops|props Gate 08
+1300  33.94527489 -081.12642648 112.60 misc jets|turboprops|props Gate 09
 1300  33.94567928 -081.12578350 163.25 misc jets|turboprops|props Gate 12
 1300  33.94556861 -081.12621478 136.68 misc jets|turboprops|props Gate 10
-1300  33.93382301 -081.11119573 335.02 misc jets|turboprops|props UPS 1
-1300  33.93480027 -081.11006476 335.02 misc jets|turboprops|props UPS 2
-1300  33.93448910 -081.11213919 340.89 misc jets|turboprops|props UPS 3
-1300  33.93550525 -081.11092032 340.89 misc jets|turboprops|props UPS 4
+1300  33.93382301 -081.11119573 335.02 misc jets|turboprops|props UPS 01
+1300  33.93480027 -081.11006476 335.02 misc jets|turboprops|props UPS 02
+1300  33.93448910 -081.11213919 340.89 misc jets|turboprops|props UPS 03
+1300  33.93550525 -081.11092032 340.89 misc jets|turboprops|props UPS 04
 18  33.94193878 -081.12568192 1 BCN
 19  33.92852156 -081.12339223 1 WS
 19  33.94441505 -081.13694371 1 WS
