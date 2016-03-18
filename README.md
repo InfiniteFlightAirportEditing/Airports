@@ -1,4 +1,4 @@
-<img src="http://3.bp.blogspot.com/-fKTKY3P8Ie0/U74Ufh1kIhI/AAAAAAAAAdI/TJyapM-vsSo/s1600/InfiniteFlightLogo450x180.png" />
+<img src="https://raw.githubusercontent.com/InfiniteFlightAirportEditing/Airports/master/banner.png" />
 
 Welcome to Infinite Flight Airport Editing!
 ===================
