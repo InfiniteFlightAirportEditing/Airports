@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/InfiniteFlightAirportEditing/Airports/master/banner.png" />
+<img src="https://raw.githubusercontent.com/InfiniteFlightAirportEditing/Airports/master/ifae-banner.png" />
 
 Welcome to Infinite Flight Airport Editing!
 ===================
