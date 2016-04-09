@@ -4341,38 +4341,38 @@ A
 111  33.66842711 -117.87473983 51
 115  33.66840630 -117.87471855
 14  33.67812213 -117.86980993  98.43 0 Tower Viewpoint
-1300  33.67380219 -117.86565472 118.34 misc heavy|jets|turboprops|props Cargo 2
-1300  33.67309662 -117.86606312 118.34 misc heavy|jets|turboprops|props Cargo 1
-1300  33.67500315 -117.86507119 118.34 misc heavy|jets|turboprops|props 21
-1300  33.67536023 -117.86484631 118.34 misc heavy|jets|turboprops|props 20
-1300  33.67572162 -117.86463694 118.34 misc heavy|jets|turboprops|props 19
-1300  33.67609591 -117.86440171 118.34 misc heavy|jets|turboprops|props 18
-1300  33.67647021 -117.86417166 118.34 misc heavy|jets|turboprops|props 17
-1300  33.67681439 -117.86390800 118.34 misc heavy|jets|turboprops|props 16
-1300  33.67716072 -117.86368311 118.34 misc heavy|jets|turboprops|props 15
-1300  33.67753501 -117.86342721 118.34 misc heavy|jets|turboprops|props 14
-1300  33.67792006 -117.86321007 118.34 misc heavy|jets|turboprops|props 13
-1300  33.67830081 -117.86299036 118.34 misc heavy|jets|turboprops|props 12
-1300  33.67870177 -117.86271864  98.51 misc heavy|jets|turboprops|props 11
-1300  33.67899562 -117.86255091 118.34 misc heavy|jets|turboprops|props 10
-1300  33.67935701 -117.86239582 118.34 misc heavy|jets|turboprops|props 9
-1300  33.67967537 -117.86209596 118.34 misc heavy|jets|turboprops|props 8
-1300  33.68071021 -117.86150141 137.94 misc heavy|jets|turboprops|props 5
-1300  33.68005773 -117.86186692 106.06 misc heavy|jets|turboprops|props 7
-1300  33.68036803 -117.86165134 118.34 misc heavy|jets|turboprops|props 6
-1300  33.68108865 -117.86116277 118.34 misc heavy|jets|turboprops|props 4
-1300  33.68147155 -117.86094821 118.34 misc heavy|jets|turboprops|props 3
-1300  33.68298293 -117.86083163  27.21 misc heavy|jets|turboprops|props N1
-1300  33.68287881 -117.86051883  55.72 misc heavy|jets|turboprops|props N2
-1300  33.68268005 -117.86029988  90.19 misc heavy|jets|turboprops|props N3
-1300  33.68241267 -117.86041362 118.34 misc heavy|jets|turboprops|props 1
-1300  33.68185660 -117.86072073 118.34 misc heavy|jets|turboprops|props 2
-15  33.66647838 -117.87210917  37.50 Atlantic Aviation
-15  33.67120814 -117.86738659  37.50 Signature Flight Support
-15  33.66759882 -117.87083271 215.38 GA East
-15  33.67165763 -117.87392382 201.30 GA West
-15  33.67000667 -117.87507422  22.45 Sky High Sports
-15  33.67362970 -117.87234599 290.00 Lyon Air Museum
+1300  33.67380219 -117.86565472 118.34 misc heavy|jets|turboprops|props CARGO 02
+1300  33.67309662 -117.86606312 118.34 misc heavy|jets|turboprops|props CARGO 01
+1300  33.67500315 -117.86507119 118.34 misc heavy|jets|turboprops|props GATE 21
+1300  33.67536023 -117.86484631 118.34 misc heavy|jets|turboprops|props GATE 20
+1300  33.67572162 -117.86463694 118.34 misc heavy|jets|turboprops|props GATE 19
+1300  33.67609591 -117.86440171 118.34 misc heavy|jets|turboprops|props GATE 18
+1300  33.67647021 -117.86417166 118.34 misc heavy|jets|turboprops|props GATE 17
+1300  33.67681439 -117.86390800 118.34 misc heavy|jets|turboprops|props GATE 16
+1300  33.67716072 -117.86368311 118.34 misc heavy|jets|turboprops|props GATE 15
+1300  33.67753501 -117.86342721 118.34 misc heavy|jets|turboprops|props GATE 14
+1300  33.67792006 -117.86321007 118.34 misc heavy|jets|turboprops|props GATE 13
+1300  33.67830081 -117.86299036 118.34 misc heavy|jets|turboprops|props GATE 12
+1300  33.67870177 -117.86271864  98.51 misc heavy|jets|turboprops|props GATE 11
+1300  33.67899562 -117.86255091 118.34 misc heavy|jets|turboprops|props GATE 10
+1300  33.67935701 -117.86239582 118.34 misc heavy|jets|turboprops|props GATE 09
+1300  33.67967537 -117.86209596 118.34 misc heavy|jets|turboprops|props GATE 08
+1300  33.68071021 -117.86150141 137.94 misc heavy|jets|turboprops|props GATE 05
+1300  33.68005773 -117.86186692 106.06 misc heavy|jets|turboprops|props GATE 07
+1300  33.68036803 -117.86165134 118.34 misc heavy|jets|turboprops|props GATE 06
+1300  33.68108865 -117.86116277 118.34 misc heavy|jets|turboprops|props GATE 04
+1300  33.68147155 -117.86094821 118.34 misc heavy|jets|turboprops|props GATE 03
+1300  33.68298293 -117.86083163  27.21 misc heavy|jets|turboprops|props GA N01
+1300  33.68287881 -117.86051883  55.72 misc heavy|jets|turboprops|props GA N02
+1300  33.68268005 -117.86029988  90.19 misc heavy|jets|turboprops|props GA N03
+1300  33.68241267 -117.86041362 118.34 misc heavy|jets|turboprops|props GATE 01
+1300  33.68185660 -117.86072073 118.34 misc heavy|jets|turboprops|props GATE 02
+15  33.66647838 -117.87210917  37.50 FBO ATLANTIC AVIATION
+15  33.67120814 -117.86738659  37.50 FBO SIGNATURE FLIGHT SUPPORT
+15  33.66759882 -117.87083271 215.38 GA E01
+15  33.67165763 -117.87392382 201.30 GA W01
+15  33.67000667 -117.87507422  22.45 FBO SKY HIGH SPORTS
+15  33.67362970 -117.87234599 290.00 FBO LYON AIR MUSEUM
 18  33.67455979 -117.86432009 1 Light beacon
 19  33.66860800 -117.87424500 1 Windsock
 19  33.67358500 -117.86894600 1 Windsock
