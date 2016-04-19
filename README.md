@@ -34,4 +34,4 @@ We appreciate every contribution that is made! Thank you very much to each perso
 <br><br>
 Airport editing run by Cameron Carmichael Alonso, Jonathan Perkins, and David Cutler.
 <br><br>
-<strong>Note: by submitting anything to this project, you are bound by the <a href="https://github.com/InfiniteFlightAirportEditing/Airports/blob/master/CONTRIBUTOR%20LICENSE">Contributor License Agreement</a>.</strong>
+<strong>Note: by submitting anything to this project, you are bound by the <a href="https://www.clahub.com/agreements/InfiniteFlightAirportEditing/Airports">Contributor License Agreement</a>.</strong>
