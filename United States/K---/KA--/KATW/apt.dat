@@ -1220,12 +1220,12 @@ I
 1300  44.25796078 -088.51208693 270.00 misc turboprops|props GA 18
 1300  44.25802489 -088.51201746  90.00 misc turboprops|props GA 19
 1300  44.25808435 -088.51208627 270.00 misc turboprops|props GA 20
-1300  44.25982927 -088.51202865 327.69 misc jets|turboprops|props Gate 4
-1300  44.25973239 -088.51290760  30.01 misc jets|turboprops|props Gate 6
-1300  44.25985197 -088.51329496  48.62 misc jets|turboprops|props Gate 8
-1300  44.26021738 -088.51373399 124.17 misc jets|turboprops|props Gate 7
-1300  44.26081709 -088.51292966 179.33 misc jets|turboprops|props Gate 5
-1300  44.26076192 -088.51228702 225.00 misc jets|turboprops|props Gate 3
+1300  44.25982927 -088.51202865 327.69 misc jets|turboprops|props GATE 04
+1300  44.25973239 -088.51290760  30.01 misc jets|turboprops|props GATE 06
+1300  44.25985197 -088.51329496  48.62 misc jets|turboprops|props GATE 08
+1300  44.26021738 -088.51373399 124.17 misc jets|turboprops|props GATE 07
+1300  44.26081709 -088.51292966 179.33 misc jets|turboprops|props GATE 05
+1300  44.26076192 -088.51228702 225.00 misc jets|turboprops|props GATE 03
 18  44.25922275 -088.51148283 1 BCN
 19  44.24959766 -088.52675074 1 WS
 19  44.26800766 -088.51255374 1 WS
