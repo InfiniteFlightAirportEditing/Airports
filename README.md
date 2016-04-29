@@ -32,6 +32,6 @@ One last thing...
 ==================
 We appreciate every contribution that is made! Thank you very much to each person that contributes, you are really helping to make the Infinite Flight world a better place.
 <br><br>
-Airport editing run by Cameron Carmichael Alonso, Jonathan Perkins, and David Cutler.
+Airport editing run by Cameron Carmichael Alonso, Jonathan Perkins and David Cutler.
 <br><br>
 <strong>Note: by submitting anything to this project, you are bound by the <a href="https://www.clahub.com/agreements/InfiniteFlightAirportEditing/Airports">Contributor License Agreement</a>.</strong>
