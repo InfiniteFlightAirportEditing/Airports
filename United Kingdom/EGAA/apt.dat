@@ -3371,8 +3371,8 @@ I
 1300  54.64738219 -006.22002141 -108.33 tie_down jets|turboprops|props MIL DA2 01
 1300  54.64687582 -006.21973210 -108.36 tie_down jets|turboprops|props MIL DA2 02
 1300  54.64640686 -006.21946843 -107.82 tie_down jets|turboprops|props MIL DA2 03
-1300  54.64756716 -006.22766122 162.90 hangar jets|turboprops|props HANGAR E02
-1300  54.64761766 -006.22733585 162.90 hangar jets|turboprops|props HANGAR E01
+1300  54.64756716 -006.22766122 162.90 hangar jets|turboprops|props HANGAR S02
+1300  54.64761766 -006.22733585 162.90 hangar jets|turboprops|props HANGAR S01
 1300  54.64907620 -006.23290280 -179.22 misc jets|turboprops|props HANGAR SW02
 1300  54.65050244 -006.23323948 -180.00 misc jets|turboprops|props HANGAR SW01
 18  54.66114163 -006.22992692 1 BCN
