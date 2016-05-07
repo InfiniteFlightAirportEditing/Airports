@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/InfiniteFlightAirportEditing/Airports.png?label=ready&title=Ready)](https://waffle.io/InfiniteFlightAirportEditing/Airports)
 <img src="https://raw.githubusercontent.com/InfiniteFlightAirportEditing/Airports/master/ifae-banner.png" />
 
 Welcome to Infinite Flight Airport Editing!
