@@ -1892,166 +1892,45 @@ I
 21  42.18561251 -071.17321115 2 336.3700 3.0 Runway 35 PAPI
 21  42.19169624 -071.17706846 3 154.8300 3.0 Runway 17 PAPI
 21  42.19183282 -071.17351758 3 267.9500 4.0 Runway 10 PAPI
-20  42.18467022 -071.17282490 149.0000 0 2 {@L}A{@R}35{@@,@L}A
-20  42.18678371 -071.17469015 68.7500 0 2 {@L}E{@Y,^l}A{^r}
-20  42.18698678 -071.17434706 156.5400 0 2 {@L}A{@Y}E{^r}
-20  42.18980622 -071.17562073 334.9500 0 2 {@Y,^l}C{@@,@Y}C{^r}
-20  42.19364785 -071.17857195 242.3800 0 2 {@L}A{@R}28-10{@@,@L}A
-20  42.19272558 -071.17797238 157.8100 0 2 {@L}A{@R}28-10{@@,@L}A
-20  42.19153669 -071.17761216 337.2700 0 2 {@L}A{@R}10-28{@@,@L}A
-20  42.19160477 -071.17194903 60.6000 0 2 {@Y,^l}F{@L}C{@@,@L}C
-20  42.19167786 -071.17189214 180.3700 0 2 {@L}F{@Y,^l}C{^r}{@@,@L}F{@R}10-28
-20  42.19206492 -071.17146504 270.6300 0 2 {@Y}F{^l}
-20  42.19206217 -071.17202697 90.0000 0 1 {@Y}F{^r}
-20  42.19172370 -071.16758482 89.3500 0 2 {@L}C{@Y}{^l}G
-20  42.19167139 -071.16374163 90.0000 0 1 {@R}28{@L}C
-20  42.19184001 -071.16396614 45.0000 0 1 {@L}C{@R}28
-20  42.19219092 -071.16430137 90.0000 0 1 {@Y}C{^r}
-20  42.19214365 -071.16706885 89.4200 0 2 {@Y}G{^r}
-20  42.19213989 -071.16759753 89.4200 0 2 {@Y}G{^r}
-20  42.19176182 -071.16750246 180.8600 0 2 {@L}G{@@,@L}G{@R}10-28
-20  42.18809765 -071.17504652 245.3700 0 2 {@L}D{@Y,^l}A{^r}{@@,@L}D
-20  42.19008282 -071.17633454 245.3700 0 2 {@L}C{@Y,^l}A{^r}{@@,@L}C
-20  42.18787834 -071.17480783 245.3700 0 2 {@L}D{@Y,^l}A{^r}{@@,@L}D
-20  42.18986352 -071.17609585 245.3700 0 2 {@L}C{@Y,^l}A{^r}{@@,@L}C
-20  42.19039000 -071.17599966 155.1000 0 2 {@Y}C{^r}{@@,@Y,^l}C
-20  42.18766968 -071.17518057 336.0200 0 2 {@L}A{@Y,^l}D{^r}
-20  42.18965486 -071.17646859 336.0200 0 2 {@L}A{@Y,^l}C{^r}
-20  42.18815215 -071.17506408 152.0400 0 2 {@L}A{@Y,^l}D{^r}
-20  42.19013733 -071.17635210 152.0400 0 2 {@L}A{@Y,^l}C{^r}
-20  42.18796950 -071.17540319 63.5400 0 2 {@L}D{@Y,^l}A{^r}{@@}{@L}D{@Y,^l}A{^r}
-20  42.18995468 -071.17669121 63.5400 0 2 {@L}C{@Y,^l}A{^r}{@@}{@L}C{@Y,^l}A{^r}
-20  42.18651012 -071.17442275 335.2300 0 2 {@L}A{@Y,^l}E
 14  42.18643549 -071.17655425  82.02 0 KOWD Tower
-1300  42.18726229 -071.17772628 336.04 hangar jets|turboprops|props Private Company Startup 2
-1300  42.18719143 -071.17792903 332.84 hangar jets|turboprops|props Private Company Startup 1
-1300  42.18738817 -071.17573436 242.29 tie_down turboprops|props Main Apron 27
-1300  42.18727377 -071.17566785 244.92 tie_down turboprops|props Main Apron 28
-1300  42.18716113 -071.17558946 244.55 tie_down turboprops|props Main Apron 29
-1300  42.18705552 -071.17553007 244.43 tie_down turboprops|props Main Apron 30
-1300  42.18693936 -071.17545169 244.04 tie_down turboprops|props Main Apron 31
-1300  42.18683024 -071.17538043 240.88 tie_down turboprops|props Main Apron 32
-1300  42.18671583 -071.17531392 244.16 tie_down turboprops|props Main Apron 33
-1300  42.18634622 -071.17557283  64.91 tie_down turboprops|props Main Apron 22
-1300  42.18638670 -071.17565834 245.66 tie_down turboprops|props Main Apron 21
-1300  42.18646415 -071.17564884  64.61 tie_down turboprops|props Main Apron 20
-1300  42.18650639 -071.17572723 241.93 tie_down turboprops|props Main Apron 19
-1300  42.18656799 -071.17571298  65.97 tie_down turboprops|props Main Apron 18
-1300  42.18661023 -071.17579611 245.06 tie_down turboprops|props Main Apron 17
-1300  42.18668239 -071.17577949  64.02 tie_down turboprops|props Main Apron 16
-1300  42.18671583 -071.17587450 246.19 tie_down turboprops|props Main Apron 15
-1300  42.18679503 -071.17585075  67.48 tie_down turboprops|props Main Apron 14
-1300  42.18684080 -071.17594576 246.71 tie_down turboprops|props Main Apron 13
-1300  42.18690592 -071.17592676  67.09 tie_down turboprops|props Main Apron 12
-1300  42.18694464 -071.17601465 247.11 tie_down turboprops|props Main Apron 11
-1300  42.18702032 -071.17599564  65.63 tie_down turboprops|props Main Apron 10
-1300  42.18706080 -071.17607878 242.57 tie_down turboprops|props Main Apron 09
-1300  42.18712769 -071.17607403  65.73 tie_down turboprops|props Main Apron 08
-1300  42.18717169 -071.17615954 250.35 tie_down turboprops|props Main Apron 07
-1300  42.18724385 -071.17613816  64.67 tie_down turboprops|props Main Apron 06
-1300  42.18734769 -071.17622130  63.81 tie_down turboprops|props Main Apron 04
-1300  42.18728961 -071.17623556 245.89 tie_down turboprops|props Main Apron 05
-1300  42.18612797 -071.17582937  62.17 tie_down turboprops|props Main Apron 26
-1300  42.18623710 -071.17589826  59.18 tie_down turboprops|props Main Apron 25
-1300  42.18635150 -071.17597427  64.33 tie_down turboprops|props Main Apron 24
-1300  42.18646239 -071.17605265  64.28 tie_down turboprops|props Main Apron 23
-1300  42.18702384 -071.17639471  61.78 tie_down turboprops|props Main Apron 03
-1300  42.18713473 -071.17646834  61.56 tie_down turboprops|props Main Apron 02
-1300  42.18724385 -071.17653485  63.63 tie_down turboprops|props Main Apron 01
-1300  42.18812652 -071.17673893 147.65 tie_down turboprops|props Tie Down 3-20
-1300  42.18806040 -071.17687813 149.18 tie_down turboprops|props Tie Down 3-19
-1300  42.18801015 -071.17702626 149.38 tie_down turboprops|props Tie Down 3-18
-1300  42.18836322 -071.17687635 337.85 tie_down turboprops|props Tie Down 3-17
-1300  42.18831694 -071.17703518 334.71 tie_down turboprops|props Tie Down 3-16
-1300  42.18826537 -071.17718510 335.00 tie_down turboprops|props Tie Down 3-15
-1300  42.18864499 -071.17710421 149.29 tie_down turboprops|props Tie Down 3-14
-1300  42.18859117 -071.17724163 151.54 tie_down turboprops|props Tie Down 3-13
-1300  42.18853735 -071.17740457 149.57 tie_down turboprops|props Tie Down 3-12
-1300  42.18888645 -071.17734371 330.51 tie_down turboprops|props Tie Down 3-11
-1300  42.18883263 -071.17749880 330.26 tie_down turboprops|props Tie Down 3-10
-1300  42.18878172 -071.17764408 332.73 tie_down turboprops|props Tie Down 3-09
-1300  42.18872790 -071.17780113 329.99 tie_down turboprops|props Tie Down 3-08
-1300  42.18890099 -071.17818984 151.55 tie_down turboprops|props Tie Down 3-01
-1300  42.18895191 -071.17803671 150.29 tie_down turboprops|props Tie Down 3-02
-1300  42.18900573 -071.17788555 150.10 tie_down turboprops|props Tie Down 3-03
-1300  42.18906246 -071.17773438 152.41 tie_down turboprops|props Tie Down 3-04
-1300  42.18911482 -071.17758518 152.23 tie_down turboprops|props Tie Down 3-06
-1300  42.18916718 -071.17743402 152.53 tie_down turboprops|props Tie Down 3-07
-1300  42.18912209 -071.17767745 328.88 tie_down turboprops|props Tie Down 3-05
-1300  42.19014818 -071.17803936  62.26 tie_down turboprops|props Tie Down 2-25
-1300  42.19003554 -071.17796809  54.82 tie_down turboprops|props Tie Down 2-26
-1300  42.18992114 -071.17789683  52.36 tie_down turboprops|props Tie Down 2-27
-1300  42.18981201 -071.17782794  55.51 tie_down turboprops|props Tie Down 2-28
-1300  42.18969937 -071.17775668  57.93 tie_down turboprops|props Tie Down 2-29
-1300  42.18958497 -071.17768541  51.05 tie_down turboprops|props Tie Down 2-30
-1300  42.18962369 -071.17777568 240.95 tie_down turboprops|props Tie Down 2-24
-1300  42.18973985 -071.17785645 241.24 tie_down turboprops|props Tie Down 2-23
-1300  42.18984897 -071.17791583 241.85 tie_down turboprops|props Tie Down 2-22
-1300  42.18995810 -071.17799185 239.89 tie_down turboprops|props Tie Down 2-21
-1300  42.19007426 -071.17806074 239.13 tie_down turboprops|props Tie Down 2-20
-1300  42.19018163 -071.17813675 246.47 tie_down turboprops|props Tie Down 2-19
-1300  42.18953041 -071.17804886  56.53 tie_down turboprops|props Tie Down 2-18
-1300  42.18963777 -071.17811300  56.91 tie_down turboprops|props Tie Down 2-17
-1300  42.18975041 -071.17819139  55.32 tie_down turboprops|props Tie Down 2-16
-1300  42.18986130 -071.17826503  50.10 tie_down turboprops|props Tie Down 2-15
-1300  42.18997394 -071.17833154  53.21 tie_down turboprops|props Tie Down 2-14
-1300  42.19009362 -071.17840280  57.53 tie_down turboprops|props Tie Down 2-13
-1300  42.19001442 -071.17842656 246.09 tie_down turboprops|props Tie Down 2-07
-1300  42.18990178 -071.17834817 242.24 tie_down turboprops|props Tie Down 2-08
-1300  42.18978737 -071.17828403 245.85 tie_down turboprops|props Tie Down 2-09
-1300  42.18967825 -071.17821752 236.77 tie_down turboprops|props Tie Down 2-10
-1300  42.18956561 -071.17813438 246.35 tie_down turboprops|props Tie Down 2-11
-1300  42.18945648 -071.17806786 242.69 tie_down turboprops|props Tie Down 2-12
-1300  42.18941072 -071.17837430  60.87 tie_down turboprops|props Tie Down 2-06
-1300  42.18952689 -071.17845506  55.60 tie_down turboprops|props Tie Down 2-05
-1300  42.18963249 -071.17853108  55.54 tie_down turboprops|props Tie Down 2-04
-1300  42.18974513 -071.17858809  54.22 tie_down turboprops|props Tie Down 2-03
-1300  42.18985249 -071.17865698  56.12 tie_down turboprops|props Tie Down 2-02
-1300  42.18996866 -071.17872824  59.62 tie_down turboprops|props Tie Down 2-01
-1300  42.19080645 -071.17835529 334.80 tie_down turboprops|props Tie Down 1-18
-1300  42.19075188 -071.17850257 335.26 tie_down turboprops|props Tie Down 1-17
-1300  42.19069732 -071.17865460 335.03 tie_down turboprops|props Tie Down 1-16
-1300  42.19064980 -071.17880901 334.31 tie_down turboprops|props Tie Down 1-15
-1300  42.19107747 -071.17853270 336.18 tie_down turboprops|props Tie Down 1-11
-1300  42.19102147 -071.17867955 334.34 tie_down turboprops|props Tie Down 1-10
-1300  42.19097506 -071.17883288 333.12 tie_down turboprops|props Tie Down 1-09
-1300  42.19092066 -071.17898837 334.09 tie_down turboprops|props Tie Down 1-08
-1300  42.19086946 -071.17913090 335.97 tie_down turboprops|props Tie Down 1-07
-1300  42.19081346 -071.17928207 335.45 tie_down turboprops|props Tie Down 1-06
-1300  42.19076546 -071.17943539 333.77 tie_down turboprops|props Tie Down 1-05
-1300  42.19098626 -071.17856942 153.12 tie_down turboprops|props Tie Down 1-14
-1300  42.19093986 -071.17871627 155.14 tie_down turboprops|props Tie Down 1-13
-1300  42.19088866 -071.17887391 154.98 tie_down turboprops|props Tie Down 1-12
-1300  42.19123587 -071.17899485 151.59 tie_down turboprops|props Tie Down 1-04
-1300  42.19118787 -071.17915033 154.86 tie_down turboprops|props Tie Down 1-03
-1300  42.19113027 -071.17930366 152.10 tie_down turboprops|props Tie Down 1-02
-1300  42.19107587 -071.17944835 153.79 tie_down turboprops|props Tie Down 1-01
-1300  42.19009884 -071.17987930 155.89 hangar jets|turboprops|props Flight Level Service
-1300  42.18846366 -071.17784098 334.55 hangar jets|turboprops|props Jet Hanger Startup 3
-1300  42.18831924 -071.17825708 334.70 hangar jets|turboprops|props Jet Hanger Startup 2
-1300  42.18817192 -071.17870318 335.01 hangar jets|turboprops|props Jet Hanger Startup 1
-1300  42.18741536 -071.17732459 334.17 hangar jets|turboprops|props New Horizons Startup 2
-1300  42.18733032 -071.17753500 334.02 hangar jets|turboprops|props New Horizons Startup 1
-1300  42.18800495 -071.17789078 329.42 hangar turboprops|props GA Hangar Startup 5
-1300  42.18795960 -071.17802467 334.59 hangar turboprops|props GA Hangar Startup 4
-1300  42.18790291 -071.17819682 335.82 hangar turboprops|props GA Hangar Startup 3
-1300  42.18783336 -071.17839343 335.56 hangar turboprops|props GA Hangar Startup 2
-1300  42.18777819 -071.17856025 -26.21 hangar turboprops|props GA Hangar Startup 1
-1300  42.18750734 -071.17644311 337.27 misc jets|turboprops Jet 06
-1300  42.18744132 -071.17661556 335.87 misc jets|turboprops Jet 05
-1300  42.18764577 -071.17651497 336.85 misc jets|turboprops Jet 04
-1300  42.18759891 -071.17671041 336.35 misc jets|turboprops Jet 03
-1300  42.18781614 -071.17658682 332.79 misc jets|turboprops Jet 02
-1300  42.18776929 -071.17679664 334.29 misc jets|turboprops Jet 01
-1300  42.18549710 -071.17474557   0.00 misc helos Helicopter Start SA-5
-1300  42.18564905 -071.17484552   0.00 misc helos Helicopter Start SA-4
-1300  42.18580253 -071.17493887   0.00 misc helos Helicopter Start SA-3
-1300  42.18596825 -071.17504231   0.00 misc helos Helicopter Start SA-2
-1300  42.19067827 -071.17790295   0.00 misc helos Helicopter Start NA-4
-1300  42.19091467 -071.17805494   0.00 misc helos Helicopter Start NA-3
-1300  42.19114229 -071.17819399   0.00 misc helos Helicopter Start NA-2
-1300  42.19137122 -071.17839638   0.00 misc helos Helicopter Start NA-1
-1300  42.18612788 -071.17514074   0.00 misc helos Helicopter Start SA-1
+1300  42.18726229 -071.17772628 336.04 hangar jets|turboprops|props HANGAR 01
+1300  42.18712229 -071.17805732 332.84 hangar jets|turboprops|props FBO BOCH AVIATION
+1300  42.18738817 -071.17573436 242.29 tie_down turboprops|props GA 01
+1300  42.18727377 -071.17566785 244.92 tie_down turboprops|props GA 02
+1300  42.18716113 -071.17558946 244.55 tie_down turboprops|props GA 03
+1300  42.18705552 -071.17553007 244.43 tie_down turboprops|props GA 04
+1300  42.18693936 -071.17545169 244.04 tie_down turboprops|props GA 05
+1300  42.18683024 -071.17538043 240.88 tie_down turboprops|props GA 06
+1300  42.18671583 -071.17531392 244.16 tie_down turboprops|props GA 07
+1300  42.18634622 -071.17557283  64.91 tie_down turboprops|props GA 11
+1300  42.18671583 -071.17587450 246.19 tie_down turboprops|props GA 10
+1300  42.18702032 -071.17599564  65.63 tie_down turboprops|props GA 09
+1300  42.18734769 -071.17622130  63.81 tie_down turboprops|props GA 08
+1300  42.18623710 -071.17589826  59.18 tie_down turboprops|props GA 12
+1300  42.18812652 -071.17673893 147.65 tie_down turboprops|props GA 13
+1300  42.18826537 -071.17718510 335.00 tie_down turboprops|props GA 14
+1300  42.18864499 -071.17710421 149.29 tie_down turboprops|props GA 15
+1300  42.18872790 -071.17780113 329.99 tie_down turboprops|props GA 16
+1300  42.18916718 -071.17743402 152.53 tie_down turboprops|props GA 17
+1300  42.18969937 -071.17775668  57.93 tie_down turboprops|props GA 18
+1300  42.18975041 -071.17819139  55.32 tie_down turboprops|props GA 19
+1300  42.18974513 -071.17858809  54.22 tie_down turboprops|props GA 20
+1300  42.19080645 -071.17835529 334.80 tie_down turboprops|props GA 21
+1300  42.19092066 -071.17898837 334.09 tie_down turboprops|props GA 22
+1300  42.19107587 -071.17944835 153.79 tie_down turboprops|props GA 23
+1300  42.19009884 -071.17987930 155.89 hangar jets|turboprops|props FBO BOSTON AIR CHARTER
+1300  42.18846366 -071.17784098 334.55 hangar jets|turboprops|props HANGAR 06
+1300  42.18817192 -071.17870318 335.01 hangar jets|turboprops|props HANGAR 05
+1300  42.18762566 -071.17718259 334.17 hangar jets|turboprops|props FBO HORIZON AVIATION
+1300  42.18737164 -071.17740755 334.02 hangar jets|turboprops|props HANGAR 02
+1300  42.18800495 -071.17789078 329.42 hangar turboprops|props HANGAR 03
+1300  42.18777819 -071.17856025 -26.21 hangar turboprops|props HANGAR 04
+1300  42.18750734 -071.17644311 337.27 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 4
+1300  42.18744132 -071.17661556 335.87 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 1 
+1300  42.18764577 -071.17651497 336.85 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 5
+1300  42.18759891 -071.17671041 336.35 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 2
+1300  42.18781614 -071.17658682 332.79 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 6
+1300  42.18776929 -071.17679664 334.29 misc jets|turboprops FBO FLIGHT LEVEL NORWOOD 3
 18  42.18643549 -071.17655425 1 Airport Beacon
 50 11995 ATIS
 51 12600 CTAF
