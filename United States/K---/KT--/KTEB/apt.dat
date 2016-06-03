@@ -1781,73 +1781,27 @@ I
 111  40.83561823 -074.05879743 3
 115  40.83561719 -074.05859196
 14  40.84911402 -074.05298544  98.43 0 Tower Viewpoint
-1300  40.83741381 -074.06199406 194.04 misc jets|turboprops|props E16
-1300  40.83744740 -074.06225673 194.04 misc jets|turboprops|props E15
-1300  40.83750338 -074.06244170 301.83 misc jets|turboprops|props E15
-1300  40.83766291 -074.06236031 300.26 misc jets|turboprops|props E14
-1300  40.83778327 -074.06223823 301.22 misc jets|turboprops|props E13
-1300  40.83792041 -074.06212724 303.69 misc jets|turboprops|props E12
-1300  40.83806876 -074.06199406 305.10 misc jets|turboprops|props E11
-1300  40.83827307 -074.06187568 294.10 misc jets|turboprops|props E10
-1300  40.83846620 -074.06176100 294.34 misc jets|turboprops|props E09
-1300  40.83867612 -074.06166483 294.34 misc jets|turboprops|props E08
-1300  40.83878527 -074.06147615   0.00 misc jets|turboprops|props E07
-1300  40.83877408 -074.06126898   6.01 misc jets|turboprops|props E06
-1300  40.83878527 -074.06099892   1.68 misc jets|turboprops|props E05
-1300  40.83876848 -074.06076215  13.63 misc jets|props E04
-1300  40.83873209 -074.06049948  16.39 misc jets|turboprops|props E03
-1300  40.83870131 -074.06027012  10.30 misc jets|turboprops|props E02
-1300  40.83867052 -074.06001485   8.37 misc jets|turboprops|props E01
-1300  40.84202842 -074.06301253 223.02 misc jets|turboprops|props D07
-1300  40.84233576 -074.06338628 229.08 misc jets|turboprops|props D06
-1300  40.84252017 -074.06361920 230.91 misc jets|turboprops|props D05
-1300  40.84268408 -074.06384670 226.22 misc jets|turboprops|props D04
-1300  40.84286029 -074.06406336 229.76 misc jets|turboprops|props D03
-1300  40.84303240 -074.06426920 228.65 misc jets|turboprops|props D02
-1300  40.84320501 -074.06445495 232.85 misc jets|turboprops|props D01
-1300  40.84659217 -074.06609841 174.05 misc jets|turboprops|props C10
-1300  40.84694763 -074.06650910  36.03 misc jets|turboprops|props C09
-1300  40.84704840 -074.06579132  40.85 misc jets|turboprops|props C08
-1300  40.84715755 -074.06596891  35.84 misc jets|turboprops|props C07
-1300  40.84728350 -074.06518453 214.87 misc jets|turboprops|props C06
-1300  40.84739546 -074.06537322 221.42 misc jets|turboprops|props C05
-1300  40.84748502 -074.06448153 215.17 misc jets|turboprops|props C04
-1300  40.84763057 -074.06474793 217.09 misc jets|turboprops|props C03
-1300  40.84776491 -074.06501803 216.19 misc jets|turboprops|props C02
-1300  40.84787967 -074.06524003 217.65 misc jets|turboprops|props C01
-1300  40.84823233 -074.06491073 213.34 misc jets|turboprops|props B06
-1300  40.84812597 -074.06472573 216.12 misc jets|turboprops|props B07
-1300  40.84804201 -074.06448523 218.21 misc jets|turboprops|props B08
-1300  40.84791326 -074.06426693 213.69 misc jets|turboprops|props B09
-1300  40.84824353 -074.06384143 218.09 misc jets|turboprops|props B05
-1300  40.84871094 -074.06466653 217.87 misc jets|turboprops|props B01
-1300  40.84858219 -074.06444823 217.07 misc jets|turboprops|props B02
-1300  40.84846184 -074.06428913 208.93 misc jets|turboprops|props B03
-1300  40.84834989 -074.06407083 216.03 misc jets|turboprops|props B04
-1300  40.84853461 -074.06410783 122.47 misc jets|turboprops|props Hangar 16
-1300  40.84889287 -074.06363793 126.43 misc jets|turboprops|props Hangar 12
-1300  40.84940787 -074.06313102 211.18 misc jets|turboprops|props Hangar 13
-1300  40.84946665 -074.06327902 216.87 misc jets|turboprops|props Hangar 14
-1300  40.84993686 -074.06278322 216.87 misc jets|turboprops|props Hangar 01
-1300  40.84971015 -074.06237991 217.23 misc jets|turboprops|props Hangar 02
-1300  40.84957860 -074.06215420 221.19 misc jets|turboprops|props Hangar 03
-1300  40.84946385 -074.06194700 220.73 misc jets|turboprops|props Hangar 04
-1300  40.84921755 -074.06200991 135.79 misc jets|turboprops|props Hangar 05
-1300  40.84900931 -074.06226225 135.00 misc jets|turboprops|props Hangar 07
-1300  40.84908600 -074.06214681 135.00 misc jets|turboprops|props Hangar 06
-1300  40.84891527 -074.06242061 138.47 misc jets|turboprops|props Hangar 08
-1300  40.84878092 -074.06266482 132.71 misc jets|turboprops|props Hangar 09
-1300  40.84859059 -074.06300892 131.71 misc jets|turboprops|props Hangar 10
-1300  40.84838067 -074.06316062 127.88 misc jets|turboprops|props Hangar 11
-1300  40.85123640 -074.05897588 312.50 misc jets A09
-1300  40.85116210 -074.05909228 312.50 misc jets A08
-1300  40.85109016 -074.05919514 312.50 misc jets A07
-1300  40.85101137 -074.05931087 312.50 misc jets A06
-1300  40.85093165 -074.05943785 312.50 misc jets A05
-1300  40.85084375 -074.05958463 312.50 misc jets A04
-1300  40.85073041 -074.05975588 312.50 misc jets A03
-1300  40.85063325 -074.05993018 312.50 misc jets A02
-1300  40.85051297 -074.06011366 312.51 misc jets A01
+1300  40.83672828 -074.06140955 -85.71 misc jets|turboprops|props FBO PORT OF NEW YORK AUTHORITY
+1300  40.83746281 -074.06352234 194.04 misc jets|turboprops|props FBO JET AVIATION HOLDINGS
+1300  40.83828071 -074.06304945 108.83 misc jets|turboprops|props FBO JETCRAFT CORP
+1300  40.83939551 -074.06218523 113.20 misc jets|turboprops|props FBO NATIONAL WEATHER
+1300  40.84202842 -074.06301253 223.02 misc jets|turboprops|props GA 01
+1300  40.84233576 -074.06338628 229.08 misc jets|turboprops|props GA 02
+1300  40.84252017 -074.06361920 230.91 misc jets|turboprops|props GA 03
+1300  40.84268408 -074.06384670 226.22 misc jets|turboprops|props GA 04
+1300  40.84286029 -074.06406336 229.76 misc jets|turboprops|props GA 05
+1300  40.84303240 -074.06426920 228.65 misc jets|turboprops|props GA 06
+1300  40.84320501 -074.06445495 232.85 misc jets|turboprops|props GA 07
+1300  40.84659217 -074.06609841 174.05 misc jets|turboprops|props FBO MERIDIAN 01
+1300  40.84728350 -074.06518453 214.87 misc jets|turboprops|props FBO MERIDIAN 02
+1300  40.85501785 -074.05856930  39.26 misc jets|turboprops|props HANGAR 03
+1300  40.85423404 -074.05924112 123.66 misc jets|turboprops|props HANGAR 02
+1300  40.85342411 -074.05989924 123.66 misc jets|turboprops|props HANGAR 01
+1300  40.84804201 -074.06448523 218.21 misc jets|turboprops|props GA 09
+1300  40.84834989 -074.06407083 216.03 misc jets|turboprops|props GA 08
+1300  40.84940787 -074.06313102 211.18 misc jets|turboprops|props FBO SIGNATURE FLIGHT
+1300  40.85123640 -074.05897588 312.50 misc jets FBO ATLANTIC AVIATION 01
+1300  40.85084375 -074.05958463 312.50 misc jets FBO ATLANTIC AVIATION 02
 18  40.85212002 -074.06138244 1 Rotating Beacon
 19  40.83801003 -074.05819344 1 Windsock
 19  40.85384502 -074.05362944 1 Windsock
