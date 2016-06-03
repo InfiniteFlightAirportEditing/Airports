@@ -841,10 +841,10 @@ A
 1300  37.70960655 -077.43888370 238.24 tie_down jets|turboprops|props Apron - 52
 1300  37.70971602 -077.43896116 237.76 tie_down jets|turboprops|props Apron - 53
 1300  37.70981509 -077.43903492 237.82 tie_down jets|turboprops|props Apron - 54
-1300  37.70771558 -077.43871191  61.05 hangar jets|turboprops|props Ramp - 01
-1300  37.70801313 -077.43893160  59.84 hangar jets|turboprops|props Ramp - 02
-1300  37.70830030 -077.43915630  60.38 hangar jets|turboprops|props Ramp - 03
-1300  37.70859622 -077.43940638  59.92 hangar jets|turboprops|props Ramp - 04
+1300  37.70771558 -077.43871191  61.05 hangar jets|turboprops|props HANGAR 01
+1300  37.70801313 -077.43893160  59.84 hangar jets|turboprops|props HANGAR 02
+1300  37.70830030 -077.43915630  60.38 hangar jets|turboprops|props HANGAR 03
+1300  37.70859622 -077.43940638  59.92 hangar jets|turboprops|props HANGAR 04
 18  37.70634675 -077.43862038 1 Airport Beacon
 19  37.70863838 -077.43470724 1 WS
 51 12270 Hanover Co
