@@ -2729,13 +2729,15 @@ A
 1300  34.79562479  135.43408107 135.00 misc jets|turboprops|props Apron - 70
 1300  34.79592511  135.43439003 103.64 misc jets|turboprops|props Apron - 71
 1300  34.79620603  135.43471085 135.45 misc jets|turboprops|props Apron - 72
-1300  34.79661953  135.43505458 135.74 misc jets|turboprops|props Apron - 73
+1300  34.79661953  135.43505458 135.74 misc jets|turboprops|props Apron - 74
 1300  34.79560104  135.43534516 -135.58 misc heavy|jets|turboprops|props Engine Testing Facility
 18  34.78386945  135.43347889 1 BCN
 19  34.79090954  135.43175390 1 WS
 19  34.77652709  135.44850842 0 WS
 19  34.78297935  135.44110579 1 WS
-50 12860 Osaka ATIS
-53 12620 Osaka Ground
-54 11810 Osaka Tower
+50 12860 ATIS
+53 12620 GND
+54 11810 TWR
+55 12045 APP
+56 12085 DEP
 99
