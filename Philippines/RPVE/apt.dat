@@ -146,10 +146,10 @@ I
 21  11.92684849  121.95940230 3 241.7300 3.0 PAPI 24
 21  11.92418696  121.95294293 2 64.0100 3.0 PAPI 06
 14  11.92502077  121.95356010  82.02 0 Tower Viewpoint
-1300  11.92471114  121.95332326  66.97 misc turboprops|props|helos GA 01
-1300  11.92493228  121.95308453 240.12 misc turboprops|props|helos GA 02
-1300  11.92453866  121.95272808  60.07 misc turboprops|props|helos GA 03
-1300  11.92469922  121.95263901  61.50 misc turboprops|props|helos GA 04
+1300  11.92471114  121.95332326  66.97 misc turboprops|props|helos STAND 1
+1300  11.92493228  121.95308453 240.12 misc turboprops|props|helos STAND 2
+1300  11.92453866  121.95272808  60.07 misc turboprops|props|helos STAND 3
+1300  11.92469922  121.95263901  61.50 misc turboprops|props|helos STAND 4
 18  11.92424885  121.95235661 1 Airport Beacon
 51 12880 Caticlan Unciom
 99
