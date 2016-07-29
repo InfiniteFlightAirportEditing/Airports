@@ -6643,13 +6643,13 @@ I
 1300  25.06571593  121.22474316 325.00 tie_down heavy|jets|turboprops EVA Maintenance Apron 03
 1300  25.06608968  121.22535264 325.00 tie_down heavy|jets|turboprops EVA Maintenance Apron 02
 1300  25.06648935  121.22580823 325.00 tie_down jets|turboprops EVA Maintenance Apron 01
-1300  25.08243077  121.24577670 320.00 gate jets|turboprops China Airlines Maintenance Apron 01
-1300  25.08276463  121.24642927 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 02
-1300  25.08314341  121.24701237 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 03
-1300  25.08357748  121.24754700 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 03
-1300  25.08409710  121.24822242 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 04
-1300  25.08454698  121.24879764 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 05
-1300  25.08499108  121.24937614 320.00 gate heavy|jets|turboprops China Airlines Maintenance Apron 06
+1300  25.08243077  121.24577670 320.00 gate jets|turboprops MAINT CAL 01
+1300  25.08276463  121.24642927 320.00 gate heavy|jets|turboprops MAINT CAL 02
+1300  25.08314341  121.24701237 320.00 gate heavy|jets|turboprops MAINT CAL 03
+1300  25.08357748  121.24754700 320.00 gate heavy|jets|turboprops MAINT CAL 04
+1300  25.08409710  121.24822242 320.00 gate heavy|jets|turboprops MAINT CAL 05
+1300  25.08454698  121.24879764 320.00 gate heavy|jets|turboprops MAINT CAL 06
+1300  25.08499108  121.24937614 320.00 gate heavy|jets|turboprops MAINT CAL 07
 1300  25.07632680  121.23811666 320.00 gate jets|turboprops Remote Apron 608
 1300  25.07679702  121.23874567 320.00 gate jets|turboprops Remote Apron 607
 1300  25.07728785  121.23935828 320.00 gate jets|turboprops Remote Apron 606
@@ -6662,7 +6662,7 @@ I
 1300  25.07420167  121.23206054 320.00 gate heavy|jets|turboprops T2 Gate C9
 1300  25.07461748  121.23264550 320.00 gate heavy|jets|turboprops T2 Gate C8
 1300  25.07513624  121.23313742 320.00 gate heavy|jets|turboprops T2 Gate C7
-1300  25.08540847  121.24980027 320.00 gate jets|turboprops China Airlines Maintenance Apron 06
+1300  25.08540847  121.24980027 320.00 gate jets|turboprops MAINT CAL 08
 1300  25.09445866  121.23655903 320.00 gate jets|turboprops Cargo Apron 516
 1300  25.09496124  121.23727073 320.00 gate jets|turboprops Cargo Apron 517
 1300  25.09555330  121.23788011 320.00 gate jets|turboprops Cargo Apron 518
