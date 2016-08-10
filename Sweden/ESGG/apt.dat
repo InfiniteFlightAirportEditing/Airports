@@ -1423,6 +1423,7 @@ A
 115  57.66501875  012.28815789
 120 Linear Feature 1
 111  57.66488585  012.28962109 1 101
+111  57.66472018  012.29025565 1
 115  57.66447325  012.29120149
 120 Linear Feature 2
 111  57.66460454  012.29082323 1
@@ -1484,8 +1485,8 @@ A
 115  57.66619651  012.29195601
 120 Linear Feature 1
 111  57.66619562  012.29023007 1 101
-111  57.66601025  012.29092165 1
-115  57.66573071  012.29199109
+111  57.66601478  012.29092165 1
+115  57.66573524  012.29199109
 120 Linear Feature 2
 111  57.66585395  012.29165689 1
 115  57.66580588  012.29161221
@@ -2770,104 +2771,104 @@ A
 1301 E none 
 1300  57.67465374  012.29715067 325.31 misc heavy|jets|turboprops|props 43
 1301 F none 
-1300  57.66937104  012.29194385 250.28 misc jets|turboprops|props 56
+1300  57.66937394  012.29194625 -109.70 misc jets|turboprops|props Terminal 56
 1301 B none 
-1300  57.66565431  012.28858912 247.02 misc turboprops|props 67
+1300  57.66565456  012.28859022 -112.01 misc turboprops|props GA 67
 1301 B none 
-1300  57.66426462  012.28741369 295.59 misc jets|turboprops|props 74
+1300  57.66426487  012.28741262 295.59 misc jets|turboprops|props GA 74
 1301 C none 
-1300  57.66390234  012.28700384 296.72 misc jets|turboprops|props 76
+1300  57.66390214  012.28700345 296.72 misc jets|turboprops|props GA 76
 1301 C none 
-1300  57.66453999  012.29094824 116.38 misc jets|turboprops|props 30
+1300  57.66453988  012.29094627 116.38 misc jets|turboprops|props|helos Terminal 30
 1301 C airline 
-1300  57.66510925  012.29106594 116.84 misc jets|turboprops|props 27
+1300  57.66511328  012.29106830 116.84 misc jets|turboprops|props|helos Terminal 27
 1301 C airline 
-1300  57.66522530  012.29108814 115.70 misc props 26
+1300  57.66522560  012.29108702 115.70 misc jets|turboprops|props|helos Temrinal 26
 1301 B airline 
-1300  57.66571499  012.29153198 115.39 misc jets|turboprops|props 24
+1300  57.66571514  012.29153157 115.39 misc jets|turboprops|props|helos Terminal 24
 1301 C airline 
-1300  57.66582511  012.29162950 115.36 misc jets|turboprops|props 23
+1300  57.66582508  012.29163006 116.19 misc jets|turboprops|props Terminal 23
 1301 B airline 
-1300  57.66928005  012.29482347 116.57 gate heavy|jets|turboprops|props 15
+1300  57.66927801  012.29482969 116.57 gate heavy|jets|turboprops|props Gate 15
 1301 D airline 
-1300  57.66967391  012.29515485 116.05 gate jets|turboprops|props 14
+1300  57.66967503  012.29515561 116.05 gate jets|turboprops|props Gate 14
 1301 C airline 
-1300  57.67117291  012.29619498 117.01 misc props 10
+1300  57.67117304  012.29619562 116.42 misc props Cargo 10
+1301 D cargo 
+1300  57.67179838  012.29687613 116.78 misc heavy|jets|turboprops|props Cargo 09
+1301 D cargo 
+1300  57.67059548  012.29613701 115.66 misc turboprops|props Gate 11
+1301 A airline 
+1300  57.66340408  012.29001622 115.99 misc jets|turboprops|props|helos Terminal 36
+1301 C airline 
+1300  57.67213580  012.29732359 115.94 gate jets|turboprops|props Cargo 08
+1301 C cargo 
+1300  57.67233091  012.29749452 116.40 misc props Cargo 07A
+1301 E cargo 
+1300  57.67240594  012.29768394 116.98 misc turboprops|props Cargo 07
+1301 A cargo 
+1300  57.67264568  012.29790972 116.10 misc jets|turboprops|props Cargo 06
+1301 B cargo 
+1300  57.67280790  012.29806086 116.20 misc heavy|jets|turboprops|props Cargo 05A
+1301 E cargo 
+1300  57.67301423  012.29811627 116.35 misc jets|turboprops|props Cargo 05
+1301 B cargo 
+1300  57.67258679  012.29486473 -109.52 misc turboprops|props GA 48
+1301 A general_aviation 
+1300  57.67157297  012.29395106 -109.38 misc jets|turboprops|props Terminal 50
+1301 B none 
+1300  57.67110915  012.29352660 -109.48 misc jets|turboprops|props Terminal 52
+1301 B none 
+1300  57.67030646  012.29293929 -109.55 misc jets|turboprops|props|helos Terminal 54
+1301 B none 
+1300  57.66899052  012.29159698 248.59 misc jets|turboprops|props Terminal 58
+1301 B none 
+1300  57.66860594  012.29124716 -109.66 misc jets|turboprops|props|helos Terminal 60
+1301 B none 
+1300  57.66822651  012.29100563 251.04 misc jets|turboprops|props Terminal 62
+1301 B none 
+1300  57.66715703  012.28992248 251.35 misc jets|turboprops|props Terminal 64
+1301 B none 
+1300  57.66661005  012.28941730 -108.92 misc jets|turboprops|props|helos Terminal 66
+1301 B none 
+1300  57.66537212  012.28841398 296.91 misc jets|turboprops|props GA 68
+1301 C none 
+1300  57.66500874  012.28808301 296.57 misc jets|turboprops|props GA 70
+1301 C none 
+1300  57.66463585  012.28774695 -63.73 misc jets|turboprops|props|helos GA 72
+1301 C none 
+1300  57.66342116  012.28656475 295.91 misc heavy|jets|turboprops|props|helos Terminal 78
 1301 D none 
-1300  57.67179838  012.29687613 116.78 misc props 09
-1301 D none 
-1300  57.67059551  012.29613708 115.66 misc props 11
-1301 A none 
-1300  57.66340402  012.29001605 115.99 misc props 36
+1300  57.67304531  012.29527771 -108.70 misc turboprops|props|helos GA 46
+1301 A general_aviation 
+1300  57.67042579  012.29587140 116.28 gate jets|turboprops|props Gate 12
 1301 C airline 
-1300  57.67213553  012.29732273 115.94 gate props 08
-1301 C none 
-1300  57.67232835  012.29749232 116.40 misc props 07A
-1301 E none 
-1300  57.67240594  012.29768394 116.98 misc props 07
-1301 A none 
-1300  57.67264568  012.29790972 116.10 misc props 06
-1301 B none 
-1300  57.67280598  012.29805875 116.20 misc heavy|jets|turboprops|props 05A
-1301 E none 
-1300  57.67301401  012.29811644 116.35 misc heavy|jets|turboprops|props|helos 05
-1301 B airline 
-1300  57.67258610  012.29486444 249.73 misc turboprops|props 48
-1301 A none 
-1300  57.67157530  012.29394706 251.43 misc jets|turboprops|props 50
-1301 B none 
-1300  57.67110864  012.29352543 252.14 misc jets|turboprops|props 52
-1301 B none 
-1300  57.67030949  012.29293749 250.94 misc jets|turboprops|props|helos 54
-1301 B none 
-1300  57.66898865  012.29159503 248.59 misc jets|turboprops|props 58
-1301 B none 
-1300  57.66860592  012.29124558 250.55 misc jets|turboprops|props|helos 60
-1301 B none 
-1300  57.66822518  012.29100462 251.04 misc jets|turboprops|props 62
-1301 B none 
-1300  57.66715428  012.28992134 251.35 misc jets|turboprops|props 64
-1301 B none 
-1300  57.66660930  012.28942012 250.80 misc jets|turboprops|props|helos 66
-1301 B none 
-1300  57.66537146  012.28841412 296.91 misc jets|turboprops|props 68
-1301 C none 
-1300  57.66500834  012.28808174 296.57 misc jets|turboprops|props 70
-1301 C none 
-1300  57.66463619  012.28774710 295.91 misc jets|turboprops|props|helos 72
-1301 C none 
-1300  57.66342206  012.28656408 295.91 misc heavy|jets|turboprops|props|helos 78
-1301 D none 
-1300  57.67304608  012.29527788 -108.70 misc turboprops|props|helos 46
-1301 A none 
-1300  57.67042467  012.29586988 115.39 gate jets|turboprops|props|helos 12
+1300  57.67000937  012.29549010 116.72 gate jets|turboprops|props Gate 13
 1301 C airline 
-1300  57.67000688  012.29548923 116.72 gate jets|turboprops|props|helos 13
-1301 C airline 
-1300  57.66881576  012.29440903 115.39 gate heavy|jets|turboprops|props|helos 16
+1300  57.66881243  012.29440804 115.39 gate heavy|jets|turboprops|props Gate 16
 1301 D airline 
-1300  57.66840555  012.29403590 116.17 gate heavy|jets|turboprops|props|helos 17
+1300  57.66840533  012.29403662 116.17 gate jets|turboprops|props Gate 17
 1301 C airline 
-1300  57.66771073  012.29338779 115.39 gate heavy|jets|turboprops|props|helos 19
+1300  57.66771147  012.29338880 115.39 gate heavy|jets|turboprops|props Gate 19
 1301 D airline 
-1300  57.66672186  012.29245375 116.81 misc jets|turboprops|props 21
+1300  57.66672218  012.29245466 -244.49 misc jets|turboprops|props|helos Terminal 21
 1301 C airline 
-1300  57.66721542  012.29293829 115.39 misc heavy|jets|turboprops|props|helos 20
+1300  57.66721475  012.29293939 115.39 gate heavy|jets|turboprops|props Gate 20
 1301 E airline 
-1300  57.66621859  012.29197690 115.39 misc jets|turboprops|props|helos 22
-1301 C none 
-1300  57.66544777  012.29143677 115.39 misc heavy|jets|turboprops|props|helos 25
+1300  57.66622004  012.29197790 115.39 misc jets|turboprops|props|helos Terminal 22
 1301 C airline 
-1300  57.66377912  012.29035365 115.30 misc props 34
+1300  57.66544916  012.29143577 115.56 misc heavy|jets|turboprops|props|helos Terminal 25
 1301 C airline 
-1300  57.66414673  012.29068937 115.39 misc heavy|jets|turboprops|props|helos 32
+1300  57.66377568  012.29035420 115.30 misc jets|turboprops|props|helos Terminal 34
 1301 C airline 
-1300  57.66264722  012.28940170 116.05 misc heavy|jets|turboprops|props 40
+1300  57.66414673  012.29068959 115.39 misc jets|turboprops|props|helos Terminal 32
+1301 C airline 
+1300  57.66264722  012.28939953 116.05 misc heavy|jets|turboprops|props|helos Terminal 40
 1301 E airline 
-1300  57.66301040  012.28976480 115.39 misc heavy|jets|turboprops|props|helos 38
+1300  57.66301026  012.28976733 115.39 misc jets|turboprops|props|helos Terminal 38
 1301 C airline 
 1300  57.67471359  012.29771122 309.92 misc heavy|jets|turboprops|props|helos 42
-1301 E none 
+1301 E cargo 
 18  57.66318530  012.27844289 1 BCN
 19  57.65253332  012.26888468 0 WS
 19  57.66890135  012.29143902 1 WS
@@ -2877,5 +2878,5 @@ A
 53 12190 GND
 54 11860 TWR
 55 12467 GOTEBORG CONTROL
-52 12168 GOTEBORG CONTROL
+52 12168 GOTEBORG CLEARANCE
 99
