@@ -205,16 +205,16 @@ I
 111  49.12708264  012.98431648 4
 115  49.12698328  012.98425880
 14  49.12707850  012.98381227  32.81 0 New Tower Viewpoint 1
-1300  49.12731796  012.98380273  64.65 hangar props Hangar 01
-1301 B none 
-1300  49.12721022  012.98384345  67.17 hangar props Hangar 02
-1301 B none 
-1300  49.12702078  012.98395997  54.60 hangar props Hangar 03
-1301 B none 
-1300  49.12679920  012.98405913  74.05 hangar props Hangar 04
-1301 B none 
-1300  49.12649609  012.98409075  55.18 hangar props Hangar 05
-1301 B none 
+1300  49.12729286  012.98369777  69.91 hangar props Hangar 01
+1301 A general_aviation 
+1300  49.12717191  012.98374858  67.17 hangar props Hangar 02
+1301 A general_aviation 
+1300  49.12700097  012.98384491  69.47 hangar props Hangar 03
+1301 A general_aviation 
+1300  49.12675665  012.98392614  74.05 hangar props Hangar 04
+1301 A general_aviation 
+1300  49.12651543  012.98419714  71.79 tie_down props Hangar 05
+1301 A general_aviation 
 18  49.12682819  012.98432767 1 New Airport Beacon 1
 51 11850 Arnbruck Unicom
 99
