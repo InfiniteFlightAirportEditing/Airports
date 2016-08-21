@@ -186,42 +186,42 @@ I
 112  44.56759183  014.39356229  44.56728574  014.39375612 1
 115  44.56757097  014.39410179
 14  44.56766065  014.39153022  32.81 0 New Tower Viewpoint 11
-1300  44.56900311  014.39213192  31.89 misc props Apron 1
-1301 B none 
-1300  44.56893892  014.39235018  29.41 misc props Apron 2
-1301 B none 
-1300  44.56888131  014.39255665  26.48 misc props Apron 3
-1301 B none 
-1300  44.56882490  014.39275816  19.46 misc props Apron 4
-1301 B none 
-1300  44.56890287  014.39197122 -67.00 misc turboprops Apron 5
-1301 C none 
-1300  44.56878048  014.39199067 199.90 misc props Apron 6
-1301 B none 
-1300  44.56872069  014.39221277 200.28 misc props Apron 7
-1301 B none 
-1300  44.56866018  014.39241529 200.14 misc props Apron 8
-1301 B none 
-1300  44.56860193  014.39262682 200.73 misc props Apron 9
-1301 B none 
-1300  44.56896672  014.39293250 201.26 misc props Apron 10
-1301 B none 
-1300  44.56902492  014.39272077 200.56 misc props Apron 11
-1301 B none 
-1300  44.56908308  014.39251205 -158.58 misc props Apron 12
-1301 B none 
-1300  44.56914414  014.39228991 201.65 misc props Apron 13
-1301 B none 
-1300  44.56929798  014.39219029 -68.29 misc props Apron 14
-1301 B none 
-1300  44.56936630  014.39242850  27.22 misc props Apron 15
-1301 B none 
-1300  44.56924037  014.39285413  26.56 misc props Apron 16
-1301 B none 
-1300  44.56918548  014.39305958  28.29 misc props Apron 17
-1301 B none 
-1300  44.56966542  014.39291493 -102.26 hangar props Hangar
-1301 B none 
+1300  44.56897384  014.39211343 206.18 tie_down props Apron 01
+1301 A general_aviation 
+1300  44.56891112  014.39232964 203.83 tie_down props Apron 02
+1301 A general_aviation 
+1300  44.56884765  014.39253611 205.13 tie_down props Apron 03
+1301 A general_aviation 
+1300  44.56878978  014.39273762 204.61 tie_down props Apron 04
+1301 A general_aviation 
+1300  44.56889213  014.39200948 111.86 tie_down props Apron 05
+1301 A general_aviation 
+1300  44.56877965  014.39199299  25.94 tie_down props Apron 06
+1301 A general_aviation 
+1300  44.56871484  014.39221277  22.27 tie_down props Apron 07
+1301 A general_aviation 
+1300  44.56865433  014.39241529  22.97 tie_down props Apron 08
+1301 A general_aviation 
+1300  44.56859754  014.39262271  23.70 tie_down props Apron 09
+1301 A general_aviation 
+1300  44.56899306  014.39294482  24.44 tie_down props Apron 10
+1301 A general_aviation 
+1300  44.56904980  014.39273720  22.11 tie_down props Apron 11
+1301 A general_aviation 
+1300  44.56910357  014.39252437  21.97 tie_down props Apron 12
+1301 A general_aviation 
+1300  44.56917341  014.39230634  21.60 tie_down props Apron 13
+1301 A general_aviation 
+1300  44.56928627  014.39222932 112.64 tie_down props Apron 14
+1301 A general_aviation 
+1300  44.56934332  014.39241322 -157.75 tie_down props Apron 15
+1301 A general_aviation 
+1300  44.56922443  014.39284170 203.82 tie_down props Apron 16
+1301 A general_aviation 
+1300  44.56916423  014.39304467 202.87 tie_down props Apron 17
+1301 A general_aviation 
+1300  44.56961616  014.39304593 290.44 hangar props Hangar
+1301 A general_aviation 
 18  44.56742058  014.39171333 1 New Airport Beacon 18
 54 12030 Tower 
 55 12030 Approach
