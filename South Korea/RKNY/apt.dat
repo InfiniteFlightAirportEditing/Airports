@@ -806,45 +806,45 @@ I
 21  38.06812608  128.66292688 2 140.0900 3.00 15  PAPI-4L
 21  38.05451245  128.67533952 2 321.2800 3.00 33  PAPI-4L
 14  38.05701441  128.66494315  82.02 0 New Tower Viewpoint 5
-1300  38.05942405  128.66320272 -128.68 gate jets 2
-1301 C none 
-1300  38.05894155  128.66370098 -128.68 gate jets 3
-1301 C none 
-1300  38.05945032  128.66398665  -0.25 gate jets 3A
-1301 C none 
-1300  38.05848878  128.66415578 -128.68 gate jets 4
-1301 C none 
-1300  38.05914132  128.66448178  -0.94 gate jets 4A
-1301 C none 
+1300  38.05942405  128.66320272 -128.68 gate jets GATE 02
+1301 C airline 
+1300  38.05894155  128.66370098 -128.68 gate jets GATE 03
+1301 C airline 
+1300  38.05945032  128.66398665  -0.25 gate jets GATE 03A
+1301 B airline 
+1300  38.05848878  128.66415578 -128.68 gate jets GATE 04
+1301 D airline 
+1300  38.05914132  128.66448178  -0.94 gate jets GATE 04A
+1301 B airline 
 1300  38.06342225  128.66334542  52.86 hangar turboprops|props|helos Coast Gaurd C1
 1301 C none 
 1300  38.06325443  128.66350293  52.86 hangar turboprops|props|helos Coast Gaurd C2
 1301 C none 
-1300  38.06017200  128.66291604 142.69 misc turboprops|props GA34
+1300  38.06017200  128.66291604 142.69 tie_down turboprops|props GA 34
 1301 A general_aviation 
-1300  38.06026055  128.66305156 142.83 misc turboprops|props GA35
+1300  38.06026055  128.66305156 142.83 tie_down turboprops|props GA 35
 1301 A general_aviation 
-1300  38.06032719  128.66212203 -40.62 misc turboprops|props GA21
+1300  38.06032719  128.66212203 -40.62 tie_down turboprops|props GA 21
 1301 A general_aviation 
-1300  38.06042234  128.66227198 -37.56 misc turboprops|props GA22
+1300  38.06042234  128.66227198 -37.56 tie_down turboprops|props GA 22
 1301 A general_aviation 
-1300  38.06051256  128.66241252 -37.79 misc turboprops|props GA23
+1300  38.06051256  128.66241252 -37.79 tie_down turboprops|props GA 23
 1301 A general_aviation 
-1300  38.06071452  128.66271446 -38.68 misc turboprops|props GA24
+1300  38.06071452  128.66271446 -38.68 tie_down turboprops|props GA 24
 1301 A general_aviation 
-1300  38.06080687  128.66285535 -39.19 misc turboprops|props GA25
+1300  38.06080687  128.66285535 -39.19 tie_down turboprops|props GA 25
 1301 A general_aviation 
-1300  38.06035249  128.66319212 143.23 misc turboprops|props GA36
+1300  38.06035249  128.66319212 143.23 tie_down turboprops|props GA 36
 1301 A general_aviation 
-1300  38.06027979  128.66326711 -38.62 misc turboprops|props GA46
+1300  38.06027979  128.66326711 -38.62 tie_down turboprops|props GA 46
 1301 A general_aviation 
-1300  38.06019395  128.66313963 -38.62 misc turboprops|props GA45
+1300  38.06019395  128.66313963 -38.62 tie_down turboprops|props GA 45
 1301 A general_aviation 
-1300  38.06010905  128.66300856 -38.62 misc turboprops|props GA44
+1300  38.06010905  128.66300856 -38.62 tie_down turboprops|props GA 44
 1301 A general_aviation 
-1300  38.06002790  128.66287631 -38.62 misc turboprops|props GA43
+1300  38.06002790  128.66287631 -38.62 tie_down turboprops|props GA 43
 1301 A general_aviation 
-1300  38.06002912  128.66251874 321.80 misc jets|turboprops|props 5
+1300  38.06002912  128.66251874 321.80 gate jets|turboprops|props GATE 05
 1301 B general_aviation 
 18  38.05703051  128.66499743 1 BCN
 19  38.06889399  128.66281150 1 WS
