@@ -302,30 +302,30 @@ I
 21  54.33849388  012.70336865 2 90.8700 3.00 09  PAPI-4L
 21  54.33784705  012.71565057 2 269.1600 3.00 27  PAPI-4L
 14  54.33606257  012.71570751  82.02 0 New Tower Viewpoint 1
-1300  54.33624678  012.71617031  40.00 misc props Stand 4
-1301 B none 
-1300  54.33624812  012.71591490  40.00 misc props Stand 3
-1301 B none 
+1300  54.33624678  012.71617031  40.00 tie_down props Stand 4
+1301 A general_aviation 
+1300  54.33624812  012.71591490  40.00 tie_down props Stand 3
+1301 A general_aviation 
 1300  54.33625122  012.71566472  40.00 tie_down props Stand 2
-1301 B none 
+1301 A general_aviation 
 1300  54.33625136  012.71539363  40.00 tie_down props Stand 1
-1301 B none 
-1300  54.33630718  012.71661595 179.05 tie_down jets|turboprops|props Refueling
-1301 C none 
+1301 A general_aviation 
+1300  54.33630718  012.71661595 179.05 misc jets|turboprops|props Refueling
+1301 A general_aviation 
 1300  54.33623528  012.71330133 -88.73 tie_down props Tie down 5
-1301 B none 
+1301 A general_aviation 
 1300  54.33634298  012.71330286 -90.00 tie_down props Tie down 4 
-1301 B none 
+1301 A general_aviation 
 1300  54.33645122  012.71330577 -90.00 tie_down props Tie down 3
-1301 B none 
+1301 A general_aviation 
 1300  54.33655830  012.71330555 -90.00 tie_down props Tie down 2
-1301 B none 
-1300  54.33636362  012.71446551  40.69 tie_down jets|turboprops|props Ramp 1
-1301 C none 
-1300  54.33632776  012.71513675  41.19 tie_down jets|turboprops|props Ramp 2
-1301 C none 
+1301 A general_aviation 
+1300  54.33636362  012.71446551  40.69 gate jets|turboprops|props Ramp 1
+1301 B general_aviation 
+1300  54.33632776  012.71513675  41.19 gate jets|turboprops|props Ramp 2
+1301 B general_aviation 
 1300  54.33666650  012.71330470 -89.18 tie_down props Tie down 1
-1301 B none 
+1301 A general_aviation 
 18  54.33606257  012.71570751 1 New Airport Beacon 2
 54 13265 BERLIN INFO
 54 11807 INFO
