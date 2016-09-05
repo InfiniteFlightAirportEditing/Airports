@@ -4495,12 +4495,12 @@ I
 1301 A general_aviation 
 1300  26.58840272 -081.86706696 257.64 misc jets|turboprops|props West Ramp 01
 1301 A general_aviation 
-1300  26.58563320 -081.86749358 172.38 misc jets|turboprops|props West Ramp FBO (VIP) 03
-1301 C none 
-1300  26.58627181 -081.86742928  28.35 misc jets West Ramp FBO  (VIP) 01
-1301 C none 
-1300  26.58636339 -081.86727660 290.56 misc jets|turboprops|props West Ramp FBO (VIP) 02
-1301 C none 
+1300  26.58577874 -081.86780552  92.18 misc jets|turboprops|props West Ramp FBO (VIP) 03
+1301 B none 
+1300  26.58602520 -081.86782259  93.42 misc jets West Ramp FBO  (VIP) 01
+1301 B none 
+1300  26.58637250 -081.86734793 143.67 misc jets|turboprops|props West Ramp FBO (VIP) 02
+1301 B none 
 18  26.58438116 -081.86153522 1 BCN
 19  26.58027715 -081.86955425 1 WS
 19  26.59132500 -081.86661400 1 WS
