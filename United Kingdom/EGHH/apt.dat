@@ -2165,23 +2165,23 @@ A
 1300  50.78451561 -001.83520164 187.00 misc props FBO Cobham hangar 02
 1301 B none 
 1300  50.78504249 -001.83270290 -72.65 tie_down jets|props FRA Apron 08
-1301 C none 
+1301 A none 
 1300  50.78435085 -001.83267928 -57.55 tie_down jets|props FRA Apron 09
-1301 C none 
+1301 A none 
 1300  50.78402143 -001.83332723 -95.88 tie_down jets|props FRA Apron 01
-1301 C none 
+1301 A none 
 1300  50.78419291 -001.83328592 -94.03 tie_down jets|props FRA Apron 02
-1301 C none 
+1301 A none 
 1300  50.78436230 -001.83325318 -95.32 tie_down jets|props FRA Apron 03
-1301 C none 
+1301 A none 
 1300  50.78453390 -001.83325115 -93.29 tie_down jets|props FRA Apron 04
-1301 C none 
+1301 A none 
 1300  50.78470907 -001.83330165 -86.66 tie_down jets|props FRA Apron 05
-1301 C none 
+1301 A none 
 1300  50.78487839 -001.83329176 -83.98 tie_down jets|props FRA Apron 06
-1301 C none 
+1301 A none 
 1300  50.78505102 -001.83323408 -83.98 tie_down jets|props FRA Apron 07
-1301 C none 
+1301 A none 
 18  50.77767324 -001.84248776 1 BCN
 19  50.77760812 -001.84679095 0 WS
 19  50.78312492 -001.83156710 1 WS
