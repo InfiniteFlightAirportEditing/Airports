@@ -1484,49 +1484,49 @@ I
 112  54.08581964 -004.63446371  54.08581864 -004.63451651 1
 112  54.08580627 -004.63458384  54.08579128 -004.63462813 1
 112  54.08576075 -004.63468982  54.08575076 -004.63470686 1
-111  54.08559525 -004.63497961 1
-115  54.08553775 -004.63488957
+111  54.08557854 -004.63501327 1
+115  54.08552712 -004.63492064
 21  54.08073767 -004.62996507 2 27.7900 3.00 03  PAPI-4L
 21  54.08294726 -004.63073453 2 78.5900 3.50 08  PAPI-4L
 21  54.08555057 -004.62559553 3 207.8000 3.50 21  PAPI-4R
 21  54.08364607 -004.61671489 2 258.6100 3.00 26  PAPI-4L
 14  54.08687544 -004.63005871  82.02 0 Tower Viewpoint 
-1300  54.08506843 -004.63416611 224.70 misc turboprops|props Stand 1
-1301 C none 
-1300  54.08529828 -004.63457839 224.20 misc turboprops|props Stand 2
-1301 C none 
-1300  54.08559525 -004.63497961 226.03 misc props Stand 3
-1301 B none 
-1300  54.08615567 -004.63364590  42.76 misc props Stand 5
-1301 B none 
-1300  54.08595157 -004.63309819  42.76 misc jets|turboprops|props Stand 6
-1301 C none 
-1300  54.08569377 -004.63264919  42.76 misc turboprops|props Stand 7
-1301 C none 
-1300  54.08596176 -004.63225244 -136.26 misc jets|turboprops|props Stand 8
-1301 C none 
-1300  54.08623663 -004.63274320 -136.26 misc jets|turboprops|props Stand 9
-1301 C none 
-1300  54.08653158 -004.63317770 -136.26 misc turboprops|props Stand 10
-1301 C none 
-1300  54.08677591 -004.63359214 -136.26 misc turboprops|props Stand 11
-1301 C none 
-1300  54.08750327 -004.63226939  46.37 misc jets|turboprops|props Stand 12
-1301 C none 
-1300  54.08725401 -004.63184080  43.92 misc turboprops|props Stand 13
-1301 C none 
-1300  54.08700847 -004.63140058  43.92 misc turboprops|props Stand 14
-1301 C none 
-1300  54.08257552 -004.61590709  17.31 misc props GA 1
-1301 B none 
-1300  54.08226703 -004.61514330   5.08 misc props GA 2
-1301 B none 
-1300  54.08242314 -004.61480798 -67.40 misc props GA Hangar
-1301 B none 
-1300  54.08650100 -004.62670116 235.30 misc turboprops|props Maintenance
-1301 C none 
-1300  54.08422070 -004.63603864 -193.55 misc jets|turboprops|props Jet Centre
-1301 C none 
+1300  54.08506843 -004.63416611 224.70 tie_down turboprops|props Stand 01
+1301 B airline 
+1300  54.08529828 -004.63457839 224.20 tie_down turboprops|props Stand 02
+1301 B airline 
+1300  54.08557854 -004.63501327 226.03 tie_down turboprops|props Stand 03
+1301 B airline 
+1300  54.08615567 -004.63364590  42.76 gate turboprops Stand 05
+1301 B airline 
+1300  54.08595157 -004.63309819  42.76 gate jets|turboprops|props Stand 06
+1301 C airline 
+1300  54.08569377 -004.63264919  42.76 gate turboprops|props Stand 07
+1301 C airline 
+1300  54.08596176 -004.63225244 -136.26 gate jets|turboprops|props Stand 08
+1301 C airline 
+1300  54.08623663 -004.63274320 -136.26 gate jets|turboprops|props Stand 09
+1301 C airline 
+1300  54.08653158 -004.63317770 -136.26 gate turboprops|props Stand 10
+1301 B airline 
+1300  54.08677591 -004.63359214 -136.26 gate turboprops|props Stand 11
+1301 B airline 
+1300  54.08750327 -004.63226939  46.37 tie_down jets|turboprops|props Stand 12
+1301 B cargo 
+1300  54.08725401 -004.63184080  43.92 tie_down turboprops|props Stand 13
+1301 B cargo 
+1300  54.08700847 -004.63140058  43.92 tie_down turboprops|props Stand 14
+1301 B cargo 
+1300  54.08257552 -004.61590709  17.31 tie_down props GA 1
+1301 A general_aviation 
+1300  54.08226703 -004.61514330   5.08 tie_down props GA 2
+1301 A general_aviation 
+1300  54.08237675 -004.61480798 238.35 hangar props GA Hangar
+1301 A general_aviation 
+1300  54.08656440 -004.62730559 276.64 tie_down jets|turboprops|props Maintenance
+1301 C airline 
+1300  54.08422070 -004.63603864 -193.55 hangar jets|turboprops|props Jet Centre
+1301 B general_aviation 
 18  54.08686019 -004.63005991 1 BCN
 19  54.08163966 -004.63006953 1 Windsock
 19  54.08729700 -004.62311700 1 Windsock
