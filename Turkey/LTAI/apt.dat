@@ -5193,33 +5193,33 @@ I
 1301 A military 
 1300  36.89852618  030.78540623 187.94 hangar turboprops Military hangar 10
 1301 A military 
-1300  36.89800322  030.78446378 157.87 hangar turboprops Military hangar 9
+1300  36.89800322  030.78446378 157.87 hangar turboprops Military hangar 09
 1301 A military 
-1300  36.89718052  030.78412463 121.81 hangar turboprops Military hangar 8
+1300  36.89718052  030.78412463 121.81 hangar turboprops Military hangar 08
 1301 A military 
-1300  36.89608465  030.78583886 200.01 hangar turboprops Military hangar 7
+1300  36.89608465  030.78583886 200.01 hangar turboprops Military hangar 07
 1301 A military 
-1300  36.89535882  030.78551739 125.93 hangar turboprops Military hangar 6
+1300  36.89535882  030.78551739 125.93 hangar turboprops Military hangar 06
 1301 A military 
-1300  36.89458507  030.78622723 -100.00 hangar turboprops Military hangar 5
+1300  36.89458507  030.78622723 -100.00 hangar turboprops Military hangar 05
 1301 A military 
-1300  36.89390329  030.78467012 142.09 hangar turboprops Military hangar 4
+1300  36.89390329  030.78467012 142.09 hangar turboprops Military hangar 04
 1301 A military 
-1300  36.89274053  030.78471289  58.66 hangar turboprops Military hangar 3
+1300  36.89274053  030.78471289  58.66 hangar turboprops Military hangar 03
 1301 A military 
-1300  36.89282983  030.78577153 234.72 hangar turboprops Military hangar 2
+1300  36.89282983  030.78577153 234.72 hangar turboprops Military hangar 02
 1301 A military 
-1300  36.89205576  030.78542041  95.46 hangar turboprops Military hangar 1
+1300  36.89205576  030.78542041  95.46 hangar turboprops Military hangar 01
 1301 A military 
-1300  36.92014449  030.79881453 -84.05 tie_down jets 20
+1300  36.92014449  030.79881453 -84.05 tie_down jets STAND 20
 1301 C airline 
-1300  36.91976639  030.79875611 -84.19 tie_down jets 21
+1300  36.91976639  030.79875611 -84.19 tie_down jets STAND 21
 1301 C airline 
-1300  36.91938816  030.79868563 -84.51 tie_down jets 22
+1300  36.91938816  030.79868563 -84.51 tie_down jets STAND 22
 1301 C airline 
-1300  36.91446250  030.80170411   6.13 gate jets Intl. Terminal 1 - G 8
+1300  36.91446250  030.80170411   6.13 gate jets Intl. Terminal 1 - G 08
 1301 C airline 
-1300  36.91450456  030.80121123   6.05 gate jets Intl. Terminal 1 - G 9
+1300  36.91450456  030.80121123   6.05 gate jets Intl. Terminal 1 - G 09
 1301 C airline 
 1300  36.91482736  030.80074723   6.29 gate jets Intl. Terminal 1 - G 10A
 1301 C airline 
@@ -5233,7 +5233,7 @@ I
 1301 D airline 
 1300  36.91533067  030.80008583  96.58 gate jets Intl. Terminal 1 - G 11B
 1301 C airline 
-1300  36.91565131  030.80023327 111.70 gate jets Intl. Terminal 1 - 12A
+1300  36.91565131  030.80023327 111.70 gate jets Intl. Terminal 1 - G 12A
 1301 C airline 
 1300  36.91572980  030.80025300 136.38 gate jets Intl. Terminal 1 - G 12
 1301 D airline 
@@ -5249,83 +5249,83 @@ I
 1301 C airline 
 1300  36.91621364  030.80192879 185.48 gate heavy Intl. Terminal 1 - G 15
 1301 C airline 
-1300  36.91984976  030.80099705  96.28 tie_down jets 19
+1300  36.91984976  030.80099705  96.28 tie_down jets STAND 19
 1301 D airline 
-1300  36.91924735  030.80091327  97.07 tie_down jets 18
+1300  36.91924735  030.80091327  97.07 tie_down jets STAND 18
 1301 D airline 
-1300  36.91864077  030.80082943  98.83 tie_down jets 17
+1300  36.91864077  030.80082943  98.83 tie_down jets STAND 17
 1301 D airline 
-1300  36.91800891  030.80077360  99.90 tie_down jets 16
+1300  36.91800891  030.80077360  99.90 tie_down jets STAND 16
 1301 D airline 
-1300  36.91901242  030.79861394 -85.17 tie_down jets 23
+1300  36.91901242  030.79861394 -85.17 tie_down jets STAND 23
 1301 C airline 
-1300  36.89497407  030.80444172 186.34 tie_down jets 54
+1300  36.89497407  030.80444172 186.34 tie_down jets STAND 54
 1301 D airline 
-1300  36.89491438  030.80506725 186.10 tie_down jets 55
+1300  36.89491438  030.80506725 186.10 tie_down jets STAND 55
 1301 D airline 
-1300  36.89486255  030.80567029 186.53 tie_down jets 56
+1300  36.89486255  030.80567029 186.53 tie_down jets STAND 56
 1301 D airline 
-1300  36.89502334  030.80383229 185.62 tie_down jets 53
+1300  36.89502334  030.80383229 185.62 tie_down jets STAND 53
 1301 D airline 
-1300  36.89509818  030.80302526 185.87 tie_down jets 52
+1300  36.89509818  030.80302526 185.87 tie_down jets STAND 52
 1301 D airline 
-1300  36.89516289  030.80240434 186.80 tie_down jets 51
+1300  36.89516289  030.80240434 186.80 tie_down jets STAND 51
 1301 D airline 
-1300  36.89521978  030.80179457 186.38 tie_down jets 50
+1300  36.89521978  030.80179457 186.38 tie_down jets STAND 50
 1301 D airline 
-1300  36.89526165  030.80117280 186.15 tie_down jets 49
+1300  36.89526165  030.80117280 186.15 tie_down jets STAND 49
 1301 D airline 
-1300  36.89532585  030.80056448 186.15 tie_down jets 48
+1300  36.89532585  030.80056448 186.15 tie_down jets STAND 48
 1301 D airline 
-1300  36.89537930  030.79995488 185.78 tie_down jets 47
+1300  36.89537930  030.79995488 185.78 tie_down jets STAND 47
 1301 D airline 
-1300  36.89555216  030.79799739 185.95 tie_down jets 46
+1300  36.89555216  030.79799739 185.95 tie_down jets STAND 46
 1301 C airline 
-1300  36.89558203  030.79753402 186.48 tie_down jets 45
+1300  36.89558203  030.79753402 186.48 tie_down jets STAND 45
 1301 C airline 
-1300  36.89563342  030.79707758 187.24 tie_down jets 44
+1300  36.89563342  030.79707758 187.24 tie_down jets STAND 44
 1301 C airline 
-1300  36.89566754  030.79661561 185.87 tie_down jets 43
+1300  36.89566754  030.79661561 185.87 tie_down jets STAND 43
 1301 C airline 
-1300  36.89570889  030.79615283 186.26 tie_down jets 42
+1300  36.89570889  030.79615283 186.26 tie_down jets STAND 42
 1301 C airline 
-1300  36.89575460  030.79568573 187.50 tie_down jets 41
+1300  36.89575460  030.79568573 187.50 tie_down jets STAND 41
 1301 C airline 
-1300  36.89579947  030.79521907 187.75 tie_down jets 40
+1300  36.89579947  030.79521907 187.75 tie_down jets STAND 40
 1301 C airline 
-1300  36.89342148  030.80047568   6.70 tie_down jets 81
+1300  36.89342148  030.80047568   6.70 tie_down jets STAND 81
 1301 D airline 
-1300  36.89336883  030.80108162   5.91 tie_down jets 82
+1300  36.89336883  030.80108162   5.91 tie_down jets STAND 82
 1301 D airline 
-1300  36.89329726  030.80169361   6.69 tie_down jets 83
+1300  36.89329726  030.80169361   6.69 tie_down jets STAND 83
 1301 D airline 
-1300  36.89323488  030.80231167   6.51 tie_down jets 84
+1300  36.89323488  030.80231167   6.51 tie_down jets STAND 84
 1301 D airline 
-1300  36.89318405  030.80292227   6.62 tie_down jets 85
+1300  36.89318405  030.80292227   6.62 tie_down jets STAND 85
 1301 D airline 
-1300  36.89359538  030.79799523   6.66 tie_down jets 79
+1300  36.89359538  030.79799523   6.66 tie_down jets STAND 79
 1301 C airline 
-1300  36.89364138  030.79751574   6.64 tie_down jets 78
+1300  36.89364138  030.79751574   6.64 tie_down jets STAND 78
 1301 C airline 
-1300  36.89366927  030.79702670   6.43 tie_down jets 77
+1300  36.89366927  030.79702670   6.43 tie_down jets STAND 77
 1301 C airline 
-1300  36.89372172  030.79654313   6.34 tie_down jets 76
+1300  36.89372172  030.79654313   6.34 tie_down jets STAND 76
 1301 C airline 
-1300  36.89376344  030.79606885   6.51 tie_down jets 75
+1300  36.89376344  030.79606885   6.51 tie_down jets STAND 75
 1301 C airline 
-1300  36.89381786  030.79558604   6.36 tie_down jets 74
+1300  36.89381786  030.79558604   6.36 tie_down jets STAND 74
 1301 C airline 
-1300  36.89384228  030.79509563   6.01 tie_down jets 73
+1300  36.89384228  030.79509563   6.01 tie_down jets STAND 73
 1301 C airline 
-1300  36.89311002  030.80353533   6.44 tie_down jets 86
+1300  36.89311002  030.80353533   6.44 tie_down jets STAND 86
 1301 D airline 
-1300  36.89305189  030.80414174   6.27 tie_down jets 87
+1300  36.89305189  030.80414174   6.27 tie_down jets STAND 87
 1301 D airline 
-1300  36.89301382  030.80475152   6.37 tie_down jets 88
+1300  36.89301382  030.80475152   6.37 tie_down jets STAND 88
 1301 D airline 
-1300  36.89297295  030.80536817   6.16 tie_down jets 89
+1300  36.89297295  030.80536817   6.16 tie_down jets STAND 89
 1301 D airline 
-1300  36.89346441  030.79985271   6.14 tie_down jets 80
+1300  36.89346441  030.79985271   6.14 tie_down jets STAND 80
 1301 D airline 
 1300  36.89823820  030.80026802  89.17 gate jets Intl. Terminal 2 - G 67
 1301 C airline 
@@ -5359,29 +5359,29 @@ I
 1301 C airline 
 1300  36.89828610  030.80229054 -69.31 gate jets Intl. Terminal 2 - G 60
 1301 C airline 
-1300  36.89691428  030.80549609 -16.96 gate jets 57
+1300  36.89691428  030.80549609 -16.96 gate jets STAND 57
 1301 D airline 
-1300  36.89680430  030.80485053  -0.68 gate jets 58
+1300  36.89680430  030.80485053  -0.68 gate jets STAND 58
 1301 D airline 
-1300  36.89690363  030.80435321  31.19 gate heavy 59
+1300  36.89690363  030.80435321  31.19 gate heavy STAND 59
 1301 D airline 
-1300  36.89851806  030.79673452  96.41 gate jets 72
+1300  36.89851806  030.79673452  96.41 gate jets STAND 72
 1301 D airline 
-1300  36.89802582  030.79667296  96.26 gate jets 71
+1300  36.89802582  030.79667296  96.26 gate jets STAND 71
 1301 D airline 
-1300  36.89765242  030.79689234  46.21 gate jets 70
+1300  36.89765242  030.79689234  46.21 gate jets STAND 70
 1301 E airline 
-1300  36.89744438  030.79737060  13.24 gate heavy 69
+1300  36.89744438  030.79737060  13.24 gate heavy STAND 69
 1301 E airline 
-1300  36.89748274  030.79789395 -18.94 gate heavy 68
+1300  36.89748274  030.79789395 -18.94 gate heavy STAND 68
 1301 E airline 
-1300  36.91244693  030.80067984  97.65 gate jets Dom. Terminal - G 5
+1300  36.91244693  030.80067984  97.65 gate jets Dom. Terminal - G 05
 1301 C airline 
-1300  36.91201939  030.80062889  97.89 gate jets Dom. Terminal - G 4
+1300  36.91201939  030.80062889  97.89 gate jets Dom. Terminal - G 04
 1301 C airline 
-1300  36.91290282  030.80075434  96.85 gate jets Dom. Terminal - G 6
+1300  36.91290282  030.80075434  96.85 gate jets Dom. Terminal - G 06
 1301 C airline 
-1300  36.91335201  030.80084711  98.09 gate jets Dom. Terminal - G 7
+1300  36.91335201  030.80084711  98.09 gate jets Dom. Terminal - G 07
 1301 C airline 
 1300  36.90948958  030.79734547 -83.74 tie_down jets Cargo Terminal - 90
 1301 C cargo 
@@ -5393,13 +5393,13 @@ I
 1301 C cargo 
 1300  36.91027608  030.79968173  97.82 tie_down jets Cargo Terminal - 94
 1301 C cargo 
-1300  36.91101567  030.79750790 -87.93 tie_down jets 36
+1300  36.91101567  030.79750790 -87.93 tie_down jets STAND 36
 1301 C airline 
-1300  36.91062425  030.79746503 -85.67 tie_down jets 37
+1300  36.91062425  030.79746503 -85.67 tie_down jets STAND 37
 1301 C airline 
-1300  36.91020918  030.79742847 -84.11 tie_down jets 38
+1300  36.91020918  030.79742847 -84.11 tie_down jets STAND 38
 1301 C airline 
-1300  36.90981068  030.79740021 -82.95 tie_down jets 39
+1300  36.90981068  030.79740021 -82.95 tie_down jets STAND 39
 1301 C airline 
 1300  36.91151232  030.79979438  99.93 tie_down jets VIP 3
 1301 C general_aviation 
@@ -5407,29 +5407,29 @@ I
 1301 C general_aviation 
 1300  36.91069058  030.79970430  99.27 tie_down jets VIP 1
 1301 C airline 
-1300  36.91757217  030.79851475 -85.14 tie_down jets 24
+1300  36.91757217  030.79851475 -85.14 tie_down jets STAND 24
 1301 C airline 
-1300  36.91713635  030.79847946 -85.70 tie_down jets 25
+1300  36.91713635  030.79847946 -85.70 tie_down jets STAND 25
 1301 C airline 
-1300  36.91664945  030.79844398 -86.45 tie_down jets 26
+1300  36.91664945  030.79844398 -86.45 tie_down jets STAND 26
 1301 C airline 
-1300  36.91619347  030.79835420 -85.35 tie_down jets 27
+1300  36.91619347  030.79835420 -85.35 tie_down jets STAND 27
 1301 C airline 
-1300  36.91263268  030.79785331 -85.31 tie_down jets 34
+1300  36.91263268  030.79785331 -85.31 tie_down jets STAND 34
 1301 C airline 
-1300  36.91573417  030.79827539 -83.85 tie_down jets 28
+1300  36.91573417  030.79827539 -83.85 tie_down jets STAND 28
 1301 C airline 
-1300  36.91456458  030.79814323 -84.08 tie_down jets 29
+1300  36.91456458  030.79814323 -84.08 tie_down jets STAND 29
 1301 C airline 
-1300  36.91417314  030.79810923 -83.36 tie_down jets 30
+1300  36.91417314  030.79810923 -83.36 tie_down jets STAND 30
 1301 C airline 
-1300  36.91378514  030.79808455 -83.53 tie_down jets 31
+1300  36.91378514  030.79808455 -83.53 tie_down jets STAND 31
 1301 C airline 
-1300  36.91340599  030.79798974 -83.57 tie_down jets 32
+1300  36.91340599  030.79798974 -83.57 tie_down jets STAND 32
 1301 C airline 
-1300  36.91301804  030.79793188 -84.37 tie_down jets 33
+1300  36.91301804  030.79793188 -84.37 tie_down jets STAND 33
 1301 C airline 
-1300  36.91140691  030.79758099 -87.54 tie_down jets 35
+1300  36.91140691  030.79758099 -87.54 tie_down jets STAND 35
 1301 C airline 
 1300  36.89024995  030.78481633  95.41 tie_down turboprops Military tie-down 16
 1301 A military 
@@ -5445,23 +5445,23 @@ I
 1301 A military 
 1300  36.89122085  030.78494977  96.25 tie_down turboprops Military tie-down 10
 1301 A military 
-1300  36.89137876  030.78496952  96.10 tie_down turboprops Military tie-down 9
+1300  36.89137876  030.78496952  96.10 tie_down turboprops Military tie-down 09
 1301 A military 
-1300  36.88975757  030.78598622 -83.67 tie_down turboprops Military tie-down 1
+1300  36.88975757  030.78598622 -83.67 tie_down turboprops Military tie-down 01
 1301 A military 
-1300  36.88991797  030.78600677 -83.34 tie_down turboprops Military tie-down 2
+1300  36.88991797  030.78600677 -83.34 tie_down turboprops Military tie-down 02
 1301 A military 
-1300  36.89007945  030.78602452 -84.61 tie_down turboprops Military tie-down 3
+1300  36.89007945  030.78602452 -84.61 tie_down turboprops Military tie-down 03
 1301 A military 
-1300  36.89024301  030.78604355 -84.42 tie_down turboprops Military tie-down 4
+1300  36.89024301  030.78604355 -84.42 tie_down turboprops Military tie-down 04
 1301 A military 
-1300  36.89040393  030.78606157 -83.55 tie_down turboprops Military tie-down 5
+1300  36.89040393  030.78606157 -83.55 tie_down turboprops Military tie-down 05
 1301 A military 
-1300  36.89056973  030.78608207 -82.71 tie_down turboprops Military tie-down 6
+1300  36.89056973  030.78608207 -82.71 tie_down turboprops Military tie-down 06
 1301 A military 
-1300  36.89073273  030.78610088 -83.12 tie_down turboprops Military tie-down 7
+1300  36.89073273  030.78610088 -83.12 tie_down turboprops Military tie-down 07
 1301 A military 
-1300  36.89089130  030.78612475 -81.82 tie_down turboprops Military tie-down 8
+1300  36.89089130  030.78612475 -81.82 tie_down turboprops Military tie-down 08
 1301 A military 
 18  36.89454625  030.79759535 1 New Airport Beacon 4
 19  36.90891451  030.79536905 0 New Windsock 1
