@@ -525,6 +525,7 @@ A
 115  64.51823333 -165.42903586
 120 Linear Feature 1
 111  64.50782115 -165.44087911 1
+111  64.50797477 -165.44187077 1
 115  64.50798212 -165.44191827
 120 Linear Feature 1
 111  64.50799447 -165.44060308 1
@@ -564,7 +565,7 @@ A
 21  64.50929313 -165.43895506 2 289.8600 3.0 New Light Fixture 1
 14  64.50785417 -165.44245012   0.00 0 Viewpoint 9
 1300  64.51044058 -165.42917377 -52.60 misc turboprops|props Maintenance
-1300  64.51064478 -165.43020158 200.46 misc turboprops|props Hangar 3
+1300  64.51057278 -165.43024019 200.46 misc turboprops|props Hangar 3
 1300  64.51080712 -165.43124665 290.02 misc turboprops|props Hangar 2
 1300  64.51116373 -165.43357798 109.71 misc turboprops|props Hangar 1
 1300  64.51141123 -165.43564340 109.71 misc turboprops|props Main Hangar
@@ -584,15 +585,15 @@ A
 1300  64.51660468 -165.42676433 222.27 misc turboprops|props Army Hangar
 1300  64.50827093 -165.44325717 124.18 misc turboprops|props Tie-down 1
 1300  64.50689818 -165.44733050 222.05 misc turboprops|props Tie-down 7
-1300  64.50679756 -165.44704996  41.07 misc turboprops|props Tie-down 6
+1300  64.50684304 -165.44695092  41.07 misc turboprops|props Tie-down 6
 1300  64.50668688 -165.44678112 -139.40 misc turboprops|props Tie-down 5
-1300  64.50697868 -165.44620837 -139.40 misc turboprops|props Tie-down 3
+1300  64.50693376 -165.44626055 -139.40 misc turboprops|props Tie-down 3
 1300  64.50737324 -165.44552086  40.65 misc turboprops|props Refueling
-1300  64.50711116 -165.44651618 -139.40 misc turboprops|props Tie-down 4
+1300  64.50707106 -165.44656091 -139.40 misc turboprops|props Tie-down 4
 1300  64.50811570 -165.44352767 -53.01 misc turboprops|props Tie-down 2
 1300  64.50781435 -165.43927155 -70.27 misc turboprops|props South Hangar B
 1300  64.50803254 -165.44428763 -138.75 misc turboprops|props South Hangar A
-1300  64.50792167 -165.44152801 289.73 misc jets|turboprops Alaska Airlines Gate (B737)
+1300  64.50797477 -165.44187077 289.73 misc jets|turboprops Alaska Airlines Gate (B737)
 18  64.50887816 -165.43966111 1 New Airport Beacon 7
 19  64.50983194 -165.44395086 0 New Windsock 5
 50 11993 ASOS
