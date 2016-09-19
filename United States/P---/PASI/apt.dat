@@ -384,6 +384,7 @@ A
 115  57.05181508 -135.36727993
 120 Linear Feature 30
 111  57.05240558 -135.36580079 1
+111  57.05240004 -135.36584049 1
 111  57.05222670 -135.36708165 1
 115  57.05215189 -135.36761727
 120 Linear Feature 27
@@ -715,6 +716,7 @@ A
 115  57.05262101 -135.36735256
 120 Linear Feature 2
 111  57.05285764 -135.36641865 1
+111  57.05284070 -135.36645046 1
 115  57.05254941 -135.36699735
 120 Linear Feature 2
 111  57.05401621 -135.36616886 1
@@ -840,64 +842,64 @@ A
 21  57.05138439 -135.36836645 1 135.6400 3.0 New Light Fixture 3
 21  57.05235922 -135.37012338 1 135.6400 3.0 New Light Fixture 3
 14  57.05226871 -135.36476756   0.00 0 Viewpoint 7
-1300  57.05234525 -135.36623278  75.64 gate jets|turboprops Alaska Airlines Gate 1 (B737)
-1300  57.05271975 -135.36667753  45.57 gate jets|turboprops Gate 2
-1300  57.05507645 -135.37050187  15.86 misc turboprops|props Refueling A
-1300  57.05481113 -135.37064145  15.86 misc turboprops|props Refueling B
-1300  57.05432225 -135.36943244  44.95 misc turboprops|props Helicopter 2
-1300  57.05450239 -135.36977062  44.95 misc turboprops|props Helicopter 1
+1300  57.05240004 -135.36584049  75.64 gate jets|turboprops Alaska Airlines Gate 1 (B737)
+1300  57.05284070 -135.36645046  45.57 gate jets|turboprops Gate 2
+1300  57.05511005 -135.37048415  15.86 misc turboprops|props Refueling A
+1300  57.05486848 -135.37061130  15.86 misc turboprops|props Refueling B
+1300  57.05437318 -135.36934731  44.95 misc turboprops|props Helicopter 2
+1300  57.05455332 -135.36967981  44.95 misc turboprops|props Helicopter 1
 1300  57.05366649 -135.36621499 316.10 misc turboprops|props Hangar 2
 1300  57.05408414 -135.36659461 135.46 misc turboprops|props Hangar 1
-1300  57.05311307 -135.36869225 135.67 misc turboprops|props GA 3
-1300  57.05325409 -135.36843099 135.67 misc turboprops|props GA 2
-1300  57.05340910 -135.36814993 135.67 misc turboprops|props GA 1
-1300  57.05298174 -135.36735426 135.67 misc turboprops|props GA 4
-1300  57.05284180 -135.36762146 135.67 misc turboprops|props GA 5
-1300  57.05269433 -135.36791637 135.67 misc turboprops|props GA 6
-1300  57.05168784 -135.36506827 -44.50 misc turboprops|props GA 7
-1300  57.05156404 -135.36531171 -44.50 misc turboprops|props GA 8
-1300  57.05141657 -135.36559077 -44.50 misc turboprops|props GA 9
-1300  57.05133368 -135.36543244 -44.50 misc turboprops|props GA 12
-1300  57.05147147 -135.36516921 -44.50 misc turboprops|props GA 11
+1300  57.05307386 -135.36861671 135.67 misc turboprops|props GA 3
+1300  57.05322234 -135.36834171 135.67 misc turboprops|props GA 2
+1300  57.05337175 -135.36807096 135.67 misc turboprops|props GA 1
+1300  57.05293132 -135.36725812 135.67 misc turboprops|props GA 4
+1300  57.05279698 -135.36751845 135.67 misc turboprops|props GA 5
+1300  57.05264764 -135.36780649 135.67 misc turboprops|props GA 6
+1300  57.05171025 -135.36511290 -44.50 misc turboprops|props GA 7
+1300  57.05158085 -135.36534261 -44.50 misc turboprops|props GA 8
+1300  57.05143151 -135.36563197 -44.50 misc turboprops|props GA 9
+1300  57.05134862 -135.36548737 -44.50 misc turboprops|props GA 12
+1300  57.05148641 -135.36521727 -44.50 misc turboprops|props GA 11
 1300  57.05132317 -135.36374349 -44.50 misc turboprops|props Hangar 4
 1300  57.05177119 -135.36450436 -44.50 misc turboprops|props Hangar 3
-1300  57.05160925 -135.36490796 -44.50 misc turboprops|props GA 10
-1300  57.05127125 -135.36433400 -44.50 misc turboprops|props GA 13
-1300  57.05112054 -135.36462097 -44.50 misc turboprops|props GA 14
-1300  57.05097522 -135.36489212 -44.50 misc turboprops|props GA 15
-1300  57.05086434 -135.36413410 -44.50 misc turboprops|props GA 17
-1300  57.05072655 -135.36440129 -44.50 misc turboprops|props GA 18
-1300  57.05101182 -135.36385900 -44.50 misc turboprops|props GA 16
-1300  57.05084601 -135.36342885 135.61 misc turboprops|props Tie-down 30
-1300  57.05058241 -135.36295409 135.61 misc turboprops|props Tie-down 20
-1300  57.05076092 -135.36358867 135.61 misc turboprops|props Tie-down 29
-1300  57.05049732 -135.36311391 135.61 misc turboprops|props Tie-down 19
-1300  57.05067580 -135.36374855 135.61 misc turboprops|props Tie-down 28
-1300  57.05041220 -135.36327378 135.61 misc turboprops|props Tie-down 18
-1300  57.05059070 -135.36390840 135.61 misc turboprops|props Tie-down 27
-1300  57.05032710 -135.36343363 135.61 misc turboprops|props Tie-down 17
-1300  57.05050560 -135.36406825 135.61 misc turboprops|props Tie-down 26
-1300  57.05024200 -135.36359348 135.61 misc turboprops|props Tie-down 16
-1300  57.04967527 -135.36257236 315.61 misc turboprops|props Tie-down 1
-1300  57.04993908 -135.36304741 315.61 misc turboprops|props Tie-down 6
-1300  57.05046125 -135.36383196 315.61 misc turboprops|props Tie-down 21
-1300  57.05019765 -135.36335719 315.61 misc turboprops|props Tie-down 11
-1300  57.04976039 -135.36241249 315.61 misc turboprops|props Tie-down 2
-1300  57.05002420 -135.36288753 315.61 misc turboprops|props Tie-down 7
-1300  57.05054637 -135.36367208 315.61 misc turboprops|props Tie-down 22
-1300  57.05028277 -135.36319732 315.61 misc turboprops|props Tie-down 12
-1300  57.04984549 -135.36225264 315.61 misc turboprops|props Tie-down 3 
-1300  57.05010931 -135.36272769 315.61 misc turboprops|props Tie-down 8
-1300  57.05063147 -135.36351223 315.61 misc turboprops|props Tie-down 23
-1300  57.05036787 -135.36303747 315.61 misc turboprops|props Tie-down 13
-1300  57.04993059 -135.36209279 315.61 misc turboprops|props Tie-down 4
-1300  57.05019441 -135.36256784 315.61 misc turboprops|props Tie-down 9
-1300  57.05071657 -135.36335238 315.61 misc turboprops|props Tie-down 24
-1300  57.05045297 -135.36287762 315.61 misc turboprops|props Tie-down 14 
-1300  57.05001570 -135.36193294 315.61 misc turboprops|props Tie-down 5
-1300  57.05027951 -135.36240799 315.61 misc turboprops|props Tie-down 10
-1300  57.05080168 -135.36319253 315.61 misc turboprops|props Tie-down 25
-1300  57.05053807 -135.36271777 315.61 misc turboprops|props Tie-down 15
+1300  57.05162606 -135.36496632 -44.50 misc turboprops|props GA 10
+1300  57.05129365 -135.36439580 -44.50 misc turboprops|props GA 13
+1300  57.05115042 -135.36466904 -44.50 misc turboprops|props GA 14
+1300  57.05100510 -135.36495049 -44.50 misc turboprops|props GA 15
+1300  57.05089609 -135.36418904 -44.50 misc turboprops|props GA 17
+1300  57.05075270 -135.36445966 -44.50 misc turboprops|props GA 18
+1300  57.05104543 -135.36392080 -44.50 misc turboprops|props GA 16
+1300  57.05082427 -135.36338973 135.61 misc turboprops|props Tie-down 30
+1300  57.05056067 -135.36291497 135.61 misc turboprops|props Tie-down 20
+1300  57.05073919 -135.36354955 135.61 misc turboprops|props Tie-down 29
+1300  57.05047558 -135.36307479 135.61 misc turboprops|props Tie-down 19
+1300  57.05065407 -135.36370943 135.61 misc turboprops|props Tie-down 28
+1300  57.05039047 -135.36323466 135.61 misc turboprops|props Tie-down 18
+1300  57.05056896 -135.36386928 135.61 misc turboprops|props Tie-down 27
+1300  57.05030536 -135.36339451 135.61 misc turboprops|props Tie-down 17
+1300  57.05048386 -135.36402913 135.61 misc turboprops|props Tie-down 26
+1300  57.05022026 -135.36355436 135.61 misc turboprops|props Tie-down 16
+1300  57.04969701 -135.36261149 315.61 misc turboprops|props Tie-down 1
+1300  57.04996082 -135.36308653 315.61 misc turboprops|props Tie-down 6
+1300  57.05048299 -135.36387108 315.61 misc turboprops|props Tie-down 21
+1300  57.05021939 -135.36339631 315.61 misc turboprops|props Tie-down 11
+1300  57.04978213 -135.36245161 315.61 misc turboprops|props Tie-down 2
+1300  57.05004594 -135.36292666 315.61 misc turboprops|props Tie-down 7
+1300  57.05056811 -135.36371120 315.61 misc turboprops|props Tie-down 22
+1300  57.05030450 -135.36323644 315.61 misc turboprops|props Tie-down 12
+1300  57.04986723 -135.36229176 315.61 misc turboprops|props Tie-down 3 
+1300  57.05013104 -135.36276681 315.61 misc turboprops|props Tie-down 8
+1300  57.05065321 -135.36355135 315.61 misc turboprops|props Tie-down 23
+1300  57.05038961 -135.36307659 315.61 misc turboprops|props Tie-down 13
+1300  57.04995233 -135.36213191 315.61 misc turboprops|props Tie-down 4
+1300  57.05021615 -135.36260696 315.61 misc turboprops|props Tie-down 9
+1300  57.05073831 -135.36339151 315.61 misc turboprops|props Tie-down 24
+1300  57.05047471 -135.36291674 315.61 misc turboprops|props Tie-down 14 
+1300  57.05003744 -135.36197206 315.61 misc turboprops|props Tie-down 5
+1300  57.05030125 -135.36244711 315.61 misc turboprops|props Tie-down 10
+1300  57.05082342 -135.36323166 315.61 misc turboprops|props Tie-down 25
+1300  57.05055981 -135.36275689 315.61 misc turboprops|props Tie-down 15
 18  57.04845234 -135.36016800 1 New Airport Beacon 4
 19  57.04747250 -135.36538285 0 New Windsock 2
 19  57.05441482 -135.37185426 0 New Windsock 1
