@@ -4,10 +4,15 @@ I
 1   1324 1 0 VOCB Coimbatore International
 1302 city Coimbatore
 1302 country India
+1302 datum_lat 11.026944444
+1302 datum_lon 77.041666667
+1302 faa_code 
 1302 iata_code CJB
 1302 icao_code VOCB
+1302 region_code VO
 1302 state Tamil Nadu
 1302 transition_alt 11000
+1302 transition_level 
 100 45.00 1 0 0.25 0 3 0 05  11.02236469  077.03482767    0   56 3 7 0 0 23  11.04119766  077.05440914    0   60 3 1 0 0
 110 1 0.00 0.0000 New Taxiway 30
 111  11.03194598  077.04078513
@@ -709,23 +714,23 @@ I
 21  11.02481282  077.03673665 2 44.6500 3.00 05  PAPI-4L
 21  11.03664470  077.05034486 2 225.6800 3.35 23  PAPI-4L
 14  11.02945856  077.03886022  82.02 0 New Tower Viewpoint 3
-1300  11.03097674  077.04097220 -44.17 misc jets|turboprops REMOTE 05
+1300  11.03097674  077.04097220 -44.17 tie_down jets|turboprops REMOTE 05
 1301 C airline 
-1300  11.03029393  077.04000178 -45.59 misc jets|turboprops GATE 02
+1300  11.03029393  077.04000178 -45.59 gate jets|turboprops GATE 02
 1301 C airline 
-1300  11.02967170  077.03931831 -43.82 misc jets|turboprops REMOTE 09
+1300  11.02967170  077.03931831 -43.82 tie_down jets|turboprops REMOTE 09
 1301 C airline 
-1300  11.02994376  077.03960613 -43.74 misc jets|turboprops GATE 01
+1300  11.02994376  077.03960613 -43.74 gate jets|turboprops GATE 01
 1301 C airline 
-1300  11.03049462  077.04038580 -43.07 misc jets|turboprops REMOTE 03
+1300  11.03049462  077.04038580 -43.07 tie_down jets|turboprops REMOTE 03
 1301 C airline 
-1300  11.03075339  077.04067695 -42.19 misc jets|turboprops REMOTE 04
+1300  11.03075339  077.04067695 -42.19 tie_down jets|turboprops REMOTE 04
 1301 C airline 
-1300  11.03140758  077.04187045 -135.01 misc jets|turboprops REMOTE 07
+1300  11.03140758  077.04187045 -135.01 tie_down jets|turboprops REMOTE 07
 1301 B airline 
-1300  11.03152749  077.04176223 -135.02 misc jets|turboprops REMOTE 08
+1300  11.03152749  077.04176223 -135.02 tie_down jets|turboprops REMOTE 08
 1301 B airline 
-1300  11.03163124  077.04158633 -134.42 misc jets|turboprops REMOTE 06
+1300  11.03163124  077.04158633 -134.42 tie_down jets|turboprops REMOTE 06
 1301 B airline 
 18  11.02939818  077.03882069 1 New Airport Beacon 4
 19  11.03123370  077.04269921 0 New Windsock 1
