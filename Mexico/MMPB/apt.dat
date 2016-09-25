@@ -47,21 +47,12 @@ I
 113  19.16778601 -098.37559369
 110 2 0.00 0.0000 New Taxiway 78
 111  19.16723281 -098.37556514
-111  19.16744920 -098.37558008
-111  19.16744380 -098.37586410
-111  19.16743531 -098.37587009
-111  19.16743436 -098.37592208
-111  19.16744380 -098.37593208
-111  19.16744380 -098.37604205
-111  19.16743153 -098.37614402
+111  19.16747173 -098.37558148
+111  19.16745009 -098.37614823
 111  19.16737487 -098.37614602
 111  19.16736448 -098.37633597
-111  19.16741831 -098.37633897
-111  19.16739753 -098.37673186
-111  19.16739659 -098.37685283
-111  19.16738620 -098.37696180
-111  19.16738526 -098.37717675
-111  19.16738053 -098.37737069
+111  19.16744548 -098.37633486
+111  19.16740964 -098.37737891
 111  19.16717024 -098.37735943
 111  19.16723097 -098.37586906
 113  19.16721257 -098.37586712
@@ -171,7 +162,7 @@ I
 111  19.16830718 -098.37561023
 111  19.16778601 -098.37559369
 111  19.16752735 -098.37558548
-111  19.16744920 -098.37558008
+111  19.16747173 -098.37558148
 111  19.16723281 -098.37556514
 111  19.16721257 -098.37586712
 111  19.16723097 -098.37586906
@@ -812,15 +803,15 @@ I
 21  19.14547402 -098.37154014 2 358.0600 3.00 35  PAPI-4L
 21  19.17084124 -098.37150286 2 180.0000 3.00 New Light Fixture 5
 14  19.16550288 -098.37584044  82.02 0 New Tower Viewpoint 6
-1300  19.16717792 -098.37725935 -184.37 hangar jets|turboprops|props Maintenance Hangar 05
+1300  19.16719927 -098.37725113 -184.37 hangar jets|turboprops|props Maintenance Hangar 05
 1301 B general_aviation 
-1300  19.16719465 -098.37684395 -184.37 hangar jets|turboprops|props Maintenance Hangar 04
+1300  19.16721794 -098.37683984 -184.37 hangar jets|turboprops|props Maintenance Hangar 04
 1301 B general_aviation 
-1300  19.16720986 -098.37642050 -184.37 hangar jets|turboprops|props Maintenance Hangar 03
+1300  19.16722926 -098.37642050 -184.37 hangar jets|turboprops|props Maintenance Hangar 03
 1301 B general_aviation 
-1300  19.16722811 -098.37602925 -184.37 hangar jets|turboprops|props Maintenance Hangar 02
+1300  19.16724667 -098.37602364 -184.37 hangar jets|turboprops|props Maintenance Hangar 02
 1301 B general_aviation 
-1300  19.16723572 -098.37568630 -184.37 hangar jets|turboprops|props Maintenance Hangar 01
+1300  19.16725295 -098.37569332 -184.37 hangar jets|turboprops|props Maintenance Hangar 01
 1301 B general_aviation 
 1300  19.16911977 -098.37573581  52.75 hangar jets|turboprops|props Storage Hangar 2
 1301 B general_aviation 
@@ -830,51 +821,51 @@ I
 1301 B general_aviation 
 1300  19.16797932 -098.37571483  29.75 hangar jets|turboprops|props Storage Hangar 1
 1301 B general_aviation 
-1300  19.16586746 -098.37501226   0.00 misc turboprops|props FBO Stand 10
+1300  19.16586746 -098.37501226   0.00 misc turboprops|props GA 10
 1301 A general_aviation 
-1300  19.16565140 -098.37514862 -181.25 misc turboprops|props FBO Stand 08
+1300  19.16565140 -098.37514862 -181.25 misc turboprops|props GA 08
 1301 A general_aviation 
-1300  19.16565763 -098.37501006 -181.25 misc turboprops|props FBO Stand 07
+1300  19.16565763 -098.37501006 -181.25 misc turboprops|props GA 07
 1301 A general_aviation 
-1300  19.16566075 -098.37486710 -181.25 misc turboprops|props FBO Stand 06
+1300  19.16566075 -098.37486710 -181.25 misc turboprops|props GA 06
 1301 A general_aviation 
-1300  19.16566594 -098.37471644 -181.25 misc turboprops|props FBO Stand 05
+1300  19.16566594 -098.37471644 -181.25 misc turboprops|props GA 05
 1301 A general_aviation 
-1300  19.16567010 -098.37458008 -181.25 misc turboprops|props FBO Stand 04
+1300  19.16567010 -098.37458008 -181.25 misc turboprops|props GA 04
 1301 A general_aviation 
-1300  19.16588200 -098.37458558   0.00 misc turboprops|props FBO Stand 13
+1300  19.16588200 -098.37458558   0.00 misc turboprops|props GA 13
 1301 A general_aviation 
-1300  19.16587785 -098.37472084   0.00 misc turboprops|props FBO Stand 12
+1300  19.16587785 -098.37472084   0.00 misc turboprops|props GA 12
 1301 A general_aviation 
-1300  19.16587265 -098.37486820   0.00 misc turboprops|props FBO Stand 11
+1300  19.16587265 -098.37486820   0.00 misc turboprops|props GA 11
 1301 A general_aviation 
-1300  19.16644490 -098.37460141 177.23 misc props FBO Stand 24
+1300  19.16644490 -098.37460141 177.23 misc props GA 24
 1301 A general_aviation 
-1300  19.16643804 -098.37474778 177.23 misc props FBO Stand 25
+1300  19.16643804 -098.37474778 177.23 misc props GA 25
 1301 A general_aviation 
-1300  19.16643233 -098.37489052 177.23 misc props FBO Stand 26
+1300  19.16643233 -098.37489052 177.23 misc props GA 26
 1301 A general_aviation 
-1300  19.16642547 -098.37503568 177.23 misc props FBO Stand 27
+1300  19.16642547 -098.37503568 177.23 misc props GA 27
 1301 A general_aviation 
-1300  19.16642319 -098.37518447 177.23 misc props FBO Stand 28
+1300  19.16642319 -098.37518447 177.23 misc props GA 28
 1301 A general_aviation 
-1300  19.16607698 -098.37516512 176.89 misc turboprops|props FBO Stand 18
+1300  19.16607698 -098.37516512 176.89 misc turboprops|props GA 18
 1301 A general_aviation 
-1300  19.16608383 -098.37502117 176.89 misc turboprops|props FBO Stand 17
+1300  19.16608383 -098.37502117 176.89 misc turboprops|props GA 17
 1301 A general_aviation 
-1300  19.16608726 -098.37487601 176.89 misc turboprops|props FBO Stand 16
+1300  19.16608726 -098.37487601 176.89 misc turboprops|props GA 16
 1301 A general_aviation 
-1300  19.16609297 -098.37473447 176.89 misc turboprops|props FBO Stand 15
+1300  19.16609297 -098.37473447 176.89 misc turboprops|props GA 15
 1301 A general_aviation 
-1300  19.16610211 -098.37458811 176.89 misc turboprops|props FBO Stand 14
+1300  19.16610211 -098.37458811 176.89 misc turboprops|props GA 14
 1301 A general_aviation 
-1300  19.16631578 -098.37459294   0.00 misc turboprops|props FBO Stand 23
+1300  19.16631578 -098.37459294   0.00 misc turboprops|props GA 23
 1301 A general_aviation 
-1300  19.16630893 -098.37474052   0.00 misc turboprops|props FBO Stand 22
+1300  19.16630893 -098.37474052   0.00 misc turboprops|props GA 22
 1301 A general_aviation 
-1300  19.16630207 -098.37488085   0.00 misc turboprops|props FBO Stand 21
+1300  19.16630207 -098.37488085   0.00 misc turboprops|props GA 21
 1301 A general_aviation 
-1300  19.16629864 -098.37502842   0.00 misc turboprops|props FBO Stand 20
+1300  19.16629864 -098.37502842   0.00 misc turboprops|props GA 20
 1301 A general_aviation 
 1300  19.16669979 -098.37564405   0.00 hangar turboprops|props S2 Hangar 5
 1301 A general_aviation 
@@ -906,32 +897,32 @@ I
 1301 A general_aviation 
 1300  19.16642359 -098.37561072   0.00 hangar turboprops|props S1 Hangar 5
 1301 A general_aviation 
-1300  19.16629293 -098.37517238   0.00 misc turboprops|props FBO Stand 19
+1300  19.16629293 -098.37517238   0.00 misc turboprops|props GA 19
 1301 A general_aviation 
-1300  19.16586331 -098.37515302   0.00 misc turboprops|props FBO Stand 09
+1300  19.16586331 -098.37515302   0.00 misc turboprops|props GA 09
 1301 A general_aviation 
-1300  19.16537521 -098.37486294   0.00 misc turboprops|props FBO Stand 03
+1300  19.16537521 -098.37486294   0.00 misc turboprops|props GA 03
 1301 A general_aviation 
-1300  19.16537354 -098.37500994   0.00 misc turboprops|props FBO Stand 02
+1300  19.16537354 -098.37500994   0.00 misc turboprops|props GA 02
 1301 A general_aviation 
-1300  19.16536852 -098.37514985   0.00 misc turboprops|props FBO Stand 01
+1300  19.16536852 -098.37514985   0.00 misc turboprops|props GA 01
 1301 A general_aviation 
-1300  19.16463819 -098.37518693 -90.00 gate heavy|jets|turboprops Terminal Gate 06
+1300  19.16463819 -098.37518693 -90.00 gate jets|turboprops Terminal Gate 06
+1301 B airline 
+1300  19.16423517 -098.37517083 -90.00 gate jets|turboprops Terminal Gate 05
+1301 B airline 
+1300  19.16388082 -098.37515795 -90.00 gate jets|turboprops Terminal Gate 04
+1301 B airline 
+1300  19.16367086 -098.37515451 -90.00 gate jets|turboprops Terminal Gate 03A
 1301 C airline 
-1300  19.16423517 -098.37517083 -90.00 gate heavy|jets|turboprops Terminal Gate 05
+1300  19.16346715 -098.37514506 -90.00 gate jets|turboprops Terminal Gate 03
+1301 B airline 
+1300  19.16312801 -098.37512896 -90.00 gate jets|turboprops Terminal Gate 02
+1301 B airline 
+1300  19.16304242 -098.37512790 -90.00 gate jets|turboprops Terminal Gate 02A
 1301 C airline 
-1300  19.16388082 -098.37515795 -90.00 gate heavy|jets|turboprops Terminal Gate 04
-1301 C airline 
-1300  19.16367086 -098.37515451 -90.00 gate heavy|jets|turboprops Terminal Gate 03A
-1301 C airline 
-1300  19.16346715 -098.37514506 -90.00 gate heavy|jets|turboprops Terminal Gate 03
-1301 C airline 
-1300  19.16312801 -098.37512896 -90.00 gate heavy|jets|turboprops Terminal Gate 02
-1301 C airline 
-1300  19.16304242 -098.37512790 -90.00 gate heavy|jets|turboprops Terminal Gate 02A
-1301 C airline 
-1300  19.16272347 -098.37511447 -90.00 gate heavy|jets|turboprops Terminal Gate 01
-1301 C airline 
+1300  19.16272347 -098.37511447 -90.00 gate jets|turboprops Terminal Gate 01
+1301 B airline 
 18  19.16094646 -098.37018620 1 BCN
 19  19.17040945 -098.37125246 1 WS
 19  19.14595405 -098.37177639 1 WS
