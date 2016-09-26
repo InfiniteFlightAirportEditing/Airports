@@ -7895,15 +7895,15 @@ I
 1300  59.79813198  030.29482366  16.96 tie_down heavy|jets|turboprops|props|helos LED-T3-600
 1301 B airline 
 1300  59.79876356  030.29563768 196.36 tie_down heavy|jets|turboprops|props|helos LED-T1-704
-1301 E airline 
+1301 E cargo 
 1300  59.79894045  030.29444653 -163.26 tie_down heavy|jets|turboprops|props|helos LED-T1-703
-1301 E airline 
+1301 E cargo 
 1300  59.79912583  030.29320539 196.45 tie_down heavy|jets|turboprops|props|helos LED-T1-702
-1301 E airline 
+1301 E cargo 
 1300  59.79931489  030.29197885 -163.66 tie_down heavy|jets|turboprops|props|helos LED-T1-701
-1301 E airline 
+1301 E cargo 
 1300  59.79950877  030.29073667 197.32 tie_down heavy|jets|turboprops|props|helos LED-T1-700
-1301 E airline 
+1301 E cargo 
 1300  59.79824481  030.30071639  92.94 misc heavy|jets|turboprops|props|helos LED-500
 1301 B general_aviation 
 1300  59.80885715  030.29730686 272.69 misc heavy|jets|turboprops|props|helos LED-387
