@@ -4325,9 +4325,9 @@ I
 21  49.94209725  007.25658979 2 32.3700 3.00 03  PAPI-4L
 21  49.95559555  007.27159015 2 212.3900 3.00 21  PAPI-4L
 14  49.94557945  007.26763305  98.43 0 ATC Tower
-1300  49.94323097  007.26453390 345.78 hangar jets|turboprops|props General Aviation 02
+1300  49.94323097  007.26453390 345.78 hangar props General Aviation 02
 1301 A general_aviation 
-1300  49.94289963  007.26416993 345.63 hangar jets|turboprops|props General Aviation 01
+1300  49.94289963  007.26416993 345.63 hangar props General Aviation 01
 1301 A general_aviation 
 1300  49.95802551  007.27964409 212.66 hangar jets Maintenance Apron 5
 1301 E airline 
@@ -4338,7 +4338,7 @@ I
 1300  49.95319588  007.27545675 122.45 gate jets Cargo G03
 1301 F cargo 
 1300  49.95252684  007.27481558 122.64 gate jets Cargo G02
-1301 F cargo 
+1301 E cargo 
 1300  49.95200423  007.27401061 122.26 gate jets Cargo G01
 1301 E cargo 
 1300  49.95037700  007.27268252 122.51 gate jets Cargo F
