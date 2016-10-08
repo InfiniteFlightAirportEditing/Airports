@@ -3952,220 +3952,220 @@ I
 21  29.21443986  047.99691649 2 336.1400 3.00 New Light Fixture 2
 21  29.21417801  047.97449937 2 336.1500 3.00 New Light Fixture 2
 14  29.22596164  047.98111416 249.34 0 New Tower Viewpoint 1
-1300  29.22838248  047.98467135 -26.59 misc props GA 619
-1301 B none 
-1300  29.22877646  047.98560699 -27.19 misc props GA 616
-1301 B none 
-1300  29.22861809  047.98524509 -24.40 misc props GA 617
-1301 B none 
-1300  29.22847256  047.98484801 -26.36 misc props GA 618
-1301 B none 
-1300  29.22843037  047.98647353  67.69 misc props GA 615
-1301 B none 
-1300  29.22824210  047.98657071  62.56 misc props GA 614
-1301 B none 
-1300  29.22803688  047.98671246  68.20 misc props GA 613
-1301 B none 
-1300  29.22783061  047.98682419  62.95 misc props GA 612
-1301 B none 
-1300  29.22771065  047.98691330  65.32 misc props GA 611
-1301 B none 
-1300  29.22703251  047.98703141  61.39 misc props GA 610
-1301 B none 
-1300  29.22688309  047.98710463  67.40 misc props GA 69
-1301 B none 
-1300  29.22671846  047.98711998  96.13 misc props GA 68
-1301 B none 
-1300  29.22658587  047.98707959 117.31 misc props GA G7
-1301 B none 
-1300  29.22642383  047.98695570 130.60 misc props GA G6
-1301 B none 
-1300  29.22631469  047.98681226 154.98 misc props GA G5
-1301 B none 
-1300  29.22620506  047.98656688 -206.83 misc props GA G4
-1301 B none 
-1300  29.22608938  047.98628962 -202.61 misc props GA G3
-1301 B none 
-1300  29.22596132  047.98595964 -204.01 misc props GA G2
-1301 B none 
-1300  29.22595596  047.98567270 -168.23 misc props GA G1
-1301 B none 
+1300  29.22838248  047.98467135 -26.59 misc props GA G19
+1301 B general_aviation 
+1300  29.22877646  047.98560699 -27.19 misc props GA G16
+1301 B general_aviation 
+1300  29.22861809  047.98524509 -24.40 misc props GA G17
+1301 B general_aviation 
+1300  29.22847256  047.98484801 -26.36 misc props GA G18
+1301 B airline 
+1300  29.22843037  047.98647353  67.69 misc props GA G15
+1301 B general_aviation 
+1300  29.22824210  047.98657071  62.56 misc props GA G14
+1301 B general_aviation 
+1300  29.22803688  047.98671246  68.20 misc props GA G13
+1301 B general_aviation 
+1300  29.22783061  047.98682419  62.95 misc props GA G12
+1301 B general_aviation 
+1300  29.22771065  047.98691330  65.32 misc props GA G11
+1301 B general_aviation 
+1300  29.22703251  047.98703141  61.39 misc props GA G10
+1301 B general_aviation 
+1300  29.22688309  047.98710463  67.40 misc props GA G09
+1301 B general_aviation 
+1300  29.22671846  047.98711998  96.13 misc props GA G08
+1301 B general_aviation 
+1300  29.22658587  047.98707959 117.31 misc props GA G07
+1301 B general_aviation 
+1300  29.22642383  047.98695570 130.60 misc props GA G06
+1301 B general_aviation 
+1300  29.22631469  047.98681226 154.98 misc props GA G05
+1301 B general_aviation 
+1300  29.22620506  047.98656688 -206.83 misc props GA G04
+1301 B general_aviation 
+1300  29.22608938  047.98628962 -202.61 misc props GA G03
+1301 B general_aviation 
+1300  29.22596132  047.98595964 -204.01 misc props GA G02
+1301 B general_aviation 
+1300  29.22595596  047.98567270 -168.23 misc props GA G01
+1301 B general_aviation 
 1300  29.22661620  047.98660797 -23.94 misc props GA G27B
-1301 B none 
+1301 B general_aviation 
 1300  29.22652586  047.98618516 -25.01 misc props GA G28B
-1301 B none 
+1301 B general_aviation 
 1300  29.22637306  047.98586909 -24.10 misc props GA G29B
-1301 B none 
+1301 B general_aviation 
 1300  29.22685133  047.98648884 -203.53 misc props GA G27A
-1301 B none 
+1301 B general_aviation 
 1300  29.22669348  047.98609673 151.39 misc props GA G28A
-1301 B none 
+1301 B general_aviation 
 1300  29.22657721  047.98576611 155.88 misc props GA G29A
-1301 B none 
+1301 B general_aviation 
 1300  29.22736437  047.98611628 332.18 misc props GA G23
-1301 B none 
+1301 B general_aviation 
 1300  29.22724825  047.98583849 333.75 misc props GA G24
-1301 B none 
+1301 B general_aviation 
 1300  29.22712540  047.98555361 -25.04 misc props GA G25B
-1301 B none 
+1301 B general_aviation 
 1300  29.22753269  047.98602566 -206.17 misc props GA G23A
-1301 B none 
+1301 B general_aviation 
 1300  29.22741768  047.98574663 158.03 misc props GA G26
-1301 B none 
+1301 B general_aviation 
 1300  29.22730812  047.98545383 -205.17 misc props GA G25A
-1301 B none 
+1301 B general_aviation 
 1300  29.22813060  047.98574000 -25.66 misc props GA G20B
-1301 B none 
+1301 B general_aviation 
 1300  29.22798474  047.98538294 -26.79 misc props GA G21B
-1301 B none 
+1301 B general_aviation 
 1300  29.22787559  047.98509010 -24.73 misc props GA G22B
-1301 B none 
+1301 B general_aviation 
 1300  29.22830177  047.98564467 -206.38 misc props GA G20A
-1301 B none 
+1301 B general_aviation 
 1300  29.22812745  047.98530141 -206.91 misc props GA G21A
-1301 B none 
+1301 B general_aviation 
 1300  29.22805433  047.98499494 155.56 misc props GA G22A
-1301 B none 
-1300  29.23740314  047.97321633 -84.56 misc heavy|jets|turboprops Terminal Gate 5
-1301 E none 
-1300  29.23779227  047.97334502 -81.41 misc heavy|jets|turboprops Terminal Gate 4
-1301 E none 
-1300  29.23794709  047.97285476 -115.27 misc heavy|jets|turboprops Terminal Gate 3
-1301 E none 
-1300  29.23855974  047.97249593 -113.55 misc heavy|jets|turboprops Terminal Gate 2
-1301 E none 
-1300  29.23947224  047.97239101 -71.69 misc heavy|jets|turboprops Terminal Gate 1
-1301 E none 
+1301 B general_aviation 
+1300  29.23740314  047.97321633 -84.56 misc heavy|jets|turboprops Terminal Gate 05
+1301 E airline 
+1300  29.23779227  047.97334502 -81.41 misc heavy|jets|turboprops Terminal Gate 04
+1301 E airline 
+1300  29.23794709  047.97285476 -115.27 misc heavy|jets|turboprops Terminal Gate 03
+1301 E airline 
+1300  29.23855974  047.97249593 -113.55 misc heavy|jets|turboprops Terminal Gate 02
+1301 E airline 
+1300  29.23947224  047.97239101 -71.69 misc heavy|jets|turboprops Terminal Gate 01
+1301 E airline 
 1300  29.23995341  047.97277644 -52.31 misc heavy|jets|turboprops Terminal Gate B1
-1301 E none 
+1301 E airline 
 1300  29.24018176  047.97313057 -29.32 misc heavy|jets|turboprops Terminal Gate B2
-1301 E none 
+1301 E airline 
 1300  29.23651332  047.96839972 -28.00 misc jets|turboprops|props Terminal Gate 36
-1301 C none 
-1300  29.23632582  047.96796999 -28.03 misc jets|turboprops|props Terminal Gate 37
-1301 C none 
-1300  29.23615363  047.96757533 -28.63 misc jets|turboprops|props Terminal Gate 38
-1301 C none 
-1300  29.23598909  047.96718945 -27.16 misc jets|turboprops|props Terminal Gate 39
-1301 C none 
+1301 C airline 
+1300  29.23632582  047.96796999 -28.03 misc jets|turboprops Terminal Gate 37
+1301 C airline 
+1300  29.23615363  047.96757533 -28.63 misc jets|turboprops Terminal Gate 38
+1301 C airline 
+1300  29.23598909  047.96718945 -27.16 misc jets|turboprops Terminal Gate 39
+1301 C airline 
 1300  29.23690726  047.97035102  53.37 misc heavy|jets Terminal Gate 35
-1301 E none 
+1301 E airline 
 1300  29.23743032  047.97015073  51.92 misc heavy|jets Terminal Gate 34
-1301 E none 
+1301 E airline 
 1300  29.23734483  047.97216005  25.17 misc heavy|jets Terminal Gate 26
-1301 E none 
+1301 E airline 
 1300  29.23774883  047.97194770  65.85 misc heavy|jets Terminal Gate 25
-1301 E none 
+1301 E airline 
 1300  29.23813736  047.97174772  86.36 misc heavy|jets Terminal Gate 24
-1301 E none 
+1301 E airline 
 1300  29.23895388  047.97099667  24.10 misc heavy|jets Terminal Gate 22
-1301 E none 
+1301 F airline 
 1300  29.23914960  047.97022584  23.49 misc heavy|jets Terminal Gate 21
-1301 E none 
+1301 E airline 
 1300  29.23862623  047.96917358  -6.98 misc heavy|jets Terminal Gate 33
-1301 E none 
+1301 E airline 
 1300  29.23831954  047.96847529  17.77 misc heavy|jets Terminal Gate 32
-1301 E none 
+1301 E airline 
 1300  29.23792119  047.96741184   7.85 misc heavy|jets Terminal Gate 31
-1301 E none 
+1301 E airline 
 1300  29.24208309  047.96527650 -67.83 misc jets Cargo Terminal 56A
-1301 C none 
+1301 C cargo 
 1300  29.24153850  047.96561069 155.50 misc jets Cargo Terminal 56B
-1301 C none 
+1301 C cargo 
 1300  29.24230507  047.96584152 -55.33 misc jets Cargo Terminal 55B
-1301 C none 
+1301 C cargo 
 1300  29.24196715  047.96626989 154.88 misc jets Cargo Terminal 55A
-1301 C none 
+1301 C cargo 
 1300  29.24249247  047.96652071 -64.08 misc jets Cargo Terminal 54B
-1301 C none 
+1301 C cargo 
 1300  29.24209198  047.96701753 153.81 misc jets Cargo Terminal 54A
-1301 C none 
+1301 C cargo 
 1300  29.24382190  047.96602509 -27.43 misc jets Cargo Terminal 52B
-1301 C none 
+1301 C cargo 
 1300  29.24365058  047.96560934 -28.45 misc jets Cargo Terminal 52A
-1301 C none 
+1301 C cargo 
 1300  29.24352899  047.96531427 -26.71 misc jets Cargo Terminal 51A
-1301 C none 
+1301 C cargo 
 1300  29.24341556  047.96503901 -25.94 misc jets Cargo Terminal 50C
-1301 C none 
+1301 C cargo 
 1300  29.24329038  047.96473523 -26.42 misc jets Cargo Terminal 50B
-1301 C none 
+1301 C cargo 
 1300  29.24320292  047.96452300 -27.22 misc jets Cargo Terminal 50A
-1301 C none 
+1301 C cargo 
 1300  29.24379964  047.96372891  63.43 gate heavy|jets Cargo Terminal 60
-1301 E none 
+1301 E cargo 
 1300  29.24459799  047.96334405  64.94 gate heavy|jets Cargo Terminal 61
-1301 E none 
+1301 E cargo 
 1300  29.24536096  047.96292579  64.07 gate heavy|jets Cargo Terminal 62
-1301 E none 
+1301 E cargo 
 1300  29.24609417  047.96258177  61.34 gate heavy|jets Cargo Terminal 63
-1301 E none 
+1301 E cargo 
 1300  29.24675410  047.96226784  63.00 gate heavy|jets Cargo Terminal 64
-1301 E none 
+1301 E cargo 
 1300  29.24740126  047.96191343  61.75 gate heavy|jets Cargo Terminal 65
-1301 E none 
+1301 E cargo 
 1300  29.24809489  047.96145039  64.62 gate heavy|jets Cargo Terminal 66
-1301 E none 
+1301 E cargo 
 1300  29.24885328  047.96102384  63.14 gate heavy|jets Cargo Terminal 67
-1301 E none 
+1301 E cargo 
 1300  29.24957351  047.96068379  65.22 gate heavy|jets Cargo Terminal 68
-1301 E none 
+1301 E cargo 
 1300  29.25021708  047.96061441  64.94 gate jets Cargo Terminal 70
-1301 C none 
+1301 C cargo 
 1300  29.25056637  047.96042967  63.11 gate jets Cargo Terminal 71
-1301 C none 
+1301 C cargo 
 1300  29.25090418  047.96023667  63.43 gate jets Cargo Terminal 72
-1301 C none 
+1301 C cargo 
 1300  29.25124179  047.96006039  64.83 gate jets Cargo Terminal 73
-1301 C none 
+1301 C cargo 
 1300  29.25158859  047.95987575  63.43 gate jets Cargo Terminal 74
-1301 C none 
+1301 C cargo 
 1300  29.25194171  047.95970493  65.77 gate jets Cargo Terminal 75
-1301 C none 
+1301 C cargo 
 1300  29.25226756  047.95953479  64.44 gate jets Cargo Terminal 76
-1301 C none 
+1301 C cargo 
 1300  29.24333818  047.97810827 -113.29 gate jets|turboprops|props Stand 40
-1301 C none 
+1301 C airline 
 1300  29.24278502  047.97840971 -112.93 gate jets|turboprops|props Stand 41A
-1301 C none 
+1301 C airline 
 1300  29.24272721  047.97844693 -112.74 gate jets|turboprops|props Stand 41
-1301 C none 
+1301 C airline 
 1300  29.24223485  047.97867394 -113.00 gate jets|turboprops|props Stand 42
-1301 C none 
+1301 C airline 
 1300  29.24214158  047.97872232 -113.29 gate jets|turboprops|props Stand 42B
-1301 C none 
+1301 C airline 
 1300  29.24178010  047.97891678 -113.29 gate jets|turboprops|props Stand 43
-1301 C none 
+1301 C airline 
 1300  29.24148896  047.97906042 -113.29 gate jets|turboprops|props Stand 43C
-1301 C none 
+1301 C airline 
 1300  29.24131974  047.97915453 -113.29 gate jets|turboprops|props Stand 44
-1301 C none 
+1301 C airline 
 1300  29.24089281  047.97940218 -113.29 gate jets|turboprops|props Stand 45D
-1301 C none 
+1301 C airline 
 1300  29.24084103  047.97943686 -113.29 gate jets|turboprops|props Stand 45
-1301 C none 
+1301 C airline 
 1300  29.24020788  047.97971772 -114.73 gate jets|turboprops|props Stand 46
-1301 C none 
+1301 C airline 
 1300  29.24036913  047.97961489 -113.29 gate jets|turboprops|props Stand 46E
-1301 C none 
+1301 C airline 
 1300  29.24610381  047.97626880 -111.83 gate jets|turboprops|props Aimri Terminal T1
-1301 C none 
+1301 C airline 
 1300  29.21666913  047.99174822  64.08 misc heavy|jets|turboprops Gate 80
-1301 E none 
+1301 E airline 
 1300  29.21727780  047.99142645  63.19 misc heavy|jets|turboprops Gate 81
-1301 E none 
+1301 E airline 
 1300  29.21787026  047.99108084  65.27 misc heavy|jets|turboprops Gate 82
-1301 E none 
+1301 E airline 
 1300  29.21848164  047.99076305  64.41 misc heavy|jets|turboprops Gate 83
-1301 E none 
+1301 E airline 
 1300  29.21922336  047.99040949  62.93 misc heavy|jets|turboprops Gate 84
-1301 E none 
+1301 E airline 
 1300  29.21998673  047.99001468  63.30 misc heavy|jets|turboprops Gate 85
-1301 E none 
+1301 E airline 
 1300  29.22072738  047.98960305  63.56 misc heavy|jets|turboprops Gate 86
-1301 E none 
+1301 E airline 
 1300  29.22144914  047.98920181  63.30 misc heavy|jets|turboprops Gate 87
-1301 E none 
+1301 E airline 
 50 12622 Kuwait ATIS
 55 12130 Kuwait Approach
 55 12480 Kuwait Approach
