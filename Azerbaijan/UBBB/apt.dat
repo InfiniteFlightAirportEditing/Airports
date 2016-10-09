@@ -5078,201 +5078,201 @@ I
 21  40.46121859  050.06370155 3 358.5900 3.00 36 PAPI R
 21  40.46120431  050.06250351 2 359.9000 3.00 36 PAPI L
 14  40.46268619  050.04983008  49.21 0 Tower
-1300  40.45505319  050.06589195  90.38 tie_down heavy|jets|turboprops|props|helos GYD-D10
+1300  40.45505319  050.06589195  90.38 tie_down jets|turboprops GYD-D10
 1301 B general_aviation 
-1300  40.45541195  050.06588768  90.08 tie_down heavy|jets|turboprops|props|helos GYD-D9
+1300  40.45541195  050.06588768  90.08 tie_down jets|turboprops GYD-D09
 1301 B general_aviation 
-1300  40.45576930  050.06588934  89.67 tie_down heavy|jets|turboprops|props|helos GYD-D8
+1300  40.45576930  050.06588934  89.67 tie_down jets|turboprops GYD-D08
 1301 B general_aviation 
-1300  40.45612682  050.06589823  89.65 tie_down heavy|jets|turboprops|props|helos GYD-D7
+1300  40.45612682  050.06589823  89.65 tie_down jets|turboprops GYD-D07
 1301 B general_aviation 
-1300  40.45648245  050.06589742  90.20 tie_down heavy|jets|turboprops|props|helos GYD-D6
+1300  40.45648245  050.06589742  90.20 tie_down jets|turboprops GYD-D06
 1301 B general_aviation 
-1300  40.45505606  050.06516700  89.59 tie_down heavy|jets|turboprops|props|helos GYD-D5
+1300  40.45505606  050.06516700  89.59 tie_down jets|turboprops GYD-D05
 1301 B general_aviation 
-1300  40.45541316  050.06516868  89.14 tie_down heavy|jets|turboprops|props|helos GYD-D4
+1300  40.45541316  050.06516868  89.14 tie_down jets|turboprops GYD-D04
 1301 B general_aviation 
-1300  40.45576985  050.06516905  89.60 tie_down heavy|jets|turboprops|props|helos GYD-D3
+1300  40.45576985  050.06516905  89.60 tie_down jets|turboprops GYD-D03
 1301 B general_aviation 
-1300  40.45612596  050.06516794  90.00 tie_down heavy|jets|turboprops|props|helos GYD-D2
+1300  40.45612596  050.06516794  90.00 tie_down jets|turboprops GYD-D02
 1301 B general_aviation 
-1300  40.45648502  050.06517127  91.02 tie_down heavy|jets|turboprops|props|helos GYD-D1
+1300  40.45648502  050.06517127  91.02 tie_down jets|turboprops GYD-D01
 1301 B general_aviation 
-1300  40.45600244  050.06657992 117.49 tie_down heavy|jets|turboprops|props|helos GYD-D12
+1300  40.45600244  050.06657992 117.49 tie_down jets|turboprops GYD-D12
 1301 B general_aviation 
-1300  40.45633800  050.06687800 117.81 tie_down heavy|jets|turboprops|props|helos GYD-D11
+1300  40.45633800  050.06687800 117.81 tie_down jets|turboprops GYD-D11
 1301 B general_aviation 
-1300  40.45660231  050.06691891 190.34 tie_down heavy|jets|turboprops|props|helos GYD-D29
+1300  40.45660231  050.06691891 190.34 tie_down jets|turboprops GYD-D29
 1301 C general_aviation 
-1300  40.45649707  050.06744732 189.95 tie_down heavy|jets|turboprops|props|helos GYD-D30
+1300  40.45649707  050.06744732 189.95 tie_down jets|turboprops GYD-D30
 1301 C general_aviation 
-1300  40.45748821  050.06588048 271.33 tie_down heavy|jets|turboprops|props|helos GYD-D26
+1300  40.45748821  050.06588048 271.33 tie_down jets|turboprops GYD-D26
 1301 B general_aviation 
-1300  40.45784843  050.06696558  10.42 tie_down heavy|jets|turboprops|props|helos GYD-D28
+1300  40.45784843  050.06696558  10.42 tie_down jets|turboprops GYD-D28
 1301 C general_aviation 
-1300  40.45782669  050.06590329 271.20 tie_down heavy|jets|turboprops|props|helos GYD-D27
+1300  40.45782669  050.06590329 271.20 tie_down jets|turboprops GYD-D27
 1301 B general_aviation 
-1300  40.45734357  050.06564014  91.43 tie_down heavy|jets|turboprops|props|helos GYD-D20
+1300  40.45734357  050.06564014  91.43 tie_down jets|turboprops GYD-D20
 1301 B general_aviation 
-1300  40.45766285  050.06565878  91.30 tie_down heavy|jets|turboprops|props|helos GYD-D21
+1300  40.45766285  050.06565878  91.30 tie_down jets|turboprops GYD-D21
 1301 B general_aviation 
-1300  40.45797079  050.06568195  91.15 tie_down heavy|jets|turboprops|props|helos GYD-D22
+1300  40.45797079  050.06568195  91.15 tie_down jets|turboprops GYD-D22
 1301 B general_aviation 
-1300  40.45827943  050.06570503  91.02 tie_down heavy|jets|turboprops|props|helos GYD-D23
+1300  40.45827943  050.06570503  91.02 tie_down jets|turboprops GYD-D23
 1301 B general_aviation 
-1300  40.45858644  050.06573638  90.90 tie_down heavy|jets|turboprops|props|helos GYD-D24
+1300  40.45858644  050.06573638  90.90 tie_down jets|turboprops GYD-D24
 1301 B general_aviation 
-1300  40.45889419  050.06576184  91.82 tie_down heavy|jets|turboprops|props|helos GYD-D25
+1300  40.45889419  050.06576184  91.82 tie_down jets|turboprops GYD-D25
 1301 B general_aviation 
-1300  40.45736086  050.06466588 -88.96 tie_down heavy|jets|turboprops|props|helos GYD-D14
+1300  40.45736086  050.06466588 -88.96 tie_down jets|turboprops GYD-D14
 1301 B general_aviation 
-1300  40.45767581  050.06469578 271.22 tie_down heavy|jets|turboprops|props|helos GYD-D15
+1300  40.45767581  050.06469578 271.22 tie_down jets|turboprops GYD-D15
 1301 B general_aviation 
-1300  40.45798511  050.06472603 271.13 tie_down heavy|jets|turboprops|props|helos GYD-D16
+1300  40.45798511  050.06472603 271.13 tie_down jets|turboprops GYD-D16
 1301 B general_aviation 
-1300  40.45829467  050.06474194 271.63 tie_down heavy|jets|turboprops|props|helos GYD-D17
+1300  40.45829467  050.06474194 271.63 tie_down jets|turboprops GYD-D17
 1301 B general_aviation 
-1300  40.45860392  050.06476903 272.10 tie_down heavy|jets|turboprops|props|helos GYD-D18
+1300  40.45860392  050.06476903 272.10 tie_down jets|turboprops GYD-D18
 1301 B general_aviation 
-1300  40.45890852  050.06478732 -88.38 tie_down heavy|jets|turboprops|props|helos GYD-D19
+1300  40.45890852  050.06478732 -88.38 tie_down jets|turboprops GYD-D19
 1301 B general_aviation 
-1300  40.46127747  050.06637124 270.00 hangar heavy|jets|turboprops|props|helos GYD-E3
+1300  40.46127747  050.06637124 270.00 hangar jets|turboprops GYD-E03
 1301 C general_aviation 
-1300  40.46167363  050.06635829 270.00 hangar heavy|jets|turboprops|props|helos GYD-E2
+1300  40.46167363  050.06635829 270.00 hangar jets|turboprops GYD-E02
 1301 C general_aviation 
-1300  40.46211728  050.06635473 268.35 hangar heavy|jets|turboprops|props|helos GYD-E1
+1300  40.46211728  050.06635473 268.35 hangar jets|turboprops GYD-E01
 1301 C general_aviation 
-1300  40.45696871  050.05827740 270.00 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-1
-1301 F cargo 
-1300  40.45773469  050.05826504 270.00 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-2
-1301 F cargo 
-1300  40.45846294  050.05825328 269.11 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-3
+1300  40.45696871  050.05827740 270.00 tie_down heavy|jets GYD-CARGO-1
 1301 E cargo 
-1300  40.45915620  050.05826757 269.72 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-4
+1300  40.45773469  050.05826504 270.00 tie_down heavy|jets GYD-CARGO-2
 1301 E cargo 
-1300  40.45985065  050.05826992 -90.85 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-5
+1300  40.45846294  050.05825328 269.11 tie_down heavy|jets GYD-CARGO-3
 1301 E cargo 
-1300  40.46054624  050.05826797 269.68 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-6
+1300  40.45915620  050.05826757 269.72 tie_down heavy|jets GYD-CARGO-4
 1301 E cargo 
-1300  40.46126800  050.05822619 269.70 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-7
+1300  40.45985065  050.05826992 -90.85 tie_down heavy|jets GYD-CARGO-5
 1301 E cargo 
-1300  40.46200720  050.05821117 -90.72 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-8
+1300  40.46054624  050.05826797 269.68 tie_down heavy|jets GYD-CARGO-6
 1301 E cargo 
-1300  40.46275122  050.05820400 270.70 tie_down heavy|jets|turboprops|props|helos GYD-CARGO-9
+1300  40.46126800  050.05822619 269.70 tie_down heavy|jets GYD-CARGO-7
 1301 E cargo 
-1300  40.46402693  050.05405072 268.06 tie_down heavy|jets|turboprops|props|helos GYD-VIP STAND
+1300  40.46200720  050.05821117 -90.72 tie_down heavy|jets GYD-CARGO-8
+1301 E cargo 
+1300  40.46275122  050.05820400 270.70 tie_down heavy|jets GYD-CARGO-9
+1301 E cargo 
+1300  40.46402693  050.05405072 268.06 tie_down jets|turboprops GYD-VIP STAND
 1301 D airline 
-1300  40.46344354  050.05643315 177.75 tie_down heavy|jets|turboprops|props|helos GYD-F15
+1300  40.46344354  050.05643315 177.75 tie_down jets|turboprops GYD-F15
 1301 D airline 
-1300  40.46353288  050.05691561 177.87 tie_down heavy|jets|turboprops|props|helos GYD-F14
+1300  40.46353288  050.05691561 177.87 tie_down jets|turboprops GYD-F14
 1301 C airline 
-1300  40.46353677  050.05738312 178.58 tie_down heavy|jets|turboprops|props|helos GYD-F10
+1300  40.46353677  050.05738312 178.58 tie_down jets|turboprops GYD-F10
 1301 C airline 
-1300  40.46355455  050.05826579 178.73 tie_down heavy|jets|turboprops|props|helos GYD-F11
+1300  40.46355455  050.05826579 178.73 tie_down jets|turboprops GYD-F11
 1301 C airline 
-1300  40.46357063  050.05876066 178.18 tie_down heavy|jets|turboprops|props|helos GYD-F12
+1300  40.46357063  050.05876066 178.18 tie_down jets|turboprops GYD-F12
 1301 C airline 
-1300  40.46450652  050.05859421 177.62 tie_down heavy|jets|turboprops|props|helos GYD-F9
+1300  40.46450652  050.05859421 177.62 tie_down jets|turboprops GYD-F09
 1301 D airline 
-1300  40.46449206  050.05791137 177.84 tie_down heavy|jets|turboprops|props|helos GYD-F8
+1300  40.46449206  050.05791137 177.84 tie_down jets|turboprops GYD-F08
 1301 D airline 
-1300  40.46447515  050.05722818 178.02 tie_down heavy|jets|turboprops|props|helos GYD-F7
+1300  40.46447515  050.05722818 178.02 tie_down jets|turboprops GYD-F07
 1301 D airline 
-1300  40.46445148  050.05654845 177.87 tie_down heavy|jets|turboprops|props|helos GYD-F6
+1300  40.46445148  050.05654845 177.87 tie_down jets|turboprops GYD-F06
 1301 D airline 
-1300  40.46442422  050.05581861 178.22 tie_down heavy|jets|turboprops|props|helos GYD-F5
+1300  40.46442422  050.05581861 178.22 tie_down jets|turboprops GYD-F05
 1301 D airline 
-1300  40.46588720  050.05853482 358.32 tie_down heavy|jets|turboprops|props|helos GYD-F4
+1300  40.46588720  050.05853482 358.32 tie_down jets|turboprops GYD-F04
 1301 D airline 
-1300  40.46587651  050.05784855 358.21 tie_down heavy|jets|turboprops|props|helos GYD-F3
+1300  40.46587651  050.05784855 358.21 tie_down jets|turboprops GYD-F03
 1301 D airline 
-1300  40.46585514  050.05717093 358.03 tie_down heavy|jets|turboprops|props|helos GYD-F2
+1300  40.46585514  050.05717093 358.03 tie_down jets|turboprops GYD-F02
 1301 D airline 
-1300  40.46584096  050.05649034 357.40 tie_down heavy|jets|turboprops|props|helos GYD-F1
+1300  40.46584096  050.05649034 357.40 tie_down jets|turboprops GYD-F01
 1301 D airline 
-1300  40.46674435  050.05963522 359.09 tie_down heavy|jets|turboprops|props|helos GYD-F13
-1301 F airline 
-1300  40.46715699  050.05970377 178.71 tie_down heavy|jets|turboprops|props|helos GYD-G6
-1301 C general_aviation 
-1300  40.46715601  050.05923288 179.15 tie_down heavy|jets|turboprops|props|helos GYD-G5
-1301 C general_aviation 
-1300  40.46729104  050.05870526 179.22 tie_down heavy|jets|turboprops|props|helos GYD-G4
-1301 B general_aviation 
-1300  40.46728887  050.05823137 178.82 tie_down heavy|jets|turboprops|props|helos GYD-G3
-1301 B general_aviation 
-1300  40.46728902  050.05776242 179.61 tie_down heavy|jets|turboprops|props|helos GYD-G2
-1301 B general_aviation 
-1300  40.46728083  050.05729654 179.15 tie_down heavy|jets|turboprops|props|helos GYD-G1
-1301 B general_aviation 
-1300  40.46858434  050.04953178 268.05 tie_down heavy|jets|turboprops|props|helos GYD-A20
-1301 C airline 
-1300  40.46820572  050.04953798 274.55 tie_down heavy|jets|turboprops|props|helos GYD-A19
-1301 C airline 
-1300  40.46785373  050.04944766 289.52 tie_down heavy|jets|turboprops|props|helos GYD-A18
-1301 C airline 
-1300  40.46751255  050.04925837 296.07 tie_down heavy|jets|turboprops|props|helos GYD-A17
-1301 C airline 
-1300  40.46718565  050.04903948 295.53 tie_down heavy|jets|turboprops|props|helos GYD-A16
-1301 C airline 
-1300  40.46685597  050.04883176 296.02 tie_down heavy|jets|turboprops|props|helos GYD-A15
-1301 C airline 
-1300  40.46652213  050.04862154 295.74 tie_down heavy|jets|turboprops|props|helos GYD-A14
-1301 C airline 
-1300  40.46619292  050.04841097 295.79 tie_down heavy|jets|turboprops|props|helos GYD-A13
-1301 C airline 
-1300  40.46610218  050.05367069 -80.79 gate heavy|jets|turboprops|props|helos GYD-A12
-1301 F airline 
-1300  40.46593676  050.05390012 -71.64 gate heavy|jets|turboprops|props|helos GYD-A11-B
-1301 C airline 
-1300  40.46622225  050.05358511 267.77 gate heavy|jets|turboprops|props|helos GYD-A11-A
-1301 C airline 
-1300  40.46656153  050.05361864 259.25 gate heavy|jets|turboprops|props|helos GYD-A10
-1301 C airline 
-1300  40.46673096  050.05300202 229.63 gate heavy|jets|turboprops|props|helos GYD-A9
+1300  40.46674435  050.05963522 359.09 tie_down heavy|jets GYD-F13
 1301 E airline 
-1300  40.46742449  050.05297549 229.62 gate heavy|jets|turboprops|props|helos GYD-A8
+1300  40.46715699  050.05970377 178.71 tie_down jets GYD-G06
+1301 C general_aviation 
+1300  40.46715601  050.05923288 179.15 tie_down jets GYD-G05
+1301 C general_aviation 
+1300  40.46729104  050.05870526 179.22 tie_down jets GYD-G04
+1301 B general_aviation 
+1300  40.46728887  050.05823137 178.82 tie_down jets GYD-G03
+1301 B general_aviation 
+1300  40.46728902  050.05776242 179.61 tie_down jets GYD-G02
+1301 B general_aviation 
+1300  40.46728083  050.05729654 179.15 tie_down jets|turboprops GYD-G01
+1301 B general_aviation 
+1300  40.46858434  050.04953178 268.05 tie_down jets|turboprops GYD-A20
 1301 C airline 
-1300  40.46729871  050.05238443 178.11 gate heavy|jets|turboprops|props|helos GYD-A7
+1300  40.46820572  050.04953798 274.55 tie_down jets|turboprops GYD-A19
+1301 C airline 
+1300  40.46785373  050.04944766 289.52 tie_down jets|turboprops GYD-A18
+1301 C airline 
+1300  40.46751255  050.04925837 296.07 tie_down jets|turboprops GYD-A17
+1301 C airline 
+1300  40.46718565  050.04903948 295.53 tie_down jets|turboprops GYD-A16
+1301 C airline 
+1300  40.46685597  050.04883176 296.02 tie_down jets|turboprops GYD-A15
+1301 C airline 
+1300  40.46652213  050.04862154 295.74 tie_down jets|turboprops GYD-A14
+1301 C airline 
+1300  40.46619292  050.04841097 295.79 tie_down jets|turboprops GYD-A13
+1301 C airline 
+1300  40.46610218  050.05367069 -80.79 gate heavy|jets GYD-A12
 1301 E airline 
-1300  40.46727256  050.05153610 177.67 gate heavy|jets|turboprops|props|helos GYD-A6
+1300  40.46593676  050.05390012 -71.64 gate jets|turboprops GYD-A11-B
+1301 C airline 
+1300  40.46622225  050.05358511 267.77 gate jets|turboprops GYD-A11-A
+1301 C airline 
+1300  40.46656153  050.05361864 259.25 gate jets|turboprops GYD-A10
+1301 C airline 
+1300  40.46673096  050.05300202 229.63 gate heavy|jets GYD-A09
 1301 E airline 
-1300  40.46709655  050.05106199 144.14 gate heavy|jets|turboprops|props|helos GYD-A5
+1300  40.46742449  050.05297549 229.62 gate jets|turboprops GYD-A08
 1301 C airline 
-1300  40.46666513  050.05088406 143.78 gate heavy|jets|turboprops|props|helos GYD-A4
-1301 C airline 
-1300  40.46611544  050.05099332 115.58 gate heavy|jets|turboprops|props|helos GYD-A3
+1300  40.46729871  050.05238443 178.11 gate heavy|jets GYD-A07
 1301 E airline 
-1300  40.46578914  050.05040730 109.62 gate heavy|jets|turboprops|props|helos GYD-A2
-1301 C airline 
-1300  40.46549321  050.05093851  64.03 gate heavy|jets|turboprops|props|helos GYD-A1
-1301 F airline 
-1300  40.46461525  050.04639069 177.06 tie_down heavy|jets|turboprops|props|helos GYD-B13
-1301 D airline 
-1300  40.46457504  050.04561729 182.64 tie_down heavy|jets|turboprops|props|helos GYD-B12
-1301 D airline 
-1300  40.46396162  050.05029538 178.06 tie_down heavy|jets|turboprops|props|helos GYD-B11
-1301 C airline 
-1300  40.46392763  050.04977852 178.50 tie_down heavy|jets|turboprops|props|helos GYD-B10
-1301 C airline 
-1300  40.46391461  050.04926056 178.35 tie_down heavy|jets|turboprops|props|helos GYD-B9
-1301 C airline 
-1300  40.46390081  050.04882077 147.58 tie_down heavy|jets|turboprops|props|helos GYD-B8
+1300  40.46727256  050.05153610 177.67 gate heavy|jets GYD-A06
 1301 E airline 
-1300  40.46352267  050.04852361 116.95 tie_down heavy|jets|turboprops|props|helos GYD-B7
-1301 D airline 
-1300  40.46303935  050.04822259 117.72 tie_down heavy|jets|turboprops|props|helos GYD-B6
-1301 D airline 
-1300  40.46263612  050.04784472  88.44 tie_down heavy|jets|turboprops|props|helos GYD-B5
-1301 D airline 
-1300  40.46228382  050.04828881  57.69 tie_down heavy|jets|turboprops|props|helos GYD-B4
+1300  40.46709655  050.05106199 144.14 gate jets|turboprops GYD-A05
+1301 C airline 
+1300  40.46666513  050.05088406 143.78 gate jets|turboprops GYD-A04
+1301 C airline 
+1300  40.46611544  050.05099332 115.58 gate heavy|jets GYD-A03
 1301 E airline 
-1300  40.46184787  050.04864469  54.89 tie_down heavy|jets|turboprops|props|helos GYD-B3
+1300  40.46578914  050.05040730 109.62 gate jets|turboprops GYD-A02
+1301 C airline 
+1300  40.46549321  050.05093851  64.03 gate heavy|jets GYD-A01
+1301 E airline 
+1300  40.46461525  050.04639069 177.06 tie_down jets|turboprops GYD-B13
 1301 D airline 
-1300  40.46147129  050.04890145  39.42 tie_down heavy|jets|turboprops|props|helos GYD-B2
+1300  40.46457504  050.04561729 182.64 tie_down jets|turboprops GYD-B12
 1301 D airline 
-1300  40.46114731  050.04964824  46.78 tie_down heavy|jets|turboprops|props|helos GYD-B1-A
-1301 F airline 
-1300  40.46120039  050.04940493  29.71 tie_down heavy|jets|turboprops|props|helos GYD-B1
+1300  40.46396162  050.05029538 178.06 tie_down jets|turboprops GYD-B11
+1301 C airline 
+1300  40.46392763  050.04977852 178.50 tie_down jets|turboprops GYD-B10
+1301 C airline 
+1300  40.46391461  050.04926056 178.35 tie_down jets|turboprops GYD-B09
+1301 C airline 
+1300  40.46390081  050.04882077 147.58 tie_down heavy|jets GYD-B08
+1301 E airline 
+1300  40.46352267  050.04852361 116.95 tie_down jets|turboprops GYD-B07
+1301 D airline 
+1300  40.46303935  050.04822259 117.72 tie_down jets|turboprops GYD-B06
+1301 D airline 
+1300  40.46263612  050.04784472  88.44 tie_down jets|turboprops GYD-B05
+1301 D airline 
+1300  40.46228382  050.04828881  57.69 tie_down heavy|jets GYD-B04
+1301 E airline 
+1300  40.46184787  050.04864469  54.89 tie_down jets|turboprops GYD-B03
+1301 D airline 
+1300  40.46147129  050.04890145  39.42 tie_down jets|turboprops GYD-B02
+1301 D airline 
+1300  40.46114731  050.04964824  46.78 tie_down heavy|jets GYD-B01-A
+1301 E airline 
+1300  40.46120039  050.04940493  29.71 tie_down jets|turboprops GYD-B01
 1301 C airline 
 18  40.46268566  050.04985550 1 GYD BCN
 50 12680 BAKU_ATIS
