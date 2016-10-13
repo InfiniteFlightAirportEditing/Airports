@@ -4296,175 +4296,175 @@ I
 21  51.01396355  071.45167192 2 44.4500 3.00 04  PAPI-4L
 21  51.03126083  071.48085065 2 223.6100 3.00 22 PAPI L
 14  51.02305826  071.45451358 200.13 0 Tower
-1300  51.03929698  071.47602452  45.97 tie_down heavy|jets|turboprops|props|helos RAMP 10M
+1300  51.03929698  071.47602452  45.97 tie_down jets|turboprops RAMP 10M
 1301 C military 
-1300  51.03898047  071.47639797  42.01 tie_down heavy|jets|turboprops|props|helos RAMP 09M
+1300  51.03898047  071.47639797  42.01 tie_down jets|turboprops RAMP 09M
 1301 C military 
-1300  51.03874092  071.47680594  43.67 tie_down heavy|jets|turboprops|props|helos RAMP 08M
+1300  51.03874092  071.47680594  43.67 tie_down jets|turboprops RAMP 08M
 1301 C military 
-1300  51.03851799  071.47719492  43.21 tie_down heavy|jets|turboprops|props|helos RAMP 07M
+1300  51.03851799  071.47719492  43.21 tie_down jets|turboprops RAMP 07M
 1301 C military 
-1300  51.03831873  071.47754564  44.16 tie_down heavy|jets|turboprops|props|helos RAMP 06M
+1300  51.03831873  071.47754564  44.16 tie_down jets|turboprops RAMP 06M
 1301 C military 
-1300  51.03810654  071.47786894  44.37 tie_down heavy|jets|turboprops|props|helos RAMP 05M
+1300  51.03810654  071.47786894  44.37 tie_down jets|turboprops RAMP 05M
 1301 C military 
-1300  51.03783859  071.47823665  44.41 tie_down heavy|jets|turboprops|props|helos RAMP 04M
+1300  51.03783859  071.47823665  44.41 tie_down jets|turboprops RAMP 04M
 1301 C military 
-1300  51.03758338  071.47867796  45.00 tie_down heavy|jets|turboprops|props|helos RAMP 03M
+1300  51.03758338  071.47867796  45.00 tie_down jets|turboprops RAMP 03M
 1301 C military 
-1300  51.03732663  071.47911927  44.12 tie_down heavy|jets|turboprops|props|helos RAMP 02M
+1300  51.03732663  071.47911927  44.12 tie_down jets|turboprops RAMP 02M
 1301 C military 
-1300  51.03706577  071.47954484  44.83 tie_down heavy|jets|turboprops|props|helos RAMP 01M
+1300  51.03706577  071.47954484  44.83 tie_down jets|turboprops RAMP 01M
 1301 C military 
-1300  51.02269580  071.45818022 224.67 tie_down heavy|jets|turboprops|props|helos TSE-45
+1300  51.02269580  071.45818022 224.67 tie_down jets|turboprops TSE-45
 1301 C airline 
-1300  51.02294895  071.45777989 225.00 tie_down heavy|jets|turboprops|props|helos TSE-44
+1300  51.02294895  071.45777989 225.00 tie_down jets|turboprops TSE-44
 1301 C airline 
-1300  51.02319723  071.45738158 225.50 tie_down heavy|jets|turboprops|props|helos TSE-43
+1300  51.02319723  071.45738158 225.50 tie_down jets|turboprops TSE-43
 1301 C airline 
-1300  51.02344138  071.45698483 225.14 tie_down heavy|jets|turboprops|props|helos TSE-42
+1300  51.02344138  071.45698483 225.14 tie_down jets|turboprops TSE-42
 1301 C airline 
-1300  51.02373991  071.45653183 224.53 tie_down heavy|jets|turboprops|props|helos TSE-41
+1300  51.02373991  071.45653183 224.53 tie_down jets|turboprops TSE-41
 1301 C airline 
-1300  51.02397737  071.45611321 225.43 tie_down heavy|jets|turboprops|props|helos TSE-40
+1300  51.02397737  071.45611321 225.43 tie_down jets|turboprops TSE-40
 1301 C airline 
-1300  51.02422518  071.45568959 225.56 tie_down heavy|jets|turboprops|props|helos TSE-39
+1300  51.02422518  071.45568959 225.56 tie_down jets|turboprops TSE-39
 1301 C airline 
-1300  51.02349715  071.45941071  43.25 tie_down heavy|jets|turboprops|props|helos TSE-38
+1300  51.02349715  071.45941071  43.25 tie_down jets|turboprops TSE-38
 1301 C airline 
-1300  51.02374956  071.45901146  42.69 tie_down heavy|jets|turboprops|props|helos TSE-37
+1300  51.02374956  071.45901146  42.69 tie_down jets|turboprops TSE-37
 1301 C airline 
-1300  51.02399606  071.45860567  43.35 tie_down heavy|jets|turboprops|props|helos TSE-36
+1300  51.02399606  071.45860567  43.35 tie_down jets|turboprops TSE-36
 1301 C airline 
-1300  51.02424969  071.45822403  43.11 tie_down heavy|jets|turboprops|props|helos TSE-35
+1300  51.02424969  071.45822403  43.11 tie_down jets|turboprops TSE-35
 1301 C airline 
-1300  51.02453093  071.45776367  43.67 tie_down heavy|jets|turboprops|props|helos TSE-34
+1300  51.02453093  071.45776367  43.67 tie_down jets|turboprops TSE-34
 1301 C airline 
-1300  51.02477765  071.45738204  45.31 tie_down heavy|jets|turboprops|props|helos TSE-33
+1300  51.02477765  071.45738204  45.31 tie_down jets|turboprops TSE-33
 1301 C airline 
-1300  51.02502888  071.45697659  45.35 tie_down heavy|jets|turboprops|props|helos TSE-32
+1300  51.02502888  071.45697659  45.35 tie_down jets|turboprops TSE-32
 1301 C airline 
-1300  51.02497923  071.45779907 223.91 tie_down heavy|jets|turboprops|props|helos TSE-11
+1300  51.02497923  071.45779907 223.91 tie_down heavy|jets TSE-11
 1301 E airline 
-1300  51.02451115  071.45848558 224.38 tie_down heavy|jets|turboprops|props|helos TSE-12
+1300  51.02451115  071.45848558 224.38 tie_down heavy|jets TSE-12
 1301 E airline 
-1300  51.02405699  071.45921858 224.79 tie_down heavy|jets|turboprops|props|helos TSE-13
+1300  51.02405699  071.45921858 224.79 tie_down heavy|jets TSE-13
 1301 E airline 
-1300  51.02358803  071.45994354 224.16 tie_down heavy|jets|turboprops|props|helos TSE-14
+1300  51.02358803  071.45994354 224.16 tie_down heavy|jets TSE-14
 1301 E airline 
-1300  51.02451061  071.46197703 134.37 tie_down heavy|jets|turboprops|props|helos TSE-15
+1300  51.02451061  071.46197703 134.37 tie_down jets|turboprops TSE-15
 1301 C airline 
-1300  51.02478278  071.46239773 134.58 tie_down heavy|jets|turboprops|props|helos TSE-16
+1300  51.02478278  071.46239773 134.58 tie_down jets|turboprops TSE-16
 1301 C airline 
-1300  51.02505435  071.46282360 134.57 tie_down heavy|jets|turboprops|props|helos TSE-17
+1300  51.02505435  071.46282360 134.57 tie_down jets|turboprops TSE-17
 1301 C airline 
-1300  51.02534876  071.46328401 133.78 tie_down heavy|jets|turboprops|props|helos TSE-18
+1300  51.02534876  071.46328401 133.78 tie_down jets|turboprops TSE-18
 1301 C airline 
-1300  51.02562407  071.46371391 134.08 tie_down heavy|jets|turboprops|props|helos TSE-19
+1300  51.02562407  071.46371391 134.08 tie_down jets|turboprops TSE-19
 1301 C airline 
-1300  51.02589865  071.46413680 134.41 tie_down heavy|jets|turboprops|props|helos TSE-20
+1300  51.02589865  071.46413680 134.41 tie_down jets|turboprops TSE-20
 1301 C airline 
-1300  51.02617059  071.46456135 135.20 tie_down heavy|jets|turboprops|props|helos TSE-21
+1300  51.02617059  071.46456135 135.20 tie_down jets|turboprops TSE-21
 1301 C airline 
-1300  51.02873004  071.46867794 133.96 tie_down heavy|jets|turboprops|props|helos TSE-24
+1300  51.02873004  071.46867794 133.96 tie_down jets|turboprops TSE-24
 1301 B general_aviation 
-1300  51.02896947  071.46905268 134.51 tie_down heavy|jets|turboprops|props|helos TSE-25
+1300  51.02896947  071.46905268 134.51 tie_down jets|turboprops TSE-25
 1301 B general_aviation 
-1300  51.02921038  071.46942470 134.24 tie_down heavy|jets|turboprops|props|helos TSE-26
+1300  51.02921038  071.46942470 134.24 tie_down jets|turboprops TSE-26
 1301 B general_aviation 
-1300  51.02945610  071.46980955 133.08 tie_down heavy|jets|turboprops|props|helos TSE-27
+1300  51.02945610  071.46980955 133.08 tie_down jets|turboprops TSE-27
 1301 B general_aviation 
-1300  51.02969952  071.47018149 133.79 tie_down heavy|jets|turboprops|props|helos TSE-28
+1300  51.02969952  071.47018149 133.79 tie_down jets|turboprops TSE-28
 1301 B general_aviation 
-1300  51.03287077  071.47263421 -44.40 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-59
+1300  51.03287077  071.47263421 -44.40 hangar jets|turboprops TSE-HANGAR-59
 1301 C airline 
-1300  51.03236361  071.47203543 314.83 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-58
+1300  51.03236361  071.47203543 314.83 hangar jets|turboprops TSE-HANGAR-58
 1301 C airline 
-1300  51.03203292  071.47108364 315.00 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-57
+1300  51.03203292  071.47108364 315.00 hangar jets|turboprops TSE-HANGAR-57
 1301 C airline 
-1300  51.03157843  071.47040149 314.06 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-56
+1300  51.03157843  071.47040149 314.06 hangar jets|turboprops TSE-HANGAR-56
 1301 C airline 
-1300  51.03010817  071.46827585 314.83 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-31
+1300  51.03010817  071.46827585 314.83 hangar jets|turboprops TSE-HANGAR-31
 1301 C airline 
-1300  51.02989311  071.46790579 315.00 hangar heavy|jets|turboprops|props|helos TSE-HANGAR-30
+1300  51.02989311  071.46790579 315.00 hangar jets|turboprops TSE-HANGAR-30
 1301 C airline 
-1300  51.02959689  071.46728017 -44.44 tie_down heavy|jets|turboprops|props|helos TSE-29
+1300  51.02959689  071.46728017 -44.44 tie_down jets|turboprops TSE-29
 1301 D airline 
-1300  51.02892456  071.46674969 291.31 tie_down heavy|jets|turboprops|props|helos TSE-23
+1300  51.02892456  071.46674969 291.31 tie_down jets|turboprops TSE-23
 1301 C airline 
-1300  51.02858787  071.46603581 287.31 tie_down heavy|jets|turboprops|props|helos TSE-22
+1300  51.02858787  071.46603581 287.31 tie_down jets|turboprops TSE-22
 1301 C airline 
-1300  51.02835383  071.46600215  44.75 tie_down heavy|jets|turboprops|props|helos TSE-4A
+1300  51.02835383  071.46600215  44.75 tie_down heavy|jets TSE-4A
 1301 E airline 
-1300  51.02824714  071.46508943 315.33 tie_down heavy|jets|turboprops|props|helos TSE-10
+1300  51.02824714  071.46508943 315.33 tie_down jets|turboprops TSE-10
 1301 D airline 
-1300  51.02787215  071.46440950 -45.09 gate heavy|jets|turboprops|props|helos TSE-09
+1300  51.02787215  071.46440950 -45.09 gate heavy|jets TSE-09
 1301 E airline 
-1300  51.02750788  071.46351832 314.57 gate heavy|jets|turboprops|props|helos TSE-08
+1300  51.02750788  071.46351832 314.57 gate jets|turboprops TSE-08
 1301 C airline 
-1300  51.02723508  071.46310335 314.30 gate heavy|jets|turboprops|props|helos TSE-07
+1300  51.02723508  071.46310335 314.30 gate jets|turboprops TSE-07
 1301 C airline 
-1300  51.02698109  071.46265888 314.18 gate heavy|jets|turboprops|props|helos TSE-06
+1300  51.02698109  071.46265888 314.18 gate jets|turboprops TSE-06
 1301 C airline 
-1300  51.02672958  071.46205661 314.21 gate heavy|jets|turboprops|props|helos TSE-05
+1300  51.02672958  071.46205661 314.21 gate jets|turboprops TSE-05
 1301 D airline 
-1300  51.02640486  071.46138245 320.96 gate heavy|jets|turboprops|props|helos TSE-04
+1300  51.02640486  071.46138245 320.96 gate jets|turboprops TSE-04
 1301 D airline 
-1300  51.02624998  071.46083691  -1.67 gate heavy|jets|turboprops|props|helos TSE-03
+1300  51.02624998  071.46083691  -1.67 gate heavy|jets TSE-03
 1301 E airline 
-1300  51.02641067  071.46008777  27.96 gate heavy|jets|turboprops|props|helos TSE-02
+1300  51.02641067  071.46008777  27.96 gate heavy|jets TSE-02
 1301 E airline 
-1300  51.02664431  071.45939507  45.43 gate heavy|jets|turboprops|props|helos TSE-01
+1300  51.02664431  071.45939507  45.43 gate jets|turboprops TSE-01
 1301 D airline 
-1300  51.02072285  071.45130401 225.05 tie_down heavy|jets|turboprops|props|helos TSE-74
+1300  51.02072285  071.45130401 225.05 tie_down jets|turboprops TSE-74
 1301 C general_aviation 
-1300  51.02044681  071.45174617 224.79 tie_down heavy|jets|turboprops|props|helos TSE-73
+1300  51.02044681  071.45174617 224.79 tie_down jets|turboprops TSE-73
 1301 C general_aviation 
-1300  51.02017327  071.45219037 224.64 tie_down heavy|jets|turboprops|props|helos TSE-72
+1300  51.02017327  071.45219037 224.64 tie_down jets|turboprops TSE-72
 1301 C general_aviation 
-1300  51.01987901  071.45267025 224.66 tie_down heavy|jets|turboprops|props|helos TSE-71
+1300  51.01987901  071.45267025 224.66 tie_down jets|turboprops TSE-71
 1301 C general_aviation 
-1300  51.01959827  071.45310712 224.73 tie_down heavy|jets|turboprops|props|helos TSE-70
+1300  51.01959827  071.45310712 224.73 tie_down jets|turboprops TSE-70
 1301 C general_aviation 
-1300  51.01934122  071.45357222 223.99 tie_down heavy|jets|turboprops|props|helos TSE-69
+1300  51.01934122  071.45357222 223.99 tie_down jets|turboprops TSE-69
 1301 C general_aviation 
-1300  51.02124531  071.45299464 224.35 tie_down heavy|jets|turboprops|props|helos TSE-68
+1300  51.02124531  071.45299464 224.35 tie_down jets|turboprops TSE-68
 1301 C general_aviation 
-1300  51.02098933  071.45346147 224.50 tie_down heavy|jets|turboprops|props|helos TSE-67
+1300  51.02098933  071.45346147 224.50 tie_down jets|turboprops TSE-67
 1301 C general_aviation 
-1300  51.02072028  071.45391240 225.00 tie_down heavy|jets|turboprops|props|helos TSE-66
+1300  51.02072028  071.45391240 225.00 tie_down jets|turboprops TSE-66
 1301 C general_aviation 
-1300  51.02042817  071.45432545 225.00 tie_down heavy|jets|turboprops|props|helos TSE-65
+1300  51.02042817  071.45432545 225.00 tie_down jets|turboprops TSE-65
 1301 C general_aviation 
-1300  51.02130943  071.45500382 224.37 tie_down heavy|jets|turboprops|props|helos TSE-64
+1300  51.02130943  071.45500382 224.37 tie_down jets|turboprops TSE-64
 1301 B general_aviation 
-1300  51.02105631  071.45536751 225.28 tie_down heavy|jets|turboprops|props|helos TSE-63
+1300  51.02105631  071.45536751 225.28 tie_down jets|turboprops TSE-63
 1301 B general_aviation 
-1300  51.02268400  071.45487153  45.00 tie_down heavy|jets|turboprops|props|helos TSE-62
+1300  51.02268400  071.45487153  45.00 tie_down jets|turboprops TSE-62
 1301 B general_aviation 
-1300  51.02243670  071.45524464  44.43 tie_down heavy|jets|turboprops|props|helos TSE-61
+1300  51.02243670  071.45524464  44.43 tie_down jets|turboprops TSE-61
 1301 B general_aviation 
-1300  51.02220194  071.45563607  44.24 tie_down heavy|jets|turboprops|props|helos TSE-60
+1300  51.02220194  071.45563607  44.24 tie_down jets|turboprops TSE-60
 1301 B general_aviation 
-1300  51.02177743  071.45421488 224.65 tie_down heavy|jets|turboprops|props|helos TSE-55
+1300  51.02177743  071.45421488 224.65 tie_down jets|turboprops TSE-55
 1301 B general_aviation 
-1300  51.02152389  071.45457847 225.73 tie_down heavy|jets|turboprops|props|helos TSE-54
+1300  51.02152389  071.45457847 225.73 tie_down jets|turboprops TSE-54
 1301 B general_aviation 
-1300  51.02197130  071.45603988  45.30 tie_down heavy|jets|turboprops|props|helos TSE-53
+1300  51.02197130  071.45603988  45.30 tie_down jets|turboprops TSE-53
 1301 B general_aviation 
-1300  51.02172879  071.45641697  45.00 tie_down heavy|jets|turboprops|props|helos TSE-52
+1300  51.02172879  071.45641697  45.00 tie_down jets|turboprops TSE-52
 1301 B general_aviation 
-1300  51.02315824  071.45566741  44.74 tie_down heavy|jets|turboprops|props|helos TSE-51
+1300  51.02315824  071.45566741  44.74 tie_down jets|turboprops TSE-51
 1301 B general_aviation 
-1300  51.02298586  071.45596548  44.15 tie_down heavy|jets|turboprops|props|helos TSE-50
+1300  51.02298586  071.45596548  44.15 tie_down jets|turboprops TSE-50
 1301 B general_aviation 
-1300  51.02280559  071.45625897  44.62 tie_down heavy|jets|turboprops|props|helos TSE-49
+1300  51.02280559  071.45625897  44.62 tie_down jets|turboprops TSE-49
 1301 B general_aviation 
-1300  51.02258688  071.45661782  44.27 tie_down heavy|jets|turboprops|props|helos TSE-48
+1300  51.02258688  071.45661782  44.27 tie_down jets|turboprops TSE-48
 1301 B general_aviation 
-1300  51.02240210  071.45690253  43.95 tie_down heavy|jets|turboprops|props|helos TSE-47
+1300  51.02240210  071.45690253  43.95 tie_down jets|turboprops TSE-47
 1301 B general_aviation 
-1300  51.02223179  071.45719784  44.47 tie_down heavy|jets|turboprops|props|helos TSE-46
+1300  51.02223179  071.45719784  44.47 tie_down jets|turboprops TSE-46
 1301 B general_aviation 
 18  51.02305168  071.45451478 1 TSE BCN
 50 12770 ASTANA_ATIS
