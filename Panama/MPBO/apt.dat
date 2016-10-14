@@ -111,10 +111,10 @@ I
 21  09.34026853 -082.25581369 4 83.7500 3.00 New Light Fixture 8
 21  09.34154557 -082.24579972 4 264.0400 3.00 New Light Fixture 7
 14  09.34074021 -082.24454689  13.12 0 New Tower Viewpoint 6
-1300  09.34113786 -082.24483572  86.27 gate turboprops|props Tie Down 2
-1301 A airline 
-1300  09.34098627 -082.24482861  84.47 tie_down turboprops|props Tie Down 1
-1301 A airline 
+1300  09.34113786 -082.24483572  86.27 gate props Tie Down 2
+1301 A general_aviation 
+1300  09.34098627 -082.24482861  84.47 tie_down props Tie Down 1
+1301 A general_aviation 
 1300  09.34098889 -082.24425659 174.14 gate turboprops|props Gate 1
 1301 B airline 
 1300  09.34097262 -082.24453554 173.93 gate turboprops|props Gate 2
