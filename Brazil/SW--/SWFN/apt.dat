@@ -258,44 +258,44 @@ I
 111 -03.07239611 -060.02349496 4
 115 -03.07236730 -060.02367609
 14 -03.07180935 -060.02315147  82.02 0 New Tower Viewpoint 19
-1300 -03.07320255 -060.02441779 346.76 gate heavy|jets|turboprops|props HANGAR 12
-1301 A none 
-1300 -03.07316753 -060.02476890 350.22 gate jets HANGAR 11
-1301 B none 
-1300 -03.07170791 -060.02491635 175.24 gate jets HANGAR 1
-1301 A none 
-1300 -03.07172814 -060.02465341 181.28 misc jets|turboprops HANGAR 2
-1301 B none 
-1300 -03.07170501 -060.02411841 181.28 misc jets|turboprops HANGAR 3
-1301 B none 
-1300 -03.07170791 -060.02370945 175.24 gate jets HANGAR 4
-1301 A none 
-1300 -03.07171001 -060.02355358 175.24 gate jets HANGAR 5
-1301 A none 
-1300 -03.07171212 -060.02340193 175.24 gate jets HANGAR 6
-1301 A none 
-1300 -03.07174478 -060.01925901 181.04 gate jets HANGAR 7
-1301 A none 
-1300 -03.07172426 -060.01891957 167.31 gate jets HANGAR 8
-1301 A none 
-1300 -03.07172337 -060.01876592 190.99 gate jets HANGAR 9
-1301 A none 
-1300 -03.07184037 -060.01843449 186.84 gate jets HANGAR 10
-1301 B none 
-1300 -03.07196305 -060.02462597 130.60 gate jets|turboprops|props GA 01
-1301 B none 
-1300 -03.07199827 -060.02423605 130.60 gate jets|turboprops|props GA 02
-1301 B none 
-1300 -03.07200805 -060.02381281 130.60 gate jets|turboprops|props GA 03
-1301 B none 
-1300 -03.07217612 -060.02320420 234.46 gate turboprops GA 04
-1301 A none 
-1300 -03.07222228 -060.02289760 234.46 gate turboprops GA 05
-1301 A none 
-1300 -03.07226359 -060.02261899 234.46 gate turboprops GA 06
-1301 A none 
-1300 -03.07230125 -060.02235011 234.46 gate turboprops GA 07
-1301 A none 
+1300 -03.07320255 -060.02441779 346.76 hangar heavy|jets|turboprops|props HANGAR 12
+1301 A general_aviation 
+1300 -03.07316753 -060.02476890 350.22 hangar jets HANGAR 11
+1301 B general_aviation 
+1300 -03.07170791 -060.02491635 175.24 hangar jets HANGAR 01
+1301 A general_aviation 
+1300 -03.07172814 -060.02465341 181.28 hangar jets|turboprops HANGAR 02
+1301 B general_aviation 
+1300 -03.07170501 -060.02411841 181.28 hangar jets|turboprops HANGAR 03
+1301 B general_aviation 
+1300 -03.07170791 -060.02370945 175.24 hangar jets HANGAR 04
+1301 A general_aviation 
+1300 -03.07171001 -060.02355358 175.24 hangar jets HANGAR 05
+1301 A general_aviation 
+1300 -03.07171212 -060.02340193 175.24 hangar jets HANGAR 06
+1301 A general_aviation 
+1300 -03.07174478 -060.01925901 181.04 hangar jets HANGAR 07
+1301 A general_aviation 
+1300 -03.07172426 -060.01891957 167.31 hangar jets HANGAR 08
+1301 A general_aviation 
+1300 -03.07172337 -060.01876592 190.99 hangar jets HANGAR 09
+1301 A general_aviation 
+1300 -03.07184037 -060.01843449 186.84 hangar jets HANGAR 10
+1301 B general_aviation 
+1300 -03.07196305 -060.02462597 130.60 tie_down jets|turboprops|props GA 01
+1301 B general_aviation 
+1300 -03.07199827 -060.02423605 130.60 tie_down jets|turboprops|props GA 02
+1301 B general_aviation 
+1300 -03.07200805 -060.02381281 130.60 tie_down jets|turboprops|props GA 03
+1301 B general_aviation 
+1300 -03.07217612 -060.02320420 234.46 tie_down turboprops GA 04
+1301 A general_aviation 
+1300 -03.07222228 -060.02289760 234.46 tie_down turboprops GA 05
+1301 A general_aviation 
+1300 -03.07226359 -060.02261899 234.46 tie_down turboprops GA 06
+1301 A general_aviation 
+1300 -03.07230125 -060.02235011 234.46 tie_down turboprops GA 07
+1301 A general_aviation 
 18 -03.07180824 -060.02315368 1 New Airport Beacon 20
 19 -03.07313675 -060.02114334 0 Windsock
 54 12580 MANAUS
