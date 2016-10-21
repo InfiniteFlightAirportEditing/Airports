@@ -2499,48 +2499,48 @@ I
 21  32.81746363 -117.14181544 1 115.6400 3.00 10L VASI
 21  32.81518620 -117.13813796 1 297.1500 3.00 28R VASI
 14  32.81698663 -117.13533578  78.74 0 MYF TWR
-1300  32.81125003 -117.13910277  -2.15 misc props GA 6
-1301 B none 
-1300  32.81123933 -117.13949727 358.70 misc props GA 5
-1301 B none 
-1300  32.81602111 -117.14798432 112.56 misc jets|props SDPD
-1301 C none 
-1300  32.81381850 -117.14052243  25.67 misc props Transiet 1
-1301 B none 
-1300  32.81337148 -117.14013371  26.98 misc props 4
-1301 B none 
-1300  32.81351052 -117.14053139  31.62 misc props Transiet 3
-1301 B none 
-1300  32.81360945 -117.13998418  26.41 misc props Transiet 2
-1301 B none 
-1300  32.81302007 -117.14415937 -114.05 misc props GA Building 3
-1301 B none 
-1300  32.81342086 -117.14438075 247.05 misc props GA Building 2
-1301 B none 
-1300  32.81380832 -117.14458736 245.38 misc props GA Building 1
-1301 B none 
-1300  32.81014063 -117.13863028 179.34 misc props GA 13
-1301 B none 
-1300  32.81013819 -117.13901138 178.15 misc props GA 12
-1301 B none 
-1300  32.81013619 -117.13928184 180.00 misc props GA 11
-1301 B none 
-1300  32.81012677 -117.13966521 178.41 misc props GA 10
-1301 B none 
-1300  32.81039060 -117.13968974 180.22 misc props GA 9
-1301 B none 
-1300  32.81125805 -117.13827561 359.53 misc props GA 8
-1301 B none 
-1300  32.81125537 -117.13870192 357.71 misc props GA 7
-1301 B none 
-1300  32.81143491 -117.13837530 177.75 misc props GA 
-1301 B none 
-1300  32.81143491 -117.13877145 179.01 misc props GA 3
-1301 B none 
-1300  32.81143129 -117.13917622 179.01 misc props GA 2
-1301 B none 
-1300  32.81142405 -117.13957668 180.00 misc props GA 1
-1301 B none 
+1300  32.81103167 -117.13902455  -2.15 tie_down props GA 06
+1301 A general_aviation 
+1300  32.81129568 -117.13989676 358.70 tie_down props GA 05
+1301 A general_aviation 
+1300  32.81595494 -117.14810623 112.56 tie_down jets|props SDPD
+1301 B general_aviation 
+1300  32.81385555 -117.14050354  25.67 tie_down props Transiet 1
+1301 A general_aviation 
+1300  32.81341558 -117.14011062  26.98 tie_down props Transiet 4
+1301 A general_aviation 
+1300  32.81355462 -117.14050410  28.05 tie_down props Transiet 3
+1301 A general_aviation 
+1300  32.81365179 -117.13996319  26.41 tie_down props Transiet 2
+1301 A general_aviation 
+1300  32.81302007 -117.14415937 -114.05 tie_down props GA 16
+1301 A general_aviation 
+1300  32.81342086 -117.14438075 247.05 tie_down props GA 15
+1301 A general_aviation 
+1300  32.81380471 -117.14459166 245.38 tie_down props GA 14
+1301 A general_aviation 
+1300  32.81008086 -117.13863201 179.34 tie_down props GA 13
+1301 A general_aviation 
+1300  32.81007645 -117.13900928 178.15 tie_down props GA 12
+1301 A general_aviation 
+1300  32.81007642 -117.13928531 180.00 tie_down props GA 11
+1301 A general_aviation 
+1300  32.81006554 -117.13965827 178.41 gate props GA 10
+1301 A general_aviation 
+1300  32.81032791 -117.13968801 180.22 tie_down props GA 09
+1301 A general_aviation 
+1300  32.81104155 -117.13833476 359.53 tie_down props GA 08
+1301 A general_aviation 
+1300  32.81103325 -117.13862284 357.71 tie_down props GA 07
+1301 A general_aviation 
+1300  32.81137576 -117.13837269 177.75 tie_down props GA 04
+1301 A general_aviation 
+1300  32.81137587 -117.13877432 179.01 tie_down props GA 03
+1301 A general_aviation 
+1300  32.81137225 -117.13917622 179.01 tie_down props GA 02
+1301 A general_aviation 
+1300  32.81136742 -117.13957811 180.00 tie_down props GA 01
+1301 A general_aviation 
 18  32.81559781 -117.14025155 1 MYF BCN
 19  32.81559781 -117.14025155 1 New Windsock 1
 19  32.81199343 -117.13910352 0 New Windsock 2
