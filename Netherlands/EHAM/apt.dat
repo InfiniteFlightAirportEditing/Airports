@@ -10679,7 +10679,7 @@ I
 1300  52.30040480  004.75562879  57.51 tie_down jets|turboprops|props TERMINAL A43
 1301 C airline 
 1300  52.30014258  004.75590213  57.51 tie_down jets|turboprops|props TERMINAL A41
-1301 C none 
+1301 C airline
 1300  52.29983373  004.75276821 238.00 tie_down heavy|jets|turboprops|props TERMINAL A34
 1301 E cargo 
 1300  52.30039483  004.75219212 238.00 tie_down heavy|jets|turboprops|props TERMINAL A36
