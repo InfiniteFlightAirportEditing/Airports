@@ -5120,38 +5120,38 @@ I
 21  52.46069778 -001.75454542 2 145.7800 3.00 15  PAPI-4L
 21  52.44909821 -001.74352034 2 325.7900 3.00 33  PAPI-4L
 14  52.45012515 -001.75070683  39.37 0 Tower Viewpoint
-1300  52.45132431 -001.75440652  59.31 hangar heavy|jets|turboprops Stand 505
-1301 C cargo 
+1300  52.45132431 -001.75440652  59.31 tie_down jets|turboprops Stand 505
+1301 B general_aviation 
 1300  52.45193255 -001.75497526 237.35 hangar jets S Hangar 02
-1301 D cargo 
+1301 D none 
 1300  52.45245062 -001.75555390 237.35 hangar jets S Hangar 01
-1301 D cargo 
-1300  52.45070982 -001.75062399 166.15 misc jets Elmdon 503
+1301 D none 
+1300  52.45070982 -001.75062399 166.15 gate jets Elmdon 503
 1301 C cargo 
-1300  52.45055667 -001.74924548 -118.22 misc jets Elmdon 501
+1300  52.45055667 -001.74924548 -118.22 gate jets Elmdon 501
 1301 C cargo 
 1300  52.45078964 -001.74949125 -209.68 gate jets Elmdon 502
 1301 E cargo 
-1300  52.45044363 -001.75158760 181.93 misc jets Elmdon 504
+1300  52.45044363 -001.75158760 181.93 gate jets Elmdon 504
 1301 D cargo 
-1300  52.44861864 -001.73419010 109.01 misc jets STAND 25
+1300  52.44861864 -001.73419010 109.01 gate jets STAND 25
 1301 E airline 
-1300  52.44875011 -001.73386966 147.87 misc jets STAND 24
+1300  52.44875011 -001.73386966 147.87 gate jets STAND 24
 1301 C airline 
 1300  52.44897622 -001.73336373 149.25 gate jets STAND 23
 1301 C airline 
-1300  52.44920091 -001.73284944 147.57 misc jets STAND 22
+1300  52.44920091 -001.73284944 147.57 gate jets STAND 22
 1301 C airline 
-1300  52.44942775 -001.73234099 148.83 misc jets STAND 21
+1300  52.44942775 -001.73234099 148.83 gate jets STAND 21
 1301 C airline 
-1300  52.44965100 -001.73182766 147.66 misc jets STAND 20
+1300  52.44965100 -001.73182766 147.66 gate jets STAND 20
 1301 C airline 
 1300  52.45073741 -001.73278969 -33.31 gate jets|turboprops Terminal 01
 1301 C airline 
 1300  52.45057212 -001.73342181 -35.60 gate jets|turboprops Terminal 02
 1301 C airline 
 1300  52.45035719 -001.73390756 -33.32 gate jets|turboprops Terminal 03
-1301 C general_aviation 
+1301 C airline 
 1300  52.45005335 -001.73424271 -34.35 gate jets|turboprops Terminal 04
 1301 B airline 
 1300  52.44992466 -001.73471294 -32.35 gate jets|turboprops Terminal 05
@@ -5160,11 +5160,11 @@ I
 1301 B airline 
 1300  52.44967729 -001.73535017  11.59 gate jets|turboprops Terminal 07
 1301 C airline 
-1300  52.45018921 -001.73521826  54.54 misc jets|turboprops Terminal 08R
+1300  52.45018921 -001.73521826  54.54 gate jets|turboprops Terminal 08R
 1301 C airline 
-1300  52.45052907 -001.73482714  55.90 misc jets|turboprops Terminal 08C
+1300  52.45052907 -001.73482714  55.90 gate jets|turboprops Terminal 08C
 1301 E airline 
-1300  52.45045136 -001.73551981  56.00 misc jets|turboprops Terminal 08L
+1300  52.45045136 -001.73551981  56.00 gate jets|turboprops Terminal 08L
 1301 C airline 
 1300  52.45053401 -001.73633587 119.80 gate jets|turboprops Terminal 10
 1301 C airline 
@@ -5180,14 +5180,14 @@ I
 1301 C airline 
 1300  52.45156020 -001.73372557 140.23 gate jets|turboprops Terminal 16
 1301 B airline 
-1300  52.45288165 -001.73551308 -34.93 gate jets|turboprops Terminal 40
+1300  52.45289521 -001.73550863 327.12 gate jets|turboprops Terminal 40
 1301 D airline 
 1300  52.45260389 -001.73634305 -33.53 gate jets|turboprops Terminal 41
 1301 E airline 
 1300  52.45214619 -001.73736327 -32.95 gate jets|turboprops Terminal 42
 1301 E airline 
-1300  52.45606781 -001.73442627 -34.27 misc jets Terminal 62
-1301 B none 
+1300  52.45606781 -001.73442627 -34.27 gate jets Terminal 62
+1301 B airline 
 1300  52.45491130 -001.73265506 134.15 gate jets Terminal 61
 1301 C airline 
 1300  52.45467920 -001.73317213 146.15 gate jets Terminal 60
@@ -5200,10 +5200,10 @@ I
 1301 E airline 
 1300  52.45348583 -001.73603838 147.13 gate heavy|jets|turboprops Terminal 56
 1301 E airline 
-1300  52.45301674 -001.73710504 147.41 gate heavy|jets|turboprops Terminal 55
+1300  52.45301673 -001.73710503 147.41 gate heavy|jets|turboprops Terminal 55
 1301 F airline 
 1300  52.45257595 -001.73808275 147.53 gate heavy|jets|turboprops Terminal 54
-1301 F none 
+1301 F airline 
 1300  52.45404273 -001.73970985  27.22 gate jets|turboprops Terminal 70
 1301 D airline 
 1300  52.45427724 -001.73937010 -33.82 gate jets|turboprops Terminal 71

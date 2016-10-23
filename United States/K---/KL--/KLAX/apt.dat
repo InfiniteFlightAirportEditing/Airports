@@ -14006,9 +14006,9 @@ I
 1300  33.94329357 -118.39263108 181.43 tie_down jets|turboprops MAINT Delta 07
 1301 D airline 
 1300  33.94446969 -118.39271064 181.43 hangar jets|turboprops HANGAR Delta 02
-1301 C airline 
+1301 C none 
 1300  33.94434864 -118.39340419 181.43 hangar jets|turboprops HANGAR Delta 01
-1301 D airline 
+1301 D none 
 1300  33.94329557 -118.39210360 181.43 tie_down jets|turboprops MAINT Delta 08
 1301 C airline 
 1300  33.94339389 -118.39564757 269.40 tie_down jets|turboprops MAINT Delta 04
@@ -14039,13 +14039,13 @@ I
 1301 E airline 
 1300  33.94073454 -118.39987064 441.71 gate jets|turboprops TERMINAL 7 GATE 75B
 1301 C airline 
-1300  33.94112769 -118.40002665  92.15 misc heavy|jets|turboprops|props T7 G75A - Apron 75A
+1300  33.94112769 -118.40002665  92.15 misc heavy|jets|turboprops|props TERMINAL 7 GATE 75A
 1301 C none 
 1300  33.94166411 -118.40008208  84.56 misc heavy|jets|turboprops|props TERMINAL 7 GATE 73
 1301 D none 
 1300  33.94215378 -118.40015146  85.45 gate jets|turboprops TERMINAL 7 GATE 71B
 1301 C airline 
-1300  33.94255474 -118.40024386 443.84 gate jets|turboprops T7 G71A - Apron 71A
+1300  33.94255474 -118.40024386 443.84 gate jets|turboprops TERMINAL 7 GATE 71A
 1301 B airline 
 1300  33.94517186 -118.42990643 442.89 gate heavy|jets TERMINAL WEST G218
 1301 E airline 
@@ -14093,7 +14093,7 @@ I
 1301 C airline 
 1300  33.94234051 -118.43308691 384.54 gate jets|turboprops TERMINAL WEST G202B
 1301 C airline 
-1300  33.94236451 -118.43278046 353.59 gate jets|turboprops WEST G202A - Apron 202A
+1300  33.94236451 -118.43278046 353.59 gate jets|turboprops TERMINAL WEST G202A
 1301 C airline 
 1300  33.94261215 -118.43172157 261.54 gate jets|turboprops TERMINAL WEST G201B
 1301 C airline 
@@ -14106,33 +14106,33 @@ I
 1300  33.93857314 -118.41851465 264.08 tie_down heavy|jets|turboprops HOLD 341
 1301 E airline 
 1300  33.93847830 -118.41902995  83.19 misc jets|turboprops MAINT United 07
-1301 C airline 
+1301 C none 
 1300  33.93938454 -118.42227214 353.33 hangar heavy|jets|turboprops HANGAR United
-1301 E airline 
+1301 E none 
 1300  33.93926120 -118.42308601 354.15 misc jets|turboprops MAINT United 15
-1301 C airline 
+1301 C none 
 1300  33.93921036 -118.42357754 352.54 misc jets|turboprops MAINT United 14
-1301 C airline 
+1301 C none 
 1300  33.93788651 -118.42309639  82.93 misc jets|turboprops MAINT United 13
-1301 C airline 
+1301 C none 
 1300  33.93801067 -118.42295382  82.94 misc heavy|jets|turboprops MAINT United 12
-1301 E airline 
+1301 E none 
 1300  33.93805779 -118.42148706 263.79 misc jets|turboprops MAINT United 10
-1301 C airline 
+1301 C none 
 1300  33.93857457 -118.42156507 262.10 misc jets|turboprops MAINT United 11
 1301 C none 
 1300  33.93819934 -118.42010665  83.93 misc jets|turboprops MAINT United 01
-1301 C airline 
+1301 C none 
 1300  33.93865577 -118.42015927  83.08 misc jets|turboprops MAINT United 02
-1301 C airline 
+1301 C none 
 1300  33.93880716 -118.41912090  83.10 misc jets|turboprops MAINT United 06
 1301 B none 
 1300  33.93917334 -118.41914452 444.26 misc jets|turboprops MAINT United 05
-1301 C airline 
+1301 C none 
 1300  33.93953814 -118.41919072  83.05 misc jets|turboprops MAINT United 04
-1301 C airline 
+1301 C none 
 1300  33.93990358 -118.41926031  81.78 misc jets|turboprops MAINT United 03
-1301 C airline 
+1301 C none 
 1300  33.93939445 -118.41855075 264.08 tie_down heavy|jets HOLD 342
 1301 E airline 
 1300  33.94017263 -118.41873632 264.08 tie_down heavy|jets HOLD 343
@@ -14140,11 +14140,11 @@ I
 1300  33.94112696 -118.41887190 264.08 tie_down heavy|jets HOLD 344
 1301 E airline 
 1300  33.94429817 -118.41518055 263.55 hangar heavy|jets|turboprops HANGAR Qantas
-1301 E airline 
+1301 E none 
 1300  33.94446276 -118.41649238 442.43 tie_down jets|turboprops MAINT Qantas
 1301 E airline 
 1300  33.94097529 -118.41545100  82.97 hangar heavy|jets|turboprops HANGAR American
-1301 E airline 
+1301 E none 
 1300  33.93853745 -118.41613290 170.10 tie_down jets|turboprops MAINT American 12
 1301 C airline 
 1300  33.93849477 -118.41568469 172.10 tie_down jets|turboprops MAINT American 11
@@ -14298,7 +14298,7 @@ I
 1300  33.94220339 -118.41609101 330.50 tie_down jets|turboprops MAINT American 02
 1301 C airline 
 1300  33.94549516 -118.41964094  82.01 hangar jets|turboprops US Coast Guard 02
-1301 B general_aviation 
+1301 B none 
 1300  33.94503167 -118.41955015  82.01 tie_down jets|turboprops US Coast Guard 01
 1301 B general_aviation 
 1300  33.94218288 -118.41676683 331.33 tie_down jets|turboprops MAINT American 01
@@ -14343,7 +14343,7 @@ I
 1301 C airline 
 1300  33.94184161 -118.40652368 -94.66 gate jets|turboprops TERMINAL 4 GATE 40
 1301 C airline 
-1300  33.94139750 -118.40655634 263.89 misc jets|turboprops TERMINAL 4 GATE 42
+1300  33.94139750 -118.40655634 263.89 gate jets|turboprops TERMINAL 4 GATE 42
 1301 D airline 
 1300  33.94103769 -118.40645017 -74.56 gate jets|turboprops TERMINAL 4 GATE 44
 1301 C airline 

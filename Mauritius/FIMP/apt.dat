@@ -1449,17 +1449,17 @@ I
 21 -20.42572418  057.67555709 2 118.9441 3.00 New Light Fixture 4
 21 -20.43598722  057.69433998 2 296.1207 3.00 New Light Fixture 2
 14 -20.43079035  057.67559870 111.55 0 New Tower Viewpoint 1
-1300 -20.42893798  057.67367158 148.53 gate jets|turboprops|props Gate 01
-1301 B airline 
-1300 -20.42872754  057.67412807 149.14 gate jets|turboprops|props Gate 02
-1301 B airline 
-1300 -20.42840702  057.67485129 150.02 gate jets|turboprops|props Gate 03
-1301 B airline 
-1300 -20.42969070  057.67520020 151.30 gate jets|turboprops|props Gate 04
-1301 B airline 
-1300 -20.42952751  057.67552021 150.53 gate jets|turboprops|props Gate 05
-1301 B airline 
-1300 -20.42947575  057.67562914 152.03 gate jets|turboprops|props Gate 06
+1300 -20.42893798  057.67367158 148.53 gate jets|turboprops|props GA 01
+1301 B general_aviation 
+1300 -20.42872754  057.67412807 149.14 gate jets|turboprops|props GA 02
+1301 B general_aviation 
+1300 -20.42840702  057.67485129 150.02 gate jets|turboprops|props GA 03
+1301 B general_aviation 
+1300 -20.42969070  057.67520020 151.30 gate jets|turboprops|props GA 04
+1301 B general_aviation 
+1300 -20.42952751  057.67552021 150.53 gate jets|turboprops|props GA 05
+1301 B general_aviation 
+1300 -20.42947575  057.67562914 152.03 gate jets|turboprops|props GA 06
 1301 B general_aviation 
 1300 -20.43054532  057.67571888 -153.17 gate heavy|jets Terminal Gate 07
 1301 E airline 
