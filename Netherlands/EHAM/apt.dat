@@ -5996,6 +5996,14 @@ I
 111  52.31442243  004.74633788
 112  52.31442243  004.74633788  52.31424914  004.74634451 53 102
 113  52.31422726  004.74600533 53 102
+120 Linear Feature 32
+111  52.31971397  004.74187680 51 101
+112  52.32029609  004.74266278  52.32029863  004.74317889 51 101
+115  52.31981714  004.74333217
+120 Linear Feature 124
+111  52.32078974  004.74198780 51 101
+112  52.32029937  004.74266259  52.32029216  004.74322340 51 101
+115  52.32073439  004.74341571
 120 Linear Feature 124
 111  52.32719153  004.74257502 51 101
 112  52.32671391  004.74326734  52.32670670  004.74382815 51 101
@@ -10662,7 +10670,7 @@ I
 1301 C airline 
 1300  52.30402663  004.76349112 238.00 gate jets|turboprops|props|helos TERMINAL B27
 1301 C airline 
-1300  52.30314756  004.76257864  58.00 misc jets|turboprops|props|helos TERMINAL B32
+1300  52.30314756  004.76257864  58.00 gate jets|turboprops|props|helos TERMINAL B32
 1301 C airline 
 1300  52.30285800  004.76287998  58.00 gate jets|turboprops|props|helos TERMINAL B36
 1301 C airline 
@@ -10679,7 +10687,7 @@ I
 1300  52.30040480  004.75562879  57.51 tie_down jets|turboprops|props TERMINAL A43
 1301 C airline 
 1300  52.30014258  004.75590213  57.51 tie_down jets|turboprops|props TERMINAL A41
-1301 C airline
+1301 C none 
 1300  52.29983373  004.75276821 238.00 tie_down heavy|jets|turboprops|props TERMINAL A34
 1301 E cargo 
 1300  52.30039483  004.75219212 238.00 tie_down heavy|jets|turboprops|props TERMINAL A36
@@ -10760,9 +10768,9 @@ I
 1301 C airline 
 1300  52.30914321  004.77113442   2.00 gate jets|turboprops TERMINAL D44
 1301 C airline 
-1300  52.30907786  004.77304602   2.00 misc jets|turboprops TERMINAL D54
+1300  52.30907786  004.77304602   2.00 gate jets|turboprops TERMINAL D54
 1301 C airline 
-1300  52.30905854  004.77367656   2.00 misc jets|turboprops TERMINAL D56
+1300  52.30905854  004.77367656   2.00 gate jets|turboprops TERMINAL D56
 1301 C airline 
 1300  52.30970734  004.76941164 137.14 gate jets|turboprops TERMINAL D43
 1301 C airline 
@@ -10886,53 +10894,53 @@ I
 1301 E airline 
 1300  52.31129402  004.76674707 -56.39 gate jets TERMINAL E06
 1301 D airline 
-1300  52.31107320  004.80440318 310.30 misc jets|turboprops|props|helos GA K20
+1300  52.31107320  004.80440318 310.30 tie_down jets|turboprops|props|helos GA K20
 1301 B general_aviation 
-1300  52.31124556  004.80461642 312.32 misc jets|turboprops|props|helos GA K21
+1300  52.31124556  004.80461642 312.32 tie_down jets|turboprops|props|helos GA K21
 1301 B general_aviation 
-1300  52.31222159  004.80599856 311.81 misc jets|turboprops|props|helos GA K27
+1300  52.31222159  004.80599856 311.81 tie_down jets|turboprops|props|helos GA K27
 1301 B general_aviation 
-1300  52.31205558  004.80577743 310.29 misc jets|turboprops|props|helos GA K26
+1300  52.31205558  004.80577743 310.29 tie_down jets|turboprops|props|helos GA K26
 1301 B general_aviation 
-1300  52.31189991  004.80552972 312.69 misc jets|turboprops|props|helos GA K25
+1300  52.31189991  004.80552972 312.69 tie_down jets|turboprops|props|helos GA K25
 1301 B general_aviation 
-1300  52.31173744  004.80530682 310.49 misc jets|turboprops|props|helos GA K24
+1300  52.31173744  004.80530682 310.49 tie_down jets|turboprops|props|helos GA K24
 1301 B general_aviation 
-1300  52.31157023  004.80507772 310.51 misc jets|turboprops|props|helos GA K23
+1300  52.31157023  004.80507772 310.51 tie_down jets|turboprops|props|helos GA K23
 1301 B general_aviation 
-1300  52.31172160  004.80670150 129.12 misc jets|turboprops|props|helos GA K39
+1300  52.31172160  004.80670150 129.12 tie_down jets|turboprops|props|helos GA K39
 1301 C general_aviation 
-1300  52.31135352  004.80622527 130.52 misc jets|turboprops|props|helos GA K38
+1300  52.31135352  004.80622527 130.52 tie_down jets|turboprops|props|helos GA K38
 1301 C general_aviation 
-1300  52.31126134  004.80860613 131.09 misc jets|turboprops|props|helos GA K74
+1300  52.31126134  004.80860613 131.09 tie_down jets|turboprops|props|helos GA K74
 1301 C general_aviation 
-1300  52.31100796  004.80823632 131.09 misc jets|turboprops|props|helos GA K73
+1300  52.31100796  004.80823632 131.09 tie_down jets|turboprops|props|helos GA K73
 1301 C general_aviation 
-1300  52.31073897  004.80784101 131.09 misc jets|turboprops|props|helos GA K72
+1300  52.31073897  004.80784101 131.09 tie_down jets|turboprops|props|helos GA K72
 1301 C general_aviation 
-1300  52.31047779  004.80742020 131.09 misc jets|turboprops|props|helos GA K71
+1300  52.31047779  004.80742020 131.09 tie_down jets|turboprops|props|helos GA K71
 1301 C general_aviation 
-1300  52.31101823  004.80570951 130.85 misc jets|turboprops|props|helos GA K37
+1300  52.31101823  004.80570951 130.85 tie_down jets|turboprops|props|helos GA K37
 1301 C general_aviation 
-1300  52.31068550  004.80517792 128.87 misc jets|turboprops|props|helos GA K36
+1300  52.31068550  004.80517792 128.87 tie_down jets|turboprops|props|helos GA K36
 1301 C general_aviation 
 1300  52.31511503  004.79814856 225.09 misc jets|turboprops|props|helos ENGINE RUNUP
 1301 E none 
-1300  52.31034416  004.80466249 128.72 misc jets|turboprops|props|helos GA K35
+1300  52.31034416  004.80466249 128.72 tie_down jets|turboprops|props|helos GA K35
 1301 C general_aviation 
-1300  52.31140794  004.80484112 311.93 misc jets|turboprops|props|helos GA K22
+1300  52.31140794  004.80484112 311.93 tie_down jets|turboprops|props|helos GA K22
 1301 B general_aviation 
-1300  52.31146950  004.80369020 311.00 misc jets|turboprops|props|helos GA K11
+1300  52.31146950  004.80369020 311.00 tie_down jets|turboprops|props|helos GA K11
 1301 B general_aviation 
-1300  52.31166087  004.80398002 311.00 misc jets|turboprops|props|helos GA K12
+1300  52.31166087  004.80398002 311.00 tie_down jets|turboprops|props|helos GA K12
 1301 B general_aviation 
-1300  52.31185578  004.80423506 311.00 misc jets|turboprops|props|helos GA K13
+1300  52.31185578  004.80423506 311.00 tie_down jets|turboprops|props|helos GA K13
 1301 B general_aviation 
-1300  52.31204715  004.80450749 311.00 misc jets|turboprops|props|helos GA K14
+1300  52.31204715  004.80450749 311.00 tie_down jets|turboprops|props|helos GA K14
 1301 B general_aviation 
-1300  52.31223852  004.80479151 311.00 misc jets|turboprops|props|helos GA K15
+1300  52.31223852  004.80479151 311.00 tie_down jets|turboprops|props|helos GA K15
 1301 B general_aviation 
-1300  52.31242280  004.80508133 311.00 misc jets|turboprops|props|helos GA K16
+1300  52.31242280  004.80508133 311.00 tie_down jets|turboprops|props|helos GA K16
 1301 B general_aviation 
 1300  52.30262827  004.79189115 310.74 tie_down jets|turboprops|props MAINT KLM M77
 1301 C none 
@@ -10993,7 +11001,7 @@ I
 1300  52.29418391  004.76040877 -212.01 tie_down heavy|jets|turboprops|props|helos CARGO S74
 1301 E cargo 
 1300  52.30651414  004.79922377 -49.87 hangar heavy|jets|turboprops|props|helos HANGAR 14
-1301 F airline 
+1301 F none 
 1300  52.30825148  004.76621283   2.55 gate jets|turboprops TERMINAL D02
 1301 D airline 
 1300  52.30825616  004.76704343   2.14 gate jets|turboprops TERMINAL D04
@@ -11080,7 +11088,7 @@ I
 1000 Wind from S
 1001 EHAM 135 220 999
 1002 EHAM 0
-1003 EHAM 0
+1003 EHAM 0.0
 1101 18C right
 1100 18R      0 arrivals heavy|jets|turboprops|props|helos 170150 170150 18R
 1100 18C      0 arrivals heavy|jets|turboprops|props|helos 170180 170180 18C
@@ -11088,7 +11096,7 @@ I
 1000 Wind from N
 1001 EHAM 315 040 999
 1002 EHAM 0
-1003 EHAM 0
+1003 EHAM 0.0
 1101 36R right
 1100 36R      0 arrivals heavy|jets|turboprops|props|helos 010040 010040 36R
 1100 36C      0 arrivals heavy|jets|turboprops|props|helos 000010 000010 36C
@@ -11096,14 +11104,14 @@ I
 1000 Wind from E
 1001 EHAM 040 135 999
 1002 EHAM 0
-1003 EHAM 0
+1003 EHAM 0.0
 1101 04 left
 1100 06      0 arrivals heavy|jets|turboprops|props|helos 050100 050100 06
 1100 09      0 departures heavy|jets|turboprops|props|helos 060095 060095 09
 1000 Wind from W
 1001 EHAM 220 315 999
 1002 EHAM 0
-1003 EHAM 0
+1003 EHAM 0.0
 1101 04 left
 1100 27      0 arrivals heavy|jets|turboprops|props|helos 260290 260290 27
 1100 24      0 departures heavy|jets|turboprops|props|helos 220260 220260 24
