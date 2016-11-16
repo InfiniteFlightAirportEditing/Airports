@@ -4171,36 +4171,36 @@ I
 20  52.82970874 -001.34714284 358.2300 0 2 {@L}H1{@R}09
 20  52.82965926 -001.34984047 358.5500 0 2 {@L}G1{@R}09
 14  52.82632659 -001.33178814 160.76 0 ATC Tower
-1300  52.82815583 -001.31688924 178.35 gate heavy|jets|turboprops|props CARGO 80
-1301 C airline 
-1300  52.82815022 -001.31745522 178.59 gate heavy|jets|turboprops CARGO 79
-1301 C airline 
-1300  52.82806672 -001.31814089 178.47 gate heavy|jets|turboprops CARGO 78
-1301 D airline 
-1300  52.82805297 -001.31895818 178.30 gate heavy|jets|turboprops CARGO 77
-1301 D airline 
-1300  52.82803606 -001.31977087 178.10 gate heavy|jets|turboprops CARGO 76
-1301 D airline 
-1300  52.82801999 -001.32058851 178.43 gate heavy|jets|turboprops CARGO 75
-1301 D airline 
-1300  52.82789977 -001.32140182 -181.45 gate heavy|jets|turboprops CARGO 74
-1301 D airline 
+1300  52.82815583 -001.31688924 178.35 gate jets|turboprops CARGO 80
+1301 C cargo 
+1300  52.82815022 -001.31745522 178.59 gate jets|turboprops CARGO 79
+1301 C cargo 
+1300  52.82806672 -001.31814089 178.47 gate jets|turboprops CARGO 78
+1301 D cargo 
+1300  52.82805297 -001.31895818 178.30 gate jets|turboprops CARGO 77
+1301 D cargo 
+1300  52.82803606 -001.31977087 178.10 gate jets|turboprops CARGO 76
+1301 D cargo 
+1300  52.82801999 -001.32058851 178.43 gate jets|turboprops CARGO 75
+1301 D cargo 
+1300  52.82789977 -001.32140182 -181.45 gate jets|turboprops CARGO 74
+1301 D cargo 
 1300  52.82811709 -001.32221733 -146.24 gate jets|turboprops CARGO 73
-1301 C airline 
+1301 C cargo 
 1300  52.82817159 -001.32238084 -146.32 gate jets|turboprops CARGO 72
-1301 C airline 
-1300  52.82838714 -001.32304768 -145.69 gate turboprops|props CARGO 71
-1301 A airline 
+1301 C cargo 
+1300  52.82838714 -001.32304768 -145.69 gate turboprops|props CARGO 71R
+1301 A cargo 
 1300  52.82631537 -001.33734632  59.65 misc jets|turboprops|props MAINT AREA NORTH 1
 1301 B none 
 1300  52.82466960 -001.33703445  59.88 misc jets|turboprops MAINT AREA NORTH 1
 1301 B none 
-1300  52.82831432 -001.32266366 -146.60 gate jets|turboprops CARGO 70
-1301 C airline 
+1300  52.82831432 -001.32266366 -146.60 gate jets|turboprops CARGO 71
+1301 C cargo 
 1300  52.82848467 -001.32315691 -144.75 gate turboprops|props CARGO 70
-1301 B airline 
+1301 B cargo 
 1300  52.82862950 -001.32312760 -143.19 gate turboprops|props CARGO 70R
-1301 B airline 
+1301 B cargo 
 1300  52.82839041 -001.32981523 -146.01 gate jets GATE 20
 1301 B airline 
 1300  52.82838397 -001.32950581 178.20 gate jets GATE 20R
@@ -4255,7 +4255,7 @@ I
 1301 C airline 
 1300  52.82692135 -001.33475031  88.14 gate jets|turboprops GATE 45
 1301 C airline 
-1300  52.82732239 -001.33468999 123.34 gate heavy|jets|turboprops GATE 43
+1300  52.82732239 -001.33468999 123.34 gate jets|turboprops GATE 43
 1301 D airline 
 1300  52.82730999 -001.33477026  88.74 gate jets|turboprops GATE 44
 1301 C airline 
@@ -4266,17 +4266,17 @@ I
 1300  52.82847503 -001.33482864  88.33 gate jets|turboprops GATE 40
 1301 C airline 
 1300  52.82754294 -001.34587390 -91.73 gate heavy|jets|turboprops CARGO 120
-1301 E airline 
+1301 E cargo 
 1300  52.82677506 -001.34588271 -91.69 gate heavy|jets|turboprops CARGO 121
-1301 F airline 
+1301 E cargo 
 1300  52.82600914 -001.34584324 -91.68 gate heavy|jets|turboprops CARGO 122
-1301 F airline 
+1301 E cargo 
 1300  52.82722884 -001.35577182 178.53 gate jets|turboprops|props CARGO 111
-1301 C airline 
+1301 C cargo 
 1300  52.82724450 -001.35513072 178.26 gate jets|turboprops|props CARGO 110
-1301 C airline 
+1301 C cargo 
 1300  52.82725608 -001.35448697 178.10 gate jets|turboprops|props CARGO 109
-1301 C airline 
+1301 C cargo 
 1300  52.82844803 -001.33904194  82.99 misc jets|turboprops|props RVL APRON
 1301 B none 
 1300  52.82732296 -001.33852768  97.09 misc jets|turboprops|props MAINT SOUTH 2
@@ -4286,23 +4286,23 @@ I
 1300  52.82521992 -001.33581748 -77.14 misc jets|turboprops|props MAINT WASHBAY
 1301 B none 
 1300  52.82717798 -001.35374152 178.18 gate jets|turboprops CARGO 108
-1301 D airline 
+1301 D cargo 
 1300  52.82719558 -001.35289823 178.24 gate jets|turboprops CARGO 107
-1301 D airline 
+1301 D cargo 
 1300  52.82721075 -001.35205495 178.05 gate jets|turboprops CARGO 106
-1301 D airline 
+1301 D cargo 
 1300  52.82722708 -001.35121370 178.15 gate jets|turboprops CARGO 105
-1301 D airline 
+1301 D cargo 
 1300  52.82724385 -001.35036424 178.20 gate jets|turboprops CARGO 104
-1301 D airline 
+1301 D cargo 
 1300  52.82725510 -001.34952307 178.51 gate jets|turboprops CARGO 103
-1301 D airline 
+1301 D cargo 
 1300  52.82727064 -001.34866025 178.56 gate jets|turboprops CARGO 102
-1301 D airline 
+1301 D cargo 
 1300  52.82728210 -001.34789254 178.28 gate jets|turboprops CARGO 101
-1301 D airline 
+1301 D cargo 
 1300  52.82718045 -001.34701253 178.28 gate heavy|jets|turboprops CARGO 100
-1301 E airline 
+1301 E cargo 
 18  52.83279193 -001.32782183 1 BCN
 19  52.83221307 -001.34077880 1 WS 1
 19  52.83279751 -001.32680573 1 WS 2
