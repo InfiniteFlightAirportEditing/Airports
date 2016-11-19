@@ -2536,37 +2536,37 @@ I
 1301 A general_aviation 
 1300  50.44444119 -004.99697589 157.75 tie_down props GA-01
 1301 A general_aviation 
-1300  50.43737429 -004.99642891 246.50 misc jets|turboprops E-03
+1300  50.43737429 -004.99642891 246.50 misc jets|turboprops APRON E-03
 1301 C none 
-1300  50.43703743 -004.99623822 246.50 misc jets|turboprops E-02
+1300  50.43703743 -004.99623822 246.50 misc jets|turboprops APRON E-02
 1301 C none 
-1300  50.43671224 -004.99600618 246.50 misc jets|turboprops E-01
+1300  50.43671224 -004.99600618 246.50 misc jets|turboprops APRON E-01
 1301 C none 
-1300  50.44742585 -005.00615364 120.46 gate jets|turboprops A-24
+1300  50.44742585 -005.00615364 120.46 gate jets|turboprops GATE A-24
 1301 C airline 
-1300  50.44710671 -005.00533828  76.33 gate jets|turboprops A-23
+1300  50.44710671 -005.00533828  76.33 gate jets|turboprops GATE A-23
 1301 C airline 
-1300  50.44682042 -005.00459094  76.33 gate jets|turboprops A-22
+1300  50.44682042 -005.00459094  76.33 gate jets|turboprops GATE A-22
 1301 C airline 
-1300  50.44695539 -005.00483781 115.11 gate jets|turboprops A-23A
+1300  50.44695539 -005.00483781 115.11 gate jets|turboprops GATE A-23A
 1301 B airline 
-1300  50.44637667 -005.00330974 115.11 gate jets|turboprops A-21A
+1300  50.44637667 -005.00330974 115.11 gate jets|turboprops GATE A-21A
 1301 B airline 
-1300  50.44651983 -005.00377594  76.33 gate jets|turboprops A-21
+1300  50.44651983 -005.00377594  76.33 gate jets|turboprops GATE A-21
 1301 C airline 
-1300  50.44622948 -005.00297071  76.33 gate jets|turboprops A-20
+1300  50.44622948 -005.00297071  76.33 gate jets|turboprops GATE A-20
 1301 C airline 
-1300  50.44110171 -005.00800402 -75.00 misc jets|turboprops G-03
+1300  50.44110171 -005.00800402 -75.00 misc jets|turboprops APRON G-03
 1301 C none 
-1300  50.44144208 -005.00673082 -75.00 misc jets|turboprops G-02
+1300  50.44144208 -005.00673082 -75.00 misc jets|turboprops APRON G-02
 1301 C none 
-1300  50.44177516 -005.00546436 -75.00 misc jets|turboprops G-01
+1300  50.44177516 -005.00546436 -75.00 misc jets|turboprops APRON G-01
 1301 C none 
-1300  50.44159276 -005.00994396 247.69 misc jets|turboprops H-03
+1300  50.44159276 -005.00994396 247.69 misc jets|turboprops APRON H-03
 1301 C none 
-1300  50.44192584 -005.00868658 247.69 misc jets|turboprops H-02
+1300  50.44192584 -005.00868658 247.69 misc jets|turboprops APRON H-02
 1301 C none 
-1300  50.44227726 -005.00739074 247.69 misc jets|turboprops H-01
+1300  50.44227726 -005.00739074 247.69 misc jets|turboprops APRON H-01
 1301 C none 
 18  50.44268854 -004.99659366 1 BCN
 19  50.44002404 -004.99622516 1 WS
