@@ -2,3 +2,4 @@
 *.mdat
 airports.json
 countries.json
+.DS_Store
