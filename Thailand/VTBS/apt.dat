@@ -5363,11 +5363,11 @@ I
 1300  13.70460840  100.76036491 194.00 gate heavy|jets|turboprops Thai Maintenance Apron 130
 1301 D airline 
 1300  13.70499637  100.75874012 191.71 gate heavy|jets|turboprops Thai Maintenance Apron 131
-1301 F airline 
-1300  13.70520194  100.75815143 196.00 gate heavy|jets|turboprops Thai Maintenance Apron 132
-1301 F airline 
-1300  13.70522788  100.75762120 193.00 gate heavy|jets|turboprops Thai Maintenance Apron 133
-1301 F airline 
+1301 E airline 
+1300  13.70520194  100.75815143 196.00 gate jets|turboprops Thai Maintenance Apron 132
+1301 D airline 
+1300  13.70535683  100.75765545 193.00 gate jets|turboprops Thai Maintenance Apron 133
+1301 D airline 
 1300  13.70545897  100.75687235 197.00 gate heavy|jets|turboprops Thai Maintenance Apron 134
 1301 F airline 
 1300  13.70414404  100.75827803 285.00 gate heavy|jets|turboprops Remote Apron 114
