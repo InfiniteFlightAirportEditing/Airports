@@ -2571,25 +2571,25 @@ I
 1301 C airline 
 1300  20.52385743 -103.29895917  18.83 gate jets|turboprops|props Gate 11
 1301 C airline 
-1300  20.52411961 -103.29982725  19.31 gate jets|turboprops|props Gate 9
+1300  20.52411961 -103.29982725  19.31 gate jets|turboprops|props Gate 09
 1301 C airline 
 1300  20.52399997 -103.29933878  19.18 gate jets|turboprops|props Gate 10
 1301 C airline 
-1300  20.52426627 -103.30023794  18.69 gate jets|turboprops|props Gate 8
+1300  20.52426627 -103.30023794  18.69 gate jets|turboprops|props Gate 08
 1301 C airline 
-1300  20.52439533 -103.30067753  17.86 gate jets|turboprops|props Gate 7
+1300  20.52439533 -103.30067753  17.86 gate jets|turboprops|props Gate 07
 1301 C airline 
-1300  20.52456460 -103.30121829  19.42 gate jets|turboprops|props Gate 6
+1300  20.52456460 -103.30121829  19.42 gate jets|turboprops|props Gate 06
 1301 C airline 
-1300  20.52478432 -103.30189879  18.73 gate jets|turboprops|props Gate 5
+1300  20.52478432 -103.30189879  18.73 gate jets|turboprops|props Gate 05
 1301 D airline 
-1300  20.52496861 -103.30251734  19.65 gate jets|turboprops|props Gate 4
+1300  20.52496861 -103.30251734  19.65 gate jets|turboprops|props Gate 04
 1301 C airline 
-1300  20.52507662 -103.30294429  19.63 gate jets|turboprops|props Gate 3
+1300  20.52507662 -103.30294429  19.63 gate jets|turboprops|props Gate 03
 1301 C airline 
-1300  20.52513152 -103.30336274  19.02 gate jets|turboprops|props Gate 2
+1300  20.52513152 -103.30336274  19.02 gate jets|turboprops|props Gate 02
 1301 C airline 
-1300  20.52528374 -103.30375091  19.18 gate jets|turboprops|props Gate 1
+1300  20.52528374 -103.30375091  19.18 gate jets|turboprops|props Gate 01
 1301 C airline 
 1300  20.52381618 -103.30493269 -164.68 gate jets|turboprops|props Gate 32
 1301 C airline 
@@ -2671,35 +2671,35 @@ I
 1301 D cargo 
 1300  20.52342758 -103.29761082  18.01 gate jets|turboprops|props Cargo Ramp 14
 1301 D cargo 
-1300  20.53063532 -103.30387232 -149.91 gate jets|turboprops|props GA Ramp 13
+1300  20.53063532 -103.30387232 -149.91 gate jets|turboprops|props GA 13
 1301 C general_aviation 
-1300  20.52883211 -103.30483998 -58.48 tie_down turboprops|props Tie Down 10
+1300  20.52883211 -103.30483998 -58.48 tie_down turboprops|props GA 35
 1301 A general_aviation 
-1300  20.52901532 -103.30474214 -58.84 tie_down turboprops|props Tie Down 12
+1300  20.52901532 -103.30474214 -58.84 tie_down turboprops|props GA 34
 1301 A general_aviation 
-1300  20.52919754 -103.30463214 -58.53 tie_down turboprops|props Tie Down 14
+1300  20.52919754 -103.30463214 -58.53 tie_down turboprops|props GA 33
 1301 A general_aviation 
-1300  20.52906920 -103.30456046 123.14 tie_down turboprops|props Tie Down 13
+1300  20.52906920 -103.30456046 123.14 tie_down turboprops|props GA 32
 1301 A general_aviation 
-1300  20.52889546 -103.30468906 118.56 tie_down turboprops|props Tie Down 11
+1300  20.52889546 -103.30468906 118.56 tie_down turboprops|props GA 31
 1301 A general_aviation 
-1300  20.52873450 -103.30479211 120.49 tie_down turboprops|props Tie Down 9
+1300  20.52873450 -103.30479211 120.49 tie_down turboprops|props GA 30
 1301 A general_aviation 
-1300  20.52836798 -103.30536570 -63.82 tie_down turboprops|props Tie Down 8
+1300  20.52836798 -103.30536570 -63.82 tie_down turboprops|props GA 29
 1301 A general_aviation 
-1300  20.52821505 -103.30546092 -60.26 tie_down turboprops|props Tie Down 6
+1300  20.52821505 -103.30546092 -60.26 tie_down turboprops|props GA 28
 1301 A general_aviation 
-1300  20.52804983 -103.30556150 -62.49 tie_down turboprops|props Tie Down 4
+1300  20.52804983 -103.30556150 -62.49 tie_down turboprops|props GA 27
 1301 A general_aviation 
-1300  20.52789180 -103.30565291 -60.26 tie_down turboprops|props Tie Down 2
+1300  20.52789180 -103.30565291 -60.26 tie_down turboprops|props GA 26
 1301 A general_aviation 
-1300  20.52820617 -103.30518851 118.08 tie_down turboprops|props Tie Down 7
+1300  20.52820617 -103.30518851 118.08 tie_down turboprops|props GA 25
 1301 A general_aviation 
-1300  20.52804850 -103.30527179 119.00 tie_down turboprops|props Tie Down 5
+1300  20.52804850 -103.30527179 119.00 tie_down turboprops|props GA 24
 1301 A general_aviation 
-1300  20.52790311 -103.30535995 115.83 tie_down turboprops|props Tie Down 3
+1300  20.52790311 -103.30535995 115.83 tie_down turboprops|props GA 23
 1301 A general_aviation 
-1300  20.52773619 -103.30545578 116.76 tie_down turboprops|props Tie Down 1
+1300  20.52773619 -103.30545578 116.76 tie_down turboprops|props GA 22
 1301 A general_aviation 
 1300  20.52699031 -103.29458829 -112.95 tie_down jets|turboprops|props Signature FBO 5
 1301 A general_aviation 
@@ -2711,45 +2711,45 @@ I
 1301 B general_aviation 
 1300  20.52727608 -103.29502491 156.04 gate jets|turboprops|props Signature FBO 1
 1301 B general_aviation 
-1300  20.53036022 -103.30443173 119.10 gate jets|turboprops|props GA Ramp 21
+1300  20.53036022 -103.30443173 119.10 gate jets|turboprops|props GA 21
 1301 A general_aviation 
-1300  20.53051474 -103.30433446 119.99 gate jets|turboprops|props GA Ramp 20
+1300  20.53051474 -103.30433446 119.99 gate jets|turboprops|props GA 20
 1301 A general_aviation 
-1300  20.53065571 -103.30424245 122.18 gate jets|turboprops|props GA Ramp 19
+1300  20.53065571 -103.30424245 122.18 gate jets|turboprops|props GA 19
 1301 A general_aviation 
-1300  20.53082805 -103.30415094 122.55 gate jets|turboprops|props GA Ramp 18
+1300  20.53082805 -103.30415094 122.55 gate jets|turboprops|props GA 18
 1301 A general_aviation 
-1300  20.53106722 -103.30403255  28.54 gate jets|turboprops|props GA Ramp 17
+1300  20.53106722 -103.30403255  28.54 gate jets|turboprops|props GA 17
 1301 A general_aviation 
-1300  20.53081568 -103.30400193 -178.60 gate jets|turboprops|props GA Ramp 16
+1300  20.53081568 -103.30400193 -178.60 gate jets|turboprops|props GA 16
 1301 A general_aviation 
-1300  20.53094560 -103.30382063  32.01 gate jets|turboprops|props GA Ramp 15
+1300  20.53094560 -103.30382063  32.01 gate jets|turboprops|props GA 15
 1301 A general_aviation 
-1300  20.53073047 -103.30390194 -108.31 gate jets|turboprops|props GA Ramp 14
+1300  20.53073047 -103.30390194 -108.31 gate jets|turboprops|props GA 14
 1301 A general_aviation 
-1300  20.53083749 -103.30361181  32.74 gate jets|turboprops|props GA Ramp 12
+1300  20.53083749 -103.30361181  32.74 gate jets|turboprops|props GA 12
 1301 A general_aviation 
-1300  20.53057648 -103.30367706 123.17 gate jets|turboprops|props GA Ramp 11
+1300  20.53057648 -103.30367706 123.17 gate jets|turboprops|props GA 11
 1301 A general_aviation 
-1300  20.53058544 -103.30392095 -58.70 gate jets|turboprops|props GA Ramp 10
+1300  20.53058544 -103.30392095 -58.70 gate jets|turboprops|props GA 10
 1301 A general_aviation 
-1300  20.53037802 -103.30378590 120.22 gate jets|turboprops|props GA Ramp 9
+1300  20.53037802 -103.30378590 120.22 gate jets|turboprops|props GA 09
 1301 A general_aviation 
-1300  20.53039386 -103.30404422 -59.66 gate jets|turboprops|props GA Ramp 8
+1300  20.53039386 -103.30404422 -59.66 gate jets|turboprops|props GA 08
 1301 A general_aviation 
-1300  20.53018883 -103.30391001 122.38 gate jets|turboprops|props GA Ramp 7
+1300  20.53018883 -103.30391001 122.38 gate jets|turboprops|props GA 07
 1301 A general_aviation 
-1300  20.53020254 -103.30415300 -60.33 gate jets|turboprops|props GA Ramp 6
+1300  20.53020254 -103.30415300 -60.33 gate jets|turboprops|props GA 06
 1301 A general_aviation 
-1300  20.53000068 -103.30402678 124.95 gate jets|turboprops|props GA Ramp 5
+1300  20.53000068 -103.30402678 124.95 gate jets|turboprops|props GA 05
 1301 A general_aviation 
-1300  20.52999958 -103.30428000 -59.57 gate jets|turboprops|props GA Ramp 4
+1300  20.52999958 -103.30428000 -59.57 gate jets|turboprops|props GA 04
 1301 A general_aviation 
-1300  20.52979841 -103.30415107 121.20 gate jets|turboprops|props GA Ramp 3
+1300  20.52979841 -103.30415107 121.20 gate jets|turboprops|props GA 03
 1301 A general_aviation 
-1300  20.52980919 -103.30439685 -57.99 gate jets|turboprops|props GA Ramp 2
+1300  20.52980919 -103.30439685 -57.99 gate jets|turboprops|props GA 02
 1301 A general_aviation 
-1300  20.52960561 -103.30426824 121.83 gate jets|turboprops|props GA Ramp 1
+1300  20.52960561 -103.30426824 121.83 gate jets|turboprops|props GA 01
 1301 A general_aviation 
 18  20.52561008 -103.30747671 1 BCN
 19  20.52909000 -103.32710900 1 WS
