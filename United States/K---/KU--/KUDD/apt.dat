@@ -690,53 +690,53 @@ I
 115  33.74617745 -116.27299765
 21  33.74668167 -116.27114738 1 295.9600 3.00 28  VASI
 14  33.74564489 -116.27065108  82.02 0 New Tower Viewpoint 25
-1300  33.74458789 -116.26812197  90.21 misc jets|turboprops|props HANGAR 05
-1301 A general_aviation 
-1300  33.74487439 -116.26850796  88.76 misc jets|turboprops|props HANGAR 04
-1301 A general_aviation 
-1300  33.74455573 -116.26850228  90.95 misc jets|turboprops|props HANGAR 02
-1301 A general_aviation 
+1300  33.74458789 -116.26811307  90.21 hangar jets|turboprops|props HANGAR 05
+1301 A none 
+1300  33.74487439 -116.26850796  88.76 hangar jets|turboprops|props HANGAR 04
+1301 A none 
+1300  33.74455573 -116.26850228  90.95 hangar jets|turboprops|props HANGAR 02
+1301 A none 
 1300  33.74447667 -116.26889185  88.87 hangar jets|turboprops|props HANGAR 02
-1301 A general_aviation 
+1301 A none 
 1300  33.74491964 -116.26889362  88.43 hangar turboprops|props HANGAR 01
 1301 A none 
-1300  33.74444128 -116.26958926  88.84 misc props GA 10
+1300  33.74444375 -116.26961893  88.84 tie_down props GA 10
 1301 A general_aviation 
-1300  33.74466557 -116.26959709  87.82 misc props GA 09
+1300  33.74466710 -116.26961183  87.82 tie_down props GA 09
 1301 A general_aviation 
-1300  33.74488606 -116.26959696  88.47 misc props GA 08
+1300  33.74488912 -116.26960801  88.47 tie_down props GA 08
 1301 A general_aviation 
-1300  33.74511648 -116.26959875  90.00 misc props GA 07
+1300  33.74511648 -116.26960796  90.00 tie_down props GA 07
 1301 A general_aviation 
-1300  33.74522852 -116.26959732  87.78 misc props GA 06
+1300  33.74528979 -116.26960837  88.93 tie_down props GA 06
 1301 A general_aviation 
-1300  33.74460854 -116.26935646 270.00 misc props GA 05
+1300  33.74461007 -116.26943015 270.00 tie_down props GA 05
 1301 A general_aviation 
-1300  33.74490878 -116.26936175 270.00 misc turboprops GA 04
+1300  33.74491031 -116.26943544 270.00 tie_down turboprops GA 04
 1301 A general_aviation 
-1300  33.74506129 -116.26935424 270.64 misc props GA 03
+1300  33.74506129 -116.26943529 270.64 tie_down props GA 03
 1301 A general_aviation 
-1300  33.74521151 -116.26936233 270.00 misc props GA 02
+1300  33.74521457 -116.26943602 270.00 tie_down props GA 02
 1301 A general_aviation 
-1300  33.74536458 -116.26938865 270.27 misc props GA 01
+1300  33.74536458 -116.26943655 270.27 tie_down props GA 01
 1301 A general_aviation 
-1300  33.74600178 -116.27087490 271.61 misc jets|turboprops|props RAMP 09
-1301 B none 
-1300  33.74594059 -116.27121386  92.55 misc jets|turboprops|props RAMP 08
-1301 B none 
-1300  33.74610809 -116.27119222  91.86 misc jets|turboprops|props RAMP 07
-1301 B none 
-1300  33.74627468 -116.27194796 272.59 misc jets|turboprops|props RAMP 06
-1301 B none 
-1300  33.74599299 -116.27196238 271.57 misc jets|turboprops|props RAMP 05
-1301 B none 
-1300  33.74571963 -116.27198274 269.74 misc jets|turboprops|props RAMP 04
-1301 B none 
-1300  33.74630496 -116.27246112 271.75 misc jets|turboprops|props RAMP 03
+1300  33.74600178 -116.27087490 271.61 tie_down jets|turboprops|props RAMP 09
 1301 B general_aviation 
-1300  33.74600868 -116.27246724 270.81 misc jets|turboprops|props RAMP 02
+1300  33.74602277 -116.27120821  92.55 tie_down jets|turboprops|props RAMP 08
 1301 B general_aviation 
-1300  33.74571263 -116.27249592 272.18 misc jets|turboprops|props RAMP 01
+1300  33.74621610 -116.27119222  91.86 tie_down jets|turboprops|props RAMP 07
+1301 B general_aviation 
+1300  33.74633808 -116.27194231 272.59 tie_down jets|turboprops|props RAMP 06
+1301 B general_aviation 
+1300  33.74611743 -116.27194544 271.57 tie_down jets|turboprops|props RAMP 05
+1301 B general_aviation 
+1300  33.74590512 -116.27195168 269.74 tie_down jets|turboprops|props RAMP 04
+1301 B general_aviation 
+1300  33.74645523 -116.27243853 271.75 tie_down jets|turboprops|props RAMP 03
+1301 B general_aviation 
+1300  33.74618008 -116.27245030 270.81 tie_down jets|turboprops|props RAMP 02
+1301 B general_aviation 
+1300  33.74591690 -116.27246768 272.18 tie_down jets|turboprops|props RAMP 01
 1301 B general_aviation 
 18  33.74903241 -116.27445524 1 BCN
 51 12280 CTAF/UNICOM
