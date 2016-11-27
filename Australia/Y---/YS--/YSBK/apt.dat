@@ -3239,18 +3239,18 @@ I
 1301 A general_aviation 
 1300 -33.92061561  150.99349829 166.70 tie_down props GA 03
 1301 A general_aviation 
-1300 -33.91998550  150.99042428 -28.32 gate jets|turboprops|props GATE 1
-1301 C airline 
+1300 -33.91983840  150.99046246 -28.32 gate jets|turboprops|props GATE 1
+1301 B airline 
 1300 -33.92052079  150.99260614 160.86 tie_down props GA 02
 1301 A general_aviation 
 1300 -33.92044203  150.99292737 163.47 tie_down props GA 01
 1301 A general_aviation 
-1300 -33.91717785  150.99418526 216.10 hangar jets|turboprops|props HANGAR 03
-1301 B airline 
+1300 -33.91728865  150.99352793 121.67 hangar props HANGAR 03
+1301 A none 
 1300 -33.91930077  150.99070765 241.85 hangar jets|turboprops|props HANGAR 02
-1301 C airline 
+1301 B none 
 1300 -33.91885398  150.99039757 239.36 hangar jets|turboprops|props HANGAR 01
-1301 C airline 
+1301 B none 
 1300 -33.91874104  150.98854772 243.43 tie_down props Grass 03
 1301 A general_aviation 
 1300 -33.91853808  150.98840134 243.05 tie_down props Grass 02
