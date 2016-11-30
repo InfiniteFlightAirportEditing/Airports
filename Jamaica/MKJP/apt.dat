@@ -1173,9 +1173,9 @@ I
 21  17.93927103 -076.79542014 2 112.0900 3.00 12  PAPI-4L
 21  17.93312708 -076.77969442 2 292.1000 3.00 30  PAPI-4L
 14  17.93754068 -076.77872889  29.53 0 Tower
-1300  17.93732699 -076.77981619 111.83 gate jets|turboprops Gate 1
+1300  17.93732699 -076.77981619 111.83 gate jets|turboprops Gate 01
 1301 C airline 
-1300  17.93661455 -076.78017153 112.62 gate jets|turboprops Gate 3
+1300  17.93661455 -076.78017153 112.62 gate jets|turboprops Gate 03
 1301 C airline 
 1300  17.93512936 -076.77833484  55.25 gate jets|turboprops Cargo Ramp 15
 1301 D cargo 
@@ -1187,19 +1187,19 @@ I
 1301 C cargo 
 1300  17.93660916 -076.77785711 111.40 gate jets|turboprops Cargo Ramp 10
 1301 C cargo 
-1300  17.93707982 -076.77926944 -69.56 gate jets|turboprops Gate 9
+1300  17.93707982 -076.77926944 -69.56 gate jets|turboprops Gate 09
 1301 C airline 
-1300  17.93659126 -076.77947603 -69.02 gate jets|turboprops Gate 8
+1300  17.93659126 -076.77947603 -69.02 gate jets|turboprops Gate 08
 1301 D airline 
-1300  17.93611867 -076.77975019 -68.67 gate jets|turboprops Gate 7
+1300  17.93611867 -076.77975019 -68.67 gate jets|turboprops Gate 07
 1301 D airline 
-1300  17.93575085 -076.77978520  -4.98 gate jets|turboprops Gate 6
+1300  17.93575085 -076.77978520  -4.98 gate jets|turboprops Gate 06
 1301 E airline 
-1300  17.93567039 -076.78026140 102.85 gate jets|turboprops Gate 5
+1300  17.93567039 -076.78026140 102.85 gate jets|turboprops Gate 05
 1301 E airline 
-1300  17.93620833 -076.78035684 112.64 gate jets|turboprops Gate 4
+1300  17.93620833 -076.78035684 112.64 gate jets|turboprops Gate 04
 1301 D airline 
-1300  17.93696836 -076.77999841 112.27 gate jets|turboprops Gate 2
+1300  17.93696836 -076.77999841 112.27 gate jets|turboprops Gate 02
 1301 C airline 
 1300  17.93503736 -076.77813447 -65.74 gate jets|turboprops Cargo Ramp 16
 1301 C cargo 
@@ -1207,23 +1207,23 @@ I
 1301 C cargo 
 1300  17.93465282 -076.77830349 -67.67 gate jets|turboprops Cargo Ramp 17
 1301 C cargo 
-1300  17.93474335 -076.77614862 -50.58 gate jets|turboprops Maintenance Hangar 2
-1301 C airline 
-1300  17.93483349 -076.77646048  37.99 gate jets|turboprops Maintenance Hangar 1
-1301 C airline 
-1300  17.93677597 -076.77442990 129.81 gate jets|turboprops GA Ramp 7
+1300  17.93468295 -076.77630732  40.57 misc jets|turboprops Maintenance
+1301 C none 
+1300  17.93528647 -076.77570928  37.99 hangar jets|turboprops Maintenance Hangar 1
+1301 C none 
+1300  17.93677597 -076.77442990 129.81 gate jets|turboprops GA Ramp 07
 1301 A general_aviation 
-1300  17.93664439 -076.77452180 125.56 gate jets|turboprops GA Ramp 6
+1300  17.93664439 -076.77452180 125.56 gate jets|turboprops GA Ramp 06
 1301 A general_aviation 
-1300  17.93652457 -076.77464270 127.06 gate jets|turboprops GA Ramp 5
+1300  17.93652457 -076.77464270 127.06 gate jets|turboprops GA Ramp 05
 1301 A general_aviation 
-1300  17.93640635 -076.77471827 128.13 gate jets|turboprops GA Ramp 4
+1300  17.93640635 -076.77471827 128.13 gate jets|turboprops GA Ramp 04
 1301 A general_aviation 
-1300  17.93623258 -076.77486774 -94.99 gate jets|turboprops GA Ramp 3
+1300  17.93623258 -076.77486774 -94.99 gate jets|turboprops GA Ramp 03
 1301 A general_aviation 
-1300  17.93603154 -076.77507057 -94.76 gate jets|turboprops GA Ramp 2
+1300  17.93603154 -076.77507057 -94.76 gate jets|turboprops GA Ramp 02
 1301 A general_aviation 
-1300  17.93582753 -076.77525070 -91.09 gate jets|turboprops GA Ramp 1
+1300  17.93582753 -076.77525070 -91.09 gate jets|turboprops GA Ramp 01
 1301 A general_aviation 
 18  17.93499749 -076.78380647 1 BCN
 19  17.94047084 -076.79842663 1 WS
