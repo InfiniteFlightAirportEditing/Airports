@@ -16634,16 +16634,16 @@ I
 21  19.43124958 -099.08500972 2 59.3000 3.00 xxx PAPI-4L
 21  19.43141653 -099.07902205 2 59.3000 3.00 xxx PAPI-4L
 14  19.43071013 -099.07018975 351.05 0 Tower Viewpoint
-1300  19.42946676 -099.07232928 -119.43 hangar jets Aviacsa Hangar
+1300  19.42953483 -099.07219696 -119.43 hangar jets Aviacsa Hangar
 1301 C none 
 1300  19.42669606 -099.07749702 -33.69 hangar jets|turboprops AeroMar Hangar 03
 1301 B none 
-1300  19.42694691 -099.07683603 147.78 hangar jets|turboprops AeroMar Hangar 02
+1300  19.42680598 -099.07726298 327.94 hangar jets|turboprops AeroMar Hangar 02
 1301 B none 
 1300  19.42712918 -099.07649825 151.00 hangar jets|turboprops AeroMar Hangar 01
 1301 B none 
 1300  19.43024018 -099.07023283 149.83 tie_down heavy MasAir Maintenance
-1301 D cargo 
+1301 C cargo 
 1300  19.43012248 -099.07068558 149.83 tie_down heavy LAN Maintenance
 1301 D cargo 
 1300  19.43813947 -099.07759530 -116.45 gate jets Terminal 1 - Gate 36
@@ -16735,57 +16735,57 @@ I
 1300  19.43656713 -099.06151163 147.74 tie_down heavy|jets AeroMexico Maintenance 05A
 1301 D airline 
 1300  19.43640584 -099.06180185 147.74 tie_down heavy|jets AeroMexico Maintenance 04
-1301 D airline 
+1301 C airline 
 1300  19.43621838 -099.06214379 147.74 tie_down heavy|jets AeroMexico Maintenance 03
-1301 D airline 
+1301 C airline 
 1300  19.43603584 -099.06247545 150.66 tie_down heavy|jets AeroMexico Maintenance 02
-1301 D airline 
+1301 C airline 
 1300  19.43371082 -099.06379398  46.17 tie_down heavy|jets AeroMexico Maintenance 07
 1301 D airline 
 1300  19.43399500 -099.06452040 -120.38 tie_down heavy|jets AeroMexico Maintenance 06
 1301 D airline 
 1300  19.43497395 -099.06125051 -30.67 tie_down heavy|jets AeroMexico Maintenance 27
-1301 D airline 
+1301 C airline 
 1300  19.43478622 -099.06158616 -30.67 tie_down heavy|jets AeroMexico Maintenance 26
-1301 D airline 
+1301 C airline 
 1300  19.43459994 -099.06192026 -30.67 tie_down heavy|jets AeroMexico Maintenance 25
-1301 D airline 
+1301 C airline 
 1300  19.43441415 -099.06225435 -30.67 tie_down heavy|jets AeroMexico Maintenance 24
-1301 D airline 
+1301 C airline 
 1300  19.43422966 -099.06259467 -30.67 tie_down heavy|jets AeroMexico Maintenance 23
-1301 D airline 
+1301 C airline 
 1300  19.43404179 -099.06293032 -30.67 tie_down heavy|jets AeroMexico Maintenance 22
-1301 D airline 
+1301 C airline 
 1300  19.43470595 -099.06325765 -30.67 tie_down heavy|jets AeroMexico Maintenance 21
-1301 D airline 
+1301 C airline 
 1300  19.43488814 -099.06291279 -30.67 tie_down heavy|jets AeroMexico Maintenance 20
-1301 D airline 
+1301 C airline 
 1300  19.43511581 -099.06258250 -30.67 tie_down heavy|jets AeroMexico Maintenance 19
-1301 D airline 
+1301 C airline 
 1300  19.43526894 -099.06223558 -30.67 tie_down heavy|jets AeroMexico Maintenance 18
-1301 D airline 
+1301 C airline 
 1300  19.43545566 -099.06189891 -30.67 tie_down heavy|jets AeroMexico Maintenance 17
-1301 D airline 
+1301 C airline 
 1300  19.43564455 -099.06155927 -30.67 tie_down heavy|jets AeroMexico Maintenance 16
-1301 D airline 
+1301 C airline 
 1300  19.43583495 -099.06122498 -30.67 tie_down heavy|jets AeroMexico Maintenance 15
-1301 D airline 
+1301 C airline 
 1300  19.43590553 -099.06104412 150.66 tie_down heavy|jets AeroMexico Maintenance 14
-1301 D airline 
+1301 C airline 
 1300  19.43571420 -099.06137874 150.66 tie_down heavy|jets AeroMexico Maintenance 13
-1301 D airline 
+1301 C airline 
 1300  19.43553373 -099.06171537 150.66 tie_down heavy|jets AeroMexico Maintenance 12
-1301 D airline 
+1301 C airline 
 1300  19.43534540 -099.06205704 150.66 tie_down heavy|jets AeroMexico Maintenance 11
-1301 D airline 
+1301 C airline 
 1300  19.43515560 -099.06239001 150.66 tie_down heavy|jets AeroMexico Maintenance 10
-1301 D airline 
+1301 C airline 
 1300  19.43497304 -099.06271963 150.66 tie_down heavy|jets AeroMexico Maintenance 09
-1301 D airline 
+1301 C airline 
 1300  19.43478699 -099.06305912 150.66 tie_down heavy|jets AeroMexico Maintenance 08
-1301 D airline 
+1301 C airline 
 1300  19.43585234 -099.06280845 150.66 tie_down heavy|jets AeroMexico Maintenance 01
-1301 D airline 
+1301 C airline 
 1300  19.44102032 -099.07263926 -29.48 gate heavy|jets Cargo Ramp 41A
 1301 E cargo 
 1300  19.44089436 -099.07286962 -29.48 gate heavy|jets Cargo Ramp 41
@@ -16863,33 +16863,33 @@ I
 1300  19.44282787 -099.06868466  60.28 tie_down heavy|jets Mexicana MRO 01
 1301 D general_aviation 
 1300  19.43132176 -099.06705496 -133.06 gate heavy|jets East Remote Platform 48
-1301 E general_aviation 
+1301 C general_aviation 
 1300  19.43151089 -099.06721113 -131.19 gate heavy|jets East Remote Platform 48A
 1301 E general_aviation 
 1300  19.43159970 -099.06732545 -131.19 gate heavy|jets East Remote Platform 49
-1301 E general_aviation 
+1301 C general_aviation 
 1300  19.43185727 -099.06759086 -131.19 gate heavy|jets East Remote Platform 50
-1301 E general_aviation 
+1301 C general_aviation 
 1300  19.43213205 -099.06786172 -131.19 gate heavy|jets East Remote Platform 51
-1301 E general_aviation 
+1301 C general_aviation 
 1300  19.43196501 -099.06768629 -131.19 gate heavy|jets East Remote Platform 50A
 1301 E general_aviation 
 1300  19.43276793 -099.06303894 138.81 hangar heavy|jets AeroMexico Hangar 01
 1301 D none 
 1300  19.43232572 -099.06591433 226.75 hangar heavy|jets Aerounion Hangar
 1301 D none 
-1300  19.43272032 -099.06652589 226.75 tie_down heavy|jets Aerounion Ramp 02
+1300  19.43308993 -099.06610933  47.40 tie_down heavy|jets Aerounion Ramp 02
 1301 D cargo 
 1300  19.43207789 -099.06518361  47.94 tie_down heavy|jets Aerounion Ramp 05
 1301 D cargo 
-1300  19.43173054 -099.06525213 -133.09 tie_down heavy|jets Aerounion Ramp 06
-1301 D cargo 
-1300  19.43205160 -099.06556176 -132.01 tie_down heavy|jets Aerounion Ramp 04
-1301 D cargo 
+1300  19.43194298 -099.06500972  46.87 tie_down heavy|jets Aerounion Ramp 06
+1301 C cargo 
+1300  19.43224393 -099.06533502  48.23 tie_down heavy|jets Aerounion Ramp 04
+1301 C cargo 
 1300  19.43295254 -099.06601699  46.42 tie_down heavy|jets Aerounion Ramp 03
-1301 D cargo 
+1301 C cargo 
 1300  19.43315379 -099.06625297  48.61 tie_down heavy|jets Aerounion Ramp 01
-1301 D cargo 
+1301 C cargo 
 1300  19.42741781 -099.07700496  60.02 gate jets|turboprops Aeromar Remote Platform T9
 1301 B airline 
 1300  19.42770290 -099.07718513  60.02 gate jets|turboprops Aeromar Remote Platform T8
@@ -16914,10 +16914,10 @@ I
 1301 C airline 
 1300  19.43062807 -099.06590495 -132.11 tie_down jets Interjet Remote 03
 1301 C airline 
-1300  19.43108262 -099.06649470  46.82 hangar jets Interjet Hangar 01
-1301 C none 
-1300  19.43048458 -099.06577074  46.82 hangar jets Interjet Hangar 02
-1301 C none 
+1300  19.43103574 -099.06653115  46.82 hangar jets Interjet Hangar 01
+1301 B none 
+1300  19.43043770 -099.06584696  46.82 hangar jets Interjet Hangar 02
+1301 B none 
 1300  19.43037530 -099.06471840  50.10 gate jets Interjet Maintenance 04
 1301 C airline 
 1300  19.43015295 -099.06437094  50.10 gate jets Interjet Maintenance 03
@@ -16929,11 +16929,11 @@ I
 1300  19.43035887 -099.06566776 -132.11 tie_down jets Interjet Remote 04
 1301 C airline 
 1300  19.42376930 -099.07873297  98.08 gate heavy|jets Terminal 2 - Gate 58A
-1301 D airline 
+1301 E airline 
 1300  19.42433385 -099.07906338 -239.06 gate heavy|jets Terminal 2 - Gate 57A
 1301 D airline 
-1300  19.42462037 -099.07873847 -160.50 gate heavy|jets Terminal 2 - Gate 55A
-1301 D airline 
+1300  19.42468014 -099.07871837 195.18 gate heavy|jets Terminal 2 - Gate 55A
+1301 E airline 
 1300  19.42372680 -099.07774775 -143.13 gate heavy|jets Terminal 2 - Gate 52A
 1301 D airline 
 1300  19.42487761 -099.08339617  23.31 tie_down jets AM Connect Remote Platform 82
@@ -17028,22 +17028,22 @@ I
 1301 C airline 
 1300  19.42945871 -099.07271824 -31.32 tie_down jets Aviacsa Stand 01
 1301 C airline 
-1300  19.42477473 -099.07494386 192.69 hangar jets|turboprops|props FAM Hangar 04
+1300  19.42484172 -099.07490511 192.69 hangar jets|turboprops|props FAM Hangar 04
 1301 C none 
-1300  19.42486161 -099.07529869 194.20 hangar jets|turboprops|props FAM Hangar 03
+1300  19.42492860 -099.07527286 194.20 hangar jets|turboprops|props FAM Hangar 03
 1301 C none 
-1300  19.42495814 -099.07566887 -164.02 hangar jets|turboprops|props FAM Hangar 02
+1300  19.42503731 -099.07565595 -164.02 hangar jets|turboprops|props FAM Hangar 02
 1301 C none 
 1300  19.42392729 -099.07519079 -166.45 hangar jets|turboprops|props FAM Hangar 01
 1301 D none 
-1300  19.42506910 -099.07613950 -164.02 hangar jets|turboprops|props FAM Hangar 01
+1300  19.42516045 -099.07611367 -164.02 hangar jets|turboprops|props FAM Hangar 01
 1301 D none 
 1300  19.42220343 -099.07550106 -84.23 hangar jets|turboprops|props PFP Hangar 02
 1301 C none 
 1300  19.42199461 -099.07556298 -71.58 hangar jets|turboprops|props PFP Hangar 01
 1301 C none 
-1300  19.42600706 -099.07679612 -119.45 hangar jets|turboprops|props Hangar Marina
-1301 C none 
+1300  19.42604969 -099.07673154 -119.45 hangar jets|turboprops|props Hangar Marina
+1301 D none 
 18  19.43804879 -099.06911862 1 Rotating Beacon
 19  19.44300504 -099.05558235 1 Windsock
 19  19.43650533 -099.07218733 1 Windsock
