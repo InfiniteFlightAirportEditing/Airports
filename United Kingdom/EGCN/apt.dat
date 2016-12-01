@@ -2221,29 +2221,29 @@ I
 21  53.46784445 -001.00903858 2 17.6600 3.10 02  PAPI-4L
 21  53.48302986 -000.99906812 2 197.6700 3.00 20  PAPI-4L
 14  53.48145077 -000.99603430  29.53 0 ATC Tower
-1300  53.48339368 -001.00784891   0.00 misc jets|turboprops GA 1
-1301 B none 
-1300  53.48329700 -001.00817087   0.00 misc jets|turboprops GA 2
-1301 B none 
-1300  53.48320031 -001.00848982   0.00 misc jets|turboprops GA 3
-1301 B none 
-1300  53.48310720 -001.00880275   0.00 misc jets|turboprops GA 4
-1301 B none 
-1300  53.47860396 -001.01082479 -72.17 gate heavy|jets|turboprops GATE 1
+1300  53.48313006 -001.00865486   0.00 tie_down jets|turboprops GA 04
+1301 A general_aviation 
+1300  53.48319994 -001.00840934   0.00 tie_down jets|turboprops GA 03
+1301 A general_aviation 
+1300  53.48327934 -001.00813179   0.00 tie_down jets|turboprops GA 02
+1301 A general_aviation 
+1300  53.48334604 -001.00784891   0.00 tie_down jets|turboprops GA 01
+1301 A general_aviation 
+1300  53.47860396 -001.01082479 -72.17 gate heavy|jets|turboprops GATE 01
 1301 C airline 
-1300  53.47897342 -001.01062210 -72.43 gate heavy|jets|turboprops GATE 2
+1300  53.47897342 -001.01062210 -72.43 gate heavy|jets|turboprops GATE 02
 1301 C airline 
-1300  53.47934796 -001.01042132 -72.39 gate heavy|jets|turboprops GATE 3
+1300  53.47934796 -001.01042132 -72.39 gate heavy|jets|turboprops GATE 03
 1301 C airline 
-1300  53.47980965 -001.01030025 -72.40 gate heavy|jets|turboprops GATE 4
+1300  53.47980965 -001.01030025 -72.40 gate heavy|jets|turboprops GATE 04
 1301 D airline 
-1300  53.48030484 -001.01008856 -72.26 gate heavy|jets|turboprops GATE 5
+1300  53.48030484 -001.01008856 -72.26 gate heavy|jets|turboprops GATE 05
 1301 D airline 
-1300  53.48078869 -001.00982957 -72.40 gate heavy|jets|turboprops GATE 6
+1300  53.48078869 -001.00982957 -72.40 gate heavy|jets|turboprops GATE 06
 1301 D airline 
-1300  53.48126238 -001.00952541 -72.55 gate heavy|jets|turboprops GATE 7
+1300  53.48126238 -001.00952541 -72.55 gate heavy|jets|turboprops GATE 07
 1301 D airline 
-1300  53.48165692 -001.00919798 -72.29 gate heavy|jets|turboprops GATE 8
+1300  53.48165692 -001.00919798 -72.29 gate heavy|jets|turboprops GATE 08
 1301 C airline 
 1300  53.48677414 -001.00322518  15.82 gate jets|turboprops|props CARGO 11
 1301 C airline 
@@ -2261,9 +2261,9 @@ I
 1301 C airline 
 1300  53.47308515 -001.00971207 197.81 misc jets|turboprops Engine Test Area
 1301 B none 
-1300  53.48640676 -001.00921046  98.44 hangar jets|turboprops|props HANGAR 3
+1300  53.48623660 -001.00963625  35.29 hangar jets|turboprops|props HANGAR 3
 1301 B none 
-1300  53.48677930 -001.00865461 -189.61 hangar jets|turboprops|props HANGAR 4
+1300  53.48711207 -001.00827331 235.22 hangar jets|turboprops|props HANGAR 4
 1301 B none 
 18  53.47486796 -001.00190430 1 BCN
 19  53.48283753 -000.99776159 1 WS
