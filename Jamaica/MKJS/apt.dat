@@ -905,13 +905,14 @@ I
 21  18.50701478 -077.90688308 2 243.6000 3.10 25  PAPI-4L
 21  18.50616679 -077.90648189 2 243.6000 3.10 25  PAPI-4L
 14  18.49887322 -077.91767983  29.53 0 Tower
-1300  18.49863429 -077.91892039 153.57 gate jets|turboprops Gate 1
+1300  18.49863429 -077.91892039 153.57 gate jets|turboprops Gate 01
 1301 D airline 
 1300  18.49849300 -077.91503900 340.31 gate jets|turboprops Gate 10
 1301 C airline 
 1300  18.49864286 -077.91466000 348.60 gate jets|turboprops Gate 12
 1301 C airline 
-15  18.49944622 -077.91491472 157.91 Gate 13
+1300  18.49944622 -077.91491472 157.91 gate heavy|jets|turboprops|props|helos|fighters Gate 13
+1301 E airline 
 1300  18.49893128 -077.91424130 336.31 gate jets|turboprops Gate 14
 1301 D airline 
 1300  18.49962561 -077.91431158 -205.43 gate jets|turboprops Gate 15B
@@ -928,21 +929,21 @@ I
 1301 D airline 
 1300  18.49969732 -077.91348411 -116.94 gate jets|turboprops Gate 19B
 1301 D airline 
-1300  18.49881428 -077.91850271 155.47 gate jets|turboprops Gate 2
+1300  18.49881428 -077.91850271 155.47 gate jets|turboprops Gate 02
 1301 C airline 
-1300  18.49902854 -077.91797426 154.16 gate jets|turboprops Gate 3
+1300  18.49902854 -077.91797426 154.16 gate jets|turboprops Gate 03
 1301 D airline 
-1300  18.49919533 -077.91752368 155.45 gate jets|turboprops Gate 4
+1300  18.49919533 -077.91752368 155.45 gate jets|turboprops Gate 04
 1301 C airline 
-1300  18.49937795 -077.91708773 155.97 gate jets|turboprops Gate 5 
+1300  18.49937795 -077.91708773 155.97 gate jets|turboprops Gate 05 
 1301 C airline 
-1300  18.49955358 -077.91664545 155.45 gate jets|turboprops Gate 6
+1300  18.49955358 -077.91664545 155.45 gate jets|turboprops Gate 06
 1301 C airline 
-1300  18.49975378 -077.91631586 202.40 gate jets|turboprops|props Gate 7 
+1300  18.49975378 -077.91631586 202.40 gate jets|turboprops|props Gate 07 
 1301 D airline 
-1300  18.49835051 -077.91540427 333.96 gate jets|turboprops Gate 8
+1300  18.49835051 -077.91540427 333.96 gate jets|turboprops Gate 08
 1301 C airline 
-1300  18.49911831 -077.91561251 174.76 gate jets|turboprops Gate 9
+1300  18.49911831 -077.91561251 174.76 gate jets|turboprops Gate 09
 1301 D airline 
 1300  18.49841920 -077.91940701 155.06 gate jets|turboprops Cargo Ramp 1A
 1301 D cargo 
