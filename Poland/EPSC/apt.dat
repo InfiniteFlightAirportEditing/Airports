@@ -1390,8 +1390,8 @@ I
 111  53.59441068  014.88601292
 111  53.59530733  014.89012946
 111  53.59383464  014.89762711
-111  53.58890882  014.91013610
-111  53.58142010  014.92497713
+111  53.58890882  014.91018849
+111  53.58142010  014.92502952
 113  53.57662947  014.92588280
 120 Linear Feature 3
 111  53.59234425  014.89781493 22
@@ -2262,112 +2262,112 @@ I
 21  53.57991501  014.91392024 3 311.2700 3.00 New Light Fixture 9
 21  53.59040817  014.89355240 2 132.3900 3.00 New Light Fixture 8
 14  53.59284227  014.89621766  82.02 0 New Tower Viewpoint 6
-1300  53.59312883  014.89163788  -5.39 gate jets|turboprops Remote-01
-1301 C none 
-1300  53.59369154  014.89030545  66.53 gate jets|turboprops Remote-02
-1301 C none 
-1300  53.59385710  014.89018800  65.38 gate jets|turboprops Remote-03
-1301 C none 
-1300  53.59461738  014.88876755 249.92 gate jets|turboprops Remote-05
-1301 C none 
-1300  53.59444092  014.88887400 250.46 gate jets|turboprops Remote-04
-1301 C none 
+1300  53.59312883  014.89163788  -5.39 misc jets|turboprops Remote-01
+1301 B none 
+1300  53.59369154  014.89030545  66.53 misc jets|turboprops Remote-02
+1301 B none 
+1300  53.59385710  014.89018800  65.38 misc jets|turboprops Remote-03
+1301 B none 
+1300  53.59461738  014.88876755 249.92 misc jets|turboprops Remote-05
+1301 B none 
+1300  53.59444092  014.88887400 250.46 misc jets|turboprops Remote-04
+1301 B none 
 1300  53.59302635  014.89409394  40.00 gate jets|turboprops GATE 6A
-1301 C none 
-1300  53.59178013  014.89608175 310.00 gate jets|turboprops Gate 3
-1301 C none 
-1300  53.59210411  014.89668540 311.00 gate jets|turboprops Gate 2
-1301 C none 
-1300  53.59237753  014.89709543 311.00 gate jets|turboprops Gate 1
-1301 C none 
+1301 C airline 
+1300  53.59178013  014.89608175 310.00 gate jets|turboprops GATE 01
+1301 C airline 
+1300  53.59210411  014.89668540 311.00 gate jets|turboprops GATE 02
+1301 C airline 
+1300  53.59237753  014.89709543 311.00 gate jets|turboprops GATE 03
+1301 C airline 
 1300  53.59299025  014.89392980   5.00 gate jets|turboprops GATE 6B
-1301 C none 
-1300  53.59267517  014.89504159  40.00 gate heavy|jets|turboprops GATE 5
-1301 E none 
-1300  53.59230292  014.89580175  40.00 gate heavy|jets|turboprops GATE 4
-1301 E none 
+1301 C airline 
+1300  53.59267517  014.89504159  40.00 gate heavy|jets|turboprops GATE 05
+1301 E airline 
+1300  53.59230292  014.89580175  40.00 gate heavy|jets|turboprops GATE 04
+1301 E airline 
 1300  53.58996765  014.90176996   0.00 tie_down jets|turboprops|fighters NW-Ramp 1
-1301 C none 
+1301 B general_aviation 
 1300  53.59027892  014.90116360   0.00 tie_down jets|turboprops|fighters NW-Ramp 2
-1301 C none 
+1301 B general_aviation 
 1300  53.59059044  014.90056948   0.00 tie_down jets|turboprops|fighters NW-Ramp 3
-1301 C none 
+1301 B general_aviation 
 1300  53.59094603  014.89987755   0.00 tie_down jets|turboprops|fighters NW-Ramp 4
-1301 C none 
+1301 B general_aviation 
 1300  53.59123802  014.89930655   0.00 tie_down jets|turboprops|fighters NW-Ramp 5
-1301 C none 
+1301 B general_aviation 
 1300  53.59151775  014.89873104   0.00 tie_down jets|turboprops|fighters NW-Ramp 6
-1301 C none 
+1301 B general_aviation 
 1300  53.59177442  014.89822546   0.00 tie_down jets|turboprops|fighters NW-Ramp 7
-1301 C none 
+1301 B general_aviation 
 1300  53.58933252  014.90254037  40.00 tie_down props GA RAMP 2
-1301 B none 
+1301 A general_aviation 
 1300  53.58955823  014.90207554  40.00 tie_down props GA RAMP 1
-1301 B none 
+1301 A general_aviation 
 1300  53.58806742  014.90704303  -4.56 hangar props GA-Hangar A-2
-1301 B none 
+1301 A none 
 1300  53.58785627  014.90670615  66.04 hangar props GA Hangar A-4
-1301 B none 
+1301 A none 
 1300  53.58799289  014.90648540  68.74 hangar props GA Hangar A-3
-1301 B none 
+1301 A none 
 1300  53.58792334  014.90738723   2.68 hangar props GA Hangar A-1
-1301 B none 
-1300  53.58700946  014.90486774  40.00 tie_down props Grass 1
-1301 B none 
-1300  53.58717185  014.90455573  40.00 tie_down props Grass 2
-1301 B none 
-1300  53.58730436  014.90429249  40.00 tie_down props Grass 3
-1301 B none 
-1300  53.58742268  014.90402978  40.00 tie_down props Grass 4
-1301 B none 
-1300  53.58716952  014.90506877 220.00 tie_down props Grass 5
-1301 B none 
-1300  53.58728781  014.90482251 220.00 tie_down props Grass 6
-1301 B none 
-1300  53.58740654  014.90458478 220.00 tie_down props Grass 7
-1301 B none 
-1300  53.58754273  014.90433787 220.00 tie_down props Grass 8
-1301 B none 
-1300  53.58766472  014.90407809 220.00 tie_down props Grass 9
-1301 B none 
+1301 A none 
+1300  53.58700946  014.90486774  40.00 tie_down props Grass 01
+1301 A general_aviation 
+1300  53.58717185  014.90455573  40.00 tie_down props Grass 02
+1301 A general_aviation 
+1300  53.58730436  014.90429249  40.00 tie_down props Grass 03
+1301 A general_aviation 
+1300  53.58742268  014.90402978  40.00 tie_down props Grass 04
+1301 A general_aviation 
+1300  53.58716952  014.90506877 220.00 tie_down props Grass 05
+1301 A general_aviation 
+1300  53.58728781  014.90482251 220.00 tie_down props Grass 06
+1301 A general_aviation 
+1300  53.58740654  014.90458478 220.00 tie_down props Grass 07
+1301 A general_aviation 
+1300  53.58754273  014.90433787 220.00 tie_down props Grass 08
+1301 A general_aviation 
+1300  53.58766472  014.90407809 220.00 tie_down props Grass 09
+1301 A general_aviation 
 1300  53.58217743  014.91694951   0.00 tie_down jets|turboprops|props|fighters SW-Ramp 1
-1301 C none 
+1301 B general_aviation 
 1300  53.58236898  014.91657258   0.00 tie_down jets|turboprops|props|fighters SE-Ramp 2
-1301 C none 
+1301 B general_aviation 
 1300  53.58254792  014.91621179   0.00 tie_down jets|turboprops|props|fighters SE-Ramp 3
-1301 C none 
+1301 B general_aviation 
 1300  53.58274019  014.91586245   0.00 tie_down jets|turboprops|props|fighters SE-Ramp 4
-1301 C none 
+1301 B general_aviation 
 1300  53.58292523  014.91549636   0.00 tie_down jets|turboprops|props|fighters SE-Ramp 5
-1301 C none 
+1301 B general_aviation 
 1300  53.58848360  014.90630562   0.00 hangar props GA-Hangar B-2
-1301 B none 
+1301 A none 
 1300  53.58859072  014.90605414   0.00 hangar props GA-Hangar B-1
+1301 A none 
+1300  53.58761622  014.90720238 254.75 tie_down props GA Tie-down
+1301 A general_aviation 
+1300  53.58053650  014.92002451 277.47 hangar fighters Hangar 11
+1301 A none 
+1300  53.58184194  014.92036972 272.56 hangar fighters Hangar 10
+1301 A none 
+1300  53.58234457  014.91950267  10.32 hangar fighters Hangar 09
 1301 B none 
-1300  53.58761622  014.90720238 254.75 tie_down turboprops|props|helos GA Tie-down
-1301 C none 
-1300  53.58047818  014.92019194 -230.14 hangar fighters Hangar 11
-1301 B none 
-1300  53.58180748  014.92051930 130.12 hangar fighters Hangar 10
-1301 B none 
-1300  53.58234457  014.91950267  10.32 hangar fighters Hangar 9
-1301 B none 
-1300  53.58323584  014.91541325  72.36 hangar fighters Hangar 7
-1301 B none 
-1300  53.58386165  014.91406082  78.53 hangar fighters Hangar 5
-1301 B none 
-1300  53.58360242  014.91646244 -240.86 hangar fighters Hangar 8
-1301 B none 
-1300  53.58410204  014.91533329  24.44 hangar fighters Hangar 6
-1301 B none 
-1300  53.58586344  014.91179854  36.30 hangar fighters Hangar 3
-1301 B none 
-1300  53.58539719  014.91271905 100.15 hangar fighters Hangar 4
-1301 B none 
-1300  53.58529916  014.91098898  34.60 hangar fighters Hangar 2
-1301 B none 
-1300  53.58482909  014.91195474  40.91 hangar fighters Hangar 1
-1301 B none 
+1300  53.58319210  014.91527930 219.96 hangar fighters Hangar 07
+1301 A none 
+1300  53.58380466  014.91390677 222.70 hangar fighters Hangar 05
+1301 A none 
+1300  53.58364218  014.91632179 268.95 hangar fighters Hangar 08
+1301 A none 
+1300  53.58400926  014.91529534 167.34 hangar fighters Hangar 06
+1301 A none 
+1300  53.58577066  014.91173826 180.10 hangar fighters Hangar 03
+1301 A none 
+1300  53.58538659  014.91249802 255.08 hangar fighters Hangar 04
+1301 A none 
+1300  53.58520373  014.91095102 181.26 hangar fighters Hangar 02
+1301 A none 
+1300  53.58478668  014.91177390 265.12 hangar fighters Hangar 01
+1301 A none 
 18  53.59284193  014.89619883 1 New Airport Beacon 7
 54 12125 SZCZECIN TWR
 99
