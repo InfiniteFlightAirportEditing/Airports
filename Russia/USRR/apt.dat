@@ -2555,27 +2555,27 @@ I
 1301 B airline 
 1300  61.34107663  073.41360410  89.03 tie_down heavy|jets|turboprops|props|helos SGC-10
 1301 B airline 
-1300  61.34140781  073.41358013  89.03 tie_down heavy|jets|turboprops|props|helos SGC-9
+1300  61.34140781  073.41358013  89.03 tie_down heavy|jets|turboprops|props|helos SGC-09
 1301 B airline 
-1300  61.34266857  073.40948353   0.24 tie_down heavy|jets|turboprops|props|helos SGC-8R
+1300  61.34266857  073.40948353   0.24 tie_down heavy|jets|turboprops|props|helos SGC-08R
 1301 E airline 
-1300  61.34255467  073.40834690   0.24 tie_down heavy|jets|turboprops|props|helos SGC-8
+1300  61.34255467  073.40834690   0.24 tie_down heavy|jets|turboprops|props|helos SGC-08
 1301 D airline 
-1300  61.34255150  073.40751771   0.24 tie_down heavy|jets|turboprops|props|helos SGC-7
+1300  61.34255150  073.40751771   0.24 tie_down heavy|jets|turboprops|props|helos SGC-07
 1301 C airline 
-1300  61.34254834  073.40680645   0.24 tie_down heavy|jets|turboprops|props|helos SGC-6
+1300  61.34254834  073.40680645   0.24 tie_down heavy|jets|turboprops|props|helos SGC-06
 1301 C airline 
-1300  61.34254793  073.40608866   0.24 tie_down heavy|jets|turboprops|props|helos SGC-5
+1300  61.34254793  073.40608866   0.24 tie_down heavy|jets|turboprops|props|helos SGC-05
 1301 C airline 
-1300  61.34254916  073.40538116   0.24 tie_down heavy|jets|turboprops|props|helos SGC-4
+1300  61.34254916  073.40538116   0.24 tie_down heavy|jets|turboprops|props|helos SGC-04
 1301 C airline 
-1300  61.34254422  073.40466680   0.24 tie_down heavy|jets|turboprops|props|helos SGC-3
+1300  61.34254422  073.40466680   0.24 tie_down heavy|jets|turboprops|props|helos SGC-03
 1301 C airline 
-1300  61.34253777  073.40398887   0.24 tie_down heavy|jets|turboprops|props|helos SGC-2
+1300  61.34253777  073.40398887   0.24 tie_down heavy|jets|turboprops|props|helos SGC-02
 1301 C airline 
-1300  61.34253429  073.40308136   0.24 tie_down heavy|jets|turboprops|props|helos SGC-1
+1300  61.34253429  073.40308136   0.24 tie_down heavy|jets|turboprops|props|helos SGC-01
 1301 D airline 
-1300  61.34256333  073.40199376 359.60 tie_down heavy|jets|turboprops|props|helos SGC-1L
+1300  61.34256333  073.40199376 359.60 tie_down heavy|jets|turboprops|props|helos SGC-01L
 1301 D airline 
 1300  61.33913191  073.39557136  89.74 hangar heavy|jets|turboprops|props|helos SGC-HANGAR-2A
 1301 B none 
@@ -2595,23 +2595,23 @@ I
 1301 B military 
 1300  61.34074061  073.42008310 359.18 tie_down heavy|jets|turboprops|props|helos MILITARY 10
 1301 B military 
-1300  61.34073874  073.42092277 359.18 tie_down heavy|jets|turboprops|props|helos MILITARY 9
+1300  61.34073874  073.42092277 359.18 tie_down heavy|jets|turboprops|props|helos MILITARY 09
 1301 B military 
-1300  61.34118807  073.42091103 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 8
+1300  61.34118807  073.42091103 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 08
 1301 B military 
-1300  61.34117569  073.42006637 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 7
+1300  61.34117569  073.42006637 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 07
 1301 B military 
-1300  61.34116986  073.41922171 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 6
+1300  61.34116986  073.41922171 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 06
 1301 B military 
-1300  61.34116549  073.41838464 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 5
+1300  61.34116549  073.41838464 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 05
 1301 B military 
-1300  61.34115456  073.41753999 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 4
+1300  61.34115456  073.41753999 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 04
 1301 B military 
-1300  61.34114873  073.41625933 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 3
+1300  61.34114873  073.41625933 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 03
 1301 B military 
-1300  61.34114290  073.41541923 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 2
+1300  61.34114290  073.41541923 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 02
 1301 B military 
-1300  61.34114489  073.41475079 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 1
+1300  61.34114489  073.41475079 178.58 tie_down heavy|jets|turboprops|props|helos MILITARY 01
 1301 B military 
 18  61.34511882  073.40182197 1 BCN
 50 12480 SURGUT_ATIS
