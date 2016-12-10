@@ -1063,53 +1063,53 @@ I
 21  15.44674926 -087.92933431 2 40.0800 3.00 04  PAPI-4L
 21  15.45910368 -087.91731391 2 220.0800 3.00 22  PAPI-4L
 14  15.45590804 -087.92728446  29.53 0 Tower
-1300  15.44360489 -087.93468004  98.03 gate jets|turboprops MILITARY APRON 4
+1300  15.44360489 -087.93468004  98.03 gate jets|turboprops MILITARY APRON 04
 1301 C military 
-1300  15.44330144 -087.93497737  97.17 gate jets|turboprops MILITARY APRON 3
+1300  15.44330144 -087.93497737  97.17 gate jets|turboprops MILITARY APRON 03
 1301 C military 
-1300  15.44296117 -087.93527131  93.03 gate jets|turboprops MILITARY APRON 2
+1300  15.44296117 -087.93527131  93.03 gate jets|turboprops MILITARY APRON 02
 1301 C military 
-1300  15.45621107 -087.92520764  39.68 gate jets|turboprops RAMP 5F
+1300  15.45621107 -087.92520764  39.68 gate jets|turboprops RAMP 05F
 1301 B airline 
-1300  15.45578877 -087.92568718 -140.44 gate jets|turboprops RAMP 5A
+1300  15.45578877 -087.92568718 -140.44 gate jets|turboprops RAMP 05A
 1301 B airline 
-1300  15.45641384 -087.92548527  39.07 gate jets|turboprops RAMP 5E
+1300  15.45641384 -087.92548527  39.07 gate jets|turboprops RAMP 05E
 1301 B airline 
-1300  15.45660424 -087.92570956  39.22 gate jets|turboprops RAMP 5D
+1300  15.45660424 -087.92570956  39.22 gate jets|turboprops RAMP 05D
 1301 B airline 
-1300  15.45598726 -087.92592516 -140.88 gate jets|turboprops RAMP 5B
+1300  15.45598726 -087.92592516 -140.88 gate jets|turboprops RAMP 05B
 1301 B airline 
-1300  15.45617012 -087.92615898 -140.27 gate jets|turboprops RAMP 5C
+1300  15.45617012 -087.92615898 -140.27 gate jets|turboprops RAMP 05C
 1301 B airline 
-1300  15.45589828 -087.92644553 -50.73 gate jets|turboprops GATE 4
+1300  15.45589828 -087.92644553 -50.73 gate jets|turboprops GATE 04
 1301 D airline 
-1300  15.45552129 -087.92676800 -51.19 gate jets|turboprops GATE 3
+1300  15.45552129 -087.92676800 -51.19 gate jets|turboprops GATE 03
 1301 D airline 
-1300  15.45516123 -087.92709387 -50.66 gate jets|turboprops GATE 2
+1300  15.45516123 -087.92709387 -50.66 gate jets|turboprops GATE 02
 1301 D airline 
-1300  15.45489163 -087.92732261 -50.65 gate jets|turboprops GATE 1A
+1300  15.45489163 -087.92732261 -50.65 gate jets|turboprops GATE 01A
 1301 C airline 
-1300  15.45482884 -087.92737961 -50.65 gate jets|turboprops GATE 1
+1300  15.45482884 -087.92737961 -50.65 gate jets|turboprops GATE 01
 1301 C airline 
-1300  15.44600171 -087.93273202  41.93 gate turboprops|props GA RAMP 2
+1300  15.44600171 -087.93273202  41.93 gate turboprops|props GA RAMP 02
 1301 A general_aviation 
-1300  15.44612576 -087.93287450  40.52 gate turboprops|props GA RAMP 1
+1300  15.44612576 -087.93287450  40.52 gate turboprops|props GA RAMP 01
 1301 A general_aviation 
-1300  15.44536248 -087.93339823 130.98 gate turboprops|props GA RAMP 8
+1300  15.44536248 -087.93339823 130.98 gate turboprops|props GA RAMP 08
 1301 B general_aviation 
 1300  15.44499119 -087.93307304 -140.69 gate turboprops|props GA RAMP 10
 1301 A general_aviation 
-1300  15.44508661 -087.93321232 -141.63 gate turboprops|props GA RAMP 9
+1300  15.44508661 -087.93321232 -141.63 gate turboprops|props GA RAMP 09
 1301 A general_aviation 
-1300  15.44527334 -087.93269429 -141.65 gate turboprops|props GA RAMP 7
+1300  15.44527334 -087.93269429 -141.65 gate turboprops|props GA RAMP 07
 1301 A general_aviation 
-1300  15.44540335 -087.93282832 220.24 gate turboprops|props GA RAMP 6
+1300  15.44540335 -087.93282832 220.24 gate turboprops|props GA RAMP 06
 1301 A general_aviation 
-1300  15.44551910 -087.93297480 -138.39 gate turboprops|props GA RAMP 5
+1300  15.44551910 -087.93297480 -138.39 gate turboprops|props GA RAMP 05
 1301 A general_aviation 
-1300  15.44565182 -087.93313970 -139.07 gate turboprops|props GA RAMP 4
+1300  15.44565182 -087.93313970 -139.07 gate turboprops|props GA RAMP 04
 1301 A general_aviation 
-1300  15.44574500 -087.93337189 -139.67 gate turboprops|props GA RAMP 3
+1300  15.44574500 -087.93337189 -139.67 gate turboprops|props GA RAMP 03
 1301 B general_aviation 
 1300  15.44259987 -087.93554995  94.90 gate jets|turboprops MILITARY APRON 1
 1301 C military 
