@@ -1739,105 +1739,105 @@ I
 21  54.96572552  073.29606992 2 76.9000 3.00 PAPI-4L
 21  54.96855952  073.32431935 2 256.9000 3.00 PAPI-4L
 14  54.95749497  073.31598844  82.02 0 Tower
-1300  54.95935009  073.33416421 -87.74 tie_down heavy|jets|turboprops|props|helos MILITARY-36
-1301 B general_aviation 
-1300  54.95966159  073.33415242 -87.74 tie_down heavy|jets|turboprops|props|helos MILITARY-35
-1301 B general_aviation 
-1300  54.95986452  073.33415645 -87.74 tie_down heavy|jets|turboprops|props|helos MILITARY-34
-1301 B general_aviation 
-1300  54.96010856  073.33417640 -87.74 tie_down heavy|jets|turboprops|props|helos MILITARY-33
-1301 B general_aviation 
-1300  54.96035061  073.33419102 -88.98 tie_down heavy|jets|turboprops|props|helos MILITARY-32
-1301 B general_aviation 
-1300  54.96054521  073.33420134 -88.98 tie_down heavy|jets|turboprops|props|helos MILITARY-31
-1301 B general_aviation 
-1300  54.96075504  073.33421785 271.61 tie_down heavy|jets|turboprops|props|helos MILITARY-30
-1301 B general_aviation 
-1300  54.96109572  073.33423857 271.61 tie_down heavy|jets|turboprops|props|helos MILITARY-29
-1301 B general_aviation 
-1300  54.96134056  073.33426051 271.61 tie_down heavy|jets|turboprops|props|helos MILITARY-28
-1301 B general_aviation 
-1300  54.96158584  073.33428217 271.61 tie_down heavy|jets|turboprops|props|helos MILITARY-27
-1301 B general_aviation 
-1300  54.96009178  073.30525292 141.47 tie_down heavy|jets|turboprops|props|helos OMS-23
+1300  54.95935009  073.33416421 -87.74 tie_down jets|turboprops MILITARY-36
+1301 B military 
+1300  54.95966159  073.33415242 -87.74 tie_down jets|turboprops MILITARY-35
+1301 B military 
+1300  54.95986452  073.33415645 -87.74 tie_down jets|turboprops MILITARY-34
+1301 B military 
+1300  54.96010856  073.33417640 -87.74 tie_down jets|turboprops MILITARY-33
+1301 B military 
+1300  54.96035061  073.33419102 -88.98 tie_down jets|turboprops MILITARY-32
+1301 B military 
+1300  54.96054521  073.33420134 -88.98 tie_down jets|turboprops MILITARY-31
+1301 B military 
+1300  54.96075504  073.33421785 271.61 tie_down jets|turboprops MILITARY-30
+1301 B military 
+1300  54.96109572  073.33423857 271.61 tie_down jets|turboprops MILITARY-29
+1301 B military 
+1300  54.96134056  073.33426051 271.61 tie_down jets|turboprops MILITARY-28
+1301 B military 
+1300  54.96158584  073.33428217 271.61 tie_down jets|turboprops MILITARY-27
+1301 B military 
+1300  54.96009178  073.30525292 141.47 tie_down heavy OMS-23
 1301 E airline 
-1300  54.95930518  073.30579677 -99.14 tie_down heavy|jets|turboprops|props|helos OMS-22
+1300  54.95930518  073.30579677 -99.14 tie_down jets|turboprops OMS-22
 1301 C airline 
-1300  54.95879725  073.30651857 -98.46 tie_down heavy|jets|turboprops|props|helos OMS-21
+1300  54.95879725  073.30651857 -98.46 tie_down jets|turboprops OMS-21
 1301 C airline 
-1300  54.95836025  073.30712811 -99.35 tie_down heavy|jets|turboprops|props|helos OMS-20
+1300  54.95836025  073.30712811 -99.35 tie_down jets|turboprops OMS-20
 1301 C airline 
-1300  54.95799296  073.30764727 -99.35 tie_down heavy|jets|turboprops|props|helos OMS-19
+1300  54.95799296  073.30764727 -99.35 tie_down jets|turboprops OMS-19
 1301 C airline 
-1300  54.95762871  073.30817037 -99.35 tie_down heavy|jets|turboprops|props|helos OMS-18
+1300  54.95762871  073.30817037 -99.35 tie_down jets|turboprops OMS-18
 1301 C airline 
-1300  54.95723486  073.31044333 164.06 tie_down heavy|jets|turboprops|props|helos OMS-17
+1300  54.95723486  073.31044333 164.06 tie_down jets|turboprops OMS-17
 1301 C airline 
-1300  54.95754309  073.31099426 168.16 tie_down heavy|jets|turboprops|props|helos OMS-16
+1300  54.95754309  073.31099426 168.16 tie_down jets|turboprops OMS-16
 1301 C airline 
-1300  54.95787889  073.31160371 163.22 tie_down heavy|jets|turboprops|props|helos OMS-15
+1300  54.95787889  073.31160371 163.22 tie_down jets|turboprops OMS-15
 1301 C airline 
-1300  54.95820508  073.31219295 162.33 tie_down heavy|jets|turboprops|props|helos OMS-14
+1300  54.95820508  073.31219295 162.33 tie_down jets|turboprops OMS-14
 1301 C airline 
-1300  54.95853161  073.31278132 163.85 tie_down heavy|jets|turboprops|props|helos OMS-13
+1300  54.95853161  073.31278132 163.85 tie_down jets|turboprops OMS-13
 1301 C airline 
-1300  54.95885464  073.31336497 163.44 tie_down heavy|jets|turboprops|props|helos OMS-12
+1300  54.95885464  073.31336497 163.44 tie_down jets|turboprops OMS-12
 1301 C airline 
-1300  54.95918025  073.31395099 165.39 tie_down heavy|jets|turboprops|props|helos OMS-11
+1300  54.95918025  073.31395099 165.39 tie_down jets|turboprops OMS-11
 1301 C airline 
-1300  54.95949815  073.31452528 169.35 tie_down heavy|jets|turboprops|props|helos OMS-10
+1300  54.95949815  073.31452528 169.35 tie_down jets|turboprops OMS-10
 1301 C airline 
-1300  54.95982687  073.31512292 168.28 tie_down heavy|jets|turboprops|props|helos OMS-9
+1300  54.95982687  073.31512292 168.28 tie_down jets|turboprops OMS-09
 1301 C airline 
-1300  54.96015889  073.31571899 164.68 tie_down heavy|jets|turboprops|props|helos OMS-8
+1300  54.96015889  073.31571899 164.68 tie_down jets|turboprops OMS-08
 1301 C airline 
-1300  54.96047191  073.31627591 165.42 tie_down heavy|jets|turboprops|props|helos OMS-7
+1300  54.96047191  073.31627591 165.42 tie_down jets|turboprops OMS-07
 1301 C airline 
-1300  54.95914957  073.30600969 -160.90 tie_down heavy|jets|turboprops|props|helos OMS-22A
+1300  54.95914957  073.30600969 -160.90 tie_down jets|turboprops OMS-22A
 1301 C airline 
-1300  54.95863945  073.30673008 -159.44 tie_down heavy|jets|turboprops|props|helos OMS-21A
+1300  54.95863945  073.30673008 -159.44 tie_down jets|turboprops OMS-21A
 1301 C airline 
-1300  54.95821080  073.30733516 -157.37 tie_down heavy|jets|turboprops|props|helos OMS-20A
+1300  54.95821080  073.30733516 -157.37 tie_down jets|turboprops OMS-20A
 1301 C airline 
-1300  54.95785332  073.30784138 -159.13 tie_down heavy|jets|turboprops|props|helos OMS-19A
+1300  54.95785332  073.30784138 -159.13 tie_down jets|turboprops OMS-19A
 1301 C airline 
-1300  54.95748699  073.30835300 -158.37 tie_down heavy|jets|turboprops|props|helos OMS-18A
+1300  54.95748699  073.30835300 -158.37 tie_down jets|turboprops OMS-18A
 1301 C airline 
-1300  54.95733690  073.31063359 109.63 tie_down heavy|jets|turboprops|props|helos OMS-17A
+1300  54.95733690  073.31063359 109.63 tie_down jets|turboprops OMS-17A
 1301 C airline 
-1300  54.95766686  073.31121997 107.53 tie_down heavy|jets|turboprops|props|helos OMS-16A
+1300  54.95766686  073.31121997 107.53 tie_down jets|turboprops OMS-16A
 1301 C airline 
-1300  54.95798919  073.31180084 110.34 tie_down heavy|jets|turboprops|props|helos OMS-15A
+1300  54.95798919  073.31180084 110.34 tie_down jets|turboprops OMS-15A
 1301 C airline 
-1300  54.95831049  073.31238916 109.66 tie_down heavy|jets|turboprops|props|helos OMS-14A
+1300  54.95831049  073.31238916 109.66 tie_down jets|turboprops OMS-14A
 1301 C airline 
-1300  54.95864134  073.31297653 106.26 tie_down heavy|jets|turboprops|props|helos OMS-13A
+1300  54.95864134  073.31297653 106.26 tie_down jets|turboprops OMS-13A
 1301 C airline 
-1300  54.95896157  073.31356514 106.80 tie_down heavy|jets|turboprops|props|helos OMS-12A
+1300  54.95896157  073.31356514 106.80 tie_down jets|turboprops OMS-12A
 1301 C airline 
-1300  54.95929358  073.31417153 105.15 tie_down heavy|jets|turboprops|props|helos OMS-11A
+1300  54.95929358  073.31417153 105.15 tie_down jets|turboprops OMS-11A
 1301 C airline 
-1300  54.95962574  073.31475114 107.05 tie_down heavy|jets|turboprops|props|helos OMS-10A
+1300  54.95962574  073.31475114 107.05 tie_down jets|turboprops OMS-10A
 1301 C airline 
-1300  54.95995420  073.31535401 106.03 tie_down heavy|jets|turboprops|props|helos OMS-9A
+1300  54.95995420  073.31535401 106.03 tie_down jets|turboprops OMS-09A
 1301 C airline 
-1300  54.96028895  073.31595517 104.43 tie_down heavy|jets|turboprops|props|helos OMS-8A
+1300  54.96028895  073.31595517 104.43 tie_down jets|turboprops OMS-08A
 1301 C airline 
-1300  54.96060338  073.31649461 106.86 tie_down heavy|jets|turboprops|props|helos OMS-7A
+1300  54.96060338  073.31649461 106.86 tie_down jets|turboprops OMS-07A
 1301 C airline 
-1300  54.96085865  073.31687868 134.32 tie_down heavy|jets|turboprops|props|helos OMS-6
+1300  54.96085865  073.31687868 134.32 tie_down jets|turboprops OMS-06
 1301 C airline 
-1300  54.96112693  073.31736749 134.32 tie_down heavy|jets|turboprops|props|helos OMS-5
+1300  54.96112693  073.31736749 134.32 tie_down jets|turboprops OMS-05
 1301 C airline 
-1300  54.96141330  073.31787014 136.29 tie_down heavy|jets|turboprops|props|helos OMS-4
+1300  54.96141330  073.31787014 136.29 tie_down jets|turboprops OMS-04
 1301 C airline 
-1300  54.96293494  073.31877053 -43.07 tie_down heavy|jets|turboprops|props|helos OMS-3
+1300  54.96293494  073.31877053 -43.07 tie_down jets|turboprops OMS-03
 1301 C airline 
-1300  54.96319567  073.31924210 -43.07 tie_down heavy|jets|turboprops|props|helos OMS-2
+1300  54.96319567  073.31924210 -43.07 tie_down jets|turboprops OMS-02
 1301 C airline 
-1300  54.96345844  073.31971063 -43.07 tie_down heavy|jets|turboprops|props|helos OMS-1
+1300  54.96345844  073.31971063 -43.07 tie_down jets|turboprops OMS-01
 1301 C airline 
-1300  54.96370548  073.32020342 -43.07 tie_down heavy|jets|turboprops|props|helos OMS-0
+1300  54.96370548  073.32020342 -43.07 tie_down jets|turboprops OMS-00
 1301 C airline 
 18  54.95749313  073.31600089 1 BCN
 50 12640 OMSK_ATIS
