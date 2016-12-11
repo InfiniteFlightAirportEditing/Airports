@@ -1679,23 +1679,23 @@ I
 1301 C airline 
 1300  03.63889166  098.88046215 135.00 gate jets|turboprops|props Gate 10
 1301 C airline 
-1300  03.63915300  098.88071697 134.88 gate jets|turboprops|props Gate 9
+1300  03.63915300  098.88071697 134.88 gate jets|turboprops|props Gate 09
 1301 C airline 
-1300  03.63941714  098.88097526 134.80 gate jets|turboprops|props Gate 8
+1300  03.63941714  098.88097526 134.80 gate jets|turboprops|props Gate 08
 1301 C airline 
-1300  03.63966665  098.88124568 135.24 gate jets|turboprops|props Gate 7
+1300  03.63966665  098.88124568 135.24 gate jets|turboprops|props Gate 07
 1301 C airline 
-1300  03.63992722  098.88151519 134.71 gate jets|turboprops|props Gate 6
+1300  03.63992722  098.88151519 134.71 gate jets|turboprops|props Gate 06
 1301 C airline 
-1300  03.64005675  098.87930327 -43.25 gate jets|turboprops|props Gate 5
+1300  03.64005675  098.87930327 -43.25 gate jets|turboprops|props Gate 05
 1301 C airline 
-1300  03.64031121  098.87955912 -45.00 gate jets|turboprops|props Gate 4
+1300  03.64031121  098.87955912 -45.00 gate jets|turboprops|props Gate 04
 1301 C airline 
-1300  03.64057839  098.87981999 -43.94 gate jets|turboprops|props Gate 3
+1300  03.64057839  098.87981999 -43.94 gate jets|turboprops|props Gate 03
 1301 C airline 
-1300  03.64083813  098.88009238 315.88 gate jets|turboprops|props Gate 2
+1300  03.64083813  098.88009238 315.88 gate jets|turboprops|props Gate 02
 1301 C airline 
-1300  03.64109234  098.88035357 315.00 gate jets|turboprops|props Gate 1
+1300  03.64109234  098.88035357 315.00 gate jets|turboprops|props Gate 01
 1301 C airline 
 18  03.64152640  098.88536953 1 Beacon
 19  03.62578290  098.85990710 0 Windsock 05
