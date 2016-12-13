@@ -89,9 +89,9 @@ I
 111 -64.23927781 -056.62687354
 113 -64.23993996 -056.62582828
 14 -64.23932371 -056.62896251   6.56 0 New Tower Viewpoint 10
-1300 -64.23993935 -056.63000423 345.15 gate turboprops|props|helos 02
-1301 B general_aviation 
-1300 -64.23927247 -056.62960893 -22.92 gate turboprops|helos 01
+1300 -64.24101530 -056.62801071 111.22 gate turboprops|props|helos 02
+1301 C general_aviation 
+1300 -64.23902222 -056.62908457  21.57 gate turboprops|helos 01
 1301 B general_aviation 
 18 -64.23932371 -056.62896251 1 New Airport Beacon 1
 54 11810 MARAMBIO TWR
