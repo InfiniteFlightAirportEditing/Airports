@@ -3,7 +3,7 @@ I
 
 1    991 0 0 EDMV Vilshofen
 100 20.12 1 0 0.25 0 3 0 12  48.63787685  013.18856624  258    0 2 0 0 1 30  48.63189378  013.20303679  120    0 2 0 0 1
-102 H64  48.63708667  013.19150545  29.54 7.50 7.68 1 0 0 0.00 1
+102 H64  48.63708667  013.19150545  29.54 7.50 7.70 1 0 0 0.00 1
 110 2 0.00 0.0000 New Taxiway 64
 111  48.63761843  013.19058000
 111  48.63752048  013.19048878
@@ -726,11 +726,11 @@ I
 21  48.63260288  013.20073450 2 301.8900 3.00 30  PAPI-4L
 14  48.63748658  013.19069179  49.21 0 New Tower Viewpoint 20
 1300  48.63714802  013.19175091 292.00 misc props Fuel Station
-1301 A general_aviation 
+1301 A none 
 1300  48.63798336  013.18936655 215.27 hangar props North Hangars 02
-1301 A general_aviation 
+1301 A none 
 1300  48.63820204  013.18890172 214.32 hangar props North Hangars 01
-1301 A general_aviation 
+1301 A none 
 1300  48.63647885  013.19025484  31.45 tie_down props South Apron 05
 1301 A general_aviation 
 1300  48.63653738  013.19011108  27.69 tie_down props South Apron 04
@@ -766,13 +766,13 @@ I
 1300  48.63625959  013.19090798  30.33 tie_down props South 01
 1301 A general_aviation 
 1300  48.63590582  013.19541868 211.35 hangar props East Hangars 04
-1301 A general_aviation 
+1301 A none 
 1300  48.63605617  013.19497726 213.91 hangar props East Hangars 03
-1301 A general_aviation 
+1301 A none 
 1300  48.63631209  013.19443982 210.38 hangar props East Hangars 02
-1301 A general_aviation 
+1301 A none 
 1300  48.63651011  013.19392499 213.17 hangar props East Hangars 01
-1301 A general_aviation 
+1301 A none 
 18  48.63748658  013.19069179 1 BCN
 51 11917 Vilshofen Unicom
 99
