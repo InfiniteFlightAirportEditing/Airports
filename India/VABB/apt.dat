@@ -9762,7 +9762,7 @@ I
 21  19.08821418  072.87157841 2 269.1700 3.30 27  PAPI-4L
 21  19.08397426  072.87228422 2 314.3400 3.00 32  PAPI-4L
 14  19.09659624  072.86299494 200.13 0 New Tower Viewpoint 1
-1300  19.08150074  072.87140081 205.60 gate jets|turboprops Apron L 07
+1300  19.08150074  072.87140081 205.60 gate jets|turboprops Apron L07
 1301 C airline 
 1300  19.09259152  072.87464994  89.24 tie_down jets|turboprops STAND R05
 1301 C airline 
@@ -9936,10 +9936,10 @@ I
 1301 F airline 
 1300  19.09495382  072.87330770 -40.82 gate heavy|jets|turboprops INTERNATIONAL TERMINAL GATE V18
 1301 F airline 
-1300  19.08551124  072.85602008  27.47 tie_down jets|turboprops|props Hangar South West
-1301 C airline 
+1300  19.08479245  072.85583159 178.51 hangar jets|turboprops|props Hangar South West
+1301 C none 
 1300  19.08638480  072.85935420   0.50 tie_down jets|turboprops|props IAF
-1301 B general_aviation 
+1301 B military 
 1300  19.08699068  072.86182404 359.47 tie_down jets|turboprops|props GA 03
 1301 B general_aviation 
 1300  19.08700116  072.86249162 359.13 tie_down jets|turboprops|props GA 04
@@ -9948,10 +9948,10 @@ I
 1301 B general_aviation 
 1300  19.08695523  072.86018035 311.23 tie_down jets|turboprops|props GA 01
 1301 B general_aviation 
-1300  19.08629227  072.86504629 176.19 tie_down heavy|jets|turboprops Maintenance Apron South 02
-1301 E airline 
-1300  19.08625936  072.86422525 175.78 tie_down heavy|jets|turboprops Maintenance Apron South 01
-1301 E airline 
+1300  19.08629227  072.86504629 176.19 misc heavy|jets|turboprops Maintenance Apron South 02
+1301 E none 
+1300  19.08625936  072.86422525 175.78 misc heavy|jets|turboprops Maintenance Apron South 01
+1301 E none 
 1300  19.08011888  072.87463774 233.95 tie_down jets|turboprops Apron L AF04
 1301 B military 
 1300  19.08023362  072.87442596 237.91 tie_down jets|turboprops Apron L AF03
@@ -9960,23 +9960,23 @@ I
 1301 B military 
 1300  19.08044168  072.87398594 238.21 tie_down jets|turboprops Apron L AF01
 1301 B military 
-1300  19.08247549  072.87191582  26.56 tie_down jets|turboprops Apron L 10
+1300  19.08247549  072.87191582  26.56 tie_down jets|turboprops Apron L10
 1301 C airline 
 1300  19.08235347  072.87218405  26.57 tie_down jets|turboprops Apron L09
 1301 C airline 
-1300  19.08056743  072.87335249 204.71 tie_down jets|turboprops Apron L 01
+1300  19.08056743  072.87335249 204.71 tie_down jets|turboprops Apron L01
 1301 C airline 
-1300  19.08069327  072.87309131 204.72 tie_down jets|turboprops Apron L 02
+1300  19.08069327  072.87309131 204.72 tie_down jets|turboprops Apron L02
 1301 C airline 
-1300  19.08084851  072.87277927 203.96 tie_down jets|turboprops Apron L 03
+1300  19.08084851  072.87277927 203.96 tie_down jets|turboprops Apron L03
 1301 C airline 
-1300  19.08101319  072.87243745 204.98 tie_down jets|turboprops Apron L 04
+1300  19.08101319  072.87243745 204.98 tie_down jets|turboprops Apron L04
 1301 C airline 
-1300  19.08117761  072.87209778 204.93 tie_down jets|turboprops Apron L 05
+1300  19.08117761  072.87209778 204.93 tie_down jets|turboprops Apron L05
 1301 C airline 
-1300  19.08133342  072.87174644 205.29 tie_down jets|turboprops Apron L 06
+1300  19.08133342  072.87174644 205.29 tie_down jets|turboprops Apron L06
 1301 C airline 
-1300  19.08168020  072.87106045 206.08 tie_down jets|turboprops Apron L 08
+1300  19.08168020  072.87106045 206.08 tie_down jets|turboprops Apron L08
 1301 C airline 
 1300  19.09218412  072.86876728 223.25 gate jets|turboprops CARGO S01L
 1301 C cargo 
