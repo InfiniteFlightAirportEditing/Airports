@@ -2992,51 +2992,51 @@ I
 21  54.62684736  025.27985541 2 21.8500 3.00 02  PAPI-4L
 21  54.64096139  025.29142810 2 201.9000 3.00 20  PAPI-4L
 14  54.63733599  025.28231790  49.21 0 New Tower Viewpoint 1
-1300  54.63289875  025.28097059 111.61 tie_down props G/A 67
+1300  54.63289875  025.28097059 111.61 tie_down props GA 67
 1301 A general_aviation 
-1300  54.63302080  025.28104537 111.26 tie_down props G/A 66
+1300  54.63302080  025.28104537 111.26 tie_down props GA 66
 1301 A general_aviation 
-1300  54.63313683  025.28113327 111.33 tie_down props G/A 65
+1300  54.63313683  025.28113327 111.33 tie_down props GA 65
 1301 A general_aviation 
-1300  54.63325029  025.28120526 112.35 tie_down props G/A 64
+1300  54.63325029  025.28120526 112.35 tie_down props GA 64
 1301 A general_aviation 
-1300  54.63336839  025.28128479 112.26 tie_down props G/A 63
+1300  54.63336839  025.28128479 112.26 tie_down props GA 63
 1301 A general_aviation 
-1300  54.63348720  025.28136484 112.44 tie_down props G/A 62
+1300  54.63348720  025.28136484 112.44 tie_down props GA 62
 1301 A general_aviation 
-1300  54.63476459  025.28189322 -68.10 tie_down props G/A 61
+1300  54.63476459  025.28189322 -68.10 tie_down props GA 61
 1301 A general_aviation 
-1300  54.63494332  025.28203205 -67.88 tie_down props G/A 60
+1300  54.63494332  025.28203205 -67.88 tie_down props GA 60
 1301 A general_aviation 
-1300  54.63512983  025.28216432 -67.79 tie_down props G/A 59
+1300  54.63512983  025.28216432 -67.79 tie_down props GA 59
 1301 A general_aviation 
-1300  54.63531249  025.28229027 -67.86 tie_down props G/A 58
+1300  54.63531249  025.28229027 -67.86 tie_down props GA 58
 1301 A general_aviation 
-1300  54.63549263  025.28242200 -67.79 tie_down props G/A 57
+1300  54.63549263  025.28242200 -67.79 tie_down props GA 57
 1301 A general_aviation 
-1300  54.63566299  025.28260416 -67.82 tie_down props G/A 56
+1300  54.63566299  025.28260416 -67.82 tie_down props GA 56
 1301 A general_aviation 
-1300  54.63584033  025.28312866 113.65 tie_down jets|turboprops|props G/A 55
+1300  54.63584033  025.28312866 113.65 tie_down jets|turboprops|props GA 55
 1301 B general_aviation 
-1300  54.63686904  025.28388449 -102.55 tie_down jets|turboprops|props G/A 53
+1300  54.63686904  025.28388449 -102.55 tie_down jets|turboprops|props GA 53
 1301 B general_aviation 
-1300  54.63712259  025.28378188 -102.84 tie_down props G/A 52
+1300  54.63712259  025.28378188 -102.84 tie_down props GA 52
 1301 A general_aviation 
-1300  54.63730509  025.28371238 -102.92 tie_down props G/A 51
+1300  54.63730509  025.28371238 -102.92 tie_down props GA 51
 1301 A general_aviation 
-1300  54.63749017  025.28364261 257.02 tie_down props G/A 44
+1300  54.63749017  025.28364261 257.02 tie_down props GA 44
 1301 A general_aviation 
-1300  54.63767355  025.28356541 257.03 tie_down props G/A 43
+1300  54.63767355  025.28356541 257.03 tie_down props GA 43
 1301 A general_aviation 
-1300  54.63785666  025.28349646 257.00 tie_down props G/A 42
+1300  54.63785666  025.28349646 257.00 tie_down props GA 42
 1301 A general_aviation 
-1300  54.63870076  025.28317181 257.14 tie_down props G/A 38
+1300  54.63870076  025.28317181 257.14 tie_down props GA 38
 1301 A general_aviation 
-1300  54.63851778  025.28324388 257.11 tie_down props G/A 39
+1300  54.63851778  025.28324388 257.11 tie_down props GA 39
 1301 A general_aviation 
-1300  54.63833261  025.28331627 256.98 tie_down props G/A 40
+1300  54.63833261  025.28331627 256.98 tie_down props GA 40
 1301 A general_aviation 
-1300  54.63803684  025.28341906 257.01 tie_down props G/A 41
+1300  54.63803684  025.28341906 257.01 tie_down props GA 41
 1301 A general_aviation 
 1300  54.64003468  025.28118220 -102.83 tie_down jets|turboprops Remote 31
 1301 B airline 
