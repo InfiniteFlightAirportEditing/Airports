@@ -4227,12 +4227,12 @@ I
 111  37.49236206 -077.31063952 51
 116  37.49236528 -077.31073257  37.49238347 -077.31078780
 120 Linear Feature 59
-111  37.49191732 -077.31069900 51
-112  37.49199802 -077.31071354  37.49203955 -077.31071001 51
-111  37.49206636 -077.31066034 51
-111  37.49245074 -077.30989984 51
-112  37.49241070 -077.30964047  37.49230849 -077.30954297 51
-111  37.49221597 -077.30964823 51
+111  37.49191732 -077.31069900 20
+112  37.49199802 -077.31071354  37.49203955 -077.31071001 20
+111  37.49206636 -077.31066034 20
+111  37.49245074 -077.30989984 20
+112  37.49241070 -077.30964047  37.49230849 -077.30954297 20
+111  37.49221597 -077.30964823 20
 115  37.49215593 -077.30974584
 120 Linear Feature 58
 111  37.49363298 -077.31084534 51
@@ -4720,104 +4720,148 @@ I
 21  37.50293583 -077.31154701 2 235.4200 3.00 25 PAPI
 20  37.49510360 -077.30897100 83.7800 0 2 {@L}L{@R}ILS
 14  37.51341133 -077.33261049  82.02 0 Tower Viewpoint
-1300  37.50905053 -077.33150678 166.42 gate jets|turboprops Gate - A01
+1300  37.50905053 -077.33150678 166.42 gate jets|turboprops Gate A01
+1301 C airline 
+1300  37.50852162 -077.33092332   7.55 gate jets|turboprops Gate A02
+1301 C airline 
+1300  37.50926003 -077.33112423 177.72 gate jets|turboprops Gate A03
+1301 C airline 
+1300  37.50862261 -077.33065486 -26.88 gate jets|turboprops Gate A04
+1301 C airline 
+1300  37.50944997 -077.33073167 199.26 gate jets|turboprops Gate A05
+1301 C airline 
+1300  37.50886815 -077.33029120 -30.26 gate jets|turboprops Gate A06
+1301 C airline 
+1300  37.50953585 -077.33033058 229.52 gate jets|turboprops Gate A07
+1301 C airline 
+1300  37.50901074 -077.32994453 -59.78 gate jets|turboprops Gate A08
+1301 C airline 
+1300  37.50745675 -077.33139988 234.48 gate jets|turboprops Gate B01
+1301 C airline 
+1300  37.50708461 -077.33203578  98.75 gate jets|turboprops Gate B02
+1301 B airline 
+1300  37.50725105 -077.33109420 -102.95 gate jets|turboprops Gate B03
+1301 C airline 
+1300  37.50682441 -077.33191196  75.74 gate jets|turboprops Gate B04
+1301 B airline 
+1300  37.50691906 -077.33081937 -100.48 gate jets|turboprops Gate B05
+1301 B airline 
+1300  37.50647825 -077.33169718  68.96 gate jets|turboprops Gate B06
+1301 B airline 
+1300  37.50665017 -077.33068069 -74.14 gate jets|turboprops Gate B07
+1301 B airline 
+1300  37.50628255 -077.33079064 -74.96 gate jets|turboprops Gate B09
 1301 C none 
-1300  37.50852162 -077.33092332   7.55 gate jets|turboprops Gate - A02
-1301 C none 
-1300  37.50926003 -077.33112423 177.72 gate jets|turboprops Gate  - A03
-1301 C none 
-1300  37.50862261 -077.33065486 -26.88 gate jets|turboprops Gate  - A04
-1301 C none 
-1300  37.50944997 -077.33073167 199.26 gate jets|turboprops Gate  - A05
-1301 C none 
-1300  37.50886815 -077.33029120 -30.26 gate jets|turboprops Gate  - A06
-1301 C none 
-1300  37.50953585 -077.33033058 229.52 gate jets|turboprops Gate  - A07
-1301 C none 
-1300  37.50901074 -077.32994453 -59.78 gate jets|turboprops Gate  - A08
-1301 C none 
-1300  37.50745675 -077.33139988 234.48 gate jets|turboprops Gate - B01
-1301 C none 
-1300  37.50708461 -077.33203578  98.75 gate jets|turboprops Gate - B02
-1301 C none 
-1300  37.50725105 -077.33109420 -102.95 gate jets|turboprops Gate - B03
-1301 C none 
-1300  37.50682441 -077.33191196  75.74 gate jets|turboprops Gate - B04
-1301 C none 
-1300  37.50691906 -077.33081937 -100.48 gate jets|turboprops Gate - B05
-1301 C none 
-1300  37.50647825 -077.33169718  68.96 gate jets|turboprops Gate - B06
-1301 C none 
-1300  37.50665017 -077.33068069 -74.14 gate jets|turboprops Gate - B07
-1301 C none 
-1300  37.50628255 -077.33079064 -74.96 gate jets|turboprops Gate - B09
-1301 C none 
-1300  37.50597483 -077.33179404 142.56 gate jets|turboprops Gate - B10
-1301 C none 
-1300  37.50599890 -077.33089714 -44.54 gate jets|turboprops Gate - B11
-1301 C none 
-1300  37.50579827 -077.33191928 116.02 gate jets|turboprops Gate - B12
-1301 C none 
-1300  37.50564303 -077.33102397 -27.20 gate jets|turboprops Gate - B13
-1301 C none 
-1300  37.50540703 -077.33169415  25.21 gate jets|turboprops Gate - B14
-1301 C none 
-1300  37.50537097 -077.33121336   7.35 gate jets|turboprops Gate - B15
-1301 C none 
-1300  37.51731539 -077.32845076 161.65 tie_down props|helos North GA - 01
+1300  37.50597483 -077.33179404 142.56 gate jets|turboprops Gate B10
+1301 B airline 
+1300  37.50599890 -077.33089714 -44.54 gate jets|turboprops Gate B11
+1301 C airline 
+1300  37.50579827 -077.33191928 116.02 gate jets|turboprops Gate B12
 1301 B none 
-1300  37.51740863 -077.32810128 161.49 tie_down props|helos North GA - 02
+1300  37.50564303 -077.33102397 -27.20 gate jets|turboprops Gate B13
+1301 C airline 
+1300  37.50540703 -077.33169415  25.21 gate jets|turboprops Gate B14
+1301 B airline 
+1300  37.50537097 -077.33121336   7.35 gate jets|turboprops Gate B15
+1301 B airline 
+1300  37.51731539 -077.32845076 161.65 tie_down props North GA - 01
+1301 A general_aviation 
+1300  37.51740863 -077.32810128 161.49 tie_down props North GA - 02
+1301 A general_aviation 
+1300  37.51750036 -077.32775838 157.43 tie_down props North GA - 03
+1301 A general_aviation 
+1300  37.51785269 -077.32861463 159.67 hangar jets FBO RICHMOND JET CENTER 02
 1301 B none 
-1300  37.51750036 -077.32775838 157.43 tie_down props|helos North GA - 03
+1300  37.51417732 -077.33085416 193.42 hangar jets HANGAR N02
 1301 B none 
-1300  37.51742009 -077.32871427 -16.73 tie_down props|helos North GA - 04
+1300  37.51746469 -077.33053997 159.67 hangar jets HANGAR N01
 1301 B none 
-1300  37.51752075 -077.32833986 -18.77 tie_down props|helos North GA - 05
+1300  37.51775702 -077.32896599 159.67 hangar jets FBO RICHMOND JET CENTER 01
 1301 B none 
-1300  37.51761284 -077.32801573 -19.53 tie_down props|helos North GA - 06
-1301 B none 
-1300  37.51770344 -077.32768472 -20.60 tie_down props|helos North GA - 07
-1301 B none 
-1300  37.49751373 -077.33532324 101.46 tie_down props|helos South GA - 01
-1301 B none 
-1300  37.49821381 -077.33514179  99.81 tie_down props|helos South GA - 02
-1301 B none 
-1300  37.50093559 -077.33435287 -76.42 misc jets|turboprops Cargo - 01
-1301 C none 
-1300  37.50204513 -077.33381897 -76.73 misc jets|turboprops Cargo - 02
-1301 C none 
+1300  37.51411302 -077.33251434 -76.83 tie_down jets|turboprops|props FBO HELOAIR
+1301 B general_aviation 
+1300  37.51666191 -077.33245715  74.62 tie_down props US CUSTOMS
+1301 A general_aviation 
+1300  37.51742009 -077.32871427 -16.73 tie_down props North GA - 04
+1301 A general_aviation 
+1300  37.51752075 -077.32833986 -18.77 tie_down props North GA - 05
+1301 A general_aviation 
+1300  37.51761284 -077.32801573 -19.53 tie_down props North GA - 06
+1301 A general_aviation 
+1300  37.51770344 -077.32768472 -20.60 tie_down props North GA - 07
+1301 A general_aviation 
+1300  37.49751373 -077.33532324 101.46 tie_down jets FBO MILLION AIR RICHMOND 02
+1301 B general_aviation 
+1300  37.49821381 -077.33514179  99.81 tie_down jets FBO MILLION AIR RICHMOND 01
+1301 B general_aviation 
+1300  37.50093559 -077.33435287 -76.42 tie_down jets|turboprops Cargo - 01
+1301 C cargo 
+1300  37.50204513 -077.33381897 -76.73 tie_down jets|turboprops Cargo - 02
+1301 C cargo 
 1300  37.50357427 -077.33570145  16.07 misc jets|turboprops Air Freight Ramp - 01
 1301 C none 
 1300  37.50346958 -077.33508447  14.37 misc jets|turboprops Air Freight Ramp - 02
 1301 C none 
-1300  37.49327103 -077.31161465  57.32 tie_down props|helos|fighters Military - 01
-1301 B none 
-1300  37.49289513 -077.31133261  56.79 tie_down props|helos|fighters Military - 02
-1301 B none 
-1300  37.49252920 -077.31101823  56.79 tie_down props|helos|fighters Military - 03
-1301 B none 
-1300  37.49334146 -077.31077585  57.28 tie_down props|helos|fighters Military - 04
-1301 B none 
-1300  37.49297226 -077.31047469  57.28 tie_down props|helos|fighters Military - 05
-1301 B none 
-1300  37.49260637 -077.31017176  57.28 tie_down props|helos|fighters Military - 06
-1301 B none 
-1300  37.49348227 -077.30998837  57.27 tie_down props|helos|fighters Military - 07
-1301 B none 
-1300  37.49310788 -077.30969370  57.81 tie_down props|helos|fighters Military - 08
-1301 B none 
-1300  37.49273880 -077.30938225  57.81 tie_down props|helos|fighters Military - 09
-1301 B none 
-1300  37.49417835 -077.30963292  57.57 tie_down props|helos|fighters Military - 10
-1301 B none 
-1300  37.49380007 -077.30935259  57.88 tie_down props|helos|fighters Military - 11
-1301 B none 
-1300  37.49343176 -077.30905400  57.24 tie_down props|helos|fighters Military - 12
-1301 B none 
-1300  37.49305987 -077.30875867  57.24 tie_down props|helos|fighters Military - 13
-1301 B none 
-1300  37.49268865 -077.30845291  57.53 tie_down props|helos|fighters Military - 14
-1301 B none 
+1300  37.49240126 -077.30844751  57.57 tie_down props|helos|fighters ALPHA 10
+1301 A military 
+1300  37.49260530 -077.30862003  57.57 tie_down props|helos|fighters ALPHA 09
+1301 A military 
+1300  37.49279229 -077.30876455  57.57 tie_down props|helos|fighters ALPHA 08
+1301 A military 
+1300  37.49298281 -077.30890906  57.57 tie_down props|helos|fighters ALPHA 07
+1301 A military 
+1300  37.49316451 -077.30906025  57.57 tie_down props|helos|fighters ALPHA 06
+1301 A military 
+1300  37.49335326 -077.30920921  57.57 tie_down props|helos|fighters ALPHA 05
+1301 A military 
+1300  37.49354731 -077.30934928  57.57 tie_down props|helos|fighters ALPHA 04
+1301 A military 
+1300  37.49372901 -077.30949602  57.57 tie_down props|helos|fighters ALPHA 03
+1301 A military 
+1300  37.49392482 -077.30961831  57.57 tie_down props|helos|fighters ALPHA 02
+1301 A military 
+1300  37.49264550 -077.30956779  57.30 tie_down props|helos|fighters BRAVO 07
+1301 A military 
+1300  37.49283870 -077.30971101  57.30 tie_down props|helos|fighters BRAVO 06
+1301 A military 
+1300  37.49302052 -077.30986498  57.30 tie_down props|helos|fighters BRAVO 05
+1301 A military 
+1300  37.49320519 -077.31001537  57.30 tie_down props|helos|fighters BRAVO 04
+1301 A military 
+1300  37.49339838 -077.31015144  57.30 tie_down props|helos|fighters BRAVO 03
+1301 A military 
+1300  37.49358305 -077.31029825  57.30 tie_down props|helos|fighters BRAVO 02
+1301 A military 
+1300  37.49252315 -077.31033901  57.30 tie_down props|helos|fighters CHARLIE 06
+1301 A military 
+1300  37.49270245 -077.31049235  57.30 tie_down props|helos|fighters CHARLIE 05
+1301 A military 
+1300  37.49289243 -077.31063762  57.30 tie_down props|helos|fighters CHARLIE 04
+1301 A military 
+1300  37.49307813 -077.31078559  57.30 tie_down props|helos|fighters CHARLIE 03
+1301 A military 
+1300  37.49325743 -077.31094431  57.30 tie_down props|helos|fighters CHARLIE 02
+1301 A military 
+1300  37.49207132 -077.31089515  57.30 tie_down props|helos|fighters DELTA 07
+1301 A military 
+1300  37.49225469 -077.31105465  57.30 tie_down props|helos|fighters DELTA 06
+1301 A military 
+1300  37.49243032 -077.31121090  57.30 tie_down props|helos|fighters DELTA 05
+1301 A military 
+1300  37.49263315 -077.31134521  57.30 tie_down props|helos|fighters DELTA 04
+1301 A military 
+1300  37.49281534 -077.31148818  57.30 tie_down props|helos|fighters DELTA 03
+1301 A military 
+1300  37.49299410 -077.31164416  57.30 tie_down props|helos|fighters DELTA 02
+1301 A military 
+1300  37.49318317 -077.31179146  57.30 tie_down props|helos|fighters DELTA 01
+1301 A military 
+1300  37.49344100 -077.31108958  57.30 tie_down props|helos|fighters CHARLIE 01
+1301 A military 
+1300  37.49377340 -077.31043790  57.30 tie_down props|helos|fighters BRAVO 01
+1301 A military 
+1300  37.49411858 -077.30976474  57.57 tie_down props|helos|fighters ALPHA 01
+1301 A military 
 18  37.51342557 -077.33260336 1 Airport Beacon
 19  37.49659474 -077.30860406 1 WS
 19  37.49962781 -077.33019990 1 WS
