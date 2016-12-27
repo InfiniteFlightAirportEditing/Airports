@@ -332,15 +332,15 @@ I
 21  53.43077314  011.79852843 2 245.0800 3.00 New Light Fixture 1
 14  53.43245037  011.78284271  82.02 0 New Tower Viewpoint 1
 1300  53.43070008  011.78179280  51.68 tie_down jets Apron 05
-1301 C airline 
+1301 B airline 
 1300  53.43102464  011.78160439  46.54 tie_down jets Apron 04
-1301 C airline 
+1301 B airline 
 1300  53.43133799  011.78116201  20.47 tie_down jets Apron 03
-1301 C airline 
+1301 B airline 
 1300  53.43064246  011.77779016 336.18 tie_down props GA 02
 1301 A general_aviation 
-1300  53.43112592  011.78114669 246.82 tie_down heavy|jets Apron 02
-1301 E airline 
+1300  53.43112592  011.78114669 246.82 tie_down jets Apron 02
+1301 D airline 
 1300  53.43069807  011.78042406  88.52 tie_down heavy|jets Apron 01
 1301 E airline 
 1300  53.43056043  011.77748459 336.18 tie_down props GA 01
