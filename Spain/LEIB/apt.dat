@@ -1736,67 +1736,63 @@ I
 1301 A general_aviation 
 1300  38.87912340  001.37674447 -117.28 tie_down jets|turboprops|props GA 03
 1301 A general_aviation 
-1300  38.75438701  001.42900417   0.00 misc props|helos Agua Formentera
-1301 B none 
-1300  38.87414140  001.36898960  21.72 gate heavy|jets|turboprops|props|helos|fighters 18
-1301 C general_aviation 
-1300  38.87447787  001.36989308  21.72 gate heavy|jets|turboprops|props|helos|fighters 17
+1300  38.87419444  001.36517242  14.68 gate heavy|jets GATE 21
+1301 E airline 
+1300  38.87456091  001.36603994  -2.55 gate jets|turboprops GATE 22
+1301 D airline 
+1300  38.87331817  001.36744393 151.22 gate jets REMOTE 19A
+1301 B airline 
+1300  38.87312397  001.36703592 151.22 gate jets REMOTE 19B
 1301 C airline 
-1300  38.87490443  001.37079231  17.02 gate heavy|jets|turboprops|props|helos|fighters 16
+1300  38.87638004  001.37435437  23.05 gate jets REMOTE 11
 1301 C airline 
-1300  38.87520702  001.37157365  21.72 gate heavy|jets|turboprops|props|helos|fighters 15
+1300  38.87614642  001.37380392  23.05 gate jets REMOTE 12
 1301 C airline 
-1300  38.87553540  001.37236065  21.72 gate heavy|jets|turboprops|props|helos|fighters 14
+1300  38.87582664  001.37312012  23.05 gate jets REMOTE 13
 1301 C airline 
-1300  38.87586329  001.37313880  21.72 gate heavy|jets|turboprops|props|helos|fighters 13
+1300  38.87549672  001.37234094  23.05 gate jets REMOTE 14
 1301 C airline 
-1300  38.87618054  001.37382513  21.72 gate heavy|jets|turboprops|props|helos|fighters 12
+1300  38.87517107  001.37155533  23.05 gate jets REMOTE 15
 1301 C airline 
-1300  38.87331817  001.36744393 -211.80 gate heavy|jets|turboprops|props|helos|fighters 19A
+1300  38.87486895  001.37077958  23.05 gate jets REMOTE 16
 1301 C airline 
-1300  38.87330565  001.36690289 154.57 gate heavy|jets|turboprops|props|helos|fighters 19B
+1300  38.87447787  001.36989308  23.05 gate jets REMOTE 17
 1301 C airline 
-1300  38.87317697  001.36702244 153.43 gate heavy|jets|turboprops|props|helos|fighters 19
+1300  38.87410709  001.36897728  23.05 gate jets REMOTE 18
 1301 C airline 
-1300  38.87290898  001.36643357 153.43 gate heavy|jets|turboprops|props|helos|fighters 20A
+1300  38.87288214  001.36645155 151.22 gate jets REMOTE 20A
 1301 C airline 
-1300  38.87291888  001.36575488 -29.98 gate heavy|jets|turboprops|props|helos|fighters 20
+1300  38.87329983  001.36742015  60.08 gate jets REMOTE 19A
+1301 D airline 
+1300  38.87283319  001.36625608  60.78 gate jets REMOTE 20
+1301 D airline 
+1300  38.87260838  001.36577911 151.22 gate jets REMOTE 20B
 1301 C airline 
-1300  38.87262394  001.36576844 151.66 gate heavy|jets|turboprops|props|helos|fighters 20B
+1300  38.87479456  001.36677575  22.14 gate heavy|jets|turboprops|props|helos|fighters GATE 23
 1301 C airline 
-1300  38.87419444  001.36517242  14.68 gate heavy|jets|turboprops|props|helos|fighters 21
-1301 C airline 
-1300  38.87456091  001.36603994  -2.55 gate heavy|jets|turboprops|props|helos|fighters 22
-1301 C airline 
-1300  38.87479456  001.36677575  22.14 gate heavy|jets|turboprops|props|helos|fighters 23
-1301 C airline 
-1300  38.87497546  001.36739770  15.83 gate heavy|jets|turboprops|props|helos|fighters 24
+1300  38.87501755  001.36742297  15.83 gate heavy|jets|turboprops|props|helos|fighters GATE 24
 1301 C none 
-1300  38.87507956  001.36805468 -25.36 gate heavy|jets|turboprops|props|helos|fighters 25B
+1300  38.87769523  001.37380216 -27.68 gate jets REMOTE 35
 1301 C airline 
-1300  38.87516038  001.36797686  19.41 gate heavy|jets|turboprops|props|helos|fighters 25
+1300  38.87751196  001.37335749 -27.68 gate jets REMOTE 34
 1301 C airline 
-1300  38.87539837  001.36870183 333.96 gate heavy|jets|turboprops|props|helos|fighters 26
+1300  38.87733222  001.37292872 333.13 gate jets REMOTE 33
 1301 C airline 
-1300  38.87555124  001.36931145 333.96 gate heavy|jets|turboprops|props|helos|fighters 27
+1300  38.87714732  001.37248973 333.13 gate jets REMOTE 32
 1301 C airline 
-1300  38.87592744  001.36996526 333.96 gate heavy|jets|turboprops|props|helos|fighters 28
+1300  38.87684533  001.37195668  26.05 gate jets GATE 31
 1301 C airline 
-1300  38.87623586  001.37068979 333.96 gate heavy|jets|turboprops|props|helos|fighters 29
+1300  38.87662834  001.37144058  27.17 gate jets GATE 30
 1301 C airline 
-1300  38.87657981  001.37140676  31.80 gate heavy|jets|turboprops|props|helos|fighters 30
+1300  38.87630075  001.37064243 -32.49 gate jets GATE 29
 1301 C airline 
-1300  38.87714732  001.37248973 -26.10 gate heavy|jets|turboprops|props|helos|fighters 32
+1300  38.87601518  001.36991297 -32.49 gate jets GATE 28
 1301 C airline 
-1300  38.87733222  001.37292872 -26.10 gate heavy|jets|turboprops|props|helos|fighters 33
+1300  38.87573245  001.36918266 -32.49 gate jets GATE 27
 1301 C airline 
-1300  38.87745709  001.37339720 -26.10 gate heavy|jets|turboprops|props|helos|fighters 34
-1301 C airline 
-1300  38.87763607  001.37384505 -26.10 gate heavy|jets|turboprops|props|helos|fighters 35
-1301 C airline 
-1300  38.87640483  001.37436440  13.16 gate heavy|jets|turboprops|props|helos|fighters 11
-1301 C airline 
-1300  38.87679680  001.37192287  28.57 gate heavy|jets|turboprops|props|helos|fighters 31
+1300  38.87548528  001.36864006 -32.49 gate jets GATE 26
+1301 B airline 
+1300  38.87518912  001.36798955  19.41 gate jets GATE 25
 1301 C airline 
 1300  38.87858771  001.37769455 -119.34 tie_down jets|turboprops|props GA 08
 1301 A general_aviation 
