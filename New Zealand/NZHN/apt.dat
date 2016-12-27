@@ -1682,40 +1682,40 @@ I
 21 -37.87038153  175.33032009 2 13.2500 3.00 36R PAPI-4L
 14 -37.86484539  175.32885064  19.69 0 ATC Tower
 1300 -37.86500471  175.33599716 -185.00 gate turboprops|props|helos|fighters Gate 01
-1301 C airline 
+1301 B airline 
 1300 -37.86553181  175.33581474 -185.00 gate turboprops|props|helos|fighters Gate 02
-1301 C airline 
+1301 B airline 
 1300 -37.86606812  175.33558749 -185.00 gate turboprops|props|helos|fighters Gate 03
-1301 C airline 
+1301 B airline 
 1300 -37.86655455  175.33548278 -185.00 gate turboprops|props|helos|fighters Gate 04
-1301 C airline 
-1300 -37.86406852  175.32914274 130.00 tie_down props GA: 01
+1301 B airline 
+1300 -37.86406852  175.32914274 130.00 tie_down props GA 01
 1301 A general_aviation 
-1300 -37.86417737  175.32903693 130.00 tie_down props GA: 02
+1300 -37.86417737  175.32903693 130.00 tie_down props GA 02
 1301 A general_aviation 
-1300 -37.86419509  175.33002449 130.00 tie_down props GA: 03
+1300 -37.86419509  175.33002449 130.00 tie_down props GA 03
 1301 A general_aviation 
-1300 -37.86432672  175.32981928 130.00 tie_down props GA: 04
+1300 -37.86432672  175.32981928 130.00 tie_down props GA 04
 1301 A general_aviation 
-1300 -37.86448113  175.32962690 130.00 tie_down props GA: 05
+1300 -37.86448113  175.32962690 130.00 tie_down props GA 05
 1301 A general_aviation 
-1300 -37.86432165  175.33041566 -48.83 tie_down props GA: 06
+1300 -37.86432165  175.33041566 -48.83 tie_down props GA 06
 1301 A general_aviation 
-1300 -37.86447607  175.33023611 -48.00 tie_down props GA: 07
+1300 -37.86447607  175.33023611 -48.00 tie_down props GA 07
 1301 A general_aviation 
-1300 -37.86461782  175.33007258 -48.00 tie_down props GA: 08
+1300 -37.86461782  175.33007258 -48.00 tie_down props GA 08
 1301 A general_aviation 
-1300 -37.86802217  175.32939867 -75.00 tie_down props GA: 09
+1300 -37.86802217  175.32939867 -75.00 tie_down props GA 09
 1301 A general_aviation 
-1300 -37.86828863  175.32929540 -75.00 tie_down props GA: 10
+1300 -37.86828863  175.32929540 -75.00 tie_down props GA 10
 1301 A general_aviation 
-1300 -37.86856336  175.32919298 -74.50 tie_down props GA: 11
+1300 -37.86856336  175.32919298 -74.50 tie_down props GA 11
 1301 A general_aviation 
-1300 -37.86882816  175.32909809 -74.50 tie_down props GA: 12
+1300 -37.86882816  175.32909809 -74.50 tie_down props GA 12
 1301 A general_aviation 
-1300 -37.86941807  175.32841334 -75.00 tie_down props GA: 13
+1300 -37.86941807  175.32841334 -75.00 tie_down props GA 13
 1301 A general_aviation 
-1300 -37.86968452  175.32832427 -75.00 tie_down props GA: 14
+1300 -37.86968452  175.32832427 -75.00 tie_down props GA 14
 1301 A general_aviation 
 18 -37.85606561  175.33730494 1 BCN
 19 -37.85691343  175.33638643 1 WS
