@@ -1092,31 +1092,39 @@ I
 21  52.53042585  031.00411426 2 110.8000 2.70 API PAPI-4L
 21  52.52359885  031.02950726 2 290.8000 3.00 API PAPI-4L
 14  52.52340649  031.01630141  49.21 0 Tower Viewpoint 1
-1300  52.52345399  031.01955629 -69.25 gate heavy|jets|turboprops|props|helos|fighters Gate 01
+1300  52.52345399  031.01955629 -69.25 gate jets Gate 01
 1301 C none 
-1300  52.52394571  031.01983739 -68.90 gate heavy|jets|turboprops|props|helos|fighters Gate 02
+1300  52.52394571  031.01983739 -68.90 gate jets Gate 02
 1301 C airline 
-1300  52.52382513  031.01794433 -69.29 gate heavy|jets|turboprops|props|helos|fighters Gate 03
+1300  52.52382513  031.01794433 -69.29 gate jets Gate 03
 1301 C airline 
-1300  52.52432889  031.01822064 -69.28 gate heavy|jets|turboprops|props|helos|fighters Gate 04
+1300  52.52432889  031.01822064 -69.28 gate jets Gate 04
 1301 C airline 
-1300  52.52406226  031.01685788 111.12 gate heavy|jets|turboprops|props|helos|fighters Gate 05
+1300  52.52406226  031.01685788 111.12 gate jets Gate 05
 1301 C airline 
-1300  52.52456006  031.01715392 110.10 gate heavy|jets|turboprops|props|helos|fighters Gate 06
+1300  52.52456006  031.01715392 110.10 gate jets Gate 06
 1301 C airline 
 1300  52.52490493  031.01333304  19.86 tie_down jets|turboprops GA 07
 1301 B general_aviation 
 1300  52.52512710  031.01238338  19.86 tie_down jets|turboprops GA 08
 1301 B general_aviation 
+1300  52.52553878  031.01312216  19.86 tie_down jets|turboprops GA 25
+1301 A general_aviation 
+1300  52.52561786  031.01278998  19.86 tie_down jets|turboprops GA 24
+1301 A general_aviation 
+1300  52.52569695  031.01246502  19.86 tie_down jets|turboprops GA 23
+1301 A general_aviation 
+1300  52.52578922  031.01211117  19.86 tie_down jets|turboprops GA 22
+1301 A general_aviation 
 1300  52.52534106  031.01143236  19.86 tie_down jets|turboprops GA 09
 1301 B general_aviation 
-1300  52.52568007  031.01076825  20.10 gate heavy Gate 10
+1300  52.52568007  031.01076825  20.10 gate jets Gate 10
 1301 C airline 
-1300  52.52588695  031.00990651  20.10 gate heavy Gate 11
+1300  52.52588695  031.00990651  20.10 gate jets Gate 11
 1301 C airline 
-1300  52.52608316  031.00906945  20.10 gate heavy Gate 12
+1300  52.52608316  031.00906945  20.10 gate jets Gate 12
 1301 C airline 
-1300  52.52626348  031.00826103  20.10 gate heavy Gate 13
+1300  52.52626348  031.00826103  20.10 gate jets Gate 13
 1301 C airline 
 1300  52.52645205  031.00749382  20.66 tie_down turboprops GA 14
 1301 A general_aviation 
@@ -1128,11 +1136,11 @@ I
 1301 A general_aviation 
 1300  52.52679940  031.00607654  20.66 tie_down turboprops GA 18
 1301 A general_aviation 
-1300  52.52692391  031.00491087  20.10 gate heavy Gate 19
+1300  52.52692391  031.00491087  20.10 gate jets Gate 19
 1301 C airline 
-1300  52.52709460  031.00409967  20.10 gate heavy Gate 20
+1300  52.52709460  031.00409967  20.10 gate jets Gate 20
 1301 C airline 
-1300  52.52726994  031.00329603  20.10 gate heavy Gate 21
+1300  52.52726994  031.00329603  20.10 gate jets Gate 21
 1301 C airline 
 18  52.52523516  031.01472070 1 Airport Beacon
 19  52.52581266  031.01897807 0 Windsock 1
