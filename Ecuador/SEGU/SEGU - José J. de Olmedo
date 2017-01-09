@@ -1729,33 +1729,33 @@ I
 1300 -02.16394687 -079.88521301   0.00 gate jets|turboprops PRESIDENTIAL APRON 03
 1301 C military 
 1300 -02.15742116 -079.88567649 -59.36 gate jets|turboprops CARGO RAMP 07
-1301 C cargo 
+1301 D cargo 
 1300 -02.15706444 -079.88544465 -60.00 gate jets|turboprops CARGO RAMP 08A
 1301 C cargo 
 1300 -02.15695730 -079.88538379 -59.65 gate jets|turboprops CARGO RAMP 08
-1301 C cargo 
+1301 D cargo 
 1300 -02.15676617 -079.88523674 -59.17 gate jets|turboprops CARGO RAMP 08B
 1301 C cargo 
 1300 -02.15656566 -079.88508374 -61.02 gate jets|turboprops CARGO RAMP 09
-1301 C cargo 
+1301 E cargo 
 1300 -02.15649694 -079.88503024 -60.38 gate jets|turboprops CARGO RAMP 09A
 1301 C cargo 
 1300 -02.15611915 -079.88502413 -61.15 gate jets|turboprops CARGO RAMP 10A
 1301 C cargo 
 1300 -02.15597172 -079.88498198 -61.49 gate jets|turboprops CARGO RAMP 10
-1301 C cargo 
+1301 E cargo 
 1300 -02.15585589 -079.88487924 -61.94 gate jets|turboprops CARGO RAMP 10B
 1301 C cargo 
 1300 -02.15556870 -079.88465295 -60.12 gate jets|turboprops CARGO RAMP 11A
 1301 C cargo 
 1300 -02.15547024 -079.88457761 -61.70 gate jets|turboprops CARGO RAMP 11
-1301 C cargo 
+1301 E cargo 
 1300 -02.15527041 -079.88443991 -59.58 gate jets|turboprops CARGO RAMP 11B
 1301 C cargo 
 1300 -02.15496056 -079.88427184 -58.56 gate jets|turboprops CARGO RAMP 12A
 1301 C cargo 
 1300 -02.15476416 -079.88428154 -60.58 gate jets|turboprops CARGO RAMP 12
-1301 C cargo 
+1301 E cargo 
 1300 -02.15466413 -079.88419917 -61.90 gate jets|turboprops CARGO RAMP 12B
 1301 C cargo 
 1300 -02.15469994 -079.88407478 -15.90 gate jets|turboprops CARGO RAMP 12C
@@ -1763,7 +1763,7 @@ I
 1300 -02.15433609 -079.88398628 -59.35 gate jets|turboprops CARGO RAMP 13A
 1301 C cargo 
 1300 -02.15413985 -079.88393598 -59.81 gate jets|turboprops CARGO RAMP 13
-1301 C cargo 
+1301 E cargo 
 1300 -02.15399642 -079.88384401 -57.95 gate jets|turboprops CARGO RAMP 13B
 1301 C cargo 
 1300 -02.15393787 -079.88375190 -15.08 gate jets|turboprops CARGO RAMP 13C
@@ -1771,7 +1771,7 @@ I
 1300 -02.15377156 -079.88367052 -62.57 gate jets|turboprops CARGO RAMP 14A
 1301 C cargo 
 1300 -02.15355177 -079.88359402 -60.70 gate jets|turboprops CARGO RAMP 14
-1301 C cargo 
+1301 E cargo 
 1300 -02.15343391 -079.88346970 -60.13 gate jets|turboprops CARGO RAMP 14B
 1301 C cargo 
 1300 -02.15332611 -079.88341053 -15.11 gate jets|turboprops CARGO RAMP 14C
