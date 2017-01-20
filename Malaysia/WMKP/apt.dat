@@ -962,61 +962,61 @@ I
 21  05.28882549  100.26865270 2 42.0200 3.00 04  PAPI-4L
 21  05.30550879  100.28509866 2 222.0200 3.00 22  PAPI-4L
 14  05.29500118  100.26831717  39.37 0 Tower Viewpoint
-1300  05.28745168  100.27218792 133.78 tie_down heavy|jets|turboprops|props 21
+1300  05.28745168  100.27218792 133.78 tie_down heavy|jets|turboprops|props CARGO 21
 1301 E cargo 
-1300  05.28699709  100.27170967 133.63 tie_down heavy|jets|turboprops|props 22
+1300  05.28699709  100.27170967 133.63 tie_down heavy|jets|turboprops|props CARGO 22
 1301 E cargo 
-1300  05.28649156  100.27130001 132.12 tie_down heavy|jets|turboprops|props 23
+1300  05.28649156  100.27130001 132.12 tie_down heavy|jets|turboprops|props CARGO 23
 1301 E cargo 
-1300  05.29450187  100.26775394 134.03 tie_down jets|turboprops|props B6
+1300  05.29450187  100.26775394 134.03 tie_down jets|turboprops|props GATE B06
 1301 B general_aviation 
-1300  05.29426981  100.26753505 135.00 tie_down jets|turboprops|props B4
+1300  05.29426981  100.26753505 135.00 tie_down jets|turboprops|props GATE B04
 1301 B general_aviation 
-1300  05.29404695  100.26732051 133.19 tie_down jets|turboprops|props B2
+1300  05.29404695  100.26732051 133.19 tie_down jets|turboprops|props GATE B02
 1301 B general_aviation 
-1300  05.29493341  100.26891944 312.41 tie_down heavy|jets|turboprops|props B9
+1300  05.29493341  100.26891944 312.41 tie_down heavy|jets|turboprops|props REMOTE B09
 1301 D airline 
-1300  05.29424527  100.26808424 312.13 gate heavy|jets|turboprops|props B7
+1300  05.29424527  100.26808424 312.13 gate heavy|jets|turboprops|props GATE B07
 1301 D airline 
-1300  05.29395775  100.26784651 312.40 gate heavy|jets|turboprops|props B5
+1300  05.29395775  100.26784651 312.40 gate heavy|jets|turboprops|props GATE B05
 1301 D airline 
-1300  05.29369178  100.26759856 312.74 gate heavy|jets|turboprops|props B3
+1300  05.29369178  100.26759856 312.74 gate heavy|jets|turboprops|props GATE B03
 1301 D airline 
-1300  05.29342846  100.26735911 313.00 gate heavy|jets|turboprops|props B1
+1300  05.29342846  100.26735911 313.00 gate heavy|jets|turboprops|props GATE B01
 1301 D airline 
-1300  05.29314136  100.26710294 313.21 gate jets|turboprops|props A1R
+1300  05.29314136  100.26710294 313.21 gate jets|turboprops|props GATE A01R
 1301 C airline 
-1300  05.29297177  100.26696624 312.21 gate heavy|jets|turboprops|props A1
-1301 D airline 
-1300  05.29285664  100.26685548 312.67 gate jets|turboprops|props A1L
+1300  05.29297177  100.26696624 312.21 gate heavy|jets|turboprops|props GATE A01
+1301 E airline 
+1300  05.29285664  100.26685548 312.67 gate jets|turboprops|props GATE A01L
 1301 C airline 
-1300  05.29258997  100.26660811 312.44 gate heavy|jets|turboprops|props A2
+1300  05.29258997  100.26660811 312.44 gate heavy|jets|turboprops|props GATE A02
 1301 D airline 
-1300  05.29231694  100.26636447 313.57 gate heavy|jets|turboprops|props A3
+1300  05.29231694  100.26636447 313.57 gate heavy|jets|turboprops|props GATE A03
 1301 D airline 
-1300  05.29204444  100.26612463 311.85 gate jets|turboprops|props A4R
+1300  05.29204444  100.26612463 311.85 gate jets|turboprops|props GATE A04R
 1301 C airline 
-1300  05.29181775  100.26592122 314.32 gate heavy|jets|turboprops|props A4
+1300  05.29181775  100.26592122 314.32 gate heavy|jets|turboprops|props GATE A04
 1301 D airline 
-1300  05.29172008  100.26581723 312.71 gate jets|turboprops|props A4L
+1300  05.29172008  100.26581723 312.71 gate jets|turboprops|props GATE A04L
 1301 C airline 
-1300  05.29143381  100.26555690 312.74 gate heavy|jets|turboprops|props A5
+1300  05.29143381  100.26555690 312.74 gate heavy|jets|turboprops|props GATE A05
 1301 D airline 
-1300  05.29108841  100.26524787 312.56 gate jets|turboprops|props A6R
+1300  05.29108841  100.26524787 312.56 gate jets|turboprops|props GATE A06R
 1301 C airline 
-1300  05.29102565  100.26517690 326.10 gate heavy|jets|turboprops|props A6
+1300  05.29102565  100.26517690 326.10 gate heavy|jets|turboprops|props GATE A06
 1301 D airline 
-1300  05.29072885  100.26510768 312.61 gate jets|turboprops|props A6L
+1300  05.29072885  100.26510768 312.61 gate jets|turboprops|props GATE A06L
 1301 C airline 
-1300  05.29045056  100.26463998 312.49 tie_down heavy|jets|turboprops|props A7
+1300  05.29045056  100.26463998 312.49 tie_down heavy|jets|turboprops|props CARGO A07
 1301 E cargo 
-1300  05.28997475  100.26419900 310.79 tie_down heavy|jets|turboprops|props A8
+1300  05.28997475  100.26419900 310.79 tie_down heavy|jets|turboprops|props CARGO A08
 1301 E cargo 
-1300  05.28992332  100.26419288 313.15 tie_down heavy|jets|turboprops|props A8L
+1300  05.28992332  100.26419288 313.15 tie_down heavy|jets|turboprops|props CARGO A08L
 1301 E cargo 
-1300  05.28944925  100.26379590 312.91 tie_down heavy|jets|turboprops|props A9R
+1300  05.28944925  100.26379590 312.91 tie_down heavy|jets|turboprops|props CARGO A09R
 1301 E cargo 
-1300  05.28945056  100.26376342 313.12 tie_down heavy|jets|turboprops|props A9
+1300  05.28945056  100.26376342 313.12 tie_down heavy|jets|turboprops|props CARGO A09
 1301 E cargo 
 18  05.29499567  100.26831584 1 Rotating Beacon
 19  05.28876990  100.26767475 1 Windsock
