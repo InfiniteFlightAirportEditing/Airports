@@ -2909,44 +2909,44 @@ I
 1301 C airline 
 1300  35.33806033  025.17280998  16.97 gate turboprops Main Apron Stand 09
 1301 B airline 
-1300  35.33772734  025.17404500 274.82 gate jets|turboprops Main Apron Stand 06
+1300  35.33772734  025.17404501 274.82 gate jets|turboprops Main Apron Stand 06
 1301 C airline 
 1300  35.33876556  025.17540365 318.07 gate jets|props Main Apron Stand 05
 1301 D airline 
 1300  35.33818216  025.17533204 312.63 gate jets|turboprops Main Apron Stand 04
 1301 D airline 
-1300  35.33765461  025.17527505 -86.27 misc turboprops Main Apron Stand 03
+1300  35.33765461  025.17527505 -86.27 gate turboprops Main Apron Stand 03
 1301 C airline 
 1300  35.33871806  025.17658162 317.15 gate jets|turboprops Main Apron Stand 02
 1301 D airline 
 1300  35.33818865  025.17659204 274.69 gate turboprops Main Apron Stand 01
 1301 C airline 
 1300  35.33394385  025.17720232 237.83 hangar fighters Air Force Base Hangar 7
-1301 A military 
+1301 A none 
 1300  35.33391257  025.17621651  58.39 hangar fighters Air Force Base Hangar 6
-1301 A military 
-1300  35.33474301  025.17611274  97.31 hangar fighters Air Force Base Hangar 5
-1301 A military 
+1301 A none 
+1300  35.33474302  025.17611274  97.31 hangar fighters Air Force Base Hangar 5
+1301 A none 
 1300  35.33503979  025.17714256 -68.96 hangar fighters Air Force Base Hangar 4
-1301 A military 
-1300  35.33567620  025.17783840 -89.44 hangar fighters Air Force Base Hangar 3
-1301 A airline 
+1301 A none 
+1300  35.33567620  025.17783839 -89.44 hangar fighters Air Force Base Hangar 3
+1301 A none 
 1300  35.33647419  025.17694572 121.33 hangar fighters Air Force Base Hangar 2
-1301 A military 
+1301 A none 
 1300  35.33688996  025.17802892 -51.21 hangar fighters Air Force Base Hangar 1
-1301 A military 
+1301 A none 
 1300  35.34217608  025.18257994   6.05 hangar fighters Military Hangar North 6
-1301 A military 
+1301 A none 
 1300  35.34299382  025.18199626 271.05 hangar fighters Military Hangar North 5
-1301 A military 
+1301 A none 
 1300  35.34224127  025.18155284 -14.32 hangar fighters Military Hangar North 4
-1301 A military 
+1301 A none 
 1300  35.34266169  025.18063407 150.82 hangar fighters Military Hangar North 3
-1301 A military 
+1301 A none 
 1300  35.34179228  025.18063470 -49.53 hangar fighters Military Hangar North 2
-1301 A military 
+1301 A none 
 1300  35.34189777  025.17971235 128.98 hangar fighters Military Hangar North 1
-1301 A military 
+1301 A none 
 1300  35.33840065  025.17938071 -25.02 gate jets|turboprops Main Apron Stand T4
 1301 D airline 
 1300  35.33794528  025.18009357 -23.11 gate jets|turboprops Main Apron Stand T3
@@ -2955,22 +2955,22 @@ I
 1301 D airline 
 1300  35.33712357  025.18157411 -11.65 gate jets|turboprops Main Apron Stand T1
 1301 C airline 
-1300  35.33747934  025.18708653 -175.05 misc jets|turboprops CARGO L3
+1300  35.33747934  025.18708653 -175.05 gate jets|turboprops CARGO L3
 1301 C cargo 
-1300  35.33738459  025.18758597 -175.28 misc jets|turboprops CARGO L2
-1301 C none 
-1300  35.33734480  025.18808774 -175.64 misc jets|turboprops CARGO L1
-1301 C none 
-1300  35.33638645  025.18808008  76.85 misc props GA 01
-1301 B none 
-1300  35.33687838  025.18857480 149.03 misc props GA 05
-1301 A none 
+1300  35.33738459  025.18758597 -175.28 gate jets|turboprops CARGO L2
+1301 C cargo 
+1300  35.33734480  025.18808774 -175.64 gate jets|turboprops CARGO L1
+1301 C cargo 
+1300  35.33638645  025.18808008  76.85 tie_down props GA 01
+1301 B general_aviation 
+1300  35.33687838  025.18857480 149.03 tie_down props GA 05
+1301 A general_aviation 
 1300  35.33678391  025.18848684 147.62 tie_down props GA 04
 1301 A general_aviation 
 1300  35.33667741  025.18839561 148.10 tie_down props GA 03
 1301 A general_aviation 
 1300  35.33658498  025.18830543 -212.33 tie_down props GA 02
-1301 A airline 
+1301 A general_aviation 
 18  35.33724166  025.17535048 1 New Airport Beacon 4
 50 12755 ATIS
 53 12170 Kazantzakis Ground
