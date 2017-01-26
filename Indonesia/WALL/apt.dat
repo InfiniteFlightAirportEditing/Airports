@@ -866,12 +866,12 @@ I
 1301 C airline 
 1300 -01.26119617  116.90258242 -22.83 gate jets Gate 01
 1301 C airline 
-1300 -01.26537066  116.89250482 -24.13 gate jets|turboprops|props Hangar 03
-1301 C general_aviation 
-1300 -01.26553506  116.89211063 -22.51 gate jets|turboprops|props Hangar 02
-1301 C general_aviation 
-1300 -01.26572457  116.89166577 -24.51 gate jets|turboprops|props Hangar 01
-1301 C general_aviation 
+1300 -01.26537066  116.89250482 -24.13 hangar jets|turboprops|props Hangar 03
+1301 C none 
+1300 -01.26553506  116.89211063 -22.51 hangar jets|turboprops|props Hangar 02
+1301 C none 
+1300 -01.26572457  116.89166577 -24.51 hangar jets|turboprops|props Hangar 01
+1301 C none 
 1300 -01.26591699  116.89275868 -23.05 tie_down turboprops|props Ramp 10
 1301 A general_aviation 
 1300 -01.26600446  116.89255949 -22.80 tie_down turboprops|props Ramp 09
