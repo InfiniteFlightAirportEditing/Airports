@@ -2538,7 +2538,7 @@ I
 1301 C airline 
 1300  39.45054921 -074.57407306  89.68 gate jets|turboprops GATE 01
 1301 C airline 
-1300  39.44834733 -074.57468653  33.27 gate jets|turboprops FBO  APRON 01
+1300  39.44834733 -074.57468653  33.27 gate jets|turboprops FBO APRON 01
 1301 B general_aviation 
 1300  39.44861430 -074.57476636  33.52 gate jets|turboprops FBO APRON 02
 1301 B general_aviation 
