@@ -2384,30 +2384,30 @@ I
 1301 C airline 
 1300  36.84332607  010.23359727  80.79 gate jets|turboprops GATE P48
 1301 C airline 
-1300  36.84141128  010.21608955 115.58 gate turboprops GATE H02
-1301 A airline 
-1300  36.84137465  010.21607112  71.56 gate turboprops GATE H01
-1301 A airline 
-1300  36.84181765  010.21607199 -132.86 gate turboprops GATE H03
-1301 A airline 
-1300  36.84209130  010.21611862 -128.59 gate turboprops GATE H04
-1301 A airline 
-1300  36.84239691  010.21632250 139.36 gate turboprops GATE H05
-1301 A airline 
-1300  36.84009375  010.21962990   6.33 gate jets|turboprops GATE A01
-1301 E airline 
-1300  36.83968579  010.21623670 -77.20 gate jets|turboprops GATE P32
-1301 C airline 
-1300  36.84031923  010.21652740 -76.11 gate jets|turboprops GATE P31
-1301 C airline 
-1300  36.84003797  010.21690242 -28.20 gate jets|turboprops GATE A02
-1301 C airline 
-1300  36.84043940  010.21782843  13.41 gate jets|turboprops GATE R01
-1301 C airline 
-1300  36.84055646  010.21722840  13.82 gate jets|turboprops GATE R02
-1301 C airline 
-1300  36.84058607  010.21672161  10.49 gate jets|turboprops GATE R03
-1301 C airline 
+1300  36.84141128  010.21608955 115.58 gate turboprops GA H02
+1301 A general_aviation 
+1300  36.84137465  010.21607112  71.56 gate turboprops GA H01
+1301 A general_aviation 
+1300  36.84181765  010.21607199 -132.86 gate turboprops GA H03
+1301 A general_aviation 
+1300  36.84209130  010.21611862 -128.59 gate turboprops GA H04
+1301 A general_aviation 
+1300  36.84239691  010.21632250 139.36 gate turboprops GA H05
+1301 A general_aviation 
+1300  36.84009375  010.21962990   6.33 gate jets|turboprops CARGO A01
+1301 E cargo 
+1300  36.83968579  010.21623670 -77.20 gate jets|turboprops CARGO P32
+1301 C cargo 
+1300  36.84031923  010.21652740 -76.11 gate jets|turboprops CARGO P31
+1301 C cargo 
+1300  36.84003797  010.21690242 -28.20 gate jets|turboprops CARGO A02
+1301 C cargo 
+1300  36.84043940  010.21782843  13.41 gate jets|turboprops CARGO R01
+1301 C cargo 
+1300  36.84055646  010.21722840  13.82 gate jets|turboprops CARGO R02
+1301 C cargo 
+1300  36.84058607  010.21672161  10.49 gate jets|turboprops CARGO R03
+1301 C cargo 
 1300  36.84113353  010.21757866 -77.68 gate jets|turboprops GATE P01
 1301 C airline 
 1300  36.84071947  010.22014574 103.72 gate jets|turboprops GATE P30
