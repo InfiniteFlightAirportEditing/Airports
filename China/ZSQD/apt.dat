@@ -1817,77 +1817,77 @@ I
 21  36.27737016  120.37158768 2 165.6100 3.00 17  PAPI-4L
 21  36.25466946  120.37762349 2 345.6100 3.00 35  PAPI-4L
 14  36.26677622  120.38113543  82.02 0 New Tower Viewpoint 1
-1300  36.27745294  120.37520244 181.29 tie_down jets|turboprops|props H03
+1300  36.27745294  120.37520244 181.29 tie_down jets|turboprops|props GA H03
+1301 C general_aviation 
+1300  36.27716872  120.37595684 270.00 tie_down jets|turboprops|props GA H01
+1301 C general_aviation 
+1300  36.27761437  120.37594940 269.52 tie_down jets|turboprops|props GA H02
+1301 C general_aviation 
+1300  36.26918283  120.37727868 255.16 tie_down jets|turboprops|props REMOTE 22
 1301 C airline 
-1300  36.27716872  120.37595684 270.00 tie_down jets|turboprops|props H01
+1300  36.26800453  120.37773086 254.86 tie_down jets|turboprops|props REMOTE 23
 1301 C airline 
-1300  36.27761437  120.37594940 269.52 tie_down jets|turboprops|props H02
+1300  36.26743051  120.37773513 254.61 tie_down jets|turboprops|props REMOTE 25
 1301 C airline 
-1300  36.26918283  120.37727868 255.16 tie_down jets|turboprops|props Gate 22
+1300  36.26694734  120.37808867 253.76 tie_down jets|turboprops|props REMOTE 26
 1301 C airline 
-1300  36.26800453  120.37773086 254.86 tie_down jets|turboprops|props Gate 23
+1300  36.26577686  120.37849432 254.11 tie_down jets|turboprops|props REMOTE 27
 1301 C airline 
-1300  36.26743051  120.37773513 254.61 tie_down jets|turboprops|props Gate 25
+1300  36.26538099  120.37840160 253.57 tie_down jets|turboprops|props REMOTE 28
 1301 C airline 
-1300  36.26694734  120.37808867 253.76 tie_down jets|turboprops|props Gate 26
+1300  36.26503623  120.37851241 253.79 tie_down jets|turboprops|props REMOTE 29
 1301 C airline 
-1300  36.26577686  120.37849432 254.11 tie_down jets|turboprops|props Gate 27
+1300  36.26468640  120.37863660 254.00 tie_down jets|turboprops|props REMOTE 30
 1301 C airline 
-1300  36.26538099  120.37840160 253.57 tie_down jets|turboprops|props Gate 28
+1300  36.26412212  120.37883850 255.03 tie_down jets|turboprops|props REMOTE 31
 1301 C airline 
-1300  36.26503623  120.37851241 253.79 tie_down jets|turboprops|props Gate 29
+1300  36.26376401  120.37892978 255.88 tie_down jets|turboprops|props REMOTE 32
 1301 C airline 
-1300  36.26468640  120.37863660 254.00 tie_down jets|turboprops|props Gate 30
+1300  36.26340596  120.37906749 254.90 tie_down jets|turboprops|props REMOTE 33
 1301 C airline 
-1300  36.26412212  120.37883850 255.03 tie_down jets|turboprops|props Gate 31
+1300  36.26308858  120.37935501 255.55 tie_down jets|turboprops|props REMOTE 34
 1301 C airline 
-1300  36.26376401  120.37892978 255.88 tie_down jets|turboprops|props Gate 32
+1300  36.26190044  120.37970163 255.61 tie_down jets|turboprops|props REMOTE 35
 1301 C airline 
-1300  36.26340596  120.37906749 254.90 tie_down jets|turboprops|props Gate 33
+1300  36.26148837  120.37958201 256.13 tie_down jets|turboprops|props REMOTE 36
 1301 C airline 
-1300  36.26308858  120.37935501 255.55 tie_down jets|turboprops|props Gate 34
+1300  36.26114396  120.37993890 255.85 tie_down jets|turboprops|props REMOTE 37
 1301 C airline 
-1300  36.26190044  120.37970163 255.61 tie_down jets|turboprops|props Gate 35
-1301 C airline 
-1300  36.26148837  120.37958201 256.13 tie_down jets|turboprops|props Gate 36
-1301 C airline 
-1300  36.26114396  120.37993890 255.85 tie_down jets|turboprops|props Gate 37
-1301 C airline 
-1300  36.26168517  120.38234133 164.66 tie_down heavy|jets|turboprops|props Gate 39
+1300  36.26168517  120.38234133 164.66 tie_down heavy|jets|turboprops|props REMOTE 39
 1301 D airline 
-1300  36.26153672  120.38161792 164.88 tie_down heavy|jets|turboprops|props Gate 38
+1300  36.26153672  120.38161792 164.88 tie_down heavy|jets|turboprops|props REMOTE 38
 1301 D airline 
 1300  36.26209464  120.38490884   8.20 tie_down jets|turboprops|props Gate 53
 1301 C airline 
 1300  36.26217187  120.38429104  11.11 tie_down jets|turboprops|props Gate 52
 1301 C airline 
-1300  36.25870590  120.38106281 166.06 tie_down jets|turboprops|props Gate B03
+1300  36.25870590  120.38106281 166.06 tie_down jets|turboprops|props REMOTE B03
+1301 B airline 
+1300  36.25865635  120.38069774 166.12 tie_down jets|turboprops|props REMOTE B02
+1301 B airline 
+1300  36.25857474  120.38034223 165.12 tie_down jets|turboprops|props REMOTE B01
+1301 B airline 
+1300  36.26050468  120.38505548 165.72 tie_down jets|turboprops|props REMOTE 51
 1301 C airline 
-1300  36.25865635  120.38069774 166.12 tie_down jets|turboprops|props Gate B02
+1300  36.26043036  120.38457960 167.30 tie_down jets|turboprops|props REMOTE 50
 1301 C airline 
-1300  36.25857474  120.38034223 165.12 tie_down jets|turboprops|props Gate B01
+1300  36.26037151  120.38410247 166.07 tie_down jets|turboprops|props REMOTE 49
 1301 C airline 
-1300  36.26050468  120.38505548 165.72 tie_down jets|turboprops|props Gate 51
+1300  36.26027326  120.38364848 164.15 tie_down jets|turboprops|props REMOTE 48
 1301 C airline 
-1300  36.26043036  120.38457960 167.30 tie_down jets|turboprops|props Gate 50
+1300  36.26015562  120.38308830 166.08 tie_down jets|turboprops|props REMOTE 47
 1301 C airline 
-1300  36.26037151  120.38410247 166.07 tie_down jets|turboprops|props Gate 49
+1300  36.26006223  120.38263107 164.14 tie_down jets|turboprops|props REMOTE 46
 1301 C airline 
-1300  36.26027326  120.38364848 164.15 tie_down jets|turboprops|props Gate 48
+1300  36.25995804  120.38216165 165.26 tie_down jets|turboprops|props REMOTE 45
 1301 C airline 
-1300  36.26015562  120.38308830 166.08 tie_down jets|turboprops|props Gate 47
+1300  36.25986592  120.38170239 164.36 tie_down jets|turboprops|props REMOTE 44
 1301 C airline 
-1300  36.26006223  120.38263107 164.14 tie_down jets|turboprops|props Gate 46
+1300  36.25978173  120.38123057 166.24 tie_down jets|turboprops|props REMOTE 43
 1301 C airline 
-1300  36.25995804  120.38216165 165.26 tie_down jets|turboprops|props Gate 45
+1300  36.25966524  120.38075912 165.96 tie_down jets|turboprops|props REMOTE 42
 1301 C airline 
-1300  36.25986592  120.38170239 164.36 tie_down jets|turboprops|props Gate 44
-1301 C airline 
-1300  36.25978173  120.38123057 166.24 tie_down jets|turboprops|props Gate 43
-1301 C airline 
-1300  36.25966524  120.38075912 165.96 tie_down jets|turboprops|props Gate 42
-1301 C airline 
-1300  36.25958410  120.38030167 163.84 tie_down jets|turboprops|props Gate 41
+1300  36.25958410  120.38030167 163.84 tie_down jets|turboprops|props REMOTE 41
 1301 C airline 
 1300  36.26305383  120.38424490  43.87 tie_down jets|turboprops|props Gate 20
 1301 C airline 
@@ -1925,31 +1925,31 @@ I
 1301 E airline 
 1300  36.27015619  120.37879054  75.26 tie_down jets|turboprops|props Gate D02
 1301 C airline 
-1300  36.26998833  120.37680660 254.89 tie_down jets|turboprops|props Gate D07
+1300  36.26998833  120.37680660 254.89 tie_down jets|turboprops|props REMOTE D07
 1301 C airline 
-1300  36.27037637  120.37669571 256.38 tie_down jets|turboprops|props Gate D06
+1300  36.27037637  120.37669571 256.38 tie_down jets|turboprops|props REMOTE D06
 1301 C airline 
-1300  36.27075908  120.37657227 256.35 tie_down jets|turboprops|props Gate D05
+1300  36.27075908  120.37657227 256.35 tie_down jets|turboprops|props REMOTE D05
 1301 C airline 
-1300  36.27114079  120.37645928 256.08 tie_down jets|turboprops|props Gate D04
+1300  36.27114079  120.37645928 256.08 tie_down jets|turboprops|props REMOTE D04
 1301 C airline 
-1300  36.27151520  120.37634685 255.54 tie_down jets|turboprops|props Gate D03
+1300  36.27151520  120.37634685 255.54 tie_down jets|turboprops|props REMOTE D03
 1301 C airline 
-1300  36.27256383  120.37815278  75.10 tie_down jets|turboprops|props Gate D01
+1300  36.27256383  120.37815278  75.10 tie_down jets|turboprops|props REMOTE D01
 1301 C airline 
-1300  36.26951604  120.37695948 256.66 tie_down jets|turboprops|props Gate 21
+1300  36.26951604  120.37695948 256.66 tie_down jets|turboprops|props REMOTE 21
 1301 C airline 
-1300  36.27316564  120.37748832  77.60 tie_down heavy|jets|turboprops|props Gate C06
+1300  36.27316564  120.37748832  77.60 tie_down heavy|jets|turboprops|props CARGO C06
 1301 E cargo 
-1300  36.27382773  120.37730016  77.01 tie_down heavy|jets|turboprops|props Gate C05
+1300  36.27382773  120.37730016  77.01 tie_down heavy|jets|turboprops|props CARGO C05
 1301 E cargo 
-1300  36.27448982  120.37711747  76.30 tie_down heavy|jets|turboprops|props Gate C04
+1300  36.27448982  120.37711747  76.30 tie_down heavy|jets|turboprops|props CARGO C04
 1301 E cargo 
-1300  36.27513861  120.37691143  76.97 tie_down heavy|jets|turboprops|props Gate C03
+1300  36.27513861  120.37691143  76.97 tie_down heavy|jets|turboprops|props CARGO C03
 1301 E cargo 
-1300  36.27582745  120.37669083  77.35 tie_down heavy|jets|turboprops|props Gate C02
+1300  36.27582745  120.37669083  77.35 tie_down heavy|jets|turboprops|props CARGO C02
 1301 E cargo 
-1300  36.27644544  120.37644888  76.53 tie_down heavy|jets|turboprops|props Gate C01
+1300  36.27644544  120.37644888  76.53 tie_down heavy|jets|turboprops|props CARGO C01
 1301 E cargo 
 18  36.26567235  120.37344493 1 BCN
 19  36.27885581  120.37226775 1 WS
