@@ -3455,7 +3455,7 @@ I
 1300  30.49795584 -081.67563479  10.04 hangar turboprops|props North Hangar 10
 1300  30.49884740 -081.67720890 283.57 hangar turboprops|props North Hangar 09
 1300  30.49812790 -081.67734375 -77.31 hangar turboprops|props North Hangar 08
-1300  30.49705535 -081.67760047 279.93 hangar turboprops|props North Hangar 07
+1300  30.49705535 -081.67760048 279.93 hangar turboprops|props North Hangar 07
 1300  30.49578616 -081.67781571 283.17 hangar turboprops|props North Hangar 06
 1300  30.49523201 -081.67800502 282.26 hangar turboprops|props North Hangar 05
 1300  30.49467340 -081.67810874 279.78 hangar turboprops|props North Hangar 04
@@ -3469,11 +3469,11 @@ I
 1300  30.48925184 -081.70205408  40.10 hangar fighters Military 03
 1300  30.48868160 -081.70126400  40.28 hangar fighters Military 02
 1300  30.48813429 -081.70055363  40.45 hangar fighters Military 01
-1300  30.48330010 -081.68059522 100.55 gate heavy|jets|turboprops Cargo Ramp 03
+1300  30.48330010 -081.68059522 100.55 misc heavy|jets|turboprops Cargo Ramp 03
 1300  30.48638478 -081.68193333 -79.31 gate heavy|jets|turboprops Cargo Ramp 02: Stand 03
 1300  30.48582114 -081.68204885 -79.34 gate heavy|jets|turboprops Cargo Ramp 02: Stand 02
 1300  30.48527344 -081.68216328 -79.25 gate heavy|jets|turboprops Cargo Ramp 02: Stand 01
-1300  30.48612836 -081.68469749 100.61 gate heavy|jets|turboprops Cargo Ramp 01
+1300  30.48612836 -081.68469749 100.61 misc heavy|jets|turboprops Cargo Ramp 01
 1300  30.49292651 -081.68367725 -79.56 gate jets|turboprops Gate SB07
 1300  30.49323550 -081.68365253 -79.31 gate jets|turboprops Gate SB06
 1300  30.49362311 -081.68366399 -79.45 gate jets|turboprops Gate SB05
