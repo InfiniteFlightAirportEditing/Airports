@@ -96,22 +96,22 @@ I
 111  24.06721582 -074.52850440
 111  24.06739549 -074.53068595
 113  24.06538270 -074.53514995
-1300  24.06622606 -074.52955786 184.09 misc turboprops|props GA 05
-1301 B none 
-1300  24.06627000 -074.53005713 -174.31 misc turboprops|props GA 04
-1301 B none 
-1300  24.06630845 -074.53052031 -174.42 misc turboprops|props GA 03
-1301 B none 
-1300  24.06554500 -074.53312493  94.40 misc turboprops|props GA 02
-1301 A none 
-1300  24.06587455 -074.53310990  93.95 misc turboprops|props GA 01
-1301 A none 
-1300  24.06571801 -074.53144582 -20.62 misc props Stand 03
-1301 B none 
-1300  24.06573798 -074.53176573   6.77 misc turboprops|props Stand 02
-1301 B none 
-1300  24.06580539 -074.53205556  44.12 misc turboprops|props Stand 01
-1301 B none 
+1300  24.06622606 -074.52955786 184.09 tie_down turboprops|props GA 05
+1301 B general_aviation 
+1300  24.06627000 -074.53005713 -174.31 tie_down turboprops|props GA 04
+1301 B general_aviation 
+1300  24.06630845 -074.53052031 -174.42 tie_down turboprops|props GA 03
+1301 B general_aviation 
+1300  24.06554500 -074.53312493  94.40 tie_down turboprops|props GA 02
+1301 A general_aviation 
+1300  24.06587455 -074.53310990  93.95 tie_down turboprops|props GA 01
+1301 A general_aviation 
+1300  24.06571801 -074.53144582 -20.62 tie_down props Stand 03
+1301 B general_aviation 
+1300  24.06573798 -074.53176573   6.77 tie_down turboprops|props Stand 02
+1301 B general_aviation 
+1300  24.06580539 -074.53205556  44.12 tie_down turboprops|props Stand 01
+1301 B general_aviation 
 18  24.06401750 -074.52485625 1 BCN
 19  24.06324072 -074.53159964 1 WS
 50 11820 AWOS-2
