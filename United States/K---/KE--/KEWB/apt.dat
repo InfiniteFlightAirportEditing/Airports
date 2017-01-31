@@ -1517,19 +1517,19 @@ I
 21  41.68080119 -070.95424247 2 218.0000 3.00 23 PAPI 4-L
 21  41.67263122 -070.95183740 1 308.0000 3.00 32 VASI
 14  41.67388323 -070.95824406 124.67 0 TWR
-1300  41.67875026 -070.96540248  39.62 gate jets|turboprops|props North Hangar 02
-1301 A general_aviation 
+1300  41.67878207 -070.96560655  94.49 hangar jets|turboprops|props North Hangar 02
+1301 A none 
 1300  41.67900867 -070.96539254  42.77 gate jets|turboprops|props North Hangar 01
 1301 A general_aviation 
-1300  41.67259605 -070.95986894 -51.89 gate jets|turboprops|props South Hangar 01
-1301 B general_aviation 
-1300  41.67312754 -070.95546476 -51.13 gate jets|turboprops|props Sandpiper Air 04
+1300  41.67259605 -070.95986894 -51.89 hangar jets|turboprops|props South Hangar 01
+1301 B none 
+1300  41.67312754 -070.95546476 -51.13 gate jets|turboprops|props FBO Sandpiper Air 04
 1301 A general_aviation 
-1300  41.67299941 -070.95560170 307.95 gate jets|turboprops|props Sandpiper Air 03
+1300  41.67299941 -070.95560170 307.95 gate jets|turboprops|props FBO Sandpiper Air 03
 1301 A general_aviation 
-1300  41.67330401 -070.95576572 127.67 gate jets|turboprops|props Sandpiper Air 02
+1300  41.67330401 -070.95576572 127.67 gate jets|turboprops|props FBO Sandpiper Air 02
 1301 A general_aviation 
-1300  41.67318037 -070.95589513 126.25 gate jets|turboprops|props Sandpiper Air 01
+1300  41.67318037 -070.95589513 126.25 gate jets|turboprops|props FBO Sandpiper Air 01
 1301 A general_aviation 
 1300  41.67413005 -070.95677833 131.62 gate jets|turboprops|props South GA 09
 1301 A general_aviation 
