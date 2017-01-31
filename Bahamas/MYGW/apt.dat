@@ -52,14 +52,14 @@ I
 120 Linear Feature 3
 111  26.69056803 -078.98840842 4
 115  26.69063921 -078.98856236
-1300  26.69039210 -078.98731445 -69.33 misc turboprops|props GA 04
-1301 A none 
-1300  26.69066623 -078.98719577 -68.62 misc turboprops|props GA 03
-1301 A none 
-1300  26.69099466 -078.98722472 201.53 misc turboprops|props GA 02
-1301 A none 
-1300  26.69112397 -078.98761837 202.23 misc turboprops|props GA 01
-1301 A none 
+1300  26.69039210 -078.98731445 -69.33 tie_down turboprops|props GA 04
+1301 A general_aviation 
+1300  26.69066623 -078.98719577 -68.62 tie_down turboprops|props GA 03
+1301 A general_aviation 
+1300  26.69099466 -078.98722472 201.53 tie_down turboprops|props GA 02
+1301 A general_aviation 
+1300  26.69112397 -078.98761837 202.23 tie_down turboprops|props GA 01
+1301 A general_aviation 
 18  26.68968441 -078.98658004 1 BCN
 51 12280 UNICOM
 99
