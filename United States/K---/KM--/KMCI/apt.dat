@@ -3,7 +3,7 @@ I
 
 1   1024 1 0 KMCI Kansas City International
 100 46.00 1 0 0.25 1 3 0 01L  39.29335591 -094.72931513    0  122 3 7 1 1 19R  39.32225880 -094.72077362    0  122 3 2 1 1
-100 46.02 2 0 0.25 0 3 0 09  39.29088404 -094.72658780    0  122 3 7 0 0 27  39.28809667 -094.69321895    0  120 3 7 0 0
+100 46.02 2 0 0.25 0 3 0 09  39.29088887 -094.72664561    0  122 3 7 0 0 27  39.28809184 -094.69316180    0  120 3 7 0 0
 100 46.02 2 0 0.25 1 3 0 01R  39.28147502 -094.70899630    0  122 3 2 1 1 19L  39.30689169 -094.70147445    0  122 3 7 1 1
 110 1 0.00 0.0000 New Taxiway 1
 111  39.29474002 -094.71517753
@@ -6046,55 +6046,51 @@ I
 21  39.30395882 -094.70147021 2 191.6300 3.00 New Light Fixture 1
 21  39.29026610 -094.72462125 3 99.8000 3.00 New Light Fixture 2
 14  39.29831966 -094.71559307 223.10 0 Tower Viewpoint
-1300  39.29636421 -094.69866205 158.20 tie_down heavy|jets|turboprops|props Aviation Technical service 02
+1300  39.29636421 -094.69866205 158.20 misc heavy|jets|turboprops|props MAINT AVIATION TECH SERVICES 02
 1301 E none 
-1300  39.29625357 -094.69972451 135.47 tie_down heavy|jets|turboprops|props Aviation Technical service 01
+1300  39.29625357 -094.69972451 135.47 misc heavy|jets|turboprops|props MAINT AVIATION TECH SERVICES 01
 1301 E none 
-1300  39.29441475 -094.69649845  29.93 tie_down heavy|jets|turboprops|props Jet Midwest 02
+1300  39.29446374 -094.69683581 -26.25 misc jets|turboprops|props MAINT JET MIDWEST 01
+1301 D none 
+1300  39.29439745 -094.69508622   1.85 misc heavy|jets|turboprops|props MAINT JET MIDWEST 03
 1301 E none 
-1300  39.29439377 -094.69635392  27.30 tie_down heavy|jets|turboprops|props Jet Midwest 03
-1301 E none 
-1300  39.29437299 -094.69678695 -26.25 tie_down heavy|jets|turboprops|props Jet Midwest 01
-1301 E none 
-1300  39.29439745 -094.69508622   1.85 tie_down heavy|jets|turboprops|props Jet Midwest 05
-1301 E none 
-1300  39.29437672 -094.69585129  29.93 tie_down heavy|jets|turboprops|props Jet Midwest 04
-1301 E none 
-1300  39.29586114 -094.69509969 178.17 tie_down jets|turboprops|props Frontier Maintenance 04
+1300  39.29445159 -094.69579754  27.41 misc jets|turboprops|props MAINT JET MIDWEST 02
+1301 D none 
+1300  39.29586114 -094.69509969 178.17 misc jets|turboprops|props MAINT FRONTIER 04
 1301 C none 
-1300  39.29586400 -094.69584142 180.00 tie_down jets|turboprops|props Frontier Maintenance 03
+1300  39.29586400 -094.69584142 180.00 misc jets|turboprops|props MAINT FRONTIER 03
 1301 C none 
-1300  39.29585282 -094.69642433 176.82 tie_down jets|turboprops|props Frontier Maintenance 02
+1300  39.29585282 -094.69642433 176.82 misc jets|turboprops|props MAINT FRONTIER 02
 1301 C none 
-1300  39.29582138 -094.69697548 180.00 tie_down jets|turboprops|props Fronier Maintenance 01
+1300  39.29582138 -094.69697548 180.00 misc jets|turboprops|props MAINT FRONTIER 01
 1301 C none 
-1300  39.32092162 -094.71570218 102.88 gate heavy|jets FedEx 07
+1300  39.32092162 -094.71570218 102.88 gate heavy|jets CARGO FEDEX 07
 1301 C cargo 
-1300  39.32130038 -094.71545319 104.04 gate heavy|jets FedEx 06
+1300  39.32130038 -094.71545319 104.04 gate jets CARGO FEDEX 06
 1301 D cargo 
-1300  39.32185550 -094.71541132 102.71 gate heavy|jets FedEx 05
+1300  39.32185550 -094.71541132 102.71 gate jets CARGO FEDEX 05
+1301 D cargo 
+1300  39.32198515 -094.71549115 104.22 gate jets CARGO FEDEX 04
 1301 C cargo 
-1300  39.32198515 -094.71549115 104.22 gate heavy|jets FedEx 04
+1300  39.32232397 -094.71535600 102.53 gate jets CARGO FEDEX 03
 1301 C cargo 
-1300  39.32232397 -094.71535600 102.53 gate heavy|jets FedEx 03
+1300  39.32265891 -094.71523271 103.88 gate jets CARGO FEDEX 02
 1301 C cargo 
-1300  39.32265891 -094.71523271 103.88 gate heavy|jets FedEx 02
+1300  39.32300940 -094.71516255 104.03 gate jets CARGO FEDEX 01
 1301 C cargo 
-1300  39.32300940 -094.71516255 104.03 gate heavy|jets FedEx 01
+1300  39.30619855 -094.72085440 -166.20 gate heavy|jets CARGO UPS 03
+1301 D cargo 
+1300  39.30611788 -094.72023634 -166.32 gate heavy|jets CARGO UPS 02
 1301 C cargo 
-1300  39.30619855 -094.72085440 -166.20 gate heavy|jets UPS 03
+1300  39.30662084 -094.71996288 113.32 gate jets CARGO UPS 01
+1301 B cargo 
+1300  39.30938510 -094.71959569 -169.49 gate jets CAGRO 01
 1301 D cargo 
-1300  39.30611788 -094.72023634 -166.32 gate heavy|jets UPS 02
+1300  39.30947758 -094.72006335 159.33 gate heavy|jets CAGRO 02A
+1301 E cargo 
+1300  39.30959874 -094.72022996 -170.70 gate jets CAGRO 02
 1301 D cargo 
-1300  39.30662084 -094.71996288 113.32 gate heavy|jets UPS 01
-1301 D cargo 
-1300  39.30938510 -094.71959569 -169.49 gate heavy|jets JOINT Cargo 03
-1301 D cargo 
-1300  39.30947758 -094.72006335 159.33 gate heavy|jets JOINT Cargo 02
-1301 D cargo 
-1300  39.30959874 -094.72022996 -170.70 gate heavy|jets JOINT cargo 01
-1301 D cargo 
-1300  39.30515755 -094.72065582 -77.59 gate heavy|jets US Post Office 
+1300  39.30515755 -094.72065582 -77.59 gate jets CARGO US Post Office 
 1301 D cargo 
 1300  39.30029429 -094.71852789 -38.05 gate jets|turboprops|props Gate 01-03
 1301 B airline 
