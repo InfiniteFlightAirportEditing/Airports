@@ -2057,9 +2057,9 @@ I
 1300  32.38915736 -094.71942263 139.02 tie_down jets|turboprops|props Stebbins FBO 04
 1301 B general_aviation 
 1300  32.38750667 -094.71884392 237.33 gate heavy|jets|turboprops|props Gate 01
-1301 D airline 
+1301 C airline 
 1300  32.38724529 -094.71872916  -2.80 gate heavy|jets|turboprops|props Gate 02
-1301 D airline 
+1301 B airline 
 1300  32.38571136 -094.71880947  -0.47 tie_down props GA 01
 1301 A general_aviation 
 1300  32.38571158 -094.71866238   0.15 tie_down props GA 02
