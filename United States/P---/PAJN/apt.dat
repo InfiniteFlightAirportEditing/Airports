@@ -1819,7 +1819,7 @@ I
 111  58.36064174 -134.58570800 20
 113  58.36063816 -134.58633442 20
 120 Linear Feature 45
-111  58.35989914 -134.58483129 20
+111  58.35989914 -134.58483129 1
 115  58.35976194 -134.58482996
 120 Linear Feature 44
 111  58.35989400 -134.58580516 1
@@ -1887,10 +1887,10 @@ I
 111  58.35989535 -134.58531905 1
 111  58.35989643 -134.58515818 1
 111  58.35989697 -134.58499628 1
-111  58.35989914 -134.58483129 20
-111  58.35989968 -134.58467661 20
-111  58.35990076 -134.58451264 20
-111  58.35976282 -134.58451367 20
+111  58.35989914 -134.58483129 1
+111  58.35989968 -134.58467661 1
+111  58.35990076 -134.58451264 1
+111  58.35976282 -134.58451367 1
 111  58.35976194 -134.58482996 1
 111  58.35975997 -134.58515812 1
 111  58.35975801 -134.58548129 1
@@ -2720,9 +2720,9 @@ I
 1301 A general_aviation 
 1300  58.35733651 -134.56874475 179.00 tie_down props GA Apron East 33
 1301 A general_aviation 
-1300  58.35713134 -134.57054745  -0.00 tie_down props GA Apron East 32
+1300  58.35713134 -134.57054745   0.00 tie_down props GA Apron East 32
 1301 A general_aviation 
-1300  58.35713134 -134.57108158  -0.00 tie_down props GA Apron East 31
+1300  58.35713134 -134.57108158   0.00 tie_down props GA Apron East 31
 1301 A general_aviation 
 1300  58.35747412 -134.57102912  90.95 tie_down props GA Apron East 30
 1301 A general_aviation 
@@ -2833,41 +2833,41 @@ I
 1300  58.35918988 -134.59315613 102.63 tie_down props GA Apron West 01
 1301 A general_aviation 
 1300  58.36013249 -134.58466613 178.94 tie_down props Main Apron 18
-1301 A airline 
+1301 A general_aviation 
 1300  58.36013488 -134.58499591 178.94 tie_down props Main Apron 17
-1301 A airline 
+1301 A general_aviation 
 1300  58.36013249 -134.58532114 178.94 tie_down props Main Apron 16
-1301 A airline 
+1301 A general_aviation 
 1300  58.36012930 -134.58563420 178.94 tie_down props Main Apron 15
-1301 A airline 
+1301 A general_aviation 
 1300  58.36013089 -134.58595942 178.94 tie_down props Main Apron 14
-1301 A airline 
+1301 A general_aviation 
 1300  58.35977913 -134.58466046 178.94 tie_down props Main Apron 13
-1301 A airline 
+1301 A general_aviation 
 1300  58.35978042 -134.58499577 178.94 tie_down props Main Apron 12
-1301 A airline 
+1301 A general_aviation 
 1300  58.35977785 -134.58530170 178.94 tie_down props Main Apron 11
-1301 A airline 
+1301 A general_aviation 
 1300  58.35977913 -134.58563212 178.94 tie_down props Main Apron 10
-1301 A airline 
+1301 A general_aviation 
 1300  58.35977785 -134.58596008 178.94 tie_down props Main Apron 09
-1301 A airline 
+1301 A general_aviation 
 1300  58.35942091 -134.58465556 178.94 tie_down props Main Apron 08
-1301 A airline 
+1301 A general_aviation 
 1300  58.35941963 -134.58498108 178.94 tie_down props Main Apron 07
-1301 A airline 
+1301 A general_aviation 
 1300  58.35941706 -134.58530904 178.94 tie_down props Main Apron 06
-1301 A airline 
+1301 A general_aviation 
 1300  58.35941578 -134.58562476 178.94 tie_down props Main Apron 05
-1301 A airline 
+1301 A general_aviation 
 1300  58.35941321 -134.58595762 178.94 tie_down props Main Apron 04
-1301 A airline 
+1301 A general_aviation 
 1300  58.35909351 -134.58526254 178.94 tie_down props Main Apron 03
-1301 A airline 
+1301 A general_aviation 
 1300  58.35908966 -134.58555134 178.94 tie_down props Main Apron 02
-1301 A airline 
+1301 A general_aviation 
 1300  58.35909222 -134.58582790 178.94 tie_down props Main Apron 01
-1301 A airline 
+1301 A general_aviation 
 1300  58.36079500 -134.58581397  90.00 gate jets|turboprops FedEx Cargo 
 1301 B cargo 
 1300  58.35845844 -134.58300770  -0.11 gate jets Terminal Gate 06
