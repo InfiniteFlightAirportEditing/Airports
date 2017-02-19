@@ -1632,10 +1632,10 @@ I
 1301 C airline 
 1300  20.98549203 -101.47729561 224.50 gate jets|turboprops|props Gate 06
 1301 C airline 
-1300  20.98513600 -101.47702823 225.00 gate jets|turboprops|props Gate/Cargo 07
-1301 D airline 
-1300  20.98479355 -101.47674453 223.66 gate jets|turboprops|props Gate/Cargo 08
-1301 C airline 
+1300  20.98513600 -101.47702823 225.00 gate jets|turboprops|props Cargo 07
+1301 D cargo 
+1300  20.98479355 -101.47674453 223.66 gate jets|turboprops|props Cargo 08
+1301 C cargo 
 1300  20.98711595 -101.47912858 164.41 gate jets|turboprops|props Gate F01
 1301 B airline 
 1300  20.98734054 -101.47890467 163.52 gate jets|turboprops|props Gate F02
