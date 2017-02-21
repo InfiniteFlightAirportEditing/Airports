@@ -379,26 +379,26 @@ I
 21  10.82576451  122.49021798 2 23.4700 3.00 02  PAPI-4L
 21  10.83977053  122.49635479 2 203.4800 3.00 20  PAPI-4L
 14  10.83343698  122.49801087  82.02 0 Tower ViewPoint
-1300  10.82977966  122.49592773 -249.54 misc jets|turboprops Gate 07
-1301 C none 
-1300  10.83012636  122.49598898 -249.63 misc jets|turboprops Gate 06
-1301 C none 
-1300  10.83049277  122.49640422 -249.65 misc jets|turboprops Gate 05
-1301 D none 
-1300  10.83085613  122.49632420 -249.57 misc jets|turboprops|props Gate 04A
-1301 B none 
+1300  10.82977966  122.49592773 -249.54 gate jets|turboprops Gate 07
+1301 C airline 
+1300  10.83012636  122.49598898 -249.63 gate jets|turboprops Gate 06
+1301 C airline 
+1300  10.83049277  122.49640422 -249.65 gate jets|turboprops Gate 05
+1301 D airline 
+1300  10.83085613  122.49632420 -249.57 gate jets|turboprops|props Gate 04A
+1301 B airline 
 1300  10.83108683  122.49663672 111.02 gate jets|turboprops Gate 04
-1301 D none 
+1301 D airline 
 1300  10.83146073  122.49654893 -249.14 gate jets|turboprops|props Gate 03A
-1301 B none 
-1300  10.83159137  122.49674783 -250.42 misc jets|turboprops Gate 03
-1301 D none 
+1301 B airline 
+1300  10.83159137  122.49674783 -250.42 gate jets|turboprops Gate 03
+1301 D airline 
 1300  10.83170160  122.49679908 109.82 gate jets|turboprops Gate 02A
-1301 C none 
+1301 C airline 
 1300  10.83211183  122.49663068 -249.78 gate jets|turboprops Gate 02
-1301 C none 
+1301 C airline 
 1300  10.83264990  122.49692245 -250.36 gate jets|turboprops Gate 01
-1301 C none 
+1301 C airline 
 18  10.83343698  122.49801087 1 BCN
 19  10.82401285  122.48902874 0 Windsock
 19  10.84203554  122.49772783 0 Windsock
