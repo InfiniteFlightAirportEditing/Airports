@@ -6810,125 +6810,125 @@ I
 21  26.68077507 -080.09249960 2 315.3400 3.00 32  PAPI-4L
 14  26.68943791 -080.09625978 249.34 0 ATC Tower
 1300  26.68737795 -080.08915766 272.56 gate jets|turboprops GATE C02
-1301 D airline 
+1301 C none 
 1300  26.68688070 -080.08920328 273.14 gate jets|turboprops GATE C04
-1301 D airline 
+1301 C none 
 1300  26.68644604 -080.08920135 272.96 gate jets|turboprops GATE C06
-1301 C airline 
+1301 C none 
 1300  26.68600179 -080.08899707 257.58 gate jets|turboprops GATE C08
-1301 C airline 
+1301 C none 
 1300  26.68571433 -080.08878408 272.94 gate jets|turboprops GATE C10
 1301 C none 
 1300  26.68546318 -080.08870217 312.57 gate jets|turboprops GATE C12
-1301 C airline 
+1301 C none 
 1300  26.68529282 -080.08892860 347.60 gate jets|turboprops GATE C14
-1301 C airline 
+1301 C none 
 1300  26.68527855 -080.08933401   2.35 gate jets|turboprops GATE C16
-1301 C airline 
+1301 C none 
 1300  26.68526687 -080.08964492  26.14 gate jets|turboprops GATE C15
-1301 C airline 
+1301 C none 
 1300  26.68529904 -080.08994245  61.24 gate jets|turboprops GATE C11
-1301 C airline 
+1301 C none 
 1300  26.68556569 -080.08997046  92.99 gate jets|turboprops GATE C09
-1301 C airline 
+1301 C none 
 1300  26.68594733 -080.08986144  92.99 gate jets|turboprops GATE C07
-1301 C airline 
+1301 C none 
 1300  26.68638920 -080.08983479  92.66 gate jets|turboprops GATE C05
-1301 C airline 
+1301 C none 
 1300  26.68688565 -080.08981834  92.66 gate jets|turboprops GATE C03
-1301 C airline 
+1301 C none 
 1300  26.68738530 -080.08983150  92.66 gate jets|turboprops GATE C01
-1301 C airline 
+1301 C none 
 1300  26.68770950 -080.09164497 316.17 gate jets GATE B02
-1301 C airline 
+1301 C none 
 1300  26.68729163 -080.09213931 317.25 gate jets GATE B04
-1301 C airline 
+1301 C none 
 1300  26.68697124 -080.09256243 318.29 gate jets GATE B06
-1301 C airline 
+1301 C none 
 1300  26.68659187 -080.09293589 317.92 gate jets GATE B08
-1301 D airline 
+1301 C none 
 1300  26.68637671 -080.09317540 356.82 gate jets GATE B10
-1301 C airline 
+1301 C none 
 1300  26.68643737 -080.09342797  37.39 gate jets GATE B12
-1301 C airline 
+1301 C none 
 1300  26.68657514 -080.09361912  82.78 gate jets GATE B14
-1301 C airline 
+1301 C none 
 1300  26.68685611 -080.09372688 113.44 gate jets GATE B11
-1301 C airline 
+1301 C none 
 1300  26.68701665 -080.09343962 137.98 gate jets GATE B09
-1301 C airline 
+1301 C none 
 1300  26.68723398 -080.09314149 142.56 gate jets GATE B07
-1301 C airline 
+1301 C none 
 1300  26.68752805 -080.09285509 138.14 gate jets GATE B05
-1301 C airline 
+1301 C none 
 1300  26.68772957 -080.09251175 137.73 gate jets GATE B03
-1301 C airline 
+1301 C none 
 1300  26.68800773 -080.09225194 137.68 gate jets GATE B01
-1301 C airline 
+1301 C none 
 1300  26.67947430 -080.10064295  90.00 tie_down turboprops FBO GAMA AVIATION 01
-1301 B general_aviation 
+1301 C none 
 1300  26.67909496 -080.10062199  90.00 tie_down turboprops FBO GAMA AVIATION 02
-1301 B general_aviation 
+1301 C none 
 1300  26.67912694 -080.10901721   0.00 hangar props HANGAR SW 01
-1301 A general_aviation 
-1300  26.67879656 -080.10815720   1.90 hangar props HANGAR SW 02
-1301 A general_aviation 
-1300  26.67982755 -080.09842937  90.00 tie_down turboprops GA 01
-1301 A general_aviation 
-1300  26.67968689 -080.09843319  90.95 tie_down turboprops GA 02
-1301 A general_aviation 
-1300  26.67954927 -080.09843686  90.00 tie_down turboprops GA 03
-1301 A general_aviation 
-1300  26.67941187 -080.09843673  90.00 tie_down turboprops GA 04
-1301 A general_aviation 
-1300  26.67927107 -080.09843690  91.51 tie_down turboprops GA 05
-1301 A general_aviation 
-1300  26.67913609 -080.09843828  90.00 tie_down turboprops GA 06
-1301 A general_aviation 
-1300  26.67899272 -080.09844016  91.97 tie_down turboprops|props GA 07
-1301 A general_aviation 
-1300  26.68870838 -080.09323437 162.77 gate turboprops GATE A01
-1301 B airline 
-1300  26.68849407 -080.09349731 162.77 gate turboprops GATE A02
-1301 B airline 
-1300  26.68827873 -080.09376024 163.20 gate turboprops GATE A03
-1301 B airline 
-1300  26.68806648 -080.09401971 160.82 gate turboprops GATE A04
-1301 B airline 
-1300  26.67907516 -080.10712435  91.21 tie_down jets|turboprops|props FBO ACP JETS 01
-1301 B general_aviation 
-1300  26.67876684 -080.10621310   0.00 hangar props FBO ACP JETS 02
 1301 B none 
-1300  26.67879560 -080.10539112   0.72 hangar props|helos FBO ACP JETS 03
-1301 B general_aviation 
+1300  26.67879656 -080.10815720   1.90 hangar props HANGAR SW 02
+1301 B none 
+1300  26.67982755 -080.09842937  90.00 tie_down turboprops GA 01
+1301 C none 
+1300  26.67968689 -080.09843319  90.95 tie_down turboprops GA 02
+1301 C none 
+1300  26.67954927 -080.09843686  90.00 tie_down turboprops GA 03
+1301 C none 
+1300  26.67941187 -080.09843673  90.00 tie_down turboprops GA 04
+1301 C none 
+1300  26.67927107 -080.09843690  91.51 tie_down turboprops GA 05
+1301 C none 
+1300  26.67913609 -080.09843828  90.00 tie_down turboprops GA 06
+1301 C none 
+1300  26.67899272 -080.09844016  91.97 tie_down turboprops|props GA 07
+1301 C none 
+1300  26.68870838 -080.09323437 162.77 gate turboprops GATE A01
+1301 C none 
+1300  26.68849407 -080.09349731 162.77 gate turboprops GATE A02
+1301 C none 
+1300  26.68827873 -080.09376024 163.20 gate turboprops GATE A03
+1301 C none 
+1300  26.68806648 -080.09401971 160.82 gate turboprops GATE A04
+1301 C none 
+1300  26.67907516 -080.10712435  91.21 tie_down jets|turboprops|props FBO ALERION AVIATION JETS 01
+1301 C none 
+1300  26.67876684 -080.10621310   0.00 hangar props FBO ALERION AVIATION JETS 02
+1301 B none 
+1300  26.67879560 -080.10539112   0.72 hangar props|helos FBO ALERION AVIATION JETS 03
+1301 B none 
 1300  26.67926491 -080.08082326  75.96 tie_down turboprops|props FBO JET AVIATION 01
-1301 B general_aviation 
+1301 C none 
 1300  26.67933220 -080.07903743 270.00 tie_down jets|turboprops|props FBO JET AVIATION 02
-1301 B general_aviation 
+1301 C none 
 1300  26.68587630 -080.08061254  93.58 hangar jets|turboprops|props CARGO UPS 01
-1301 D none 
+1301 C none 
 1300  26.68566006 -080.07941379  92.73 gate jets|turboprops CARGO UPS 02
-1301 D cargo 
+1301 C none 
 1300  26.68493988 -080.07942123  91.45 gate jets|turboprops CARGO UPS 03
-1301 D cargo 
+1301 C none 
 1300  26.67931563 -080.09599736  93.37 tie_down turboprops|props FBO ATLANTIC AVIATION 01
-1301 B general_aviation 
+1301 C none 
 1300  26.67959398 -080.09555025 270.00 tie_down turboprops FBO ATLANTIC AVIATION 02
-1301 B general_aviation 
+1301 C none 
 1300  26.67957684 -080.09503228 270.00 tie_down turboprops FBO ATLANTIC AVIATION 03
-1301 B general_aviation 
+1301 C none 
 1300  26.67963512 -080.09348990  90.00 tie_down turboprops FBO ATLANTIC AVIATION 04
-1301 B general_aviation 
+1301 C none 
 1300  26.67881341 -080.09376055  54.19 tie_down turboprops|props FBO AUTEC
-1301 B general_aviation 
+1301 C none 
 1300  26.67910677 -080.10128936  94.48 tie_down jets|turboprops|props FBO FLIGHT SAFETY
-1301 B general_aviation 
+1301 C none 
 1300  26.67925761 -080.08259175  77.54 tie_down jets|turboprops|props FBO SIGNATURE FLIGHT 02
-1301 A general_aviation 
+1301 C none 
 1300  26.67918810 -080.08454728 166.11 tie_down jets|turboprops FBO GENERAL DYNAMICS AVIATION
-1301 A general_aviation 
+1301 C none 
 1300  26.67943733 -080.08215207  76.18 tie_down turboprops|props FBO SIGNATURE FLIGHT 03
-1301 A general_aviation 
+1301 C none 
 18  26.68805900 -080.08898500 1 BCN
 19  26.69224773 -080.10284964 1 WS
 19  26.68220735 -080.10093246 1 WS
