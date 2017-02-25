@@ -694,19 +694,19 @@ I
 1301 A general_aviation 
 1300  06.16788553  102.29845026 188.97 tie_down props GA 07
 1301 A general_aviation 
-1300  06.16961419  102.29241289   9.60 gate jets|turboprops|props 02
+1300  06.16961419  102.29241289   9.60 gate jets|turboprops|props GATE 02
 1301 C airline 
-1300  06.16954568  102.29278241   9.52 gate jets|turboprops|props 01
+1300  06.16954568  102.29278241   9.52 gate jets|turboprops|props GATE 01
 1301 C airline 
-1300  06.16966504  102.29203050  10.27 gate jets|turboprops|props 03
+1300  06.16966504  102.29203050  10.27 gate jets|turboprops|props GATE 03
 1301 C airline 
-1300  06.16982563  102.29164507  57.40 tie_down turboprops|props 04
+1300  06.16982563  102.29164507  57.40 tie_down turboprops|props GATE 04
 1301 B airline 
-1300  06.16982701  102.29143723   9.46 tie_down turboprops|props 4A
+1300  06.16982701  102.29143723   9.46 tie_down turboprops|props GATE 04A
 1301 B airline 
-1300  06.16991885  102.29113430  54.52 tie_down turboprops|props 05
+1300  06.16991885  102.29113430  54.52 tie_down turboprops|props GATE 05
 1301 B airline 
-1300  06.16991778  102.29092369  10.01 tie_down turboprops|props 5A
+1300  06.16991778  102.29092369  10.01 tie_down turboprops|props GATE 05A
 1301 B airline 
 18  06.16952223  102.29431402 1 BCN
 19  06.16875294  102.28775946 1 WS
