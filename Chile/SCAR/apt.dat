@@ -440,13 +440,13 @@ I
 1300 -18.34646368 -070.33557762 210.64 tie_down turboprops|props GA01
 1301 A general_aviation 
 1300 -18.34914102 -070.33620549 128.35 gate jets|turboprops|props Gate 04
-1301 C airline 
+1301 D airline 
 1300 -18.34959960 -070.33634926 119.21 gate jets|turboprops|props Gate 03
 1301 C airline 
 1300 -18.35001208 -070.33658555  99.60 gate jets|turboprops|props Gate 02
 1301 C airline 
 1300 -18.35041867 -070.33649317 109.56 gate jets|turboprops|props Gate 01
-1301 C airline 
+1301 B airline 
 18 -18.35026619 -070.33613267 1 BCN
 19 -18.35697119 -070.34369436 1 WS
 19 -18.33939762 -070.33454268 1 WS
