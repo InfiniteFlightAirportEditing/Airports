@@ -2868,47 +2868,47 @@ I
 21  39.10634094 -084.41013562 1 200.9300 3.00 RWY 21L VASI
 21  39.09487143 -084.41573419 3 21.2000 3.00 RWY 03R PAPI
 14  39.10725659 -084.42078914  65.62 0 New Tower Viewpoint 11
-1300  39.10361093 -084.42647009 192.99 misc jets|turboprops|props Terminal
-1301 B none 
-1300  39.10539738 -084.42488954 213.54 misc jets|turboprops|props Signature Flight Support
-1301 C none 
-1300  39.09926434 -084.42366147 358.28 misc jets|turboprops|props Executive Jet Managment 1
-1301 C none 
-1300  39.09970142 -084.42437847  93.23 misc jets|turboprops|props Executive Jet Management 2
-1301 C none 
+1300  39.10363499 -084.42655482 198.89 gate jets|turboprops|props GATE 01
+1301 B airline 
+1300  39.10539738 -084.42488954 213.54 tie_down jets|turboprops|props FBO Signature Flight Support
+1301 B general_aviation 
+1300  39.09926434 -084.42366147 358.28 tie_down jets|turboprops|props FBO Executive Jet Management 1
+1301 B general_aviation 
+1300  39.09970142 -084.42437847  93.23 tie_down jets|turboprops|props FBO Executive Jet Management 2
+1301 B general_aviation 
 1300  39.09539956 -084.42097702  91.71 gate jets|turboprops Ultimate Air Shuttle Terminal
-1301 C airline 
+1301 B airline 
 1300  39.09502816 -084.42143222 336.04 hangar jets|turboprops Ultimate Air Shuttle
-1301 C none 
+1301 B none 
 1300  39.10424812 -084.42660619 120.12 misc jets|turboprops|props Cincinnati Air Museum
 1301 B none 
-1300  39.10332510 -084.42660441 121.33 misc jets|turboprops|props Flamingo Aviation
-1301 B none 
-1300  39.10826721 -084.41861049 205.07 misc jets|turboprops|props Queen City Jet Charters
-1301 B none 
-1300  39.10122773 -084.42536962 243.94 misc props Lunken Flight Training
-1301 A none 
+1300  39.10332510 -084.42660441 121.33 tie_down props FBO Flamingo Aviation
+1301 A general_aviation 
+1300  39.10826721 -084.41861049 205.07 tie_down jets|turboprops|props FBO Queen City Jet Charters
+1301 B general_aviation 
+1300  39.10122773 -084.42536962 243.94 tie_down props Lunken Flight Training
+1301 A general_aviation 
 1300  39.10582307 -084.42433387 153.01 hangar props Apex Aircraft Detailing
-1301 B none 
-1300  39.10589981 -084.42340163 190.67 misc turboprops|props Cin-Air
-1301 B none 
-1300  39.09417062 -084.42121545 331.98 tie_down props GA 1
+1301 A none 
+1300  39.10598596 -084.42342896 242.36 tie_down props FBO Cin-Air
 1301 A general_aviation 
-1300  39.09422783 -084.42104346 326.31 tie_down props GA 2
+1300  39.09417062 -084.42121545 331.98 tie_down props GA 01
 1301 A general_aviation 
-1300  39.09429513 -084.42087653 325.53 tie_down props GA 3
+1300  39.09422783 -084.42104346 326.31 tie_down props GA 02
 1301 A general_aviation 
-1300  39.09464055 -084.42098918 333.97 tie_down props GA 4
+1300  39.09429513 -084.42087653 325.53 tie_down props GA 03
 1301 A general_aviation 
-1300  39.09457732 -084.42116164 335.82 tie_down props GA 5
+1300  39.09464055 -084.42098918 333.97 tie_down props GA 04
 1301 A general_aviation 
-1300  39.09450347 -084.42133952 338.48 tie_down props GA 6
+1300  39.09457732 -084.42116164 335.82 tie_down props GA 05
 1301 A general_aviation 
-1300  39.09406177 -084.42104532 154.23 tie_down props GA 7
+1300  39.09450347 -084.42133952 338.48 tie_down props GA 06
 1301 A general_aviation 
-1300  39.09412489 -084.42086869 146.92 tie_down props GA 8
+1300  39.09406177 -084.42104532 154.23 tie_down props GA 07
 1301 A general_aviation 
-1300  39.09419479 -084.42070343 151.14 tie_down props GA 9
+1300  39.09412489 -084.42086869 146.92 tie_down props GA 08
+1301 A general_aviation 
+1300  39.09419479 -084.42070343 151.14 tie_down props GA 09
 1301 A general_aviation 
 1300  39.09342840 -084.42071017 290.14 tie_down props GA 10
 1301 A general_aviation 
