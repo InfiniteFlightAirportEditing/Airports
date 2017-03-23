@@ -1037,43 +1037,43 @@ I
 21  40.47635531 -107.20470212 2 293.7294 3.00 New Light Fixture 2
 21  40.48551683 -107.22901150 2 113.6218 3.00 New Light Fixture 1
 14  40.48461070 -107.21990690  82.02 0 New Tower Viewpoint 1
-1300  40.47975583 -107.20199091 -65.83 hangar turboprops General Aviation Hangar 05
+1300  40.47975583 -107.20199091 -65.83 hangar turboprops GA Hangar 05
 1301 A none 
-1300  40.47953698 -107.20212571 -65.83 hangar turboprops General Aviation Hangar 04
+1300  40.47953698 -107.20212571 -65.83 hangar turboprops GA Hangar 04
 1301 A none 
-1300  40.47933190 -107.20224040 -65.83 hangar turboprops General Aviation Hangar 03
+1300  40.47933190 -107.20224040 -65.83 hangar turboprops GA Hangar 03
 1301 A none 
-1300  40.47876170 -107.20266092 203.89 hangar jets|turboprops|props General Aviation Hangar 02
+1300  40.47876170 -107.20266092 203.89 hangar jets|turboprops|props GA Hangar 02
 1301 B none 
-1300  40.47860281 -107.20219494 203.89 hangar jets|turboprops|props General Aviation Hangar 01
+1300  40.47860281 -107.20219494 203.89 hangar jets|turboprops|props GA Hangar 01
 1301 B none 
-1300  40.48322515 -107.21841280 293.66 tie_down props General Aviation Apron 14
+1300  40.48322515 -107.21841280 293.66 tie_down props GA Apron 14
 1301 A general_aviation 
-1300  40.48335759 -107.21833778 293.66 tie_down props General Aviation Apron 13
+1300  40.48335759 -107.21833778 293.66 tie_down props GA Apron 13
 1301 A general_aviation 
-1300  40.48349056 -107.21826214 293.66 tie_down props General Aviation Apron 12
+1300  40.48349056 -107.21826214 293.66 tie_down props GA Apron 12
 1301 A general_aviation 
-1300  40.48362602 -107.21818780 293.66 tie_down props General Aviation Apron 11
+1300  40.48362602 -107.21818780 293.66 tie_down props GA Apron 11
 1301 A general_aviation 
-1300  40.48375541 -107.21811347 293.66 tie_down props General Aviation Apron 10
+1300  40.48375541 -107.21811347 293.66 tie_down props GA Apron 10
 1301 A general_aviation 
-1300  40.48330982 -107.21872415 293.66 tie_down props General Aviation Apron 09
+1300  40.48330982 -107.21872415 293.66 tie_down props GA Apron 09
 1301 A general_aviation 
-1300  40.48343780 -107.21865452 293.66 tie_down props General Aviation Apron 08
+1300  40.48343780 -107.21865452 293.66 tie_down props GA Apron 08
 1301 A general_aviation 
-1300  40.48356252 -107.21858232 293.66 tie_down props General Aviation Apron 07
+1300  40.48356252 -107.21858232 293.66 tie_down props GA Apron 07
 1301 A general_aviation 
-1300  40.48368846 -107.21851269 293.66 tie_down props General Aviation Apron 06
+1300  40.48368846 -107.21851269 293.66 tie_down props GA Apron 06
 1301 A general_aviation 
-1300  40.48381095 -107.21844130 293.66 tie_down props General Aviation Apron 05
+1300  40.48381095 -107.21844130 293.66 tie_down props GA Apron 05
 1301 A general_aviation 
-1300  40.48342203 -107.21912018 112.24 tie_down jets|turboprops|props General Aviation Apron 04
+1300  40.48342203 -107.21912018 112.24 tie_down jets|turboprops|props GA Apron 04
 1301 B general_aviation 
-1300  40.48360555 -107.21901840 112.24 tie_down jets|turboprops|props General Aviation Apron 03
+1300  40.48360555 -107.21901840 112.24 tie_down jets|turboprops|props GA Apron 03
 1301 B general_aviation 
-1300  40.48378792 -107.21892163 112.24 tie_down jets|turboprops|props General Aviation Apron 02
+1300  40.48378792 -107.21892163 112.24 tie_down jets|turboprops|props GA Apron 02
 1301 B general_aviation 
-1300  40.48396693 -107.21882579 112.24 tie_down jets|turboprops|props General Aviation Apron 01
+1300  40.48396693 -107.21882579 112.24 tie_down jets|turboprops|props GA Apron 01
 1301 B general_aviation 
 1300  40.48493436 -107.22248414 -68.64 gate jets Commercial Apron
 1301 C airline 
