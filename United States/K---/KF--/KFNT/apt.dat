@@ -1883,11 +1883,11 @@ I
 1301 A general_aviation 
 1300  42.97286629 -083.73455479 180.00 hangar jets|turboprops|props Hangar
 1301 C none 
-1300  42.97149742 -083.75135129 269.00 gate heavy|jets UPS 03
+1300  42.97149742 -083.75135129 269.00 gate heavy|jets CARGO 01
 1301 D cargo 
-1300  42.97196660 -083.75138759 269.00 gate heavy|jets UPS 02
+1300  42.97196660 -083.75138759 269.00 gate heavy|jets CARGO 02
 1301 D cargo 
-1300  42.97240261 -083.75137936 269.00 gate heavy|jets UPS 01
+1300  42.97240261 -083.75137936 269.00 gate heavy|jets CARGO 03
 1301 D cargo 
 1300  42.97165646 -083.74594814 270.00 tie_down jets|turboprops|props GA 04
 1301 B general_aviation 
