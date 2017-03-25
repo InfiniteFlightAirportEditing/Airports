@@ -136,10 +136,10 @@ I
 1301 A general_aviation 
 1300 -31.54110030  159.07862166  28.00 tie_down props GA Apron 01
 1301 A general_aviation 
-1300 -31.54036950  159.07877521 168.00 tie_down turboprops Remote Apron 02
-1301 B airline 
-1300 -31.54017245  159.07827475 258.00 tie_down turboprops Remote Apron 01
-1301 B airline 
+1300 -31.54039330  159.07872733 212.15 tie_down turboprops|props GATE 02
+1301 A airline 
+1300 -31.54017245  159.07827475 258.00 tie_down turboprops|props GATE 01
+1301 A airline 
 18 -31.54062509  159.07813629 1 New Airport Beacon 2
 51 12670 LORD HOWE ISLAND MULT
 99
