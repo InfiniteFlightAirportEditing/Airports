@@ -874,10 +874,10 @@ I
 1301 A general_aviation 
 1300 -17.75707577  177.44804685 -179.79 gate turboprops|props GA RAMP 01
 1301 A general_aviation 
-1300 -17.74999339  177.45172586 -109.35 gate jets|turboprops HANGAR 02
-1301 C airline 
-1300 -17.74979165  177.45125122 110.56 gate jets|turboprops HANGAR 01
-1301 C airline 
+1300 -17.74925673  177.45192283  16.49 hangar jets|turboprops HANGAR 02
+1301 C none 
+1300 -17.74911904  177.45145300  15.08 hangar jets|turboprops HANGAR 01
+1301 C none 
 18 -17.75444060  177.44563016 1 BCN
 19 -17.74964407  177.44703422 0 New Windsock 36
 19 -17.75359677  177.43629170 1 New Windsock 37
