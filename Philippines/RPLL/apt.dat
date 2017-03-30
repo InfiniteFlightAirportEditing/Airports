@@ -5491,6 +5491,10 @@ I
 111  14.50636579  121.00592146 1
 112  14.50655162  121.00583917  14.50665762  121.00583917 1
 115  14.50669929  121.00599026
+21  14.52082422  121.00744966 2 135.0000 3.00 New Light Fixture 98
+21  14.51394679  121.01455775 3 316.0000 3.00 New Light Fixture 96
+21  14.50092224  121.00476218 2 60.0000 3.00 New Light Fixture 95
+21  14.51163112  121.02576560 2 239.0000 3.00 New Light Fixture 94
 14  14.50990472  121.01170061  82.02 0 New Tower Viewpoint 1
 1300  14.51758866  121.00486576  64.00 tie_down props GA Apron 10
 1301 A general_aviation 
@@ -5512,42 +5516,42 @@ I
 1301 A general_aviation 
 1300  14.51728651  121.00378776  64.00 tie_down props GA Apron 01
 1301 A general_aviation 
-1300  14.52217370  121.00248463   0.00 tie_down props FBO World Aviation Corporatio Apron 03
+1300  14.52217370  121.00248463   0.00 tie_down props World Aviation Corporatio Apron 03
 1301 A general_aviation 
-1300  14.52217605  121.00233282   0.00 tie_down props FBO World Aviation Corporatio Apron 02
+1300  14.52217605  121.00233282   0.00 tie_down props World Aviation Corporatio Apron 02
 1301 A general_aviation 
-1300  14.52217605  121.00218829   0.00 tie_down props FBO World Aviation Corporatio Apron 01FBO 
+1300  14.52217605  121.00218829   0.00 tie_down props World Aviation Corporatio Apron 01
 1301 A general_aviation 
-1300  14.51974878  121.00125942 177.00 tie_down props FBO Skydive Fiesta Apron 03
+1300  14.51974878  121.00125942 177.00 tie_down props Skydive Fiesta Apron 03
 1301 A general_aviation 
-1300  14.51975825  121.00143937 177.00 tie_down props FBO Skydive Fiesta Apron 02
+1300  14.51975825  121.00143937 177.00 tie_down props Skydive Fiesta Apron 02
 1301 A general_aviation 
-1300  14.51976961  121.00159780 177.00 tie_down props FBO Skydive Fiesta Apron 01
+1300  14.51976961  121.00159780 177.00 tie_down props Skydive Fiesta Apron 01
 1301 A general_aviation 
-1300  14.52055459  121.00270976   0.00 tie_down props FBO Aero Tour Apron 04
+1300  14.52055459  121.00270976   0.00 tie_down props Aero Tour Apron 01
 1301 A general_aviation 
-1300  14.52055459  121.00255328   0.00 tie_down props FBO Aero Tour Apron 03
+1300  14.52055459  121.00255328   0.00 tie_down props Aero Tour Apron 01
 1301 A general_aviation 
-1300  14.52055673  121.00240533   0.00 tie_down props FBO Aero Tour Apron 02
+1300  14.52055673  121.00240533   0.00 tie_down props Aero Tour Apron 01
 1301 A general_aviation 
-1300  14.52055501  121.00226308   0.00 tie_down props FBO Aero Tour Apron 01
+1300  14.52055501  121.00226308   0.00 tie_down props Aero Tour Apron 01
 1301 A general_aviation 
-1300  14.51931969  121.00269601   0.00 tie_down props FBO Asian Aerospace Corporation Apron 04
+1300  14.51931969  121.00269601   0.00 tie_down props Asian Aerospace Corporation Apron 04
 1301 A general_aviation 
-1300  14.51932141  121.00254664   0.00 tie_down props FBO Asian Aerospace Corporation Apron 03
+1300  14.51932141  121.00254664   0.00 tie_down props Asian Aerospace Corporation Apron 03
 1301 A general_aviation 
-1300  14.51932313  121.00239905   0.00 tie_down props FBO Asian Aerospace Corporation Apron 02
+1300  14.51932313  121.00239905   0.00 tie_down props Asian Aerospace Corporation Apron 02
 1301 A general_aviation 
-1300  14.51932485  121.00224258   0.00 tie_down props FBO Asian Aerospace Corporation Apron 01
+1300  14.51932485  121.00224258   0.00 tie_down props Asian Aerospace Corporation Apron 01
 1301 A general_aviation 
 1300  14.51395317  121.02243330 196.00 tie_down heavy|jets|turboprops Lufthansa Technik Apron 02
-1301 E cargo 
+1301 E airline 
 1300  14.51470650  121.02438660  95.00 tie_down jets|turboprops Lufthansa Technik Apron 04
-1301 D cargo 
+1301 D airline 
 1300  14.51405911  121.02436354  95.00 tie_down jets|turboprops Lufthansa Technik Apron 03
-1301 D cargo 
+1301 D airline 
 1300  14.51369169  121.02158926  96.00 tie_down heavy|jets|turboprops Lufthansa Technik Apron 01
-1301 E cargo 
+1301 E airline 
 1300  14.51311159  121.01190238 227.00 gate jets|turboprops Remote Apron 53B
 1301 B airline 
 1300  14.51291492  121.01168268 227.00 gate jets|turboprops Remote Apron 53
@@ -5587,20 +5591,20 @@ I
 1300  14.51187707  121.01982713 332.00 tie_down jets|turboprops Remote Apron B01
 1301 C airline 
 1300  14.50186064  121.00209843 239.00 gate jets|turboprops Cargo Apron 24
-1301 D cargo 
-1300  14.50270518  121.00175607 275.00 gate jets|turboprops Cargo Apron 23
-1301 D cargo 
-1300  14.50336083  121.00180332 275.00 gate jets|turboprops Cargo Apron 22
-1301 D cargo 
-1300  14.50400122  121.00184913 275.00 gate jets|turboprops Cargo Apron 21
-1301 D cargo 
-1300  14.50465439  121.00192506 271.00 gate jets|turboprops Cargo Apron 20
-1301 D cargo 
-1300  14.51582997  121.01627592  46.00 gate jets|turboprops T3 Gate 107
 1301 D airline 
-1300  14.51628171  121.01578846  46.00 gate jets|turboprops T3 Gate 108
+1300  14.50270518  121.00175607 275.00 gate jets|turboprops Cargo Apron 23
+1301 D airline 
+1300  14.50336083  121.00180332 275.00 gate jets|turboprops Cargo Apron 22
+1301 D airline 
+1300  14.50400122  121.00184913 275.00 gate jets|turboprops Cargo Apron 21
+1301 D airline 
+1300  14.50465439  121.00192506 271.00 gate jets|turboprops Cargo Apron 20
+1301 D airline 
+1300  14.51582997  121.01627592  46.00 gate heavy|jets|turboprops T3 Gate 107
+1301 D airline 
+1300  14.51628171  121.01578846  46.00 gate heavy|jets|turboprops T3 Gate 108
 1301 E airline 
-1300  14.51676168  121.01532183  43.88 gate jets|turboprops T3 Gate 109
+1300  14.51676168  121.01532183  43.88 gate heavy|jets|turboprops T3 Gate 109
 1301 E airline 
 1300  14.51720979  121.01484061  46.00 gate heavy|jets|turboprops T3 Gate 110
 1301 E airline 
@@ -5612,11 +5616,11 @@ I
 1301 E airline 
 1300  14.51907295  121.01283443  45.00 gate heavy|jets|turboprops T3 Gate 114
 1301 E airline 
-1300  14.51954045  121.01236098  45.00 gate jets|turboprops T3 Gate 115
+1300  14.51954045  121.01236098  45.00 gate heavy|jets|turboprops T3 Gate 115
 1301 D airline 
-1300  14.51999102  121.01187646  45.00 gate jets|turboprops T3 Gate 116
+1300  14.51999102  121.01187646  45.00 gate heavy|jets|turboprops T3 Gate 116
 1301 D airline 
-1300  14.52058140  121.01143758  45.00 gate jets|turboprops T3 Gate 117
+1300  14.52058140  121.01143758  45.00 gate heavy|jets|turboprops T3 Gate 117
 1301 E airline 
 1300  14.52110040  121.01099092  44.00 gate heavy|jets|turboprops T3 Gate 118
 1301 E airline 
@@ -5624,15 +5628,15 @@ I
 1301 E airline 
 1300  14.52200549  121.01003534  44.00 gate heavy|jets|turboprops T3 Gate 120
 1301 E airline 
-1300  14.52245619  121.00954431  44.00 gate jets|turboprops T3 Gate 121
+1300  14.52245619  121.00954431  44.00 gate heavy|jets|turboprops T3 Gate 121
 1301 D airline 
-1300  14.52297529  121.00902225  44.00 gate jets|turboprops T3 Gate 122
+1300  14.52297529  121.00902225  44.00 gate heavy|jets|turboprops T3 Gate 122
 1301 D airline 
-1300  14.52334575  121.00845852  44.00 gate jets|turboprops T3 Gate 123
+1300  14.52334575  121.00845852  44.00 gate heavy|jets|turboprops T3 Gate 123
 1301 D airline 
-1300  14.52379608  121.00795667  43.00 gate jets|turboprops T3 Gate 124
+1300  14.52379608  121.00795667  43.00 gate heavy|jets|turboprops T3 Gate 124
 1301 D airline 
-1300  14.52424580  121.00749627  46.00 gate jets|turboprops T3 Gate 125
+1300  14.52424580  121.00749627  46.00 gate heavy|jets|turboprops T3 Gate 125
 1301 D airline 
 1300  14.51771401  121.01565808 224.00 gate jets|turboprops T3 Gate 101
 1301 C airline 
@@ -5672,7 +5676,7 @@ I
 1301 C airline 
 1300  14.51646855  121.01713044 224.00 gate jets|turboprops T3 Gate 106
 1301 C airline 
-1300  14.52471811  121.00702233  44.00 gate jets|turboprops T3 Gate 126
+1300  14.52471811  121.00702233  44.00 gate heavy|jets|turboprops T3 Gate 126
 1301 D airline 
 1300  14.52505478  121.00660051  44.00 gate jets|turboprops T3 Gate 127
 1301 C airline 
@@ -5682,9 +5686,9 @@ I
 1301 C airline 
 1300  14.50973232  121.01508649 352.00 gate jets|turboprops T2 Gate 39
 1301 C airline 
-1300  14.50951971  121.01451865 315.00 gate jets|turboprops T2 Gate 39
+1300  14.50951971  121.01451865 315.00 gate heavy|jets|turboprops T2 Gate 39
 1301 D airline 
-1300  14.50916876  121.01410527 331.00 gate jets|turboprops T2 Gate 38
+1300  14.50916876  121.01410527 331.00 gate heavy|jets|turboprops T2 Gate 38
 1301 D airline 
 1300  14.50896063  121.01361550 331.00 gate jets|turboprops T2 Gate 36
 1301 C airline 
@@ -5696,35 +5700,35 @@ I
 1301 C airline 
 1300  14.50830470  121.01234563 328.00 gate jets|turboprops T2 Gate 32
 1301 C airline 
-1300  14.50804865  121.01194817 329.00 gate jets|turboprops T2 Gate 30
+1300  14.50804865  121.01194817 329.00 gate heavy|jets|turboprops T2 Gate 30
 1301 D airline 
-1300  14.50527283  121.00445988 110.00 gate jets|turboprops T1 Gate 16
+1300  14.50527283  121.00445988 110.00 gate heavy|jets|turboprops T1 Gate 16
 1301 D airline 
-1300  14.50467553  121.00420477 118.00 gate jets|turboprops T1 Gate 15
+1300  14.50467553  121.00420477 118.00 gate heavy|jets|turboprops T1 Gate 15
 1301 D airline 
-1300  14.50430505  121.00382730  91.00 gate jets|turboprops T1 Gate 14
+1300  14.50430505  121.00382730  91.00 gate heavy|jets|turboprops T1 Gate 14
 1301 D airline 
 1300  14.50381975  121.00384236  49.00 gate heavy|jets|turboprops T1 Gate 12
 1301 E airline 
-1300  14.50359599  121.00430817  19.00 gate jets|turboprops T1 Gate 11
+1300  14.50359599  121.00430817  19.00 gate heavy|jets|turboprops T1 Gate 11
 1301 D airline 
-1300  14.50381680  121.00466198 310.00 gate jets|turboprops T1 Gate 10
+1300  14.50381680  121.00466198 310.00 gate heavy|jets|turboprops T1 Gate 10
 1301 D airline 
 1300  14.50446254  121.00498976 307.00 gate heavy|jets|turboprops T1 Gate 09
 1301 E airline 
 1300  14.50485432  121.00592692  12.00 gate heavy|jets|turboprops T1 Gate 07
 1301 E airline 
-1300  14.50484833  121.00654507   1.00 gate jets|turboprops T1 Gate 06
+1300  14.50484833  121.00654507   1.00 gate heavy|jets|turboprops T1 Gate 06
 1301 D airline 
-1300  14.50512952  121.00690302 280.00 gate jets|turboprops T1 Gate 05
+1300  14.50512952  121.00690302 280.00 gate heavy|jets|turboprops T1 Gate 05
 1301 E airline 
-1300  14.50563761  121.00690648 240.00 gate jets|turboprops T1 Gate 04
+1300  14.50563761  121.00690648 240.00 gate heavy|jets|turboprops T1 Gate 04
 1301 D airline 
-1300  14.50575633  121.00646329 206.00 gate jets|turboprops T1 Gate 03
+1300  14.50575633  121.00646329 206.00 gate heavy|jets|turboprops T1 Gate 03
 1301 D airline 
-1300  14.50569763  121.00577535 192.00 gate jets|turboprops T1 Gate 02
+1300  14.50569763  121.00577535 192.00 gate heavy|jets|turboprops T1 Gate 02
 1301 D airline 
-1300  14.50597995  121.00519280 204.00 gate jets|turboprops T1 Gate 01
+1300  14.50597995  121.00519280 204.00 gate heavy|jets|turboprops T1 Gate 01
 1301 D airline 
 1300  14.50600719  121.00850784 331.00 gate heavy|jets|turboprops Cargo Apron C17
 1301 D cargo 
@@ -5740,15 +5744,15 @@ I
 1301 C airline 
 1300  14.50729011  121.01162994 331.00 gate jets|turboprops Remote Apron 28
 1301 C airline 
-1300  14.50981051  121.01427699 251.00 gate jets|turboprops T2 Gate 42
+1300  14.50981051  121.01427699 251.00 gate heavy|jets|turboprops T2 Gate 42
 1301 D airline 
-1300  14.51019418  121.01395683 230.00 gate jets|turboprops T2 Gate 43
+1300  14.51019418  121.01395683 230.00 gate heavy|jets|turboprops T2 Gate 43
 1301 D airline 
-1300  14.51058586  121.01354518 218.00 gate jets|turboprops T2 Gate 45
+1300  14.51058586  121.01354518 218.00 gate heavy|jets|turboprops T2 Gate 45
 1301 D airline 
-1300  14.51099910  121.01307676 215.00 gate jets|turboprops T2 Gate 47
+1300  14.51099910  121.01307676 215.00 gate heavy|jets|turboprops T2 Gate 47
 1301 D airline 
-1300  14.51146202  121.01263513 213.00 gate jets|turboprops T2 Gate 49
+1300  14.51146202  121.01263513 213.00 gate heavy|jets|turboprops T2 Gate 49
 1301 D airline 
 1300  14.52304791  121.00169811 269.00 gate jets|turboprops Air Philippines Apron 03
 1301 C airline 

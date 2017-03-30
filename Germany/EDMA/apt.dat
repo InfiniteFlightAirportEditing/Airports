@@ -3,7 +3,7 @@ I
 
 1   1515 1 0 EDMA Augsburg
 100 50.00 3 0 0.00 1 2 1 07R  48.42190746  010.93020141    0    0 2 9 0 0 25L  48.42480903  010.94303807    0    0 2 9 0 0
-100 30.00 1 0 0.00 0 3 0 07  48.42297612  010.92172338  142    0 2 12 0 1 25  48.42753388  010.94216153  173    0 3 1 0 1
+100 30.00 1 0 0.00 0 3 0 07  48.42297647  010.92172359  142    0 2 12 0 1 25  48.42753424  010.94215991  173    0 3 1 0 1
 110 2 0.00 0.0000 New Taxiway 32
 112  48.42532609  010.94298774  48.42532454  010.94302264
 111  48.42531733  010.94305754
@@ -1453,6 +1453,8 @@ I
 111  48.42440636  010.93768918 20
 111  48.42458259  010.93775414 20
 115  48.42457313  010.93781900
+21  48.42401965  010.92520619 2 73.0000 3.00 New Light Fixture 34
+21  48.42608368  010.93680268 2 251.0000 3.00 New Light Fixture 33
 14  48.42398918  010.93557512  82.02 0 New Tower Viewpoint 2
 1300  48.42168196  010.92294672 252.00 tie_down props Grass Ramp 06
 1301 A general_aviation 
@@ -1466,27 +1468,35 @@ I
 1301 A general_aviation 
 1300  48.42201566  010.92383186 252.00 tie_down props Grass Ramp 01
 1301 A general_aviation 
-1300  48.42044167  010.92529625 252.00 hangar props Hangar 08
-1301 A none 
-1300  48.42059713  010.92522020 252.00 hangar props Hangar 07
-1301 A none 
-1300  48.42072835  010.92515936 252.00 hangar props Hangar 06
-1301 A none 
-1300  48.42087371  010.92509243 252.00 hangar props Hangar 05
-1301 A none 
-1300  48.42026503  010.92452171 252.00 hangar props Hangar 04
-1301 A none 
-1300  48.42040635  010.92445174 252.00 hangar props Hangar 03
-1301 A none 
-1300  48.42054768  010.92438177 252.00 hangar props Hangar 02
-1301 A none 
-1300  48.42069102  010.92431181 252.00 hangar props Hangar 01
-1301 A none 
+1300  48.42044167  010.92529625 252.00 tie_down props Hangar 08
+1301 A general_aviation 
+1300  48.42059713  010.92522020 252.00 tie_down props Hangar 07
+1301 A general_aviation 
+1300  48.42072835  010.92515936 252.00 tie_down props Hangar 06
+1301 A general_aviation 
+1300  48.42087371  010.92509243 252.00 tie_down props Hangar 05
+1301 A general_aviation 
+1300  48.42026503  010.92452171 252.00 tie_down props Hangar 04
+1301 A general_aviation 
+1300  48.42040635  010.92445174 252.00 tie_down props Hangar 03
+1301 A general_aviation 
+1300  48.42054768  010.92438177 252.00 tie_down props Hangar 02
+1301 A general_aviation 
+1300  48.42069102  010.92431181 252.00 tie_down props Hangar 01
+1301 A general_aviation 
 1300  48.42447325  010.93199646 343.00 tie_down props GA Apron 07
 1301 A general_aviation 
 1300  48.42453748  010.93245700 343.00 tie_down props GA Apron 06
 1301 A general_aviation 
 1300  48.42458174  010.93267982 343.00 tie_down props GA Apron 05
+1301 A general_aviation 
+1300  48.42280993  010.92794753 252.00 tie_down props Heli Aviation Hangar 04
+1301 A general_aviation 
+1300  48.42295730  010.92787148 252.00 tie_down props Heli Aviation hangar 03
+1301 A general_aviation 
+1300  48.42310266  010.92779847 252.00 tie_down props Heli Aviation Hangar 02
+1301 A general_aviation 
+1300  48.42325004  010.92772241 252.00 tie_down props Heli Aviation Hangar 01
 1301 A general_aviation 
 1300  48.42467175  010.93335975 342.00 tie_down props GA Apron 04
 1301 A general_aviation 
@@ -1504,10 +1514,6 @@ I
 1301 A general_aviation 
 1300  48.42497126  010.93559338 252.00 tie_down props MFA Apron 01
 1301 A general_aviation 
-1300  48.42352355  010.92914263 252.58 gate props GATE 2
-1301 A airline 
-1300  48.42334330  010.92917059 252.58 gate props GATE 1
-1301 A airline 
 18  48.42396371  010.93558013 1 New Airport Beacon 3
 54 12497 Augsburg Tower
 99
