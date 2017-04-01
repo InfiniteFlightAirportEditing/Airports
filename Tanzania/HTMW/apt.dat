@@ -218,43 +218,37 @@ I
 21 -02.43903831  032.92264978 2 116.5400 3.00 12  PAPI-4L
 21 -02.45029845  032.94341703 2 296.5400 3.00 30  PAPI-4L
 14 -02.44107996  032.92332085  82.02 0 New Tower Viewpoint 13
-1300 -02.45296406  032.94386550  27.98 hangar jets|fighters APRON 16
+1300 -02.45295681  032.94362920 206.48 hangar jets|fighters MIL HANGAR 02
 1301 A none 
-1300 -02.45286524  032.94368412  26.57 hangar jets|fighters APRON 15
+1300 -02.45263710  032.94304426 206.48 hangar jets|fighters MIL HANGAR 01
 1301 A none 
-1300 -02.45272585  032.94342483  26.57 hangar jets|fighters APRON 14
-1301 A none 
-1300 -02.45261385  032.94324178  28.81 hangar jets|fighters APRON 13
-1301 A none 
-1300 -02.45253644  032.94304885  25.20 hangar jets|fighters APRON 12
-1301 A none 
-1300 -02.44072543  032.92333078  26.90 tie_down jets|turboprops|props APRON 03
-1301 A general_aviation 
-1300 -02.44084852  032.92358900  22.07 misc jets|turboprops|props APRON 01
-1301 A none 
-1300 -02.44078827  032.92346009  22.93 tie_down jets|turboprops|props APRON 02
-1301 A general_aviation 
-1300 -02.44276065  032.92412629  27.50 gate jets|turboprops|props|fighters CARGO APRON 03
-1301 D general_aviation 
-1300 -02.44300642  032.92459011  28.94 gate jets|turboprops|props|fighters CARGO APRON 02
-1301 D general_aviation 
-1300 -02.44325454  032.92505097  29.34 gate jets|turboprops|props|fighters CARGO APRON 01
-1301 D general_aviation 
-1300 -02.45223453  032.94402695 207.90 gate jets|fighters APRON 11
+1300 -02.44083477  032.92327241  26.90 gate jets|turboprops|props GATE 01
+1301 A airline 
+1300 -02.44099723  032.92363570  22.07 gate jets|turboprops|props GATE 03
+1301 A airline 
+1300 -02.44091657  032.92344696  22.93 gate jets|turboprops|props GATE 02
+1301 A airline 
+1300 -02.44276065  032.92412629  27.50 gate jets|turboprops|props|fighters CARGO 01
+1301 D cargo 
+1300 -02.44300642  032.92459011  28.94 gate jets|turboprops|props|fighters CARGO 02
+1301 D cargo 
+1300 -02.44325454  032.92505097  29.34 gate jets|turboprops|props|fighters CARGO 03
+1301 D cargo 
+1300 -02.45223453  032.94402695 207.90 gate jets|fighters MIL ECHO 08
 1301 A military 
-1300 -02.45217071  032.94390467 207.90 gate jets|fighters APRON 10
+1300 -02.45217071  032.94390467 207.90 gate jets|fighters MIL ECHO 07
 1301 A military 
-1300 -02.45210834  032.94378812 207.90 gate jets|fighters APRON 09
+1300 -02.45210834  032.94378812 207.90 gate jets|fighters MIL ECHO 06
 1301 A military 
-1300 -02.45204738  032.94367401 207.90 gate jets|fighters APRON 08
+1300 -02.45204738  032.94367401 207.90 gate jets|fighters MIL ECHO 05
 1301 A military 
-1300 -02.45198729  032.94355624 207.90 gate jets|fighters APRON 07
+1300 -02.45198729  032.94355624 207.90 gate jets|fighters MIL ECHO 04
 1301 A military 
-1300 -02.45192638  032.94343862 207.90 gate jets|fighters APRON 06
+1300 -02.45192638  032.94343862 207.90 gate jets|fighters MIL ECHO 03
 1301 A military 
-1300 -02.45186585  032.94332355 207.90 gate fighters APRON 05
+1300 -02.45186585  032.94332355 207.90 gate fighters MIL ECHO 02
 1301 A military 
-1300 -02.45180548  032.94320893 207.90 gate fighters APRON 04
+1300 -02.45180548  032.94320893 207.90 gate fighters MIL ECHO 01
 1301 A military 
 19 -02.44633879  032.93510365 0 WS
 19 -02.43936652  032.92329512 1 WS
