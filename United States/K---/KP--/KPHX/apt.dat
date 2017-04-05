@@ -16326,8 +16326,6 @@ I
 1301 C airline 
 1300  33.42459724 -112.01635853  89.47 gate turboprops South Cargo Area Ramp 05
 1301 D cargo 
-1300  00.00000000 -112.02046840  88.36 tie_down turboprops|props Cutter 
-1301 A general_aviation 
 1300  33.43747451 -111.99637662 -90.00 gate jets|turboprops Gate B07A
 1301 B airline 
 1300  33.43781441 -111.99636386 -89.39 gate jets|turboprops Gate B09A
