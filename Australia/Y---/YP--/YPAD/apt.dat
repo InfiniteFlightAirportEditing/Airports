@@ -3799,6 +3799,10 @@ I
 111 -34.93947158  138.53762146 20
 111 -34.93952594  138.53754506 20
 115 -34.93952916  138.53730227
+21 -34.94227644  138.52466420 2 125.0000 3.00 New Light Fixture 112
+21 -34.94803764  138.53359558 2 306.0000 3.00 New Light Fixture 111
+21 -34.95639973  138.51951603 2 50.0000 3.00 New Light Fixture 110
+21 -34.94324761  138.54015343 2 230.0000 3.00 New Light Fixture 109
 14 -34.94247763  138.53173886  82.02 0 New Tower Viewpoint 1
 1300 -34.93717996  138.53333155 230.00 tie_down props Rossair Charter Apron 03
 1301 A general_aviation 
@@ -3842,7 +3846,7 @@ I
 1301 A general_aviation 
 1300 -34.93971203  138.53095955 229.00 tie_down props GA Apron 01
 1301 A general_aviation 
-1300 -34.93992036  138.53055451 188.00 tie_down jets|turboprops Cargo Apron 87B
+1300 -34.93992036  138.53055451 188.00 tie_down jets|turboprops Cargo Apron 87A
 1301 B cargo 
 1300 -34.93977073  138.53014556 191.00 tie_down jets|turboprops Cargo Apron 87A
 1301 B cargo 
@@ -3932,9 +3936,9 @@ I
 1301 B airline 
 1300 -34.93728030  138.54262370  50.96 gate turboprops|props Remote Apron 02
 1301 B airline 
-1300 -34.93723730  138.54193284  61.00 gate turboprops|props Gate 010D
+1300 -34.93723730  138.54193284  61.00 gate turboprops|props Gate 010C
 1301 B airline 
-1300 -34.93700746  138.54165167  61.00 gate turboprops|props Gate 010C
+1300 -34.93700746  138.54165167  61.00 gate turboprops|props Gate 010B
 1301 B airline 
 1300 -34.93677576  138.54135294  66.00 gate turboprops|props Gate 010A
 1301 B airline 

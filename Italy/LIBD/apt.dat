@@ -2288,6 +2288,8 @@ I
 112  41.13276348  016.74109969  41.13306465  016.74123836 1
 111  41.13307734  016.74139285 1
 115  41.13327168  016.74209234
+21  41.13579428  016.74928807 2 71.0000 3.00 New Light Fixture 66
+21  41.14098025  016.77099991 2 246.0000 3.00 New Light Fixture 65
 14  41.13606003  016.76677654  82.02 0 New Tower Viewpoint 2
 1300  41.13765936  016.77262078  10.00 tie_down props GA Apron03
 1301 A general_aviation 
@@ -2299,30 +2301,30 @@ I
 1301 C airline 
 1300  41.13847860  016.76960250  20.00 tie_down jets|turboprops Remote Apron 104
 1301 C airline 
-1300  41.13862380  016.77012926 340.00 tie_down jets|turboprops Remote Apron 106
+1300  41.13859597  016.77014158 340.00 tie_down jets|turboprops Remote Apron 106
 1301 B airline 
-1300  41.13875441  016.77060118 340.00 tie_down jets|turboprops Remote Apron 108
+1300  41.13872393  016.77061702 340.00 tie_down jets|turboprops Remote Apron 108
 1301 B airline 
-1300  41.13890867  016.77101260 340.00 tie_down props Business Apron 110
-1301 A general_aviation 
-1300  41.13899722  016.77133432 340.00 tie_down props Business Apron 112
-1301 A general_aviation 
-1300  41.13808856  016.77207639 160.00 tie_down props Business Apron 113
-1301 A general_aviation 
-1300  41.13800550  016.77176908 160.00 tie_down props Business Apron 111
-1301 A general_aviation 
-1300  41.13791454  016.77146299 160.00 tie_down props Business Apron 109
-1301 A general_aviation 
-1300  41.13688534  016.76789301 199.69 tie_down jets|turboprops Remote Apron 201
+1300  41.13888477  016.77102450 340.00 tie_down jets|turboprops Business Apron 110
+1301 B general_aviation 
+1300  41.13897033  016.77134754 340.00 tie_down jets|turboprops Business Apron 112
+1301 B general_aviation 
+1300  41.13811375  016.77206475 160.00 tie_down jets|turboprops Business Apron 113
+1301 B general_aviation 
+1300  41.13802704  016.77175787 160.00 tie_down jets|turboprops Business Apron 111
+1301 B general_aviation 
+1300  41.13793729  016.77145206 160.00 tie_down jets|turboprops Business Apron 109
+1301 B general_aviation 
+1300  41.13709879  016.76810944 159.00 tie_down jets|turboprops Remote Apron 201
 1301 C airline 
-1300  41.13696490  016.76759388 204.27 tie_down jets|turboprops Remote Apron 202
-1301 B airline 
-1300  41.13663977  016.76698696 197.98 tie_down jets|turboprops Remote Apron 203
+1300  41.13722104  016.76787472 159.00 tie_down jets|turboprops Remote Apron 202
 1301 C airline 
-1300  41.13654321  016.76615975 200.37 tie_down jets|turboprops Remote Apron 204
+1300  41.13684532  016.76719873 160.00 tie_down jets|turboprops Remote Apron 203
 1301 C airline 
-1300  41.13637883  016.76607854 195.92 tie_down jets|turboprops Remote Apron 205
-1301 D airline 
+1300  41.13682313  016.76646366 159.00 tie_down jets|turboprops Remote Apron 204
+1301 C airline 
+1300  41.13659460  016.76629534 160.00 tie_down jets|turboprops Remote Apron 205
+1301 C airline 
 1300  41.13708716  016.76478968 340.00 tie_down jets|turboprops Remote Apron 301
 1301 B airline 
 1300  41.13688221  016.76406897 340.00 tie_down jets|turboprops Remote Apron 304
@@ -2346,7 +2348,7 @@ I
 1300  41.13480201  016.76244825 159.00 gate jets|turboprops Gate 310
 1301 C airline 
 1300  41.13484382  016.76238433 135.00 gate jets|turboprops Gate 313
-1301 D airline 
+1301 C airline 
 1300  41.13466570  016.76187979 159.00 gate jets|turboprops Gate 312
 1301 C airline 
 1300  41.13766875  016.77081802 194.00 gate jets|turboprops Gate 107
@@ -2357,10 +2359,10 @@ I
 1301 C airline 
 1300  41.13719459  016.76914033 190.00 gate jets|turboprops Gate 102
 1301 C airline 
-1300  41.13575356  016.75999361 340.00 tie_down jets|turboprops Remote Apron 401
-1301 B airline 
-1300  41.13555125  016.75928358 340.00 tie_down jets|turboprops Remote Apron 402
-1301 B airline 
+1300  41.13571074  016.76001476 340.00 tie_down jets|turboprops Remote Apron 401
+1301 C airline 
+1300  41.13550966  016.75930522 340.00 tie_down jets|turboprops Remote Apron 402
+1301 C airline 
 18  41.13605629  016.76679639 1 New Airport Beacon 3
 54 11830 TWR
 55 11950 APP

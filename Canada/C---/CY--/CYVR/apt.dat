@@ -8580,6 +8580,10 @@ I
 111  49.19489482 -123.18625746 20
 111  49.19478456 -123.18616525 20
 113  49.19483071 -123.18640264 20
+21  49.20483106 -123.19372196 3 99.0000 3.00 New Light Fixture 13
+21  49.20084840 -123.16658643 3 280.0000 3.00 New Light Fixture 12
+21  49.18498581 -123.16685245 3 284.0000 3.00 New Light Fixture 11
+21  49.18946973 -123.19845316 3 100.0000 3.00 New Light Fixture 10
 14  49.19493480 -123.17833872  82.02 0 New Tower Viewpoint 1
 1300  49.19077067 -123.18306752  10.00 tie_down turboprops Remote Apron S1B
 1301 C none 
@@ -8594,57 +8598,57 @@ I
 1300  49.19056588 -123.18127319  10.00 tie_down turboprops Remote Apron S2A
 1301 C none 
 1300  49.18194408 -123.17006544  80.00 tie_down turboprops|props South Terminal Ramp 01A
-1301 B airline 
+1301 C none 
 1300  49.18157131 -123.17034955 160.00 tie_down turboprops|props South Terminal Ramp 01B
-1301 B airline 
+1301 C none 
 1300  49.18151707 -123.17070679 155.00 tie_down turboprops|props South Terminal Ramp 01C
-1301 B airline 
+1301 C none 
 1300  49.18157810 -123.17122704 150.00 tie_down turboprops|props South Terminal Ramp 01D
-1301 B airline 
+1301 C none 
 1300  49.18137477 -123.17142920 125.00 tie_down turboprops|props South Terminal Ramp 01E
-1301 B airline 
+1301 C none 
 1300  49.18101199 -123.17130562  30.00 tie_down turboprops|props South Terminal Ramp 01F
-1301 B airline 
+1301 C none 
 1300  49.18097520 -123.17083580  30.00 tie_down turboprops|props South Terminal Ramp 01G
-1301 B airline 
+1301 C none 
 1300  49.18038489 -123.17085657 155.00 tie_down turboprops|props South Terminal Ramp 01H
-1301 B airline 
+1301 C none 
 1300  49.18041966 -123.17134339 145.00 tie_down turboprops|props South Terminal Ramp 01J
-1301 B airline 
+1301 C none 
 1300  49.18014652 -123.17151096 130.00 tie_down turboprops|props South Terminal Ramp 01K
-1301 B airline 
+1301 C none 
 1300  49.17986854 -123.17139766  35.00 tie_down turboprops|props South Terminal Ramp 01L
-1301 B airline 
+1301 C none 
 1300  49.17985725 -123.17090274  30.00 tie_down turboprops|props South Terminal Ramp 01M
-1301 B airline 
+1301 C none 
 1300  49.20388642 -123.16190337  60.00 gate turboprops UPS Ramp 07
-1301 A cargo 
+1301 C none 
 1300  49.20373181 -123.16185807  60.00 gate turboprops UPS Ramp 06
-1301 A cargo 
+1301 C none 
 1300  49.20358183 -123.16188022  60.00 tie_down turboprops UPS Ramp 05
-1301 A cargo 
+1301 C none 
 1300  49.20342465 -123.16190725  60.00 tie_down turboprops UPS Ramp 04
-1301 A cargo 
-1300  49.20377270 -123.16112895  10.00 gate jets|turboprops UPS Ramp 03
-1301 D cargo 
-1300  49.20364708 -123.16043948  10.00 gate jets|turboprops UPS Ramp 02
-1301 D cargo 
-1300  49.20355821 -123.15972058  10.00 gate jets|turboprops UPS Ramp 01
-1301 C cargo 
-1300  49.18720315 -123.15823059   0.00 gate jets|turboprops Purolator Courier Service Ramp 03
-1301 C cargo 
-1300  49.18719505 -123.15755062   0.00 gate jets|turboprops Purolator Courier Service Ramp 02
-1301 C cargo 
+1301 C none 
+1300  49.20377270 -123.16112895  10.00 gate heavy|jets|turboprops UPS Ramp 03
+1301 E none 
+1300  49.20364708 -123.16043948  10.00 gate heavy|jets|turboprops UPS Ramp 02
+1301 E none 
+1300  49.20355821 -123.15972058  10.00 gate heavy|jets|turboprops UPS Ramp 01
+1301 E none 
+1300  49.18720315 -123.15823059   0.00 gate jets|turboprops Purolator Courir Service Ramp 03
+1301 C none 
+1300  49.18719505 -123.15755062   0.00 gate jets|turboprops Purolator Courir Service Ramp 02
+1301 C none 
 1300  49.18721077 -123.15686297   0.00 gate jets|turboprops Purolator Courier Service Ramp 01
 1301 C none 
 1300  49.18947317 -123.17507475 340.00 gate jets|turboprops DHL Express Ramp 03
-1301 C cargo 
+1301 C none 
 1300  49.18943060 -123.17433728 345.00 gate jets|turboprops DHL Express Ramp 02
-1301 C cargo 
+1301 C none 
 1300  49.18928415 -123.17343313 345.00 gate jets|turboprops DHL Express Ramp 01
-1301 C cargo 
+1301 C none 
 1300  49.19595288 -123.17253670 325.00 tie_down jets|turboprops Gate 94
-1301 B airline 
+1301 C none 
 1300  49.18158145 -123.16679326 330.00 tie_down props Canada Regional Aviation Ramp 05
 1301 B none 
 1300  49.18158388 -123.16659050 330.00 tie_down props Canada Regional Aviation Ramp 04
@@ -8664,171 +8668,173 @@ I
 1300  49.17908696 -123.16466026   5.00 tie_down props London Air Services Ramp 3C
 1301 B none 
 1300  49.18157466 -123.17012734 180.00 gate jets|turboprops South Terminal Ramp 02D
-1301 B airline 
+1301 C none 
 1300  49.18209901 -123.17053864 210.00 gate jets|turboprops South Terminal Ramp 02C
-1301 B airline 
+1301 C none 
 1300  49.18212460 -123.17081362 185.00 gate jets|turboprops South Terminal Ramp 02B
-1301 B airline 
+1301 C none 
 1300  49.18214910 -123.17133740 185.00 gate jets|turboprops South Terminal Ramp 02A
-1301 B airline 
+1301 C none 
 1300  49.18734304 -123.15598294   5.00 gate heavy|jets|turboprops FedEx Ramp 03
 1301 E none 
 1300  49.18731377 -123.15530195   5.00 gate heavy|jets|turboprops FedEx Ramp 02
 1301 E none 
 1300  49.18734145 -123.15469960   5.00 gate heavy|jets|turboprops FedEx Ramp 01
 1301 E none 
-1300  49.19723969 -123.17372075   0.00 gate jets|turboprops Gate E82
-1301 C airline 
-1300  49.19725021 -123.17327559 340.00 gate jets|turboprops Gate E81
-1301 C airline 
-1300  49.19739561 -123.17304106 305.00 gate jets|turboprops Gate E80
-1301 C airline 
-1300  49.19531002 -123.17373510 350.00 tie_down jets|turboprops Gate E96
-1301 B airline 
-1300  49.19529645 -123.17295399  35.00 tie_down jets|turboprops Gate E95B
-1301 B airline 
-1300  49.19544336 -123.17282972 270.00 gate jets|turboprops Gate E95A
-1301 B airline 
-1300  49.19580195 -123.17317964 220.00 gate jets|turboprops Gate E93
-1301 C airline 
-1300  49.19585916 -123.17366692 195.00 gate jets|turboprops Gate E92
-1301 C airline 
-1300  49.19583733 -123.17412855 180.00 gate jets|turboprops Gate E91
-1301 C airline 
-1300  49.19567833 -123.17456880 160.00 gate jets|turboprops Gate E90
-1301 C airline 
-1300  49.19644281 -123.17648719 330.00 gate jets|turboprops Gate E87
-1301 C airline 
-1300  49.19670180 -123.17603297 330.00 gate jets|turboprops Gate E86
-1301 C airline 
-1300  49.19694153 -123.17551796 335.00 gate jets|turboprops Gate E85
-1301 C airline 
-1300  49.19709331 -123.17494333 340.00 gate jets|turboprops Gate E84
-1301 C airline 
-1300  49.19721005 -123.17438633 340.00 gate jets|turboprops Gate E83
-1301 C airline 
-1300  49.19769020 -123.17320317 270.00 gate jets|turboprops Gate E79
-1301 C airline 
-1300  49.19802391 -123.17324656 241.18 gate jets|turboprops Gate E78
-1301 C airline 
-1300  49.19825255 -123.17350439 235.00 gate jets|turboprops Gate E77
-1301 C airline 
-1300  49.19828980 -123.17353695 214.24 gate jets|turboprops Gate E77A
-1301 D airline 
-1300  49.19833892 -123.17388931 185.00 gate jets|turboprops Gate E76
-1301 C airline 
-1300  49.19835103 -123.17393437 176.53 gate jets|turboprops Gate E76A
-1301 D airline 
-1300  49.19817962 -123.17458246 158.02 gate heavy|jets|turboprops Gate E75
-1301 E airline 
-1300  49.19795527 -123.17549536 155.00 gate heavy|jets|turboprops Gate E73
-1301 E airline 
-1300  49.19782900 -123.17672659 183.57 gate heavy|jets|turboprops Gate D71
-1301 E airline 
-1300  49.19800838 -123.17799121 212.31 gate heavy|jets|turboprops Gate D70
-1301 E airline 
-1300  49.19844836 -123.17887167 225.00 gate heavy|jets|turboprops Gate D67
-1301 E airline 
-1300  49.19879290 -123.17937760 200.00 gate heavy|jets|turboprops Gate D66
-1301 E airline 
-1300  49.19903906 -123.18149105 190.00 gate heavy|jets|turboprops Gate D64
-1301 F airline 
-1300  49.19893210 -123.18029227 190.00 gate heavy|jets|turboprops Gate D65
-1301 F airline 
-1300  49.19822265 -123.18138704  45.00 gate heavy|jets|turboprops Gate D58
-1301 E airline 
-1300  49.19797237 -123.18048861  40.00 gate heavy|jets|turboprops Gate D55
-1301 E airline 
-1300  49.19757824 -123.17969385  40.00 gate heavy|jets|turboprops Gate D54
-1301 E airline 
-1300  49.19713036 -123.17885298  50.00 gate heavy|jets|turboprops Gate D53
-1301 E airline 
-1300  49.19580878 -123.17910872 145.00 gate heavy|jets|turboprops Gate D52
-1301 E airline 
-1300  49.19553544 -123.18017928 160.00 gate heavy|jets|turboprops Gate D51
-1301 D airline 
-1300  49.19530523 -123.18127601 175.00 gate heavy|jets|turboprops Gate D50
-1301 E airline 
-1300  49.19558166 -123.18259867 221.00 gate heavy|jets|turboprops Gate C49
-1301 E none 
-1300  49.19562705 -123.18266028 220.00 gate jets|turboprops Gate C49A
-1301 D airline 
-1300  49.19587377 -123.18305071 195.00 gate heavy|jets|turboprops Gate C48
-1301 E airline 
-1300  49.19588279 -123.18309330 195.00 gate jets|turboprops Gate C48A
-1301 D none 
-1300  49.19593612 -123.18393023 185.00 gate heavy|jets|turboprops Gate C47
-1301 E airline 
-1300  49.19613536 -123.18482901 200.00 gate jets|turboprops Gate C46A
-1301 C airline 
-1300  49.19604055 -123.18485702 -180.00 gate heavy|jets|turboprops Gate C46
-1301 E airline 
-1300  49.19629175 -123.18528721 200.00 gate jets|turboprops Gate C45
-1301 C airline 
-1300  49.19622080 -123.18561285 148.00 gate jets|turboprops Gate C44
-1301 D airline 
-1300  49.19600570 -123.18579233 110.00 gate jets|turboprops Gate C43
-1301 C airline 
-1300  49.19567912 -123.18588317 103.00 gate jets|turboprops Gate C42
-1301 C airline 
-1300  49.19531642 -123.18595822 102.00 gate jets|turboprops Gate C41
-1301 C airline 
-1300  49.19495693 -123.18613673 101.00 gate jets|turboprops Gate C40
-1301 C airline 
-1300  49.19475932 -123.18600383  57.16 gate jets|turboprops Gate C39
-1301 C airline 
-1300  49.19506894 -123.18461873 125.00 gate turboprops Gate C38
-1301 B airline 
-1300  49.19475292 -123.18466380 120.00 gate turboprops Gate C37
-1301 B airline 
-1300  49.19445800 -123.18478296  55.00 gate turboprops Gate C36
-1301 B airline 
-1300  49.19425820 -123.18448219  40.00 gate turboprops Gate C35
-1301 B airline 
-1300  49.19421508 -123.18387802  49.00 gate turboprops Gate C34
-1301 B airline 
-1300  49.19449164 -123.18405466 295.00 gate turboprops Gate C33
-1301 B airline 
-1300  49.19492067 -123.18384243 330.00 gate jets|turboprops Gate C32
-1301 B airline 
-1300  49.19493414 -123.18301924  33.00 gate jets|turboprops Gate C31
-1301 C airline 
-1300  49.19456798 -123.18252368  54.00 gate jets|turboprops Gate C30
-1301 C airline 
-1300  49.19421365 -123.18220574  58.00 gate jets|turboprops Gate C29
-1301 C airline 
-1300  49.19271669 -123.18365238 190.00 gate jets|turboprops Gate B28
-1301 C airline 
-1300  49.19293401 -123.18424793 220.00 gate jets|turboprops Gate B27
+1300  49.19723969 -123.17372075   0.00 gate jets|turboprops Gate 82
 1301 C none 
-1300  49.19296745 -123.18483995 163.00 gate jets|turboprops Gate B26
-1301 C airline 
-1300  49.19283200 -123.18509722 124.00 gate turboprops Gate B26
-1301 C airline 
-1300  49.19235223 -123.18470198 100.00 gate turboprops Gate B22
-1301 C airline 
-1300  49.19220357 -123.18441178  51.00 gate jets|turboprops Gate B21
-1301 C airline 
-1300  49.19208607 -123.18394931  20.00 gate jets|turboprops Gate B20
-1301 C airline 
-1300  49.19203639 -123.18352349 346.00 gate jets|turboprops Gate B19
-1301 B airline 
-1300  49.19215538 -123.18310365  10.00 gate jets|turboprops Gate B18
-1301 B airline 
-1300  49.19216438 -123.18225285  10.00 gate jets|turboprops Gate B17
-1301 C airline 
-1300  49.19195611 -123.18034816  40.00 gate jets|turboprops Gate B14
-1301 C airline 
-1300  49.19175824 -123.17981567  40.00 gate jets|turboprops Gate B13
-1301 C airline 
-1300  49.19148753 -123.17943550  25.13 gate jets|turboprops Gate B12
-1301 C airline 
-1300  49.19115320 -123.17896427  62.00 gate jets|turboprops Gate A10
-1301 B airline 
-1300  49.19071251 -123.17917232  95.00 tie_down turboprops Gate A07
-1301 B airline 
-1300  49.19056768 -123.17849533  70.00 tie_down turboprops Gate A06
-1301 B airline 
+1300  49.19725021 -123.17327559 340.00 gate jets|turboprops Gate 81
+1301 C none 
+1300  49.19739561 -123.17304106 305.00 gate jets|turboprops Gate 80
+1301 C none 
+1300  49.19531002 -123.17373510 350.00 tie_down jets|turboprops Gate 96
+1301 C none 
+1300  49.19529645 -123.17295399  35.00 tie_down jets|turboprops Gate 95B
+1301 C none 
+1300  49.19544336 -123.17282972 270.00 gate jets|turboprops Gate 95A
+1301 C none 
+1300  49.19582739 -123.17314679 220.00 gate jets|turboprops Gate 93
+1301 C none 
+1300  49.19585916 -123.17366692 195.00 gate jets|turboprops Gate 92
+1301 C none 
+1300  49.19583733 -123.17412855 180.00 gate jets|turboprops Gate 91
+1301 C none 
+1300  49.19567833 -123.17456880 160.00 gate jets|turboprops Gate 90
+1301 C none 
+1300  49.19644281 -123.17648719 330.00 gate jets|turboprops Gate 87
+1301 C none 
+1300  49.19670180 -123.17603297 330.00 gate jets|turboprops Gate 86
+1301 C none 
+1300  49.19694153 -123.17551796 335.00 gate jets|turboprops Gate 85
+1301 C none 
+1300  49.19709331 -123.17494333 340.00 gate jets|turboprops Gate 84
+1301 C none 
+1300  49.19721005 -123.17438633 340.00 gate jets|turboprops Gate 83
+1301 C none 
+1300  49.19769020 -123.17320317 270.00 gate jets|turboprops Gate 79
+1301 C none 
+1300  49.19805113 -123.17318061 240.00 gate heavy|jets|turboprops Gate 78
+1301 E none 
+1300  49.19836425 -123.17327339 235.00 gate heavy|jets|turboprops Gate 77
+1301 E none 
+1300  49.19830578 -123.17352041 210.00 gate heavy|jets|turboprops Gate 77A
+1301 E none 
+1300  49.19833892 -123.17388931 185.00 gate heavy|jets|turboprops Gate 76
+1301 E none 
+1300  49.19834649 -123.17394825 180.00 gate heavy|jets|turboprops Gate 76A
+1301 E none 
+1300  49.19823698 -123.17460556 160.00 gate heavy|jets|turboprops Gate 75
+1301 E none 
+1300  49.19800588 -123.17553265 155.00 gate heavy|jets|turboprops Gate 73
+1301 E none 
+1300  49.19782900 -123.17672659 185.00 gate heavy|jets|turboprops Gate 71
+1301 E none 
+1300  49.19800838 -123.17799121 210.00 gate heavy|jets|turboprops Gate 70
+1301 E none 
+1300  49.19844836 -123.17887167 225.00 gate heavy|jets|turboprops Gate 67
+1301 E none 
+1300  49.19879290 -123.17937760 200.00 gate heavy|jets|turboprops Gate 66
+1301 E none 
+1300  49.19903906 -123.18149105 190.00 gate heavy|jets|turboprops Gate 64
+1301 E none 
+1300  49.19895202 -123.18028719 190.00 gate heavy|jets|turboprops Gate 65
+1301 E none 
+1300  49.19822265 -123.18138704  45.00 gate heavy|jets|turboprops Gate 58
+1301 E none 
+1300  49.19797237 -123.18048861  40.00 gate heavy|jets|turboprops Gate 55
+1301 E none 
+1300  49.19757824 -123.17969385  40.00 gate heavy|jets|turboprops Gate 54
+1301 E none 
+1300  49.19713036 -123.17885298  50.00 gate heavy|jets|turboprops Gate 53
+1301 E none 
+1300  49.19580878 -123.17910872 145.00 gate heavy|jets|turboprops Gate 52
+1301 E none 
+1300  49.19553544 -123.18017928 160.00 gate heavy|jets|turboprops Gate 51
+1301 E none 
+1300  49.19530523 -123.18127601 175.00 gate heavy|jets|turboprops Gate 50
+1301 E none 
+1300  49.19564764 -123.18251348 221.00 gate heavy|jets|turboprops Gate 49
+1301 E none 
+1300  49.19568272 -123.18258140 220.00 gate heavy|jets|turboprops Gate 49A
+1301 E none 
+1300  49.19587377 -123.18305071 195.00 gate heavy|jets|turboprops Gate 48
+1301 E none 
+1300  49.19588279 -123.18309330 195.00 gate heavy|jets|turboprops Gate 48A
+1301 E none 
+1300  49.19596107 -123.18392329 185.00 gate heavy|jets|turboprops Gate 47
+1301 E none 
+1300  49.19613536 -123.18482901 200.00 gate heavy|jets|turboprops Gate 46A
+1301 E none 
+1300  49.19600119 -123.18485415 180.00 gate heavy|jets|turboprops Gate 46
+1301 E none 
+1300  49.19629175 -123.18528721 200.00 gate jets|turboprops Gate 45
+1301 C none 
+1300  49.19619268 -123.18557556 148.00 gate heavy|jets|turboprops Gate 44
+1301 E none 
+1300  49.19600195 -123.18577799 110.00 gate heavy|jets|turboprops Gate 43
+1301 E none 
+1300  49.19567912 -123.18588317 103.00 gate jets|turboprops Gate 42
+1301 C none 
+1300  49.19531642 -123.18595822 102.00 gate jets|turboprops Gate 41
+1301 C none 
+1300  49.19495693 -123.18613673 101.00 gate jets|turboprops Gate 40
+1301 C none 
+1300  49.19475932 -123.18600383  57.16 gate jets|turboprops Gate 39
+1301 C none 
+1300  49.19506894 -123.18461873 125.00 gate turboprops Gate 38
+1301 C none 
+1300  49.19476883 -123.18470527 120.00 gate turboprops Gate 37
+1301 C none 
+1300  49.19445800 -123.18478296  55.00 gate turboprops Gate 36
+1301 C none 
+1300  49.19425820 -123.18448219  40.00 gate turboprops Gate 35
+1301 C none 
+1300  49.19421508 -123.18387802  49.00 gate turboprops Gate 34
+1301 C none 
+1300  49.19449164 -123.18405466 295.00 gate turboprops Gate 33
+1301 C none 
+1300  49.19492067 -123.18384243 330.00 gate jets|turboprops Gate 32
+1301 C none 
+1300  49.19493414 -123.18301924  33.00 gate jets|turboprops Gate 31
+1301 C none 
+1300  49.19456798 -123.18252368  54.00 gate jets|turboprops Gate 30
+1301 C none 
+1300  49.19421365 -123.18220574  58.00 gate jets|turboprops Gate 29
+1301 C none 
+1300  49.19271669 -123.18365238 190.00 gate heavy|jets|turboprops Gate 26
+1301 E none 
+1300  49.19293401 -123.18424793 220.00 gate jets|turboprops Gate 23A
+1301 C none 
+1300  49.19296745 -123.18483995 163.00 gate jets|turboprops Gate 23B
+1301 C none 
+1300  49.19283200 -123.18509722 124.00 gate turboprops Gate 23C
+1301 C none 
+1300  49.19235223 -123.18470198 100.00 gate turboprops Gate 22
+1301 C none 
+1300  49.19220357 -123.18441178  51.00 gate jets|turboprops Gate 21
+1301 C none 
+1300  49.19208607 -123.18394931  20.00 gate jets|turboprops Gate 20
+1301 C none 
+1300  49.19203639 -123.18352349 346.00 gate jets|turboprops Gate 19
+1301 C none 
+1300  49.19215538 -123.18310365  10.00 gate jets|turboprops Gate 18
+1301 C none 
+1300  49.19216438 -123.18225285  10.00 gate jets|turboprops Gate 17
+1301 C none 
+1300  49.19195611 -123.18034816  40.00 gate jets|turboprops Gate 14
+1301 C none 
+1300  49.19175824 -123.17981567  40.00 gate jets|turboprops Gate 13
+1301 C none 
+1300  49.19148753 -123.17943550  25.13 gate jets|turboprops Gate 12
+1301 C none 
+1300  49.19115320 -123.17896427  62.00 gate jets|turboprops Gate 10
+1301 C none 
+1300  49.19121940 -123.17893291  61.00 gate turboprops Gate 10A
+1301 C none 
+1300  49.19071251 -123.17917232  95.00 tie_down turboprops Gate 7
+1301 C none 
+1300  49.19056768 -123.17849533  70.00 tie_down turboprops Gate 6
+1301 C none 
 18  49.19493455 -123.17833064 1 New Airport Beacon 3
 50 12315 VANCOUVER FSS
 50 12670 VANCOUVER FSS
