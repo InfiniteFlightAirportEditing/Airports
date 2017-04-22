@@ -150,10 +150,12 @@ I
 1301 A general_aviation 
 1300  48.41922080  012.85979804 -205.98 tie_down props GRASS STAND 01
 1301 A general_aviation 
-1300  48.42019652  012.86096836 157.89 tie_down props HANGAR APRON 02
+1300  48.42028763  012.86080763 157.89 hangar props HANGAR 02
+1301 A none 
+1300  48.42015209  012.86078606  68.44 tie_down props HANGAR APRON
 1301 A general_aviation 
-1300  48.42014432  012.86080962  99.34 tie_down props HANGAR APRON 01
-1301 A general_aviation 
+1300  48.42022876  012.86064877 160.96 hangar props HANGAR 01
+1301 A none 
 18  48.42000499  012.86067110 1 New Airport Beacon 1
-54 12880 Pfarrkirchen Unicom
+51 11997 Pfarrkirchen Info
 99
