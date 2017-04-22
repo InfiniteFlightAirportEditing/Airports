@@ -4068,59 +4068,59 @@ I
 1300 -22.82004941 -043.24038086 125.11 gate jets|turboprops GATE 87
 1301 C airline 
 1300 -22.82004941 -043.24017548 125.31 gate jets|turboprops GATE 86
-1301 C airline 
+1301 E airline 
 1300 -22.81883538 -043.23922376  34.72 gate jets|turboprops GATE 84
 1301 C airline 
 1300 -22.81977040 -043.24023890 125.38 gate jets|turboprops GATE 85
 1301 C airline 
 1300 -22.81884443 -043.23929907  60.69 gate jets|turboprops GATE 83
-1301 C airline 
+1301 E airline 
 1300 -22.81879916 -043.23965924  34.99 gate jets|turboprops GATE 82
 1301 C airline 
 1300 -22.81842994 -043.23988140  35.86 gate jets|turboprops GATE 81
 1301 C airline 
 1300 -22.81833253 -043.23996161  50.84 gate jets|turboprops GATE 80
-1301 C airline 
+1301 E airline 
 1300 -22.81826614 -043.24022683  35.77 gate jets|turboprops GATE 79
 1301 C airline 
 1300 -22.81798610 -043.24050713  35.58 gate jets|turboprops GATE 78
 1301 C airline 
 1300 -22.81785331 -043.24062239  35.32 gate jets|turboprops GATE 77
-1301 C airline 
+1301 E airline 
 1300 -22.81789513 -043.24090713  36.34 gate jets|turboprops GATE 76
 1301 C airline 
 1300 -22.81755027 -043.24136936   3.73 gate jets|turboprops GATE 75
 1301 C airline 
 1300 -22.81758015 -043.24167190  -8.00 gate jets|turboprops GATE 74
-1301 C airline 
+1301 E airline 
 1300 -22.81768682 -043.24189730 -15.46 gate jets|turboprops GATE 73
 1301 C airline 
 1300 -22.81804931 -043.24251791 -54.92 gate jets|turboprops GATE 72
 1301 C airline 
 1300 -22.81822756 -043.24257970 -54.84 gate jets|turboprops GATE 71
-1301 C airline 
+1301 E airline 
 1300 -22.81848356 -043.24253166 -54.30 gate jets|turboprops GATE 70
 1301 C airline 
 1300 -22.81868844 -043.24291644 -54.97 gate jets|turboprops GATE 69
 1301 C airline 
 1300 -22.81885111 -043.24302089 -53.34 gate jets|turboprops GATE 68
-1301 C airline 
+1301 E airline 
 1300 -22.81910010 -043.24298847 -53.63 gate jets|turboprops GATE 67
 1301 C airline 
 1300 -22.81930840 -043.24313667 -13.89 gate jets|turboprops GATE 66
 1301 C airline 
 1300 -22.81932608 -043.24330925  -5.99 gate jets|turboprops GATE 65
-1301 C airline 
+1301 E airline 
 1300 -22.81951166 -043.24344348   6.62 gate jets|turboprops GATE 64
 1301 C airline 
 1300 -22.81930427 -043.24372252  23.89 gate jets|turboprops GATE 63
 1301 C airline 
 1300 -22.81921496 -043.24385817  35.79 gate jets|turboprops GATE 62
-1301 C airline 
+1301 E airline 
 1300 -22.81926204 -043.24409794  35.38 gate jets|turboprops GATE 61
 1301 C airline 
 1300 -22.81903219 -043.24440694  55.63 gate jets|turboprops GATE 60
-1301 C airline 
+1301 E airline 
 1300 -22.81898994 -043.24440694  77.52 gate jets|turboprops GATE 59
 1301 C airline 
 1300 -22.81887789 -043.24452298  99.37 gate jets|turboprops GATE 58
@@ -4128,25 +4128,25 @@ I
 1300 -22.81862035 -043.24434693 118.83 gate jets|turboprops GATE 57
 1301 C airline 
 1300 -22.81850125 -043.24424456 126.29 gate jets|turboprops GATE 56
-1301 C airline 
+1301 E airline 
 1300 -22.81831413 -043.24424456 132.97 gate jets|turboprops GATE 55
 1301 C airline 
 1300 -22.81805128 -043.24386459 125.93 gate jets|turboprops GATE 54
 1301 C airline 
 1300 -22.81787925 -043.24388424 127.09 gate jets|turboprops GATE 53
-1301 C airline 
+1301 E airline 
 1300 -22.81770420 -043.24375654 134.83 gate jets|turboprops GATE 52
 1301 C airline 
 1300 -22.81753130 -043.24326082 126.78 gate jets|turboprops GATE 51
 1301 C airline 
 1300 -22.81738488 -043.24321187 125.85 gate jets|turboprops GATE 50
-1301 C airline 
+1301 E airline 
 1300 -22.81716445 -043.24314215 126.50 gate jets|turboprops GATE 49
 1301 C airline 
 1300 -22.81691608 -043.24283235 125.88 gate jets|turboprops GATE 48
 1301 C airline 
 1300 -22.81678639 -043.24269434 126.23 gate jets|turboprops GATE 47
-1301 C airline 
+1301 E airline 
 1300 -22.81661678 -043.24261858 128.41 gate jets|turboprops GATE 46
 1301 C airline 
 1300 -22.81561375 -043.24401146 -24.15 gate jets|turboprops GATE 45
@@ -4186,13 +4186,13 @@ I
 1300 -22.81408453 -043.24823576  72.26 gate jets|turboprops GATE 28
 1301 C airline 
 1300 -22.81399430 -043.24828326  88.74 gate jets|turboprops GATE 27
-1301 C airline 
+1301 E airline 
 1300 -22.81386429 -043.24828801 103.42 gate jets|turboprops GATE 26
 1301 C airline 
 1300 -22.81352960 -043.24808012 102.35 gate jets|turboprops GATE 25
 1301 C airline 
 1300 -22.81337885 -043.24804000  99.10 gate jets|turboprops GATE 24
-1301 C airline 
+1301 E airline 
 1300 -22.81321559 -043.24814085 121.68 gate jets|turboprops GATE 23
 1301 C airline 
 1300 -22.81209636 -043.24949411 -39.96 gate jets|turboprops GATE 22
@@ -4236,7 +4236,7 @@ I
 1300 -22.81001771 -043.25289968  85.90 gate jets|turboprops GATE 03
 1301 C airline 
 1300 -22.80992356 -043.25289113 108.53 gate jets|turboprops GATE 02
-1301 C airline 
+1301 E airline 
 18 -22.81466034 -043.25625398 1 Rotating Beacon
 19 -22.80211586 -043.25363585 1 Windsock
 19 -22.79300712 -043.21851919 1 Windsock
