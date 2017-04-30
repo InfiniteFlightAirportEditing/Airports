@@ -1251,21 +1251,21 @@ I
 1301 C airline 
 1300  51.51348653  007.60901408 142.00 gate jets|turboprops Gate 00
 1301 C airline 
-1300  51.51673692  007.61584190 150.00 tie_down jets|turboprops Gate 12
+1300  51.51673692  007.61584190 150.00 gate jets|turboprops Gate 12
 1301 C airline 
-1300  51.51653781  007.61527622 150.00 tie_down jets|turboprops Gate 11
+1300  51.51653781  007.61527622 150.00 gate jets|turboprops Gate 11
 1301 C airline 
-1300  51.51634450  007.61470832 150.00 tie_down jets|turboprops Gate 10
+1300  51.51634450  007.61470832 150.00 gate jets|turboprops Gate 10
 1301 C airline 
-1300  51.51614433  007.61414789 150.00 tie_down jets|turboprops Gate 09
+1300  51.51614433  007.61414789 150.00 gate jets|turboprops Gate 09
 1301 C airline 
-1300  51.51594480  007.61358231 150.00 tie_down jets|turboprops Gate 08
+1300  51.51594480  007.61358231 150.00 gate jets|turboprops Gate 08
 1301 C airline 
-1300  51.51574940  007.61301192 150.00 tie_down jets|turboprops Gate 07
+1300  51.51574940  007.61301192 150.00 gate jets|turboprops Gate 07
 1301 C airline 
-1300  51.51551916  007.61238815 150.00 tie_down jets|turboprops Gate 06
+1300  51.51551916  007.61238815 150.00 gate jets|turboprops Gate 06
 1301 C airline 
-1300  51.51530914  007.61175738 150.00 tie_down jets|turboprops Gate 05
+1300  51.51530914  007.61175738 150.00 gate jets|turboprops Gate 05
 1301 C airline 
 1300  51.51102402  007.60342273 328.00 tie_down props LGW Apron 04
 1301 A general_aviation 
