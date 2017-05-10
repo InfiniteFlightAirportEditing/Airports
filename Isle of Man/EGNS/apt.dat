@@ -1501,7 +1501,7 @@ I
 1301 B airline 
 1300  54.08595157 -004.63309819  42.76 gate jets|turboprops|props Stand 06
 1301 C airline 
-1300  54.08569377 -004.63264919  42.76 gate turboprops|props Stand 07
+1300  54.08569377 -004.63264919  42.76 gate jets|turboprops|props Stand 07
 1301 C airline 
 1300  54.08596176 -004.63225244 -136.26 gate jets|turboprops|props Stand 08
 1301 C airline 
@@ -1517,21 +1517,18 @@ I
 1301 B cargo 
 1300  54.08700847 -004.63140058  43.92 tie_down turboprops|props Stand 14
 1301 B cargo 
-1300  54.08257552 -004.61590709  17.31 tie_down props GA 1
+1300  54.08257552 -004.61590709  17.31 tie_down props GA 01
 1301 A general_aviation 
-1300  54.08226703 -004.61514330   5.08 tie_down props GA 2
+1300  54.08226703 -004.61514330   5.08 tie_down props GA 02
 1301 A general_aviation 
 1300  54.08237675 -004.61480798 238.35 hangar props GA Hangar
-1301 A general_aviation 
-1300  54.08656440 -004.62730559 276.64 tie_down jets|turboprops|props Maintenance
+1301 A none 
+1300  54.08656440 -004.62730559 276.64 tie_down jets|turboprops|props MAINT
 1301 C airline 
 1300  54.08422070 -004.63603864 -193.55 hangar jets|turboprops|props Jet Centre
-1301 B general_aviation 
+1301 B none 
 18  54.08686019 -004.63005991 1 BCN
 19  54.08163966 -004.63006953 1 Windsock
-19  54.08729700 -004.62311700 1 Windsock
-19  54.08193900 -004.63458100 1 Windsock
-19  54.08479200 -004.61181900 1 Windsock
 50 12387 Ronaldsway Information
 54 11900 Ronaldsway Tower
 55 13590 Ronaldsway Approach
