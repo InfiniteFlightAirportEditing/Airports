@@ -1359,7 +1359,7 @@ I
 1301 A general_aviation 
 1300  15.77365563 -096.25772763  79.06 tie_down turboprops|props FBO Stand 01
 1301 A general_aviation 
-1300  15.77216265 -096.26093874 169.36 gate heavy|jets|turboprops Cargo Stand 07
+1300  15.77216265 -096.26093874 169.36 gate jets|turboprops Cargo Stand 07
 1301 C cargo 
 1300  15.77214838 -096.26077875 169.36 gate heavy|jets|turboprops Cargo Stand 06A
 1301 E cargo 
@@ -1369,14 +1369,14 @@ I
 1301 C airline 
 1300  15.77259938 -096.25969224 169.36 gate jets|turboprops Terminal - Gate 04
 1301 C airline 
-1300  15.77257348 -096.25962174 169.36 gate jets|turboprops Terminal - Gate 03A
-1301 C airline 
+1300  15.77257348 -096.25962174 169.36 gate jets|turboprops Terminal - Gate 04A
+1301 D airline 
 1300  15.77265380 -096.25930126 169.36 gate jets|turboprops Terminal - Gate 03
 1301 C airline 
 1300  15.77272022 -096.25891670 169.36 gate jets|turboprops Terminal - Gate 02
 1301 C airline 
-1300  15.77270292 -096.25882462 169.36 gate jets|turboprops Terminal - Gate 01A
-1301 C airline 
+1300  15.77270292 -096.25882462 169.36 gate jets|turboprops Terminal - Gate 02A
+1301 D airline 
 1300  15.77279197 -096.25852146 169.36 gate jets|turboprops Terminal - Gate 01
 1301 C airline 
 18  15.77772385 -096.26163312 1 BCN
