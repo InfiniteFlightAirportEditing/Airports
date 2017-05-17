@@ -6659,7 +6659,7 @@ I
 1300  38.74222950 -090.36176166 -146.36 gate jets|turboprops GATE C18
 1301 C airline 
 1300  38.74170464 -090.36196468  33.17 gate jets|turboprops GATE C17
-1301 B airline 
+1301 C airline 
 1300  38.74197859 -090.36262922   5.69 gate jets|turboprops GATE C15
 1301 C airline 
 1300  38.74202103 -090.36136443 -134.19 gate jets|turboprops GATE C24
@@ -6730,24 +6730,6 @@ I
 1301 C airline 
 1300  38.73772952 -090.35785896 152.05 gate jets GATE E33
 1301 B airline 
-1300  38.75608010 -090.37274595  92.54 tie_down turboprops|props GA 12
-1301 A general_aviation 
-1300  38.75634453 -090.37274249  95.71 tie_down turboprops|props GA 13
-1301 A general_aviation 
-1300  38.75662176 -090.37272411  94.19 tie_down turboprops|props GA 14
-1301 A general_aviation 
-1300  38.75676677 -090.37177148 183.01 tie_down turboprops|props GA 15
-1301 A general_aviation 
-1300  38.75672648 -090.37121561 185.71 tie_down turboprops|props GA 16
-1301 A general_aviation 
-1300  38.75613443 -090.37099237   0.00 tie_down turboprops|props GA 17
-1301 A general_aviation 
-1300  38.75615668 -090.37186704   3.18 tie_down turboprops|props GA 18
-1301 A general_aviation 
-1300  38.75617673 -090.37227147   1.33 tie_down turboprops|props GA 19
-1301 A general_aviation 
-1300  38.75614012 -090.37138673   0.00 tie_down turboprops|props GA 20
-1301 A general_aviation 
 1300  38.74692774 -090.34941752 209.51 hangar jets|turboprops|props GA Hangar 01
 1301 B none 
 1300  38.74650837 -090.34860699 212.62 hangar jets|turboprops|props GA Hangar 02
