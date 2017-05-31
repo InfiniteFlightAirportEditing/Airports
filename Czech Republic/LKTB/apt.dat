@@ -1675,7 +1675,7 @@ I
 1300  49.15408108  016.68939954   6.68 gate jets Gate 03
 1301 C airline 
 1300  49.15437517  016.68631137 277.00 tie_down heavy|jets Remote 01
-1301 E airline 
+1301 D airline 
 1300  49.15442127  016.68532748   6.68 tie_down jets Remote 02
 1301 C airline 
 1300  49.15585172  016.68794422 -81.80 tie_down props GA 01
