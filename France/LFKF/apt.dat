@@ -1507,6 +1507,10 @@ I
 21  41.50760613  009.10562758 2 227.4400 3.00 New Light Fixture 4
 21  41.49698517  009.08838359 2 47.4400 3.00 New Light Fixture 3
 14  41.49960219  009.09873673  82.02 0 New Tower Viewpoint 1
+1300  41.50025025  009.09936602 314.81 tie_down jets|turboprops|props GA Apron - F02
+1301 A general_aviation 
+1300  41.50015457  009.09923826 314.81 tie_down jets|turboprops|props GA Apron - F01
+1301 A general_aviation 
 1300  41.50244679  009.09404525 -132.28 tie_down turboprops Securite Civile 01
 1301 B general_aviation 
 1300  41.50105538  009.10055585 -132.11 gate jets|turboprops|props GA Apron - E07
