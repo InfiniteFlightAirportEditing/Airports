@@ -1078,13 +1078,13 @@ I
 1300  24.12498164 -104.53447329 126.23 hangar jets|turboprops|props Hangar 01
 1301 B none 
 1300  24.12657026 -104.53270176 -17.33 gate jets|turboprops Terminal - Gate 04
-1301 C none 
+1301 C airline 
 1300  24.12620533 -104.53300244 -17.33 gate jets|turboprops Terminal - Gate 03
-1301 C none 
+1301 C airline 
 1300  24.12586719 -104.53331097 -17.33 gate jets|turboprops Terminal - Gate 02
-1301 C none 
+1301 C airline 
 1300  24.12543300 -104.53364996 -52.14 gate jets|turboprops Terminal - Gate 01
-1301 C none 
+1301 C airline 
 18  24.13796834 -104.51630236 1 BCN
 50 13210 Durango ATIS
 54 11810 Durango Tower
