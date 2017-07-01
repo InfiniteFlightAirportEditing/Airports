@@ -39,7 +39,7 @@ The general rule is "draw what you see", with a few exceptions:
 
 ### Airport accuracy
 
-In order to achieve maximum accuracy for each airport (in terms of features drawn, location and sizing), the majority of our editors use [WED-O-Maker](https://wedomaker.wordpress.com). This allows for detailed satellite imagery to be shown on WED. It's free to use, and easy to set up (tutorials are available on the [WED-O-Maker](https://wedomaker.wordpress.com) website). We also use a software called [SASPlanet](http://www.sasgis.org), it is available only for PC. (download the [nightly](http://www.sasgis.org/download/) version, tutorials are available [here](bit.ly/SASPlanetGuide))
+In order to achieve maximum accuracy for each airport (in terms of features drawn, location and sizing), the majority of our editors use [WED-O-Maker](https://wedomaker.wordpress.com). This allows for detailed satellite imagery to be shown on WED. It's free to use, and easy to set up (tutorials are available on the [WED-O-Maker](https://wedomaker.wordpress.com) website). We also use a software called [SASPlanet](http://www.sasgis.org), it is available only for PC. (download the [nightly](http://www.sasgis.org/download/) version, tutorials are available [here](http://bit.ly/SASPlanetGuide))
 
 
 ---
