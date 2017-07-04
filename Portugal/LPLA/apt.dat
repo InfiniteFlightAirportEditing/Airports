@@ -4366,9 +4366,9 @@ I
 1301 C military 
 1300  38.75795070 -027.08354786 -130.37 tie_down jets|turboprops Military - Apron D01
 1301 C military 
-1300  38.75587538 -027.08790319 -39.52 gate jets|turboprops Terminal - Apron C08
+1300  38.75587538 -027.08790319 -39.52 gate jets|turboprops Terminal - Apron C07
 1301 C airline 
-1300  38.75539281 -027.08740799 -39.52 gate jets|turboprops Terminal - Apron C07
+1300  38.75539281 -027.08740799 -39.52 gate jets|turboprops Terminal - Apron C08
 1301 C airline 
 1300  38.75709318 -027.08906209 -39.52 gate jets|turboprops Terminal - Apron C06
 1301 D airline 
