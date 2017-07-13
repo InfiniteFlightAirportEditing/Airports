@@ -1344,6 +1344,8 @@ I
 1301 A general_aviation 
 1300  36.28436802 -094.30376502 -114.45 tie_down turboprops|props TIE DOWN 01
 1301 A general_aviation 
+1300  36.28527972 -094.30420622 -45.66 gate jets|turboprops GA APRON 08
+1301 B general_aviation 
 1300  36.28540660 -094.30396566 -45.66 gate jets|turboprops GA APRON 07
 1301 B general_aviation 
 1300  36.28549382 -094.30368696 -45.66 gate jets|turboprops GA APRON 06
