@@ -4586,8 +4586,8 @@ I
 1301 D airline 
 1300  36.74737456 -006.06242072 -24.46 gate jets|turboprops Terminal Apron A01 - Gate 10
 1301 C airline 
-1300  36.74759226 -006.06312015 -24.46 gate jets|turboprops Terminal Apron A01 - Gate 09
-1301 C airline 
+1300  36.74759226 -006.06312015 -24.46 gate jets Terminal Apron A01 - Gate 09
+1301 D airline 
 1300  36.74817386 -006.06398496 -69.04 gate jets Terminal Apron A01 - Gate 08
 1301 D airline 
 1300  36.74855518 -006.06379579 -69.04 gate jets Terminal Apron A01 - Gate 07
