@@ -13,7 +13,7 @@ I
 1302 state North Rhine-Westphalia
 1302 transition_alt 5000
 1302 transition_level 
-100 45.11 1 0 0.00 1 2 1 06  51.60869716  008.60310615    0  324 2 9 0 0 24  51.61945990  008.62951708    0  117 2 9 0 0
+100 45.11 1 0 0.00 1 3 1 06  51.60869716  008.60310615    0  324 3 1 0 0 24  51.61945990  008.62951708    0  117 3 1 0 0
 110 2 0.00 0.0000 New Taxiway 113
 111  51.60951699  008.61428217
 111  51.60939782  008.61424121
@@ -1326,25 +1326,25 @@ I
 21  51.61058460  008.60634429 2 56.6700 3.00 New Light Fixture 19
 14  51.61017780  008.61875971  82.02 0 New Tower Viewpoint 2
 1300  51.60920580  008.61296169 330.22 hangar props GA 10
-1301 A general_aviation 
+1301 A none 
 1300  51.60907588  008.61268844 326.31 hangar props GA 09
-1301 A general_aviation 
+1301 A none 
 1300  51.61341845  008.62312952 328.46 hangar props GA 08
-1301 A general_aviation 
+1301 A none 
 1300  51.60888845  008.61036311 331.98 tie_down props GA 07
-1301 A general_aviation 
+1301 A none 
 1300  51.60650550  008.60640273  55.90 tie_down props GA 06
-1301 A general_aviation 
+1301 A none 
 1300  51.60728227  008.60829862 -123.18 tie_down props GA 05
-1301 A general_aviation 
+1301 A none 
 1300  51.60890640  008.61426987  61.93 hangar props GA 04
-1301 A general_aviation 
+1301 A none 
 1300  51.60872682  008.61443900  55.02 hangar props GA 03
-1301 A general_aviation 
+1301 A none 
 1300  51.60854460  008.61464220  53.52 hangar props GA 02
-1301 A general_aviation 
+1301 A none 
 1300  51.60837343  008.61483857  56.01 hangar props GA 01
-1301 A general_aviation 
+1301 A none 
 1300  51.60993948  008.61742045 184.09 gate props Gate 04
 1301 A airline 
 1300  51.60984203  008.61717594 185.57 gate props Gate 05
