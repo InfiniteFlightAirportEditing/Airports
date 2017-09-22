@@ -1,6 +1,6 @@
 **This airport has been automatically generated**
 
-We have no information about USII[*] airport other than its name, ICAO and location (RU).
+We have no information about WADT[*] airport other than its name, ICAO and location (ID).
 
 This airport will have to be done from scratch, which includes adding runways, taxiways, parking locations, boundaries...
 
