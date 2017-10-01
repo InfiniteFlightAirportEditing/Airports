@@ -7,11 +7,11 @@ Got a passion for design, and want to help improve Infinite Flight? Here, you ca
 ---
 
 ### How to help
-Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials: **[infiniteflightairportediting.github.io](http://infiniteflightairportediting.github.io/)**
-
-**Please check the [Issue Tracker](https://github.com/InfiniteFlightAirportEditing/Airports/issues) before starting your airport. Make sure it isn't already in progress, and if it hasn't been started, please create a new issue with the name of the airport.**
+Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials: **[airportediting.com](http://airportediting.com/)**
 
 We highly recommend you join our [Slack team](http://airportediting.slack.com) - it's a great way to meet other editors and get tips and tricks! Email <mailto:airports@liveflightapp.com> to get started.
+
+It's furthermore highly recommended to check out our [Infinite Flight Airport Editing Beginner's Guide](http://airportediting.com/docs/IFAE_Beginners_Guide.pdf) where you will find information on all challenges of Airport Editing, starting with joining and setting up the software to the actual editing process.
 
 ---
 
@@ -29,7 +29,7 @@ The general rule is "draw what you see", with a few exceptions:
 * Add airport ATC frequencies (please see websites such as airnav.com for this).<br>
 
 **DON'T**<br>
-* Add runway markings with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
+* Add runway markings or text/numbers with taxiway lines (this includes runway numbers, blastpad arrows, etc.).<br>
 * Create jet bridges using the taxiway tool.<br>
 * Forget to include a boundary.<br>
 * Make up an airport - it **HAS** to be a real airport.<br>
@@ -39,7 +39,7 @@ The general rule is "draw what you see", with a few exceptions:
 
 ### Airport accuracy
 
-In order to achieve maximum accuracy for each airport (in terms of features drawn, location and sizing), the majority of our editors use [WED-O-Maker](https://wedomaker.wordpress.com). This allows for detailed satellite imagery to be shown on WED. It's free to use, and easy to set up (tutorials are available on the [WED-O-Maker](https://wedomaker.wordpress.com) website). We also use a software called [SASPlanet](http://www.sasgis.org), it is available only for PC. (download the [nightly](http://www.sasgis.org/download/) version, tutorials are available [here](http://bit.ly/SASPlanetGuide))
+In order to achieve maximum accuracy for each airport (in terms of features drawn, location and sizing), the majority of our editors use [SASPlanet](http://www.sasgis.org) (for Windows and Linux only) and [WED-O-Maker](https://wedomaker.wordpress.com). This allows for detailed satellite imagery to be shown on WED. It's free to use, and easy to set up (tutorials are available on the [WED-O-Maker](https://wedomaker.wordpress.com) website).
 
 
 ---
