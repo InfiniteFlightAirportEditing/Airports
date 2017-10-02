@@ -2106,9 +2106,9 @@ I
 1301 C none 
 1300  42.26953120 -082.95047488 205.54 hangar jets|turboprops|props Premier Aviation Hangar 01
 1301 C none 
-1300  42.26794055 -082.96579209 105.72 hangar props 364&SON Hangar 02
+1300  42.26794055 -082.96579209 105.72 hangar props 364 RCAC Hangar 02
 1301 A none 
-1300  42.26827873 -082.96565855 105.42 hangar props 364&SON Hangar 01
+1300  42.26827873 -082.96565855 105.42 hangar props 364 RCAC Hangar 01
 1301 A none 
 1300  42.26754944 -082.96536799  15.79 hangar props Skylink Express Hangar 01
 1301 A none 
@@ -2186,12 +2186,12 @@ I
 1301 C airline 
 1300  42.26657018 -082.96075337 -108.47 gate jets|turboprops Gate 1
 1301 C airline 
-1300  42.26792723 -082.96731951 -23.56 hangar props ng Club Hangar 11
-1301 B none 
-1300  42.26785312 -082.96771889  66.14 hangar props ng Club Hangar 11
+1300  42.26792723 -082.96731951 -23.56 hangar props Windsor Flying Club Hangar 12
 1301 A none 
-1300  42.26812212 -082.96777329  65.60 hangar props ng Club Hangar 10
-1301 B none 
+1300  42.26785312 -082.96771889  66.14 hangar props Windsor Flying Club Hangar 11
+1301 A none 
+1300  42.26812212 -082.96777329  65.60 hangar props Windsor Flying Club Hangar 10
+1301 A none 
 18  42.26609787 -082.96045636 1 BCN
 19  42.26738461 -082.95481314 0 New Windsock 1
 53 12170 GND
