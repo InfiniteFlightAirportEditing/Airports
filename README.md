@@ -9,7 +9,7 @@ Got a passion for design, and want to help improve Infinite Flight? Here, you ca
 ### How to help
 Helping out is very easy once you understand the basics. We have full tutorials available on our website, as well as video tutorials: **[airportediting.com](http://airportediting.com/)**
 
-We highly recommend you join our [Slack team](http://airportediting.slack.com) - it's a great way to meet other editors and get tips and tricks! Email <mailto:airports@liveflightapp.com> to get started.
+We highly recommend you join our [Slack team](http://airportediting.slack.com) - it's a great way to meet other editors and get tips and tricks! Email <mailto:contact@airportediting.com> to get started.
 
 It's furthermore highly recommended to check out our [Infinite Flight Airport Editing Beginner's Guide](http://airportediting.com/docs/IFAE_Beginners_Guide.pdf) where you will find information on all challenges of Airport Editing, starting with joining and setting up the software to the actual editing process.
 
