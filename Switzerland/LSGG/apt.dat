@@ -4889,14 +4889,13 @@ I
 1300  46.23918813  006.11611625 135.98 gate jets|turboprops CARGO APRON 76
 1301 C cargo 
 18  46.22884036  006.10379546 1 Light beacon
-50 12475 ATIS
-50 13557 ATIS
-53 11870 Geneva Apron
-53 12167 Geneva Ground
-54 11970 Geneva Tower
+55 12030 Final Approach
+53 11952 Terminal
 55 13625 Geneva Arrival
-55 13132 Geneva Approach (instructed by ATC)
-55 12130 Geneva Departure (instructed by ATC)
-55 12030 Geneva Final
-56 11952 Geneva Departure
+50 13557 ATIS
+56 11952 Departure
+53 11970 Ground
+53 12167 Ground
+54 11870 Tower
+54 11990 Tower
 99
