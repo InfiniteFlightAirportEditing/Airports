@@ -113,7 +113,7 @@ I
 112  15.59396700  032.55274027  15.59390301  032.55283227
 111  15.59365661  032.55285507
 111  15.59365673  032.55294884
-111  15.59499136  032.55294013
+111  15.59499135  032.55294013
 111  15.59499338  032.55283781
 112  15.59448224  032.55272153  15.59439117  032.55268320
 111  15.59448224  032.55272153
@@ -772,7 +772,7 @@ I
 111  15.59963233  032.55445763
 111  15.59941981  032.55445231
 111  15.59941981  032.55385837
-111  15.59924078  032.55387163
+111  15.59924078  032.55386544
 111  15.59924669  032.55534664
 112  15.59923168  032.55554168  15.59919340  032.55558142
 111  15.59909310  032.55557663
@@ -3063,95 +3063,95 @@ I
 111  15.57996280  032.55241403 4
 115  15.57980850  032.55225794
 14  15.59224867  032.55009251  98.43 0 Tower Viewpoint 
-1300  15.58060999  032.55101966 -87.33 tie_down props Terminal Stand 01
+1300  15.58060999  032.55101966 -87.33 tie_down props Terminal Stand S45
 1301 A general_aviation 
-1300  15.58082597  032.55103417 -87.36 tie_down props Terminal Stand 02
+1300  15.58082597  032.55103417 -87.36 tie_down props Terminal Stand S44
 1301 A general_aviation 
-1300  15.58104253  032.55102147 -87.80 tie_down props Terminal Stand 03
+1300  15.58104253  032.55102147 -87.80 tie_down props Terminal Stand S43
 1301 A general_aviation 
-1300  15.58128983  032.55096689 -88.45 gate jets|turboprops Terminal Stand 04
+1300  15.58128983  032.55096689 -88.45 gate jets|turboprops Terminal Stand S42
 1301 B airline 
-1300  15.58155594  032.55095818 -89.45 gate jets|turboprops Terminal Stand 05
+1300  15.58155594  032.55095818 -89.45 gate jets|turboprops Terminal Stand S41
 1301 B airline 
-1300  15.58182732  032.55093236 -88.70 gate jets|turboprops Terminal Stand 06
+1300  15.58182732  032.55093236 -88.70 gate jets|turboprops Terminal Stand S40
 1301 B airline 
-1300  15.58209558  032.55089840 -90.00 gate jets|turboprops Terminal Stand 07
+1300  15.58209558  032.55089840 -90.00 gate jets|turboprops Terminal Stand S39
 1301 B airline 
-1300  15.58236946  032.55088026 270.01 gate jets|turboprops Terminal Stand 08
+1300  15.58236946  032.55088026 270.01 gate jets|turboprops Terminal Stand S38
 1301 B airline 
-1300  15.58263703  032.55086956 269.59 gate jets|turboprops Terminal Stand 09
+1300  15.58263703  032.55086956 269.59 gate jets|turboprops Terminal Stand S37
 1301 B airline 
-1300  15.58296620  032.55080133 -90.00 gate jets|turboprops Terminal Stand 10
+1300  15.58296620  032.55080133 -90.00 gate jets|turboprops Terminal Stand S36
 1301 C airline 
-1300  15.58336550  032.55080956 268.50 gate jets|turboprops Terminal Stand 11
+1300  15.58336550  032.55080956 268.50 gate jets|turboprops Terminal Stand S35
 1301 C airline 
-1300  15.58376015  032.55081804 268.58 gate jets|turboprops Terminal Stand 12
+1300  15.58376015  032.55081804 268.58 gate jets|turboprops Terminal Stand S34
 1301 C airline 
-1300  15.58416017  032.55081376 268.86 gate jets|turboprops Terminal Stand 13
+1300  15.58416017  032.55081376 268.86 gate jets|turboprops Terminal Stand S33
 1301 C airline 
-1300  15.58455948  032.55081496 -90.92 gate jets|turboprops Terminal Stand 14
+1300  15.58455948  032.55081496 -90.92 gate jets|turboprops Terminal Stand S32
 1301 C airline 
-1300  15.58495617  032.55080521 -90.80 gate jets|turboprops Terminal Stand 15
+1300  15.58495617  032.55080521 -90.80 gate jets|turboprops Terminal Stand S31
 1301 C airline 
-1300  15.58535587  032.55079220 269.24 gate jets|turboprops Terminal Stand 16
+1300  15.58535587  032.55079220 269.24 gate jets|turboprops Terminal Stand S30
 1301 C airline 
-1300  15.58576130  032.55078913 269.15 gate jets|turboprops Terminal Stand 17
+1300  15.58576130  032.55078913 269.15 gate jets|turboprops Terminal Stand S29
 1301 C airline 
-1300  15.58617953  032.55077192 269.71 gate jets|turboprops Terminal Stand 18
+1300  15.58617953  032.55077192 269.71 gate jets|turboprops Terminal Stand S28
 1301 C airline 
-1300  15.58660053  032.55076998 269.14 gate jets|turboprops Terminal Stand 19
+1300  15.58660053  032.55076998 269.14 gate jets|turboprops Terminal Stand S27
 1301 C airline 
-1300  15.58809919  032.55063601 269.69 gate jets|turboprops Terminal Stand 20
+1300  15.58809919  032.55063601 269.69 gate jets|turboprops Terminal Stand S26
 1301 D airline 
-1300  15.58701093  032.55076765 269.99 gate jets|turboprops Terminal Stand 21
+1300  15.58701093  032.55076765 269.99 gate jets|turboprops Terminal Stand S25
 1301 C airline 
-1300  15.58752955  032.55078635 269.13 gate jets|turboprops Terminal Stand 22
+1300  15.58752955  032.55078635 269.13 gate jets|turboprops Terminal Stand S24
 1301 C airline 
-1300  15.58865828  032.55064076 -89.84 gate jets|turboprops Terminal Stand 23
+1300  15.58865828  032.55064076 -89.84 gate jets|turboprops Terminal Stand S23
 1301 D airline 
-1300  15.58921751  032.55063541 270.39 gate jets|turboprops Terminal Stand 24
+1300  15.58921751  032.55063541 270.39 gate jets|turboprops Terminal Stand S22
 1301 D airline 
-1300  15.58978239  032.55063124 269.44 gate jets|turboprops Terminal Stand 25
+1300  15.58978239  032.55063124 269.44 gate jets|turboprops Terminal Stand S21
 1301 D airline 
-1300  15.59034101  032.55064923 -90.52 gate jets|turboprops Terminal Stand 26
+1300  15.59034101  032.55064923 -90.52 gate jets|turboprops Terminal Stand S20
 1301 D airline 
-1300  15.59089590  032.55062270 269.36 gate jets|turboprops Terminal Stand 27
+1300  15.59089590  032.55062270 269.36 gate jets|turboprops Terminal Stand S19
 1301 D airline 
-1300  15.59146374  032.55061329 -90.54 gate jets|turboprops Terminal Stand 28
+1300  15.59146374  032.55061329 -90.54 gate jets|turboprops Terminal Stand S18
 1301 D airline 
-1300  15.59202063  032.55061114 -91.64 gate jets|turboprops Terminal Stand 29
+1300  15.59202063  032.55061114 -91.64 gate jets|turboprops Terminal Stand S17
 1301 D airline 
-1300  15.59258002  032.55061707 -91.46 gate jets|turboprops Terminal Stand 30
+1300  15.59258002  032.55061707 -91.46 gate jets|turboprops Terminal Stand S16
 1301 D airline 
-1300  15.59314290  032.55059438 269.09 gate jets|turboprops Terminal Stand 31
+1300  15.59314290  032.55059438 269.09 gate jets|turboprops Terminal Stand S15
 1301 D airline 
-1300  15.59370412  032.55058932 269.51 gate jets|turboprops Terminal Stand 32
+1300  15.59370412  032.55058932 269.51 gate jets|turboprops Terminal Stand S14
 1301 D airline 
-1300  15.59420221  032.55063219 -90.95 gate jets|turboprops Terminal Stand 33
+1300  15.59420221  032.55063219 -90.95 gate jets|turboprops Terminal Stand S13
 1301 C airline 
-1300  15.59460997  032.55062612 -90.04 gate jets|turboprops Terminal Stand 34
+1300  15.59460997  032.55062612 -90.04 gate jets|turboprops Terminal Stand S12
 1301 C airline 
-1300  15.59502020  032.55062636 270.73 gate jets|turboprops Terminal Stand 35 
+1300  15.59502020  032.55062636 270.73 gate jets|turboprops Terminal Stand S11
 1301 C airline 
-1300  15.59542290  032.55063731 270.00 gate jets|turboprops Terminal Stand 36
+1300  15.59542290  032.55063731 270.00 gate jets|turboprops Terminal Stand S10
 1301 C airline 
-1300  15.59582099  032.55062728 268.25 gate jets|turboprops Terminal Stand 37
+1300  15.59582099  032.55062728 268.25 gate jets|turboprops Terminal Stand S09
 1301 C airline 
-1300  15.59623487  032.55061374 269.23 gate jets|turboprops Terminal Stand 38
+1300  15.59623487  032.55061374 269.23 gate jets|turboprops Terminal Stand S08
 1301 C airline 
-1300  15.59664445  032.55061038 270.00 gate jets|turboprops Terminal Stand 39
+1300  15.59664445  032.55061038 270.00 gate jets|turboprops Terminal Stand S07
 1301 C airline 
-1300  15.59705380  032.55060986 270.00 gate jets|turboprops Terminal Stand 40
+1300  15.59705380  032.55060986 270.00 gate jets|turboprops Terminal Stand S06
 1301 C airline 
-1300  15.59766311  032.55060773 269.02 gate jets|turboprops Terminal Stand 41
+1300  15.59766311  032.55060773 269.02 gate jets|turboprops Terminal Stand S05
 1301 C airline 
-1300  15.59833755  032.55047028 268.81 gate jets|turboprops Terminal Stand 42
+1300  15.59833755  032.55047028 268.81 gate jets|turboprops Terminal Stand S04
 1301 D airline 
-1300  15.59901794  032.55049933 269.31 gate jets|turboprops Terminal Stand 43
+1300  15.59901794  032.55049933 269.31 gate jets|turboprops Terminal Stand S03
 1301 D airline 
-1300  15.59969060  032.55045157 270.21 gate jets|turboprops Terminal Stand 44
+1300  15.59969060  032.55045157 270.00 gate jets|turboprops Terminal Stand S02
 1301 D airline 
-1300  15.60036531  032.55044455 268.60 gate jets|turboprops Terminal Stand 45
+1300  15.60036531  032.55044455 268.60 gate jets|turboprops Terminal Stand S01
 1301 D airline 
 1300  15.59842533  032.54809873  60.43 tie_down jets|turboprops|props|helos Remote Apron 1
 1301 B airline 
