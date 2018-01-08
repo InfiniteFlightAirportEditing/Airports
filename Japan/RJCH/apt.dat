@@ -825,11 +825,11 @@ I
 1301 C airline 
 1300  41.77429341  140.81816215  17.45 gate jets|turboprops Stand 08
 1301 C airline 
-1300  41.77444670  140.81753649  17.52 gate jets|turboprops Stand 07
+1300  41.77444670  140.81753649  17.52 gate heavy|jets|turboprops Stand 07
 1301 D airline 
 1300  41.77474785  140.81700486  17.58 gate heavy|jets|turboprops Gate 06B
 1301 E airline 
-1300  41.77467769  140.81690693  18.09 gate jets|turboprops Gate 06
+1300  41.77467769  140.81690693  18.09 gate heavy|jets|turboprops Gate 06
 1301 D airline 
 1300  41.77493362  140.81620452  18.05 gate heavy|jets|turboprops Gate 05
 1301 E airline 
