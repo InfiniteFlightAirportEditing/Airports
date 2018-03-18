@@ -4,11 +4,11 @@
 
 # Country?
 
-< Enter tect here >
+< Enter text here >
 
 # Improvements that need to be made?
 
-< Enter tect here >
+< Enter text here >
 
 # Are you working on this airport?
 
