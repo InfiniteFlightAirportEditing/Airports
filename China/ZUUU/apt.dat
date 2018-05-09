@@ -6448,35 +6448,35 @@ I
 1301 C airline 
 1300  30.58722514  103.95497201 110.83 gate jets|turboprops Apron 201
 1301 C airline 
-1300  30.58241090  103.95583923 -158.75 gate jets MAINT Gate 109
+1300  30.58241090  103.95583923 201.25 gate jets T1 Gate 109
 1301 D airline 
-1300  30.58255106  103.95543252 -158.75 gate jets|turboprops MAINT Gate 110
+1300  30.58255106  103.95543252 -158.75 gate jets|turboprops T1 Gate 110
 1301 C airline 
-1300  30.58478779  103.95747031 -158.75 gate jets MAINT Gate 101
+1300  30.58478779  103.95747031 -158.75 gate jets T1 Gate 101
 1301 D airline 
-1300  30.58494315  103.95691549 -158.75 gate heavy|jets MAINT Gate 102
+1300  30.58494315  103.95691549 -158.75 gate heavy|jets T1 Gate 102
 1301 E airline 
-1300  30.58517274  103.95624093 -158.75 gate heavy|jets MAINT Gate 103
+1300  30.58517274  103.95624093 -158.75 gate heavy|jets T1 Gate 103
 1301 E airline 
-1300  30.58542157  103.95555068 -158.75 gate heavy|jets MAINT Gate 104
+1300  30.58542157  103.95555068 -158.75 gate heavy|jets T1 Gate 104
 1301 E airline 
-1300  30.57966362  103.95257499 115.13 gate jets|turboprops MAINT Gate 122
+1300  30.57966362  103.95257499 115.13 gate jets|turboprops T1 Gate 122
 1301 C airline 
-1300  30.58210686  103.95373286 146.04 gate jets|turboprops MAINT Gate 113
+1300  30.58210686  103.95373286 146.04 gate jets|turboprops T1 Gate 113
 1301 C airline 
-1300  30.58518681  103.95495723 146.04 gate jets|turboprops MAINT Gate 105
+1300  30.58518681  103.95495723 146.04 gate jets|turboprops T1 Gate 105
 1301 C airline 
-1300  30.58148867  103.95543093  23.55 gate jets|turboprops MAINT Gate 117
+1300  30.58148867  103.95543093  23.55 gate jets|turboprops T1 Gate 117
 1301 C airline 
-1300  30.58159200  103.95505621  23.55 gate jets|turboprops MAINT Gate 116
+1300  30.58159200  103.95505621  23.55 gate jets|turboprops T1 Gate 116
 1301 C airline 
-1300  30.58175209  103.95462232  23.55 gate jets MAINT Gate 115
+1300  30.58175209  103.95462232  23.55 gate jets T1 Gate 115
 1301 D airline 
-1300  30.57847248  103.95436322  95.47 gate jets|turboprops MAINT Gate 127
+1300  30.57847248  103.95436322  95.47 gate jets|turboprops T1 Gate 127
 1301 C airline 
-1300  30.57894854  103.95439193  55.38 gate jets|turboprops MAINT Gate 126
+1300  30.57894854  103.95439193  55.38 gate jets|turboprops T1 Gate 126
 1301 C airline 
-1300  30.57912066  103.95393435  23.55 gate jets|turboprops MAINT Gate 125
+1300  30.57912066  103.95393435  23.55 gate jets|turboprops T1 Gate 125
 1301 C airline 
 1300  30.57712736  103.95244156 179.31 gate jets|turboprops T2 Gate 133
 1301 C airline 
@@ -6484,9 +6484,9 @@ I
 1301 C airline 
 1300  30.57684036  103.95335047 167.34 gate jets|turboprops T2 Gate 131
 1301 C airline 
-1300  30.57733371  103.95374721 111.35 gate jets|turboprops MAINT Gate 130
+1300  30.57733371  103.95374721 111.35 gate jets|turboprops T1 Gate 130
 1301 C airline 
-1300  30.57766774  103.95390022 111.35 gate jets|turboprops MAINT Gate 129
+1300  30.57766774  103.95390022 111.35 gate jets|turboprops T1 Gate 129
 1301 C airline 
 1300  30.57357160  103.95236170 178.98 gate jets|turboprops T2 Gate 144
 1301 C airline 
@@ -6678,31 +6678,31 @@ I
 1301 F airline 
 1300  30.57684750  103.95194818 155.87 gate heavy|jets T2 Gate 134
 1301 F airline 
-1300  30.57802415  103.95409906 111.35 gate jets|turboprops MAINT Gate 128
+1300  30.57802415  103.95409906 111.35 gate jets|turboprops T1 Gate 128
 1301 C airline 
-1300  30.57928326  103.95345214  23.55 gate jets|turboprops MAINT Gate 124
+1300  30.57928326  103.95345214  23.55 gate jets|turboprops T1 Gate 124
 1301 C airline 
-1300  30.57942068  103.95298681  23.55 gate jets MAINT Gate 123
+1300  30.57942068  103.95298681  23.55 gate jets T1 Gate 123
 1301 D airline 
-1300  30.58189440  103.95413616  23.55 gate jets MAINT Gate 114
+1300  30.58189440  103.95413616  23.55 gate jets T1 Gate 114
 1301 D airline 
-1300  30.58408129  103.95660544  23.55 gate jets MAINT Gate 108
+1300  30.58408129  103.95660544  23.55 gate jets T1 Gate 108
 1301 D airline 
-1300  30.58425529  103.95608433  23.55 gate heavy|jets MAINT Gate 107
+1300  30.58425529  103.95608433  23.55 gate heavy|jets T1 Gate 107
 1301 E airline 
-1300  30.58448799  103.95538057  23.55 gate heavy|jets MAINT Gate 106
+1300  30.58448799  103.95538057  23.55 gate heavy|jets T1 Gate 106
 1301 F airline 
-1300  30.58287027  103.95440339 -156.54 gate heavy|jets MAINT Gate 112
+1300  30.58287027  103.95440339 -156.54 gate heavy|jets T1 Gate 112
 1301 E airline 
-1300  30.57998008  103.95418894 -156.54 gate jets MAINT Gate 119
+1300  30.57998008  103.95418894 -156.54 gate jets T1 Gate 119
 1301 C airline 
-1300  30.57986427  103.95459394 -156.54 gate jets MAINT Gate 118
+1300  30.57986427  103.95459394 -156.54 gate jets T1 Gate 118
 1301 D airline 
-1300  30.58013539  103.95373010 -156.54 gate jets MAINT Gate 120
+1300  30.58013539  103.95373010 -156.54 gate jets T1 Gate 120
 1301 D airline 
-1300  30.58032266  103.95312003 -156.54 gate heavy|jets MAINT Gate 121
+1300  30.58032266  103.95312003 -156.54 gate heavy|jets T1 Gate 121
 1301 E airline 
-1300  30.58269169  103.95499652 -158.75 gate jets MAINT Gate 111
+1300  30.58269169  103.95499652 -158.75 gate jets T1 Gate 111
 1301 D airline 
 1300  30.55845829  103.94530350 292.76 hangar heavy|jets Hangar Air China 02
 1301 E none 
