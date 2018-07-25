@@ -1117,8 +1117,9 @@ I
 1300  36.40445638  028.09461083 251.59 gate jets|turboprops Gate 15
 1301 B airline 
 18  36.40207148  028.08875487 1 New Airport Beacon 16
-50 12635 ATIS
-53 12170 Rhodos Ground
-54 11820 Rhodos Tower
-55 11825 Rhodos Approach
+50 12635 Rodos Diagoras Airport ATIS
+53 12170 Diagoras Ground
+54 11820 Diagoras Tower
+55 11825 Rodos Director
+55 12725 Rodos Approach
 99

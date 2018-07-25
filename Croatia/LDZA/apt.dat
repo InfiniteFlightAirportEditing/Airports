@@ -3980,8 +3980,10 @@ I
 1300  45.73566276  016.06435093 226.63 gate jets|turboprops|props Apron West Stand 22A
 1301 A airline 
 18  45.73283178  016.06078580 1 New Airport Beacon 1
-50 12437 Zagreb ATIS
+50 12458 Zagreb ATIS
 53 12185 Zagreb Ground
 54 11830 Zagreb Tower
+54 11913 Tagreb Tower
 55 12070 Zagreb Approach
+55 11850 Zagreb Approach
 99

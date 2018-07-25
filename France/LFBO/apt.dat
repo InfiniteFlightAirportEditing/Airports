@@ -12076,9 +12076,13 @@ I
 1300  43.64823337  001.36118241 354.16 misc heavy|jets|turboprops Air France Maintenance 01
 1301 C none 
 18  43.63516365  001.36788157 1 New Airport Beacon
-50 12312 ATIS
-53 12190 Toulouse Blagnac Ground
-54 11810 Toulouse Blagnac Tower
-55 12110 Toulouse Approach
+50 12313 Blagnac ATIS
+53 12190 Blagnac Ground
+54 11810 Blagnac Tower
+55 12110 Blagnac Approach
+55 12035 Toulouse Approach
+55 12385 Toulouse Approach
+55 12518 Toulouse Approach
+55 12930 Toulouse Approach
 51 12275 Toulouse Blagnac Unicom
 99
