@@ -20589,9 +20589,16 @@ I
 1301 D cargo 
 18  33.94402497 -118.40367267 1 BCN
 51 12295 Los Angeles Unicom
-53 12165 Los Angeles Ground
+53 12165 Los Angeles Ground North
+53 12175 Los Angeles Ground South
 54 11980 Los Angeles Tower
+54 12095 Los Angeles Tower South
+54 13390 Los Angeles Tower North
 50 13380 Los Angeles ATIS
 55 12490 SoCal Approach
+55 12430 SoCal Approach
+55 12450 SoCal Approach
+55 12850 SoCal Approach
 56 12520 SoCal Departure
+56 12430 SoCal Departure
 99
