@@ -346,8 +346,7 @@ I
 1300  53.43056043  011.77748459 336.18 tie_down props GA 01
 1301 A general_aviation 
 18  53.43245001  011.78284267 1 BCN
-50 13265 ATIS
-51 12890 Parchim Info
-54 12890 Parchim Tower
-55 12617 Berlin Radar
+50 12613 Parchim ATIS
+54 12891 Parchim Tower
+55 12418 Bremen Radar
 99

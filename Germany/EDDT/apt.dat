@@ -2753,11 +2753,11 @@ I
 19  52.55679198  013.28991105 1 WS
 19  52.56183398  013.29883506 1 WS
 50 12590 Berlin Tegel ATIS
-53 12192 Tegel Delivery
-53 12175 Tegel Ground (when Delivery is in use)
+52 12192 Tegel Delivery
+53 12175 Tegel Ground
 54 12452 Tegel Tower
-55 12112 Berlin Director
-55 12642 Bremen Radar (Berlin Arrival South)
-55 11970 Bremen Radar (Berlin Arrival)
-56 12062 Bremen Radar (Berlin Departure)
+55 13611 Berlin Director
+55 12643 Bremen Radar
+55 11963 Bremen Radar
+56 12063 Bremen Radar
 99
