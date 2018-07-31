@@ -4624,9 +4624,12 @@ I
 18  48.69088776  009.19847211 1 BCN
 19  48.68758846  009.20524471 0 Windsock 07
 19  48.69295905  009.24263735 0 Windsock 25
-50 12612 Stuttgart ATIS
-50 12280 Stuttgart Unicom
+50 12613 Stuttgart ATIS
+51 12280 Stuttgart Unicom
+52 12190 Stuttgart Delivery
 53 11860 Stuttgart Ground
 54 11880 Stuttgart Tower
+54 11905 Stuttgart Tower
 55 11985 Stuttgart Director
+55 11920 Langen Radar
 99

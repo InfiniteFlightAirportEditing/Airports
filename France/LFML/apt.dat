@@ -6044,7 +6044,12 @@ I
 1301 A general_aviation 
 18  43.44270185  005.21972794 1 New Airport Beacon 1
 50 12535 Provence ATIS
+52 12173 Provonce Delivery
 53 12190 Provence Ground
-54 11837 Provence Tower
+54 13310 Provence Tower
 55 12020 Provence Approach
+55 12088 Provence Approach
+55 12143 Provence Approach
+55 12435 Provence Approach
+55 13230 Provence Approach
 99

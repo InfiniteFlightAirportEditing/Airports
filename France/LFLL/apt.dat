@@ -5723,10 +5723,13 @@ I
 1300  45.70605696  005.08462047 273.58 misc jets|turboprops Apron M M43
 1301 D none 
 18  45.72566296  005.08121821 1 Light beacon
-50 12617 ATIS
-52 12165 Lyon Delivery
-53 12182 Lyon Ground
-54 12045 Lyon Tower
-55 13607 Lyon Approach
-56 12022 Lyon Departure
+50 12617 Saint Exupery ATIS
+52 12165 Saint Exupery Delivery
+53 12182 Saint Exupery Ground
+54 12045 Saint Exupery Tower
+55 12023 Lyon Approach
+55 12543 Lyon Approach
+55 12580 Lyon Approach
+55 13315 Lyon Approach
+55 13608 Lyon Approach
 99
