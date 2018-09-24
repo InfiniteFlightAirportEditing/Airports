@@ -47,7 +47,7 @@ In order to achieve maximum accuracy for each airport (in terms of features draw
 ### One last thing...
 We appreciate every contribution that is made! Thank you very much to each person that contributes, you are really helping to make the Infinite Flight world a better place.
 <br><br>
-Airport editing run by Cameron Carmichael Alonso ([@carmichaelalonso](https://github.com/carmichaelalonso)), Jonathan Perkins ([@jpperks](https://github.com/jpperks)) and David Cutler ([@davidcutler](https://github.com/davidcutler)).
+Airport editing run by Cameron Carmichael Alonso ([@carmichaelalonso](https://github.com/carmichaelalonso)) and Misha Camp ([@mishacamp] (https://github.com/mishacamp)).
 <br><br>
 <strong>Note: by submitting anything to this project, you are bound by the <a href="https://github.com/InfiniteFlightAirportEditing/Airports/blob/master/CONTRIBUTOR%20LICENSE">Contributor License Agreement</a>.</strong>
 
