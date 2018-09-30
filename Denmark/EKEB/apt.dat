@@ -894,9 +894,9 @@ I
 1301 A general_aviation 
 1300  55.52286039  008.55252412 293.58 tie_down turboprops|props GA Apron S
 1301 A general_aviation 
-1300  55.52301031  008.55393455 297.85 tie_down jets|turboprops|props|helos remote Apron N
+1300  55.52301031  008.55393455 297.85 tie_down jets|turboprops|props|helos Remote Apron N
 1301 B airline 
-1300  55.52336490  008.55397826 298.94 tie_down jets|turboprops|props|helos remote Apron S
+1300  55.52336490  008.55397826 298.94 tie_down jets|turboprops|props|helos Remote Apron S
 1301 B airline 
 18  55.52611110  008.57250000 1 BCN
 19  55.52330868  008.55273199 0 WS
