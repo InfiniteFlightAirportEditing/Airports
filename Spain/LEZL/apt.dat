@@ -8287,123 +8287,123 @@ I
 21  37.41742537 -005.90843292 3 88.8600 3.00 PAPI 09R
 21  37.41833147 -005.90843903 2 90.7800 3.00 PAPI 09L
 14  37.41429195 -005.89383628  29.53 0 Tower
-1300  37.42223153 -005.89964598 350.00 gate jets R-4 01 Gate
+1300  37.42223153 -005.89964598 350.00 gate jets Gate 01
 1301 D airline 
-1300  37.42267104 -005.89903454 350.00 gate jets R-4 02 Gate
+1300  37.42267104 -005.89903454 350.00 gate jets Gate 02
 1301 D airline 
-1300  37.42308080 -005.89852781 350.00 gate jets R-4 03 Gate
+1300  37.42308080 -005.89852781 350.00 gate jets Gate 03
 1301 D airline 
-1300  37.42348958 -005.89801886 350.00 gate jets R-4 04 Gate
+1300  37.42348958 -005.89801886 350.00 gate jets Gate 04
 1301 D airline 
-1300  37.42388933 -005.89744109 350.00 gate jets R-4 05 Gate
+1300  37.42388933 -005.89744109 350.00 gate jets Gate 05
 1301 C airline 
-1300  37.42460011 -005.89680326 100.00 tie_down jets R-4 10 Remote
+1300  37.42460011 -005.89680326 100.00 tie_down jets Remote 10
 1301 C airline 
-1300  37.42420204 -005.89629830 100.00 tie_down jets R-4 11 Remote
+1300  37.42420204 -005.89629830 100.00 tie_down jets Remote 11
 1301 C airline 
-1300  37.42380594 -005.89579829 100.00 tie_down jets R-4 12 Remote
+1300  37.42380594 -005.89579829 100.00 tie_down jets Remote 12
 1301 C airline 
-1300  37.42340885 -005.89529581 100.00 tie_down jets R-4 13 Remote
+1300  37.42340885 -005.89529581 100.00 tie_down jets Remote 13
 1301 C airline 
-1300  37.42295659 -005.89471889 100.00 tie_down jets R-4 14 Remote
+1300  37.42295659 -005.89471889 100.00 tie_down jets Remote 14
 1301 C airline 
-1300  37.42265249 -005.89433797 350.00 tie_down jets R-3 15 Remote
+1300  37.42265249 -005.89433797 350.00 tie_down jets Remote 15
 1301 C airline 
-1300  37.42204907 -005.89509645  45.00 tie_down jets R-3 15A Remote
+1300  37.42204907 -005.89509645  45.00 tie_down jets Remote 15A
 1301 C airline 
-1300  37.42202186 -005.89511266   0.00 tie_down jets R-3 15B Remote
+1300  37.42202186 -005.89511266   0.00 tie_down jets Remote 15B
 1301 C airline 
-1300  37.42225600 -005.89383522 350.00 tie_down jets R-3 16 Remote
+1300  37.42225600 -005.89383522 350.00 tie_down jets Remote 16
 1301 C airline 
-1300  37.42180755 -005.89478974  45.00 tie_down jets R-3 16A Remote
+1300  37.42180755 -005.89478974  45.00 tie_down jets Remote 16A
 1301 C airline 
-1300  37.42306418 -005.89642420  82.00 tie_down jets R-4 17 Remote
+1300  37.42306418 -005.89642420  82.00 tie_down jets Remote 17
 1301 C airline 
-1300  37.42270474 -005.89597011  82.00 tie_down jets R-4 18 Remote
+1300  37.42270474 -005.89597011  82.00 tie_down jets Remote 18
 1301 C airline 
-1300  37.42234457 -005.89551403  82.00 tie_down jets R-4 19 Remote
+1300  37.42234457 -005.89551403  82.00 tie_down jets Remote 19
 1301 C airline 
-1300  37.42197546 -005.89741119 315.00 tie_down jets R-3 20 Cargo Remote
+1300  37.42197546 -005.89741119 315.00 tie_down jets Remote 20
 1301 C airline 
-1300  37.42168184 -005.89777395 315.00 tie_down jets R-3 21 Cargo Remote
+1300  37.42168184 -005.89777395 315.00 tie_down jets Remote 21
 1301 C airline 
-1300  37.42132600 -005.89820628 315.00 tie_down heavy|jets R-3 22 Cargo Remote
+1300  37.42132600 -005.89820628 315.00 tie_down heavy|jets Remote 22
 1301 D airline 
-1300  37.42098643 -005.89862671 315.00 tie_down heavy|jets R-3 23 Cargo Remote
+1300  37.42098643 -005.89862671 315.00 tie_down heavy|jets Remote 23
 1301 D airline 
-1300  37.42173207 -005.89773809 260.00 tie_down heavy R-3 24 Cargo Remote
+1300  37.42173207 -005.89773809 260.00 tie_down heavy Remote 24
 1301 E airline 
-1300  37.42129873 -005.89827677   7.00 tie_down heavy R-3 25 Cargo Remote
+1300  37.42129873 -005.89827677   7.00 tie_down heavy Remote 25
 1301 E airline 
-1300  37.42154438 -005.90040152   0.00 tie_down jets|turboprops R-3 30 Cargo
+1300  37.42154438 -005.90040152   0.00 tie_down jets|turboprops Remote 30
 1301 D cargo 
-1300  37.42169017 -005.90040156   0.00 tie_down heavy|jets|turboprops R-3 30A Cargo
+1300  37.42169017 -005.90040156   0.00 tie_down heavy|jets|turboprops Remote 30A
 1301 E cargo 
-1300  37.42113242 -005.90093742  55.00 tie_down jets|turboprops R-3 31 Cargo
+1300  37.42113242 -005.90093742  55.00 tie_down jets|turboprops Remote 31
 1301 C cargo 
-1300  37.42113242 -005.90164722  55.00 tie_down jets|turboprops R-3 32 Cargo
+1300  37.42113242 -005.90164722  55.00 tie_down jets|turboprops Remote 32
 1301 C cargo 
-1300  37.42113114 -005.90235540  55.00 tie_down jets|turboprops R-3 33 Cargo
+1300  37.42113114 -005.90235540  55.00 tie_down jets|turboprops Remote 33
 1301 C cargo 
-1300  37.42117455 -005.90227833  55.00 tie_down jets|turboprops R-3 33A Carg0
+1300  37.42117455 -005.90227833  55.00 tie_down jets|turboprops Remote 34A Cargo
 1301 D cargo 
-1300  37.42128498 -005.90609094  90.00 tie_down turboprops|props R-1 01 GA
+1300  37.42128498 -005.90609094  90.00 tie_down turboprops|props GA 01
 1301 A general_aviation 
-1300  37.42112717 -005.90609071  90.00 tie_down turboprops|props R-1 02 GA
+1300  37.42112717 -005.90609071  90.00 tie_down turboprops|props GA 02
 1301 A general_aviation 
-1300  37.42097022 -005.90608981  90.00 tie_down turboprops|props R-1 03 GA
+1300  37.42097022 -005.90608981  90.00 tie_down turboprops|props GA 03
 1301 A general_aviation 
-1300  37.42081238 -005.90608872  90.00 tie_down turboprops|props R-1 04 GA
+1300  37.42081238 -005.90608872  90.00 tie_down turboprops|props GA 04
 1301 A general_aviation 
-1300  37.42065455 -005.90608818  90.00 tie_down turboprops|props R-1 05 GA
+1300  37.42065455 -005.90608818  90.00 tie_down turboprops|props GA 05
 1301 A general_aviation 
-1300  37.42049685 -005.90608709  90.00 tie_down turboprops|props|helos R-1 06 GA
+1300  37.42049685 -005.90608709  90.00 tie_down turboprops|props|helos GA 06
 1301 A general_aviation 
-1300  37.42128418 -005.90644706  90.00 tie_down turboprops|props R-1 07 GA
+1300  37.42128418 -005.90644706  90.00 tie_down turboprops|props GA 07
 1301 A general_aviation 
-1300  37.42112579 -005.90644632  90.00 tie_down turboprops|props R-1 08 GA
+1300  37.42112579 -005.90644632  90.00 tie_down turboprops|props GA 08
 1301 A general_aviation 
-1300  37.42096884 -005.90644542  90.00 tie_down turboprops|props R-1 09 GA
+1300  37.42096884 -005.90644542  90.00 tie_down turboprops|props GA 09
 1301 A general_aviation 
-1300  37.42081101 -005.90644451  90.00 tie_down turboprops|props R-1 10 GA
+1300  37.42081101 -005.90644451  90.00 tie_down turboprops|props GA 10
 1301 A general_aviation 
-1300  37.42065317 -005.90644342  90.00 tie_down turboprops|props R-1 11 GA
+1300  37.42065317 -005.90644342  90.00 tie_down turboprops|props GA 11
 1301 A general_aviation 
-1300  37.42049533 -005.90644288  90.00 tie_down turboprops|props|helos R-1 12 GA
+1300  37.42049533 -005.90644288  90.00 tie_down turboprops|props|helos GA 12
 1301 A general_aviation 
-1300  37.42128251 -005.90680285  90.00 tie_down turboprops|props R-1 13 GA
+1300  37.42128251 -005.90680285  90.00 tie_down turboprops|props GA 13
 1301 A general_aviation 
-1300  37.42112441 -005.90680212  90.00 tie_down turboprops|props R-1 14 GA
+1300  37.42112441 -005.90680212  90.00 tie_down turboprops|props GA 14
 1301 A general_aviation 
-1300  37.42096725 -005.90680103  90.00 tie_down turboprops|props R-1 15 GA
+1300  37.42096725 -005.90680103  90.00 tie_down turboprops|props GA 15
 1301 A general_aviation 
-1300  37.42080963 -005.90680012  90.00 tie_down turboprops|props R-1 16 GA
+1300  37.42080963 -005.90680012  90.00 tie_down turboprops|props GA 16
 1301 A general_aviation 
-1300  37.42065170 -005.90679940  90.00 tie_down turboprops|props R-1 17 GA
+1300  37.42065170 -005.90679940  90.00 tie_down turboprops|props GA 17
 1301 A general_aviation 
-1300  37.42049396 -005.90679867  90.00 tie_down turboprops|props R-1 18 GA
+1300  37.42049396 -005.90679867  90.00 tie_down turboprops|props GA 18
 1301 A general_aviation 
-1300  37.42051450 -005.90575166 270.00 tie_down jets|turboprops|props R-1 40 GA
+1300  37.42051450 -005.90575166 270.00 tie_down jets|turboprops|props GA 40
 1301 B general_aviation 
-1300  37.42070277 -005.90575267 270.00 tie_down jets|turboprops|props R-1 41 GA
+1300  37.42070277 -005.90575267 270.00 tie_down jets|turboprops|props GA 41
 1301 B general_aviation 
-1300  37.42089325 -005.90575393 270.00 tie_down jets|turboprops|props R-1 42 GA
+1300  37.42089325 -005.90575393 270.00 tie_down jets|turboprops|props GA 42
 1301 B general_aviation 
-1300  37.42108333 -005.90575557 270.00 tie_down jets|turboprops|props R-1 43 GA
+1300  37.42108333 -005.90575557 270.00 tie_down jets|turboprops|props GA 43
 1301 B general_aviation 
-1300  37.42127130 -005.90575331 270.00 tie_down jets|turboprops|props R-1 44 GA
+1300  37.42127130 -005.90575331 270.00 tie_down jets|turboprops|props GA 44
 1301 B general_aviation 
-1300  37.42110804 -005.90351490  90.00 tie_down jets|turboprops R-2 34 GA
+1300  37.42110804 -005.90351490  90.00 tie_down jets|turboprops GA 34
 1301 C general_aviation 
-1300  37.42110254 -005.90483374 270.00 tie_down jets|turboprops R-2 35 GA
+1300  37.42110254 -005.90483374 270.00 tie_down jets|turboprops GA 35
 1301 C general_aviation 
-1300  37.42074988 -005.90351254  90.00 tie_down jets|turboprops R-2 36 GA
+1300  37.42074988 -005.90351254  90.00 tie_down jets|turboprops GA 36
 1301 C general_aviation 
-1300  37.42074527 -005.90483155 270.00 tie_down jets|turboprops R-2 37 GA
+1300  37.42074527 -005.90483155 270.00 tie_down jets|turboprops GA 37
 1301 C general_aviation 
-1300  37.42039393 -005.90350866  90.00 tie_down jets|turboprops R-2 38 GA
+1300  37.42039393 -005.90350866  90.00 tie_down jets|turboprops GA 38
 1301 C general_aviation 
-1300  37.42038891 -005.90482967 270.00 tie_down jets|turboprops R-2 39 GA
+1300  37.42038891 -005.90482967 270.00 tie_down jets|turboprops GA 39
 1301 C general_aviation 
 1300  37.41365096 -005.88785860   0.00 tie_down jets|turboprops|props|fighters Airbus 01
 1301 D military 
