@@ -9268,8 +9268,14 @@ I
 19  22.30775858  113.92965521 1 WS
 19  22.31876486  113.92598085 1 WS
 50 12820 ATIS
-53 12255 GND
-54 11820 TWR
-55 11910 APP
-56 12405 DEP
+53 12255 Hong Kong Ground
+53 12160 Hong Kong Ground
+54 11820 Hong Kong Tower
+54 11840 Hong Kong Tower
+54 11870 Hong Kong Tower
+55 11910 Hong Kong Approach
+55 11935 Hong Kong Approach
+55 13370 Hong Kong Approach
+56 12405 Hong Kong Departure
+56 12380 Hong Kong Departure
 99
