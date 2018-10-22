@@ -3070,7 +3070,8 @@ I
 1300  56.91456027  023.97534099 275.00 gate jets|turboprops Remote Apron 029
 1301 C airline 
 18  56.92371781  023.98037718 1 New Airport Beacon 2
-50 12120 ATIS
-54 11810 TWR
-55 12730 APP
+50 12120 Riga Informatiom
+54 11810 Riga Tower
+55 12730 Riga Approach
+53 11880 Riga Ground
 99
