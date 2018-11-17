@@ -731,42 +731,42 @@ I
 21  34.75231446  133.84495148 2 59.1200 3.00 07  PAPI-4L
 21  34.76108853  133.86499147 2 239.1200 3.00 25  PAPI-4L
 14  34.75952190  133.85221052  82.02 0 New Tower Viewpoint 2
-1300  34.75895928  133.85184487 149.12 tie_down turboprops|props GA Ramp 11
-1301 A general_aviation 
-1300  34.75888066  133.85168489 149.12 tie_down turboprops|props GA Ramp 12
-1301 A general_aviation 
-1300  34.76017578  133.85442374 -30.90 gate jets|turboprops Gate 05
-1301 D airline 
-1300  34.75917729  133.85281111 101.05 gate heavy|jets|turboprops Gate 01
-1301 C airline 
-1300  34.76078283  133.85565890 -30.90 gate heavy|jets|turboprops Gate 08
-1301 C airline 
-1300  34.76059538  133.85527748 -30.90 gate heavy|jets|turboprops Gate 07
-1301 C airline 
-1300  34.76040886  133.85489801 -30.90 gate heavy|jets|turboprops Gate 06
-1301 C airline 
-1300  34.75924778  133.85253549 -30.90 gate heavy|jets|turboprops Gate 01
-1301 C airline 
-1300  34.76068725  133.85546438 -30.90 gate heavy|jets|turboprops Gate 07B
-1301 F cargo 
-1300  34.76050227  133.85508805 -30.90 gate heavy|jets|turboprops Gate 06B
-1301 E cargo 
-1300  34.76020979  133.85449277 -30.90 gate heavy|jets|turboprops Gate 05B
-1301 E airline 
-1300  34.75955256  133.85315564 -30.90 gate heavy|jets|turboprops Gate 02
-1301 E airline 
-1300  34.75987613  133.85381402 -30.90 gate heavy|jets|turboprops Gate 01
-1301 E airline 
-1300  34.75814106  133.85145046  59.15 hangar jets|turboprops|props Hanger 01
+1300  34.75814106  133.85145046  59.15 hangar jets|turboprops|props Hangar 01
 1301 B none 
 1300  34.75813727  133.85202921  59.15 tie_down jets|turboprops|props GA Ramp 21
 1301 B general_aviation 
 1300  34.75852135  133.85156439  59.15 tie_down turboprops|props GA Ramp 15
 1301 A general_aviation 
-1300  34.75875402  133.85139505  59.15 tie_down turboprops|props GA Ramp 13
-1301 A general_aviation 
 1300  34.75863870  133.85147898  59.15 tie_down turboprops|props GA Ramp 14
 1301 A general_aviation 
+1300  34.75875402  133.85139505  59.15 tie_down turboprops|props GA Ramp 13
+1301 A general_aviation 
+1300  34.75888066  133.85168489 149.12 tie_down turboprops|props GA Ramp 12
+1301 A general_aviation 
+1300  34.75895928  133.85184487 149.12 tie_down turboprops|props GA Ramp 11
+1301 A general_aviation 
+1300  34.76078283  133.85565890 -30.90 gate heavy|jets|turboprops Gate 08
+1301 C airline 
+1300  34.76068725  133.85546438 -30.90 gate heavy|jets|turboprops Gate 07B
+1301 F cargo 
+1300  34.76059538  133.85527748 -30.90 gate heavy|jets|turboprops Gate 07
+1301 C airline 
+1300  34.76050227  133.85508805 -30.90 gate heavy|jets|turboprops Gate 06B
+1301 E cargo 
+1300  34.76040886  133.85489801 -30.90 gate heavy|jets|turboprops Gate 06
+1301 C airline 
+1300  34.76020979  133.85449277 -30.90 gate heavy|jets|turboprops Gate 05B
+1301 E airline 
+1300  34.76017578  133.85442374 -30.90 gate jets|turboprops Gate 05
+1301 D airline 
+1300  34.75987613  133.85381402 -30.90 gate heavy|jets|turboprops Gate 03
+1301 E airline 
+1300  34.75955256  133.85315564 -30.90 gate heavy|jets|turboprops Gate 02
+1301 E airline 
+1300  34.75917729  133.85281111 101.05 gate heavy|jets|turboprops Gate 01B
+1301 C airline 
+1300  34.75924778  133.85253549 -30.90 gate heavy|jets|turboprops Gate 01
+1301 C airline 
 18  34.76218755  133.85584663 1 BCN
 19  34.75151384  133.83970553 1 WS
 19  34.76177820  133.86783132 1 WS
