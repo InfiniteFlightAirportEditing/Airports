@@ -5468,8 +5468,12 @@ I
 1300  24.96813333  046.72841764 148.78 gate jets|turboprops MILITARY APRON 01
 1301 E military 
 18  24.96258568  046.69252646 1 Rotating Beacon
+50 11330 ATIS
 52 12180 Clearance Delivery
 53 12170 Ground
+53 12160 Ground
+54 11860 Tower
 54 11880 Tower
 55 12410 Riyadh Approach
+55 12000 Riyadh Approach
 99
