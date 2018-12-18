@@ -846,7 +846,7 @@ A
 111  33.45523144 -111.73008033
 111  33.45504395 -111.73008130
 111  33.45494467 -111.73008182
-111  33.45494688 -111.72938760
+111  33.45495295 -111.72938913
 113  33.45523159 -111.72938827
 110 2 0.00 0.0000 New Taxiway 52
 111  33.45567099 -111.73047500
@@ -890,11 +890,6 @@ A
 111  33.45656714 -111.72936377
 111  33.45697866 -111.72875134
 113  33.45704547 -111.72881695
-110 2 0.00 0.0000 New Taxiway 45
-111  33.45709754 -111.72877519
-111  33.45688988 -111.72857073
-111  33.45709402 -111.72827415
-113  33.45729923 -111.72847593
 110 2 0.00 0.0000 New Taxiway 42
 111  33.45681152 -111.72777493
 111  33.45676681 -111.72773278
@@ -8183,7 +8178,7 @@ A
 21  33.45713543 -111.73293733 2 51.0400 4.00 04R PAPI-4L
 21  33.46308746 -111.72273343 2 231.0400 4.00 22L PAPI-4L
 21  33.46349975 -111.72597734 2 231.0300 4.00 22R PAPI-4L
-14  33.45761204 -111.72698561  70.87 0 New Tower Viewpoint 6
+14  33.45761204 -111.72698561  72.18 0 New Tower Viewpoint 6
 1300  33.45254501 -111.73197708  90.00 hangar props T-Hangar 118-09
 1301 A none 
 1300  33.45255397 -111.73229916 270.00 hangar props T-Hangar 118-08
@@ -8208,7 +8203,7 @@ A
 1301 A none 
 1300  33.45261206 -111.73261974  90.00 hangar props T-Hangar 117-05
 1301 A none 
-1300  33.45278308 -111.73262401  90.00 hangar props T-Hangar 117-04
+1300  33.45278309 -111.73262401  90.00 hangar props T-Hangar 117-04
 1301 A none 
 1300  33.45294495 -111.73262401  90.00 hangar props T-Hangar 117-03
 1301 A none 
@@ -8230,15 +8225,15 @@ A
 1301 A general_aviation 
 1300  33.46329129 -111.71931353 231.48 tie_down helos East GA Parking 06
 1301 A general_aviation 
-1300  33.46314631 -111.71952841  51.47 tie_down helos East GA Parking 05
+1300  33.46314631 -111.71952841  51.48 tie_down helos East GA Parking 05
 1301 A general_aviation 
 1300  33.46339841 -111.71941811 231.48 tie_down helos East GA Parking 04
 1301 A general_aviation 
-1300  33.46325326 -111.71963343  51.47 tie_down helos East GA Parking 03
+1300  33.46325326 -111.71963342  51.48 tie_down helos East GA Parking 03
 1301 A general_aviation 
 1300  33.46350536 -111.71952084 231.48 tie_down helos East GA Parking 02
 1301 A general_aviation 
-1300  33.46335922 -111.71973445  51.47 tie_down helos East GA Parking 01
+1300  33.46335922 -111.71973445  51.48 tie_down helos East GA Parking 01
 1301 A general_aviation 
 1300  33.46202342 -111.72084340 141.97 tie_down helos Mesa Police Helicopter 02
 1301 A general_aviation 
@@ -8250,9 +8245,9 @@ A
 1301 A general_aviation 
 1300  33.46171259 -111.72098675 321.21 hangar props Mesa Police Hangar
 1301 A none 
-1300  33.46163313 -111.72173929 232.98 hangar props Marsh Aviation Hangar
+1300  33.46163312 -111.72173929 232.98 hangar props Marsh Aviation Hangar
 1301 A none 
-1300  33.46405769 -111.73338143 323.07 hangar props Executive Hangar 115-06
+1300  33.46405770 -111.73338143 323.07 hangar props Executive Hangar 115-06
 1301 A none 
 1300  33.46414407 -111.73325527 323.07 hangar props Executive Hangar 115-05
 1301 A none 
@@ -8264,7 +8259,7 @@ A
 1301 A none 
 1300  33.46449409 -111.73271904 323.07 hangar props Executive Hangar 115-01
 1301 A none 
-1300  33.46517898 -111.73429190 -179.87 hangar props Executive Hangar 106-08
+1300  33.46517898 -111.73429189 -179.87 hangar props Executive Hangar 106-08
 1301 A none 
 1300  33.46517958 -111.73413919 -179.87 hangar props Executive Hangar 106-07
 1301 A none 
@@ -8294,11 +8289,11 @@ A
 1301 A none 
 1300  33.46487575 -111.73378718 270.36 hangar props Executive Hangar 104-02
 1301 A none 
-1300  33.46447860 -111.73362470  90.36 hangar props Executive Hangar 104-04
+1300  33.46447860 -111.73362470  90.36 hangar props Executive Hangar 104-07
 1301 A none 
-1300  33.46461018 -111.73362470  90.36 hangar props Executive Hangar 104-03
+1300  33.46461018 -111.73362470  90.36 hangar props Executive Hangar 104-05
 1301 A none 
-1300  33.46475273 -111.73362470  90.36 hangar props Executive Hangar 104-02
+1300  33.46475273 -111.73362470  90.36 hangar props Executive Hangar 104-03
 1301 A none 
 1300  33.46487883 -111.73362470  90.36 hangar props Executive Hangar 104-01
 1301 A none 
@@ -8308,7 +8303,7 @@ A
 1301 A none 
 1300  33.46447488 -111.73422835 270.36 hangar props Executive Hangar 103-08
 1301 A none 
-1300  33.46460050 -111.73422835 270.36 hangar props Executive Hangar 103-06
+1300  33.46460049 -111.73422835 270.36 hangar props Executive Hangar 103-06
 1301 A none 
 1300  33.46473658 -111.73422835 270.36 hangar props Executive Hangar 103-04
 1301 A none 
@@ -8348,31 +8343,31 @@ A
 1301 A none 
 1300  33.46392224 -111.73327546 233.30 hangar props Executive Hangar 113-08
 1301 A none 
-1300  33.46367606 -111.73186251 413.11 hangar props Executive Hangar 113-06
+1300  33.46367606 -111.73186251 413.11 hangar props Executive Hangar 114-06
 1301 A none 
 1300  33.46366013 -111.73304026 233.30 hangar props Executive Hangar 113-06
 1301 A none 
-1300  33.46396335 -111.73214514 413.11 hangar props Executive Hangar 113-04
+1300  33.46396335 -111.73214514 413.11 hangar props Executive Hangar 114-04
 1301 A none 
-1300  33.46340345 -111.73279517 233.30 hangar props Executive Hangar 113-04
+1300  33.46340344 -111.73279517 233.30 hangar props Executive Hangar 113-04
 1301 A none 
-1300  33.46425947 -111.73241739 413.11 hangar props Executive Hangar 113-02
+1300  33.46425947 -111.73241739 413.11 hangar props Executive Hangar 114-02
 1301 A none 
 1300  33.46313892 -111.73255914 233.30 hangar props Executive Hangar 113-02
 1301 A none 
-1300  33.46353556 -111.73172533 413.11 hangar props Executive Hangar 113-07
+1300  33.46353556 -111.73172533 413.11 hangar props Executive Hangar 114-07
 1301 A none 
 1300  33.46378566 -111.73315923 233.30 hangar props Executive Hangar 113-07
 1301 A none 
-1300  33.46382577 -111.73200829 413.11 hangar props Executive Hangar 113-05
+1300  33.46382577 -111.73200829 413.11 hangar props Executive Hangar 114-05
 1301 A none 
-1300  33.46352637 -111.73291385 233.30 hangar props Executive Hangar 113-05
+1300  33.46352638 -111.73291385 233.30 hangar props Executive Hangar 113-05
 1301 A none 
-1300  33.46410356 -111.73227919 413.11 hangar props Executive Hangar 113-03
+1300  33.46410356 -111.73227919 413.11 hangar props Executive Hangar 114-03
 1301 A none 
 1300  33.46327818 -111.73267894 233.30 hangar props Executive Hangar 113-03
 1301 A none 
-1300  33.46439336 -111.73253972 413.11 hangar props Executive Hangar 113-01
+1300  33.46439336 -111.73253972 413.11 hangar props Executive Hangar 114-01
 1301 A none 
 1300  33.46301932 -111.73245309 233.30 hangar props Executive Hangar 113-01
 1301 A none 
@@ -8398,13 +8393,13 @@ A
 1301 A general_aviation 
 1300  33.46232577 -111.73070685 862.10 tie_down props North GA 142
 1301 A general_aviation 
-1300  33.46242375 -111.73058562 862.10 tie_down props North GA 143
+1300  33.46242375 -111.73058563 862.10 tie_down props North GA 143
 1301 A general_aviation 
 1300  33.46038888 -111.73360920 862.10 tie_down props North GA 122
 1301 A general_aviation 
 1300  33.46046054 -111.73350826 862.10 tie_down props North GA 123
 1301 A general_aviation 
-1300  33.46053087 -111.73340464 862.10 tie_down props North GA 124
+1300  33.46053088 -111.73340464 862.10 tie_down props North GA 124
 1301 A general_aviation 
 1300  33.46069440 -111.73315059 862.10 tie_down props North GA 125
 1301 A general_aviation 
@@ -8444,7 +8439,7 @@ A
 1301 A general_aviation 
 1300  33.46031855 -111.73371282 862.10 tie_down props North GA 121
 1301 A general_aviation 
-1300  33.46225154 -111.73044134 682.12 tie_down props North GA 110
+1300  33.46225155 -111.73044134 682.12 tie_down props North GA 110
 1301 A general_aviation 
 1300  33.46218233 -111.73054249 682.12 tie_down props North GA 109
 1301 A general_aviation 
@@ -8478,9 +8473,9 @@ A
 1301 A general_aviation 
 1300  33.46114827 -111.73208163 682.12 tie_down props North GA 94
 1301 A general_aviation 
-1300  33.46107992 -111.73217970 682.12 tie_down props North GA 93
+1300  33.46107992 -111.73217969 682.12 tie_down props North GA 93
 1301 A general_aviation 
-1300  33.46100998 -111.73227872 682.12 tie_down props North GA 92
+1300  33.46100998 -111.73227873 682.12 tie_down props North GA 92
 1301 A general_aviation 
 1300  33.46094164 -111.73238147 682.12 tie_down props North GA 91
 1301 A general_aviation 
@@ -8524,7 +8519,7 @@ A
 1301 A general_aviation 
 1300  33.46145538 -111.73144588 502.09 tie_down props North GA 62
 1301 A general_aviation 
-1300  33.46152494 -111.73134268 502.09 tie_down props North GA 63
+1300  33.46152495 -111.73134268 502.09 tie_down props North GA 63
 1301 A general_aviation 
 1300  33.46159372 -111.73124042 502.09 tie_down props North GA 64
 1301 A general_aviation 
@@ -8562,7 +8557,7 @@ A
 1301 A general_aviation 
 1300  33.45981564 -111.73406499 682.10 tie_down props North GA 77
 1301 A general_aviation 
-1300  33.45974612 -111.73416822 682.10 tie_down props North GA 76
+1300  33.45974612 -111.73416821 682.10 tie_down props North GA 76
 1301 A general_aviation 
 1300  33.45967659 -111.73426860 682.10 tie_down props North GA 75
 1301 A general_aviation 
@@ -8572,56 +8567,6 @@ A
 1301 A general_aviation 
 1300  33.45946936 -111.73457586 682.10 tie_down props North GA 72
 1301 A general_aviation 
-1300  33.46048847 -111.73288933 502.09 tie_down props North GA 48
-1301 A general_aviation 
-1300  33.46055709 -111.73278624 502.09 tie_down props North GA 49
-1301 A general_aviation 
-1300  33.46062587 -111.73268184 502.09 tie_down props North GA 50
-1301 A general_aviation 
-1300  33.46069324 -111.73257942 502.09 tie_down props North GA 51
-1301 A general_aviation 
-1300  33.46076586 -111.73246809 502.09 tie_down props North GA 52
-1301 A general_aviation 
-1300  33.46083457 -111.73236393 502.09 tie_down props North GA 53
-1301 A general_aviation 
-1300  33.46090334 -111.73226054 502.09 tie_down props North GA 54
-1301 A general_aviation 
-1300  33.46097291 -111.73215898 502.09 tie_down props North GA 55
-1301 A general_aviation 
-1300  33.46104327 -111.73205746 502.09 tie_down props North GA 56
-1301 A general_aviation 
-1300  33.46111046 -111.73196161 502.09 tie_down props North GA 57
-1301 A general_aviation 
-1300  33.46117766 -111.73185817 502.09 tie_down props North GA 58
-1301 A general_aviation 
-1300  33.46124824 -111.73175336 502.09 tie_down props North GA 59
-1301 A general_aviation 
-1300  33.46131798 -111.73165101 502.09 tie_down props North GA 60
-1301 A general_aviation 
-1300  33.46138660 -111.73154909 502.09 tie_down props North GA 61
-1301 A general_aviation 
-1300  33.46145538 -111.73144588 502.09 tie_down props North GA 62
-1301 A general_aviation 
-1300  33.46152494 -111.73134268 502.09 tie_down props North GA 63
-1301 A general_aviation 
-1300  33.46159372 -111.73124042 502.09 tie_down props North GA 64
-1301 A general_aviation 
-1300  33.46166329 -111.73113721 502.09 tie_down props North GA 65
-1301 A general_aviation 
-1300  33.46173127 -111.73103874 502.09 tie_down props North GA 66
-1301 A general_aviation 
-1300  33.46180084 -111.73093553 502.09 tie_down props North GA 67
-1301 A general_aviation 
-1300  33.46186962 -111.73083233 502.09 tie_down props North GA 68
-1301 A general_aviation 
-1300  33.46193866 -111.73072912 502.09 tie_down props North GA 69
-1301 A general_aviation 
-1300  33.46200717 -111.73062765 502.09 tie_down props North GA 70
-1301 A general_aviation 
-1300  33.46207775 -111.73052798 502.09 tie_down props North GA 71
-1301 A general_aviation 
-1300  33.46214412 -111.73042342 502.09 tie_down props North GA 72
-1301 A general_aviation 
 1300  33.45943416 -111.73445536 502.09 tie_down props North GA 35
 1301 A general_aviation 
 1300  33.45950254 -111.73435344 502.09 tie_down props North GA 36
@@ -8630,7 +8575,7 @@ A
 1301 A general_aviation 
 1300  33.45964040 -111.73414703 502.09 tie_down props North GA 38
 1301 A general_aviation 
-1300  33.45970893 -111.73404478 502.09 tie_down props North GA 39
+1300  33.45970894 -111.73404478 502.09 tie_down props North GA 39
 1301 A general_aviation 
 1300  33.45977826 -111.73394157 502.09 tie_down props North GA 40
 1301 A general_aviation 
@@ -8716,49 +8661,49 @@ A
 1301 A general_aviation 
 1300  33.45937368 -111.73414613 322.11 tie_down props North GA 01
 1301 A general_aviation 
-1300  33.45555306 -111.73163668 359.70 tie_down props West GA 08
-1301 A general_aviation 
-1300  33.45555306 -111.73125543 359.70 tie_down props West GA 06
-1301 A general_aviation 
-1300  33.45548397 -111.73144898 179.70 tie_down props West GA 07
-1301 A general_aviation 
-1300  33.45548397 -111.73106774 179.70 tie_down props West GA 05
-1301 A general_aviation 
-1300  33.45536160 -111.73001127 359.70 tie_down props West GA 04
-1301 A general_aviation 
-1300  33.45536160 -111.72981940 359.70 tie_down props West GA 03
-1301 A general_aviation 
-1300  33.45536160 -111.72963003 359.70 tie_down props West GA 02
-1301 A general_aviation 
-1300  33.45536160 -111.72943815 359.70 tie_down props West GA 01
-1301 A general_aviation 
+1300  33.45555306 -111.73163668 359.70 hangar props West GA 08
+1301 A none 
+1300  33.45555306 -111.73125543 359.70 hangar props West GA 06
+1301 A none 
+1300  33.45548397 -111.73144898 179.70 hangar props West GA 07
+1301 A none 
+1300  33.45548397 -111.73106774 179.70 hangar props West GA 05
+1301 A none 
+1300  33.45536160 -111.73001127 359.70 hangar props West GA 04
+1301 A none 
+1300  33.45536160 -111.72981940 359.70 hangar props West GA 03
+1301 A none 
+1300  33.45536160 -111.72963003 359.70 hangar props West GA 02
+1301 A none 
+1300  33.45536160 -111.72943815 359.70 hangar props West GA 01
+1301 A none 
 1300  33.45508229 -111.72945395  90.20 hangar helos Precision Heli Support Hangar
 1301 A none 
-1300  33.45693293 -111.72896691 321.15 hangar props T-Hangar 5-02
+1300  33.45693293 -111.72896691 321.15 hangar props T-Hangar 6-06
 1301 A none 
-1300  33.45669364 -111.72868754 321.15 hangar props T-Hangar 5-02
+1300  33.45669364 -111.72868754 321.15 hangar props T-Hangar 5-06
 1301 A none 
-1300  33.45683208 -111.72911390 321.15 hangar props T-Hangar 5-02
+1300  33.45683208 -111.72911390 321.15 hangar props T-Hangar 6-04
 1301 A none 
-1300  33.45658551 -111.72884562 321.15 hangar props T-Hangar 5-02
+1300  33.45658551 -111.72884562 321.15 hangar props T-Hangar 5-04
 1301 A none 
-1300  33.45673772 -111.72925503 321.15 hangar props T-Hangar 5-02
+1300  33.45673772 -111.72925503 321.15 hangar props T-Hangar 6-02
 1301 A none 
 1300  33.45648279 -111.72899903 321.15 hangar props T-Hangar 5-02
 1301 A none 
-1300  33.45692218 -111.72885167 141.15 hangar props T-Hangar 5-01
+1300  33.45692218 -111.72885167 141.15 hangar props T-Hangar 6-07
 1301 A none 
-1300  33.45667360 -111.72855000 141.15 hangar props T-Hangar 5-01
+1300  33.45667360 -111.72855000 141.15 hangar props T-Hangar 5-07
 1301 A none 
-1300  33.45682694 -111.72899414 141.15 hangar props T-Hangar 5-01
+1300  33.45682694 -111.72899414 141.15 hangar props T-Hangar 6-05
 1301 A none 
-1300  33.45657429 -111.72870850 141.15 hangar props T-Hangar 5-01
+1300  33.45657429 -111.72870850 141.15 hangar props T-Hangar 5-05
 1301 A none 
-1300  33.45673043 -111.72913830 141.15 hangar props T-Hangar 5-01
+1300  33.45673043 -111.72913830 141.15 hangar props T-Hangar 6-03
 1301 A none 
-1300  33.45647219 -111.72886525 141.15 hangar props T-Hangar 5-01
+1300  33.45647219 -111.72886525 141.15 hangar props T-Hangar 5-03
 1301 A none 
-1300  33.45663197 -111.72928597 141.15 hangar props T-Hangar 5-01
+1300  33.45663197 -111.72928597 141.15 hangar props T-Hangar 6-01
 1301 A none 
 1300  33.45636947 -111.72901867 141.15 hangar props T-Hangar 5-01
 1301 A none 
@@ -9786,8 +9731,6 @@ A
 1301 A general_aviation 
 1300  33.45819561 -111.72660810 231.18 tie_down props Helipad Terminal 01
 1301 A general_aviation 
-1300  33.45819561 -111.72660810 231.18 tie_down props Terminal 04
-1301 A general_aviation 
 1300  33.45786814 -111.72763016 231.18 tie_down props Terminal 04
 1301 A general_aviation 
 1300  33.45776559 -111.72779241 231.18 tie_down props Terminal 03
@@ -9942,7 +9885,7 @@ A
 1301 A none 
 1300  33.46089863 -111.72265029  51.82 hangar props CAE Aviation Academy Hangar 02-06
 1301 A none 
-1300  33.46102970 -111.72277991  51.82 hangar props CAE Aviation Academy Hangar 02-04
+1300  33.46102970 -111.72277990  51.82 hangar props CAE Aviation Academy Hangar 02-04
 1301 A none 
 1300  33.46115560 -111.72290209  51.82 hangar props CAE Aviation Academy Hangar 02-02
 1301 A none 
@@ -9950,7 +9893,7 @@ A
 1301 A none 
 1300  33.46048740 -111.72263655 231.82 hangar props CAE Aviation Academy Hangar 02-09
 1301 A none 
-1300  33.46061355 -111.72275438 231.82 hangar props CAE Aviation Academy Hangar 02-07
+1300  33.46061356 -111.72275438 231.82 hangar props CAE Aviation Academy Hangar 02-07
 1301 A none 
 1300  33.46073971 -111.72288202 231.82 hangar props CAE Aviation Academy Hangar 02-05
 1301 A none 
@@ -10130,7 +10073,7 @@ A
 1301 A general_aviation 
 1300  33.45532143 -111.72885504 359.01 tie_down props Civil Air Patrol 08
 1301 A general_aviation 
-1300  33.45544153 -111.72897188 179.01 tie_down props Civil Air Patrol 09
+1300  33.45544153 -111.72897188 -180.99 tie_down props Civil Air Patrol 09
 1301 A general_aviation 
 1300  33.45531938 -111.72897181 359.01 tie_down props Civil Air Patrol 07
 1301 A general_aviation 
