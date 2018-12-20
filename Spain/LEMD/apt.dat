@@ -30086,8 +30086,24 @@ A
 19  40.50245572 -003.56027336 0 New Windsock 1
 50 13085 Madrid ATIS
 52 12107 Madrid Clearance Delivery
-53 12170 Madrid Ground
-54 11815 Barajas TWR
-56 12750 Madrid DEP
-55 12402 Madrid APP
+53 12170 Barajas Apron
+53 12185 Barajas Apron
+53 12300 Barajas Apron
+53 12325 Barajas Apron
+53 12327 Barajas Apron
+54 11807 Barajas Tower
+54 11815 Barajas Tower
+54 11867 Barajas Tower
+54 11897 Barajas Tower
+54 12015 Barajas Tower
+54 12065 Barajas Tower
+55 11840 Madrid Approach
+55 11875 Madrid Approach
+55 12403 Madrid Approach
+55 12870 Madrid Approach
+55 13495 Madrid Approach
+55 13610 Madrid Approach
+55 12705 Madrid Final
+56 12423 Madrid Departure
+56 13117 Madrid Departure
 99
