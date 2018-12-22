@@ -6184,9 +6184,18 @@ I
 1301 D cargo 
 18  48.11574778  016.55154892 1 BEACON
 54 11940 Vienna Tower
+54 12380 Vienna Tower
+54 12447 Vienna Tower
+54 12120 Vienna Tower
 53 12160 Vienna Ground
+53 12177 Vienna Ground
 52 12212 Vienna Delivery
 50 12295 Vienna ATIS
-54 13467 Vienna Approach
-56 12517 Vienna Radar
+55 13467 Wien Radar
+55 11877 Wien Radar
+55 12517 Wien Radar
+55 12905 Wien Radar
+55 13007 Wien Radar
+55 11980 Wien Director
+55 13412 Wien Director
 99

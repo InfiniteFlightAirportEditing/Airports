@@ -13710,9 +13710,20 @@ I
 1300  47.45620203  008.55525807   5.60 gate jets|turboprops Apron I 04
 1301 C airline 
 18  47.45378008  008.55799998 1 New Airport Beacon 228
-50 12852 ATIS
+50 12573 ATIS
 53 12190 Zurich Ground
+53 11815 Zurich Ground
+53 11975 Zurich Ground
+53 12175 Zurich Apron
+53 12170 Zurich Apron
+53 12185 Zurich Apron
+53 12197 Zurich Apron
 54 11810 Zurich Tower
-55 12775 Zurich Approach
+54 12022 Zurich Tower
+54 11970 Zurich Tower
+55 11800 Zurich Arrival
+55 13523 Zurich Approach
+55 12533 Zurich Final
+55 12075 Zurich Final
 56 12595 Zurich Departure
 99
