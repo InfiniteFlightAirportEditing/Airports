@@ -35456,8 +35456,22 @@ I
 1301 C cargo 
 18  52.30750663  004.76240812 1 New Airport Beacon 1
 53 12155 Schiphol Ground
+53 12170 Schiphol Ground
+53 12180 Schiphol Ground
+53 12190 Schiphol Ground
+53 12160 Schiphol Ground
 54 11922 Schiphol Tower
+54 11810 Schiphol Tower
+54 11827 Schiphol Tower
+54 11990 Schiphol Tower
+55 11880 Amsterdam Radar
+55 12055 Amsterdam Radar
+55 12778 Amsterdam Radar
+55 11905 Schiphol Approach
+55 11808 Schiphol Approach
+55 12668 Schiphol Approach
 55 11840 Schiphol Arrival
+55 13115 Schiphol Arrival
 56 12120 Schiphol Departure
 50 12220 Schiphol ATIS
 99

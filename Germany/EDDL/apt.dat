@@ -3475,7 +3475,13 @@ I
 50 12377 ATIS
 52 12177 Clearance Delivery
 53 12190 Ground
+53 12160 Ground
+53 12167 Ground
 54 11830 Tower
-55 12855 Approach
+54 12435 Tower
+55 12855 Langen Radar
+55 12135 Langen Radar
+55 12850 Langen Radar
+55 12865 Dusseldorf Director
 56 13377 Departure
 99
