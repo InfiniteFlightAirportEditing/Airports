@@ -271,23 +271,23 @@ I
 21  53.27655732 -000.95517043 2 25.4900 5.50 03  PAPI-4L
 21  53.28430675 -000.94782798 2 205.5000 3.00 21  PAPI-4L
 14  53.27920722 -000.95005143  22.97 0 New Tower Viewpoint 8
-1300  53.27894008 -000.95108203  23.47 tie_down turboprops|props Apron 2
+1300  53.27894008 -000.95108203  23.47 tie_down turboprops|props Apron 1
 1301 A general_aviation 
 1300  53.27817327 -000.95153172 115.33 tie_down props|helos Apron 3
 1301 A general_aviation 
-1300  53.27841561 -000.95129318 115.33 tie_down props|helos Apron 3
+1300  53.27841561 -000.95129318 115.33 tie_down props|helos Apron 2
 1301 A general_aviation 
-1300  53.28140198 -000.94940650 116.92 tie_down props|helos Grass Parking
+1300  53.28140198 -000.94940650 116.92 tie_down props|helos Grass Parking 1
 1301 A general_aviation 
-1300  53.28128091 -000.94952198 116.92 tie_down props|helos Grass Parking
+1300  53.28128091 -000.94952198 116.92 tie_down props|helos Grass Parking 2
 1301 A general_aviation 
-1300  53.28117214 -000.94962164 116.92 tie_down props|helos Grass Parking
+1300  53.28117214 -000.94962164 116.92 tie_down props|helos Grass Parking 3
 1301 A general_aviation 
-1300  53.28105675 -000.94971023 116.92 tie_down props|helos Grass Parking
+1300  53.28105675 -000.94971023 116.92 tie_down props|helos Grass Parking 4
 1301 A general_aviation 
-1300  53.28095271 -000.94979091 116.92 tie_down props|helos Grass Parking
+1300  53.28095271 -000.94979091 116.92 tie_down props|helos Grass Parking 5
 1301 A general_aviation 
-1300  53.28026513 -000.95032650 116.92 tie_down props|helos Grass Parking
+1300  53.28026513 -000.95032650 116.92 tie_down props|helos Grass Parking 6
 1301 A general_aviation 
 1300  53.27783235 -000.95122422 294.68 hangar props Hangar 9
 1301 A none 
@@ -307,13 +307,13 @@ I
 1301 A none 
 1300  53.28053048 -000.94894069 294.68 hangar props Hangar 1
 1301 A none 
-1300  53.28071150 -000.94933696 116.90 tie_down turboprops|props Main Apron
+1300  53.28071150 -000.94933696 116.90 tie_down turboprops|props Main Apron 1
 1301 A general_aviation 
-1300  53.28051923 -000.94952263 116.90 tie_down turboprops|props Main Apron
+1300  53.28051923 -000.94952263 116.90 tie_down turboprops|props Main Apron 2
 1301 A general_aviation 
-1300  53.28010494 -000.94984229 116.90 tie_down turboprops|props Main Apron
+1300  53.28010494 -000.94984229 116.90 tie_down turboprops|props Main Apron 3
 1301 A general_aviation 
-1300  53.28030179 -000.94973892 116.90 tie_down turboprops|props Main Apron
+1300  53.28030179 -000.94973892 116.90 tie_down turboprops|props Main Apron 4
 1301 A general_aviation 
 18  53.28143879 -000.94717746 1 Beacon
 19  53.28744841 -000.94447706 0 WS
