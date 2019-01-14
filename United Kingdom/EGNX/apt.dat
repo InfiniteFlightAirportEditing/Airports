@@ -4474,7 +4474,7 @@ I
 1301 C cargo 
 1300  52.82590709 -001.34592806 -91.94 gate jets|turboprops CARGO 125
 1301 C cargo 
-1300  52.82632435 -001.34411898 -91.65 gate jets|turboprops CARGO 203
+1300  52.82632435 -001.34411898 -91.65 gate jets|turboprops CARGO 202
 1301 D cargo 
 1300  52.82770873 -001.34417449 -91.20 gate heavy|jets|turboprops CARGO 200
 1301 E cargo 
@@ -4484,14 +4484,8 @@ I
 1301 D cargo 
 1300  52.82841555 -001.33885448 112.25 tie_down jets|turboprops|props RVL APRON
 1301 B general_aviation 
-1300  52.82630154 -001.33730347  59.65 tie_down jets|turboprops|props MAINT AREA NORTH 1
-1301 B general_aviation 
-1300  52.82464422 -001.33705245  39.13 tie_down jets|turboprops MAINT AREA NORTH 1
-1301 B general_aviation 
 1300  52.82522202 -001.33576497 -78.69 tie_down jets|turboprops|props MAINT WASHBAY
 1301 C general_aviation 
-1300  52.82720560 -001.33812400  16.12 tie_down jets|turboprops|props MAINT SOUTH 2
-1301 B general_aviation 
 1300  52.82496740 -001.33737175 148.99 hangar jets|turboprops|props MAINT HANGAR 4
 1301 C none 
 1300  52.82771967 -001.33848353 148.99 hangar jets|turboprops|props MAINT HANGAR 3
@@ -4500,7 +4494,13 @@ I
 1301 C none 
 1300  52.82696719 -001.34056325 148.99 hangar jets|turboprops|props MAINT HANGAR 1
 1301 C none 
-1300  52.82698224 -001.33870769  13.62 tie_down jets|turboprops|props MAINT SOUTH 1
+1300  52.82630154 -001.33730347  59.65 tie_down jets|turboprops|props MAINT NORTH 1
+1301 B general_aviation 
+1300  52.82698224 -001.33870769  13.62 tie_down jets|turboprops|props MAINT NORTH 2
+1301 B general_aviation 
+1300  52.82720560 -001.33812400  16.12 tie_down jets|turboprops|props MAINT NORTH 3
+1301 B general_aviation 
+1300  52.82464422 -001.33705245  39.13 tie_down jets|turboprops MAINT SOUTH 1
 1301 B general_aviation 
 18  52.83279193 -001.32782183 1 BCN
 19  52.83221307 -001.34077880 1 WS 1
