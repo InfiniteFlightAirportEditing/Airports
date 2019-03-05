@@ -1056,11 +1056,11 @@ I
 1300  17.93641830 -076.77474424 128.13 gate jets|turboprops GA Ramp 4
 1301 A general_aviation 
 1300  17.93636944 -076.77506945 -84.98 gate jets|turboprops GA Ramp 3
-1301 A general_aviation 
+1301 B general_aviation 
 1300  17.93615639 -076.77522968 -69.12 gate jets|turboprops GA Ramp 2
-1301 A general_aviation 
+1301 B general_aviation 
 1300  17.93594305 -076.77539039 -88.75 gate jets|turboprops GA Ramp 1
-1301 A general_aviation 
+1301 B general_aviation 
 18  17.93863659 -076.78117844 1 New Airport Beacon 2
 50 12770 ATIS
 53 12170 Ground
