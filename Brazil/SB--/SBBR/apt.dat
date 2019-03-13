@@ -4883,7 +4883,9 @@ I
 112 -15.86978811 -047.91761064 -15.86975231 -047.91761178 20
 111 -15.86974846 -047.91757055 20
 111 -15.86974731 -047.91755085 20
-115 -15.86973287 -047.91730278
+111 -15.86973364 -047.91732634 20
+111 -15.86976149 -047.91715880 20
+115 -15.86995727 -047.91715075
 120 Linear Feature 103
 111 -15.87147448 -047.91769247 20
 111 -15.87148303 -047.91783056 20
@@ -4938,7 +4940,6 @@ I
 111 -15.86965400 -047.91733154 20
 111 -15.86968255 -047.91718478 20
 111 -15.86975314 -047.91717571 20
-111 -15.86973287 -047.91730278 20
 111 -15.86972696 -047.91733978 20
 111 -15.86974177 -047.91756940 20
 111 -15.86980969 -047.91862271 20
@@ -5449,8 +5450,8 @@ I
 1301 B military 
 1300 -15.86606879 -047.91079390 -92.40 tie_down jets|turboprops|fighters Military 02E
 1301 D military 
-1300 -15.86672361 -047.91075232 -93.19 tie_down jets|turboprops|fighters Military 02D
-1301 D military 
+1300 -15.86672361 -047.91075232 -93.19 tie_down heavy|jets|turboprops|fighters Military 02D
+1301 E military 
 1300 -15.86596045 -047.91076420 -93.96 tie_down jets|turboprops|fighters Military 02C
 1301 C military 
 1300 -15.86636724 -047.91074258 -94.07 tie_down jets|turboprops|fighters Military 02B
@@ -5463,68 +5464,68 @@ I
 1301 C military 
 1300 -15.86682653 -047.91157114 -93.94 tie_down jets|turboprops|fighters Military 01A
 1301 C military 
-1300 -15.86688641 -047.92588759 175.13 hangar jets|turboprops|props Hangar 26
+1300 -15.86688641 -047.92588759 175.13 hangar jets|turboprops|props Hangar 25
 1301 B none 
-1300 -15.86690180 -047.92611507 175.13 hangar jets|turboprops|props Hangar 25
+1300 -15.86690180 -047.92611507 175.13 hangar jets|turboprops|props Hangar 24
 1301 B none 
-1300 -15.86692231 -047.92634788 175.13 hangar jets|turboprops|props Hangar 24
+1300 -15.86692231 -047.92634788 175.13 hangar jets|turboprops|props Hangar 23
 1301 B none 
-1300 -15.86694624 -047.92665888 175.13 hangar jets|turboprops|props Hangar 23
+1300 -15.86694624 -047.92665888 175.13 hangar jets|turboprops|props Hangar 22
 1301 B none 
-1300 -15.86697018 -047.92700010 175.13 hangar jets|turboprops|props Hangar 22
+1300 -15.86697018 -047.92700010 175.13 hangar jets|turboprops|props Hangar 21
 1301 B none 
-1300 -15.86702146 -047.92782329 175.13 hangar jets|turboprops|props Hangar 21
+1300 -15.86702146 -047.92782329 175.13 hangar jets|turboprops|props Hangar 20
 1301 B none 
-1300 -15.86707069 -047.92817900 175.13 hangar turboprops|props Hangar 20
+1300 -15.86707069 -047.92817900 175.13 hangar turboprops|props Hangar 19
 1301 A none 
-1300 -15.86708437 -047.92849890 175.13 hangar jets|turboprops|props Hangar 19
+1300 -15.86708437 -047.92849890 175.13 hangar jets|turboprops|props Hangar 18
 1301 B none 
-1300 -15.86717873 -047.92938393 175.13 hangar jets|turboprops|props Hangar 18
+1300 -15.86717873 -047.92938393 175.13 hangar jets|turboprops|props Hangar 17
 1301 B none 
-1300 -15.86718899 -047.92974114 175.13 hangar jets|turboprops|props Hangar 17
+1300 -15.86718899 -047.92974114 175.13 hangar jets|turboprops|props Hangar 16
 1301 B none 
-1300 -15.86720608 -047.93009835 175.13 hangar jets|turboprops|props Hangar 16
+1300 -15.86720608 -047.93009835 175.13 hangar jets|turboprops|props Hangar 15
 1301 B none 
-1300 -15.86723275 -047.93062084 175.13 hangar jets|turboprops|props Hangar 15
+1300 -15.86723275 -047.93062084 175.13 hangar jets|turboprops|props Hangar 14
 1301 B none 
-1300 -15.86726557 -047.93112200 175.13 hangar jets|turboprops|props Hangar 14
+1300 -15.86726557 -047.93112200 175.13 hangar jets|turboprops|props Hangar 13
 1301 B none 
-1300 -15.86730455 -047.93162317 175.13 hangar jets|turboprops|props Hangar 13
+1300 -15.86730455 -047.93162317 175.13 hangar jets|turboprops|props Hangar 12
 1301 B none 
-1300 -15.86732506 -047.93197505 175.13 hangar jets|turboprops|props Hangar 12
+1300 -15.86732506 -047.93197505 175.13 hangar jets|turboprops|props Hangar 11
 1301 B none 
-1300 -15.86735173 -047.93235252 175.13 hangar jets|turboprops|props Hangar 11
+1300 -15.86735173 -047.93235252 175.13 hangar jets|turboprops|props Hangar 10
 1301 B none 
-1300 -15.86737395 -047.93271506 175.13 hangar jets|turboprops|props Hangar 10
+1300 -15.86737395 -047.93271506 175.13 hangar jets|turboprops|props Hangar 09
 1301 B none 
-1300 -15.86740301 -047.93315936 175.13 hangar jets|turboprops|props Hangar 09
+1300 -15.86740301 -047.93315936 175.13 hangar jets|turboprops|props Hangar 08
 1301 B none 
-1300 -15.86742865 -047.93346858 175.13 hangar jets|turboprops|props Hangar 08
+1300 -15.86742865 -047.93346858 175.13 hangar jets|turboprops|props Hangar 07
 1301 B none 
-1300 -15.86745259 -047.93380980 175.13 hangar jets|turboprops|props Hangar 07
+1300 -15.86745259 -047.93380980 175.13 hangar jets|turboprops|props Hangar 06
 1301 B none 
-1300 -15.86750280 -047.93445470 175.13 hangar jets|turboprops|props Hangar 06
+1300 -15.86750280 -047.93445470 175.13 hangar jets|turboprops|props Hangar 05
 1301 B none 
-1300 -15.86753357 -047.93476571 175.13 hangar jets|turboprops|props Hangar 05
+1300 -15.86753357 -047.93476571 175.13 hangar jets|turboprops|props Hangar 04
 1301 B none 
-1300 -15.86755580 -047.93511226 175.13 hangar jets|turboprops|props Hangar 04
+1300 -15.86755580 -047.93511226 175.13 hangar jets|turboprops|props Hangar 03
 1301 B none 
-1300 -15.86757460 -047.93542504 175.13 hangar jets|turboprops|props Hangar 03
+1300 -15.86757460 -047.93542504 175.13 hangar jets|turboprops|props Hangar 02
 1301 B none 
-1300 -15.86758828 -047.93578936 175.13 hangar jets|turboprops|props Hangar 02
+1300 -15.86758828 -047.93578936 175.13 hangar jets|turboprops|props Hangar 01
 1301 B none 
-1300 -15.86883777 -047.93418026  -4.51 hangar jets|turboprops|props Hangar 01
+1300 -15.86883777 -047.93418026  -4.51 hangar jets|turboprops|props Federal Police Hangar
 1301 B none 
-1300 -15.86853463 -047.93185357  86.35 tie_down turboprops|props Ramp GA 82
-1301 A general_aviation 
-1300 -15.86869193 -047.93184226  86.35 tie_down turboprops|props Ramp GA 81
-1301 A general_aviation 
-1300 -15.86884625 -047.93183609  86.35 tie_down turboprops|props Ramp GA 80
-1301 A general_aviation 
-1300 -15.86900533 -047.93182498  86.35 tie_down turboprops|props Ramp GA 79
-1301 A general_aviation 
-1300 -15.86915966 -047.93181572  86.35 tie_down turboprops|props Ramp GA 78
-1301 A general_aviation 
+1300 -15.86853463 -047.93185357  86.35 tie_down jets|turboprops|props Ramp GA 82
+1301 B general_aviation 
+1300 -15.86869193 -047.93184226  86.35 tie_down jets|turboprops|props Ramp GA 81
+1301 B general_aviation 
+1300 -15.86884625 -047.93183609  86.35 tie_down jets|turboprops|props Ramp GA 80
+1301 B general_aviation 
+1300 -15.86900533 -047.93182498  86.35 tie_down jets|turboprops|props Ramp GA 79
+1301 B general_aviation 
+1300 -15.86915966 -047.93181572  86.35 tie_down jets|turboprops|props Ramp GA 78
+1301 B general_aviation 
 1300 -15.86836482 -047.93231362  86.35 tie_down turboprops|props Ramp GA 77
 1301 A general_aviation 
 1300 -15.86851353 -047.93230321  86.35 tie_down turboprops|props Ramp GA 76
@@ -5646,7 +5647,7 @@ I
 1300 -15.87022523 -047.92022840 -93.23 gate jets|turboprops Gate 21
 1301 C airline 
 1300 -15.86970949 -047.92027559 -94.37 gate jets|turboprops Gate 20
-1301 D airline 
+1301 E airline 
 1300 -15.86919156 -047.92031143 -94.27 gate jets|turboprops Gate 19
 1301 D airline 
 1300 -15.86872894 -047.92030119 -92.19 gate jets|turboprops Gate 18
@@ -5684,7 +5685,7 @@ I
 1300 -15.86743608 -047.92027228 -164.47 gate jets|turboprops Gate 04
 1301 C airline 
 1300 -15.86746820 -047.92063340 157.42 gate jets|turboprops Gate 03
-1301 D airline 
+1301 E airline 
 1300 -15.86766224 -047.92088515 122.31 gate jets|turboprops Gate 02
 1301 C airline 
 1300 -15.86807737 -047.92101070 119.70 gate jets|turboprops Gate 01
