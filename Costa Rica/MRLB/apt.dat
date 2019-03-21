@@ -489,20 +489,20 @@ I
 111  10.59929642 -085.53773013 20
 111  10.59922499 -085.53757021 20
 113  10.59896798 -085.53747655 20
-21  10.59075663 -085.55309450 2 70.0500 3.00 07  PAPI-4L
+21  10.59075663 -085.55309450 2 70.2633 3.00 07  PAPI-4L
 14  10.59942890 -085.53899499  98.43 0 Tower
-1300  10.58892851 -085.55039657 -21.52 gate jets|turboprops GA 5
+1300  10.58913470 -085.55027428 -51.58 gate jets|turboprops GA 5
 1301 A general_aviation 
-1300  10.58914341 -085.55029136 -88.05 gate jets|turboprops GA 4
+1300  10.58921197 -085.55023816 -98.01 gate jets|turboprops GA 4
 1301 A general_aviation 
-1300  10.58926000 -085.55030190 243.05 gate jets|turboprops GA 3
+1300  10.58929216 -085.55023842 164.55 gate jets|turboprops GA 3
 1301 A general_aviation 
-1300  10.59850738 -085.53876509  67.74 gate jets|turboprops GA 2
-1301 B general_aviation 
-1300  10.59873463 -085.53885035  67.74 gate jets|turboprops GA 1
+1300  10.58924548 -085.55036849 157.81 gate jets|turboprops GA 2
+1301 A general_aviation 
+1300  10.58909627 -085.55047534  67.74 gate jets|turboprops GA 1
 1301 B general_aviation 
 1300  10.59902501 -085.53834004 -19.53 gate jets|turboprops Remote 3
-1301 D airline 
+1301 E airline 
 1300  10.59929051 -085.53782278 -20.07 gate jets|turboprops Remote 2
 1301 C airline 
 1300  10.59946107 -085.53729362 -20.43 gate jets|turboprops Gate 7
@@ -512,7 +512,7 @@ I
 1300  10.59986812 -085.53617075 -20.30 gate jets|turboprops Gate 5
 1301 E airline 
 1300  10.60001592 -085.53573151 -20.37 gate jets|turboprops Gate 4
-1301 D airline 
+1301 E airline 
 1300  10.60022370 -085.53506744 -20.97 gate jets|turboprops Gate 3
 1301 D airline 
 1300  10.60043995 -085.53456130 -19.48 gate jets|turboprops Gate 2
