@@ -1032,13 +1032,13 @@ I
 1300  18.49904296 -077.91562666 178.15 gate jets|turboprops Gate 9
 1301 E airline 
 1300  18.49836419 -077.91942734 155.03 gate jets|turboprops Cargo Ramp 1A
-1301 C cargo 
+1301 D cargo 
 1300  18.49811317 -077.91998981 156.63 gate jets|turboprops Cargo Ramp 1B
-1301 C cargo 
+1301 D cargo 
 1300  18.49785753 -077.92057063 155.47 gate jets|turboprops Cargo Ramp 1C
-1301 C cargo 
+1301 D cargo 
 1300  18.49766311 -077.92106098 155.38 gate jets|turboprops Cargo Ramp 1D
-1301 C cargo 
+1301 D cargo 
 1300  18.49727833 -077.92146500 155.63 gate jets|turboprops Cargo Ramp 1E
 1301 D cargo 
 1300  18.49708107 -077.92194687 155.62 gate jets|turboprops Cargo Ramp 1F
@@ -1047,8 +1047,8 @@ I
 1301 B general_aviation 
 1300  18.50396508 -077.90640967  64.58 gate jets|turboprops|props GA Ramp 1
 1301 B general_aviation 
-1300  18.50439421 -077.90534253 154.68 gate jets|turboprops|props GA Ramp 5
-1301 B general_aviation 
+1300  18.50418067 -077.90544261 278.16 gate jets|turboprops|props GA Ramp 5
+1301 C general_aviation 
 1300  18.50371036 -077.90630971  65.00 gate jets|turboprops|props GA Ramp 2
 1301 B general_aviation 
 1300  18.50427641 -077.90561016 155.64 gate jets|turboprops|props GA Ramp 4

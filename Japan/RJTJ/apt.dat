@@ -997,7 +997,7 @@ I
 1300  35.84594094  139.40433102 -286.51 hangar jets|turboprops Hangar 02
 1301 C none 
 1300  35.84748630  139.40376939 -286.51 hangar jets|turboprops Hangar 01
-1301 C none
+1301 D none
 1300  35.84021025  139.40707601 -16.51 tie_down jets|turboprops Papa 05
 1301 C military 
 1300  35.84030678  139.40747398 -16.51 tie_down jets|turboprops Papa 04
@@ -1089,23 +1089,23 @@ I
 1300  35.84576318  139.40639630 -16.51 tie_down jets|turboprops Foxtrot 01
 1301 C military 
 1300  35.84628099  139.40491775 -16.51 tie_down jets|turboprops Delta 03
-1301 C military 
+1301 D military 
 1300  35.84639984  139.40540836 -16.51 tie_down jets|turboprops Delta 02
-1301 C military 
+1301 D military 
 1300  35.84651782  139.40589540 -16.51 tie_down jets|turboprops Delta 01
-1301 C military 
+1301 D military 
 1300  35.84696237  139.40467209 -16.51 tie_down jets|turboprops Charlie 03
-1301 C military 
+1301 D military 
 1300  35.84708122  139.40516271 -16.51 tie_down jets|turboprops Charlie 02
-1301 C military 
+1301 D military 
 1300  35.84719920  139.40564974 -16.51 tie_down jets|turboprops Charlie 01
-1301 C military 
+1301 D military 
 1300  35.84780748  139.40434385 -16.51 tie_down jets|turboprops Bravo 03
-1301 C military 
+1301 D military 
 1300  35.84792633  139.40483447 -16.51 tie_down jets|turboprops Bravo 02
-1301 C military 
+1301 D military 
 1300  35.84804431  139.40532151 -16.51 tie_down jets|turboprops Bravo 01
-1301 C military 
+1301 D military 
 18  35.84476903  139.40181245 4 BCN
 19  35.84756622  139.40691541 1 WS
 54 27580 Iruma Ground
