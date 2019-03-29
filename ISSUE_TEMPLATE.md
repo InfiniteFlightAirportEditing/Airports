@@ -14,6 +14,6 @@
 
 < Enter text here >
 
-# Airport Priority? (A380, 10000ft+ Runway)
+# Airport Priority? (IF Event, 10000ft+ Runway, World/US Capital, Low)
 
 < Enter text here >
