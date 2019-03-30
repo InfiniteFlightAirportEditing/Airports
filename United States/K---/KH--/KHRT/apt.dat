@@ -5117,93 +5117,93 @@ I
 1301 D military 
 1300  30.42218199 -086.69217945 356.12 tie_down jets|turboprops|props Transient Ramp K-2
 1301 D military 
-1300  30.42091943 -086.69201646 322.00 tie_down jets|turboprops|props East Ramp L-1
+1300  30.42091943 -086.69201646 322.00 tie_down jets|turboprops|props West Ramp L-1
 1301 C military 
-1300  30.42065862 -086.69240844 322.00 tie_down jets|turboprops|props East Ramp L-2
+1300  30.42065862 -086.69240844 322.00 tie_down jets|turboprops|props West Ramp L-2
 1301 C military 
-1300  30.42039704 -086.69280159 322.00 tie_down jets|turboprops|props East Ramp L-3
+1300  30.42039704 -086.69280159 322.00 tie_down jets|turboprops|props West Ramp L-3
 1301 C military 
-1300  30.42013300 -086.69319841 322.00 tie_down jets|turboprops|props East Ramp L-4
+1300  30.42013300 -086.69319841 322.00 tie_down jets|turboprops|props West Ramp L-4
 1301 C military 
-1300  30.42013300 -086.69319841 322.00 tie_down jets|turboprops|props East Ramp L-5
+1300  30.42013300 -086.69319841 322.00 tie_down jets|turboprops|props West Ramp L-5
 1301 C military 
-1300  30.41987030 -086.69359324 322.00 tie_down jets|turboprops|props East Ramp L-6
+1300  30.41987030 -086.69359324 322.00 tie_down jets|turboprops|props West Ramp L-6
 1301 C military 
-1300  30.41960938 -086.69398538 322.00 tie_down jets|turboprops|props East Ramp L-7
+1300  30.41960938 -086.69398538 322.00 tie_down jets|turboprops|props West Ramp L-7
 1301 C military 
-1300  30.41934423 -086.69438388 322.00 tie_down jets|turboprops|props East Ramp L-8
+1300  30.41934423 -086.69438388 322.00 tie_down jets|turboprops|props West Ramp L-8
 1301 C military 
-1300  30.42023450 -086.69147003 322.00 tie_down jets|turboprops|props East Ramp M-1
+1300  30.42023450 -086.69147003 322.00 tie_down jets|turboprops|props West Ramp M-1
 1301 C military 
-1300  30.41997000 -086.69186747 322.00 tie_down jets|turboprops|props East Ramp M-2
+1300  30.41997000 -086.69186747 322.00 tie_down jets|turboprops|props West Ramp M-2
 1301 C military 
-1300  30.41970629 -086.69226372 322.00 tie_down jets|turboprops|props East Ramp M-3
+1300  30.41970629 -086.69226372 322.00 tie_down jets|turboprops|props West Ramp M-3
 1301 C military 
-1300  30.41944244 -086.69266019 322.00 tie_down jets|turboprops|props East Ramp M-4
+1300  30.41944244 -086.69266019 322.00 tie_down jets|turboprops|props West Ramp M-4
 1301 C military 
-1300  30.41917348 -086.69306432 322.00 tie_down jets|turboprops|props East Ramp M-5
+1300  30.41917348 -086.69306432 322.00 tie_down jets|turboprops|props West Ramp M-5
 1301 C military 
-1300  30.41891066 -086.69345924 322.00 tie_down jets|turboprops|props East Ramp M-6
+1300  30.41891066 -086.69345924 322.00 tie_down jets|turboprops|props West Ramp M-6
 1301 C military 
-1300  30.41922575 -086.69138551 322.00 tie_down jets|turboprops|props East Ramp N-1
+1300  30.41922575 -086.69138551 322.00 tie_down jets|turboprops|props West Ramp N-1
 1301 C military 
-1300  30.41896276 -086.69178177 322.00 tie_down jets|turboprops|props East Ramp N-2
+1300  30.41896276 -086.69178177 322.00 tie_down jets|turboprops|props West Ramp N-2
 1301 C military 
-1300  30.41870164 -086.69217521 322.00 tie_down jets|turboprops|props East Ramp N-3
+1300  30.41870164 -086.69217521 322.00 tie_down jets|turboprops|props West Ramp N-3
 1301 C military 
-1300  30.41843499 -086.69257698 322.00 tie_down jets|turboprops|props East Ramp N-4
+1300  30.41843499 -086.69257698 322.00 tie_down jets|turboprops|props West Ramp N-4
 1301 C military 
-1300  30.41817083 -086.69297499 322.00 tie_down jets|turboprops|props East Ramp N-5
+1300  30.41817083 -086.69297499 322.00 tie_down jets|turboprops|props West Ramp N-5
 1301 C military 
-1300  30.42518825 -086.68389799 176.00 tie_down turboprops|props|fighters North Ramp O-1
+1300  30.42518825 -086.68389799 176.00 tie_down turboprops|props|fighters East Ramp O-1
 1301 B military 
-1300  30.42521265 -086.68349963 176.00 tie_down turboprops|props|fighters North Ramp O-2
+1300  30.42521265 -086.68349963 176.00 tie_down turboprops|props|fighters East Ramp O-2
 1301 B military 
-1300  30.42523732 -086.68309663 176.00 tie_down turboprops|props|fighters North Ramp O-3
+1300  30.42523732 -086.68309663 176.00 tie_down turboprops|props|fighters East Ramp O-3
 1301 B military 
-1300  30.42449020 -086.68383920 176.00 tie_down turboprops|props|fighters North Ramp P-1
+1300  30.42449020 -086.68383920 176.00 tie_down turboprops|props|fighters East Ramp P-1
 1301 B military 
-1300  30.42451520 -086.68344240 176.00 tie_down turboprops|props|fighters North Ramp P-2
+1300  30.42451520 -086.68344240 176.00 tie_down turboprops|props|fighters East Ramp P-2
 1301 B military 
-1300  30.42454059 -086.68303547 176.00 tie_down turboprops|props|fighters North Ramp P-3
+1300  30.42454059 -086.68303547 176.00 tie_down turboprops|props|fighters East Ramp P-3
 1301 B military 
-1300  30.42377801 -086.68378097 176.00 tie_down turboprops|props|fighters North Ramp Q-1
+1300  30.42377801 -086.68378097 176.00 tie_down turboprops|props|fighters East Ramp Q-1
 1301 B military 
-1300  30.42380301 -086.68338416 176.00 tie_down turboprops|props|fighters North Ramp Q-2
+1300  30.42380301 -086.68338416 176.00 tie_down turboprops|props|fighters East Ramp Q-2
 1301 B military 
-1300  30.42382840 -086.68298105 176.00 tie_down turboprops|props|fighters North Ramp Q-3
+1300  30.42382840 -086.68298105 176.00 tie_down turboprops|props|fighters East Ramp Q-3
 1301 B military 
-1300  30.42308139 -086.68379612 176.00 tie_down turboprops|props|fighters North Ramp R-1
+1300  30.42308139 -086.68379612 176.00 tie_down turboprops|props|fighters East Ramp R-1
 1301 B military 
-1300  30.42309649 -086.68356006 176.00 tie_down turboprops|props|fighters North Ramp R-2
+1300  30.42309649 -086.68356006 176.00 tie_down turboprops|props|fighters East Ramp R-2
 1301 B military 
-1300  30.42311138 -086.68332742 176.00 tie_down turboprops|props|fighters North Ramp R-3
+1300  30.42311138 -086.68332742 176.00 tie_down turboprops|props|fighters East Ramp R-3
 1301 B military 
-1300  30.42312647 -086.68309156 176.00 tie_down turboprops|props|fighters North Ramp R-4
+1300  30.42312647 -086.68309156 176.00 tie_down turboprops|props|fighters East Ramp R-4
 1301 B military 
-1300  30.42238034 -086.68374046 176.00 tie_down turboprops|props|fighters North Ramp S-1
+1300  30.42238034 -086.68374046 176.00 tie_down turboprops|props|fighters East Ramp S-1
 1301 B military 
-1300  30.42239544 -086.68350441 176.00 tie_down turboprops|props|fighters North Ramp S-2
+1300  30.42239544 -086.68350441 176.00 tie_down turboprops|props|fighters East Ramp S-2
 1301 B military 
-1300  30.42241044 -086.68326990 176.00 tie_down turboprops|props|fighters North Ramp S-3
+1300  30.42241044 -086.68326990 176.00 tie_down turboprops|props|fighters East Ramp S-3
 1301 B military 
-1300  30.42242541 -086.68303590 176.00 tie_down turboprops|props|fighters North Ramp S-4
+1300  30.42242541 -086.68303590 176.00 tie_down turboprops|props|fighters East Ramp S-4
 1301 B military 
-1300  30.42180788 -086.68373709 176.00 tie_down turboprops|props|fighters North Ramp T-1
+1300  30.42180788 -086.68373709 176.00 tie_down turboprops|props|fighters East Ramp T-1
 1301 A military 
-1300  30.42182509 -086.68346893 176.00 tie_down turboprops|props|fighters North Ramp T-2
+1300  30.42182509 -086.68346893 176.00 tie_down turboprops|props|fighters East Ramp T-2
 1301 A military 
-1300  30.42184302 -086.68318939 176.00 tie_down turboprops|props|fighters North Ramp T-3
+1300  30.42184302 -086.68318939 176.00 tie_down turboprops|props|fighters East Ramp T-3
 1301 A military 
-1300  30.42186072 -086.68291345 176.00 tie_down turboprops|props|fighters North Ramp T-3
+1300  30.42186072 -086.68291345 176.00 tie_down turboprops|props|fighters East Ramp T-3
 1301 A military 
-1300  30.42137949 -086.68370526 176.00 tie_down turboprops|props|fighters North Ramp U-1
+1300  30.42137949 -086.68370526 176.00 tie_down turboprops|props|fighters East Ramp U-1
 1301 A military 
-1300  30.42139689 -086.68343381 176.00 tie_down turboprops|props|fighters North Ramp U-2
+1300  30.42139689 -086.68343381 176.00 tie_down turboprops|props|fighters East Ramp U-2
 1301 A military 
-1300  30.42141468 -086.68315621 176.00 tie_down turboprops|props|fighters North Ramp U-3
+1300  30.42141468 -086.68315621 176.00 tie_down turboprops|props|fighters East Ramp U-3
 1301 A military 
-1300  30.42143256 -086.68287723 176.00 tie_down turboprops|props|fighters North Ramp U-4
+1300  30.42143256 -086.68287723 176.00 tie_down turboprops|props|fighters East Ramp U-4
 1301 A military 
 19  30.44124379 -086.69161285 0 New Windsock 5
 19  30.42641057 -086.69046408 0 New Windsock 4
