@@ -9493,27 +9493,27 @@ I
 21  29.97705855 -095.30664935 2 269.9600 3.00 27  PAPI-4L
 21  29.96647027 -095.34767742 3 332.0800 3.00 33L PAPI-4R
 14  29.98418144 -095.32835311 328.08 0 Tower Viewpoint
-1300  29.98796461 -095.35048067 -179.79 gate jets|turboprops Gate A01
+1300  29.98796461 -095.35048067 -179.79 gate jets|turboprops Gate A1
 1301 C airline 
-1300  29.98824174 -095.35114044 -123.34 gate jets|turboprops Gate A03A
+1300  29.98824174 -095.35114044 -123.34 gate jets|turboprops Gate A3A
 1301 B airline 
-1300  29.98829513 -095.35145233 -135.29 gate jets|turboprops Gate A03B
+1300  29.98829513 -095.35145233 -135.29 gate jets|turboprops Gate A3B
 1301 B airline 
-1300  29.98829882 -095.35181544 -133.31 gate jets|turboprops Gate A03C
+1300  29.98829882 -095.35181544 -133.31 gate jets|turboprops Gate A3C
 1301 B airline 
-1300  29.98827570 -095.35224966 -138.00 gate jets|turboprops Gate A03D
+1300  29.98827570 -095.35224966 -138.00 gate jets|turboprops Gate A3D
 1301 B airline 
-1300  29.98802672 -095.35210470  50.62 gate jets|turboprops Gate A03E
+1300  29.98802672 -095.35210470  50.62 gate jets|turboprops Gate A3E
 1301 B airline 
-1300  29.98804967 -095.35183152 -26.40 gate jets|turboprops Gate A03F
+1300  29.98804967 -095.35183152 -26.40 gate jets|turboprops Gate A3F
 1301 B airline 
-1300  29.98801517 -095.35084172 -172.79 gate jets|turboprops Gate A02
+1300  29.98801517 -095.35084172 -172.79 gate jets|turboprops Gate A2
 1301 B airline 
-1300  29.98774704 -095.34900815 -89.86 gate jets|turboprops Gate A07
+1300  29.98774704 -095.34900815 -89.86 gate jets|turboprops Gate A7
 1301 C airline 
-1300  29.98817376 -095.34903888 -79.79 gate jets|turboprops Gate A08
+1300  29.98817376 -095.34903888 -79.79 gate jets|turboprops Gate A8
 1301 C airline 
-1300  29.98851635 -095.34908404 -89.86 gate jets|turboprops Gate A09
+1300  29.98851635 -095.34908404 -89.86 gate jets|turboprops Gate A9
 1301 C airline 
 1300  29.98822028 -095.34980294 123.07 gate jets|turboprops Gate A10
 1301 C airline 
@@ -9545,23 +9545,23 @@ I
 1301 C airline 
 1300  29.98550606 -095.35178391  59.72 gate jets Gate A29
 1301 C airline 
-1300  29.98570701 -095.34393151 -69.66 gate jets Gate B01
+1300  29.98570701 -095.34393151 -69.66 gate jets Gate B1
 1301 B airline 
-1300  29.98541776 -095.34393225 -69.59 gate jets Gate B02
+1300  29.98541776 -095.34393225 -69.59 gate jets Gate B2
 1301 B airline 
-1300  29.98512953 -095.34393521 -69.32 gate jets Gate B03
+1300  29.98512953 -095.34393521 -69.32 gate jets Gate B3
 1301 B airline 
-1300  29.98484026 -095.34392792 -69.16 gate jets Gate B04
+1300  29.98484026 -095.34392792 -69.16 gate jets Gate B4
 1301 B airline 
-1300  29.98459973 -095.34390627 -48.35 gate jets Gate B05
+1300  29.98459973 -095.34390627 -48.35 gate jets Gate B5
 1301 B airline 
-1300  29.98440240 -095.34400944   6.02 gate jets Gate B06
+1300  29.98440240 -095.34400944   6.02 gate jets Gate B6
 1301 B airline 
-1300  29.98441632 -095.34427679  26.91 gate jets Gate B07
+1300  29.98441632 -095.34427679  26.91 gate jets Gate B7
 1301 B airline 
-1300  29.98473432 -095.34429263  45.05 gate jets Gate B08
+1300  29.98473432 -095.34429263  45.05 gate jets Gate B8
 1301 B airline 
-1300  29.98508781 -095.34427886  45.06 gate jets Gate B09
+1300  29.98508781 -095.34427886  45.06 gate jets Gate B9
 1301 B airline 
 1300  29.98539769 -095.34432015  45.19 gate jets Gate B10
 1301 B airline 
@@ -9639,21 +9639,21 @@ I
 1301 B airline 
 1300  29.98808389 -095.34258181 179.85 gate jets Gate C14W
 1301 D airline 
-1300  29.98798729 -095.34014029 -144.41 gate jets Gate C02
+1300  29.98798729 -095.34014029 -144.41 gate jets Gate C2
 1301 C airline 
-1300  29.98798176 -095.34062974 -162.93 gate jets Gate C03
+1300  29.98798176 -095.34062974 -162.93 gate jets Gate C3
 1301 C airline 
-1300  29.98848175 -095.34102178 -121.60 gate jets Gate C04
+1300  29.98848175 -095.34102178 -121.60 gate jets Gate C4
 1301 C airline 
-1300  29.98895672 -095.34100444 -121.67 gate jets Gate C05
+1300  29.98895672 -095.34100444 -121.67 gate jets Gate C5
 1301 C airline 
-1300  29.98937328 -095.34108801 -119.82 gate jets Gate C06
+1300  29.98937328 -095.34108801 -119.82 gate jets Gate C6
 1301 C airline 
-1300  29.98997296 -095.34129331 -89.65 gate jets Gate C07
+1300  29.98997296 -095.34129331 -89.65 gate jets Gate C7
 1301 E airline 
-1300  29.98978300 -095.34164618 130.43 gate jets Gate C08
+1300  29.98978300 -095.34164618 130.43 gate jets Gate C8
 1301 D airline 
-1300  29.98938726 -095.34177738 119.06 gate jets Gate C09
+1300  29.98938726 -095.34177738 119.06 gate jets Gate C9
 1301 C airline 
 1300  29.98894571 -095.34178624 119.06 gate jets Gate C10
 1301 C airline 
@@ -9717,23 +9717,23 @@ I
 1301 C airline 
 1300  29.98539491 -095.33652936   0.06 gate jets Gate C45
 1301 C airline 
-1300  29.98791020 -095.33744595 163.73 gate heavy Gate D01
+1300  29.98791020 -095.33744595 163.73 gate heavy Gate D1
 1301 D airline 
-1300  29.98784881 -095.33708594 -164.26 gate heavy Gate D02
-1301 D airline 
-1300  29.98799964 -095.33672585 -173.42 gate heavy Gate D03
-1301 D airline 
-1300  29.98814318 -095.33593179 145.00 gate heavy Gate D04
+1300  29.98784881 -095.33708594 -164.26 gate heavy Gate D2
 1301 E airline 
-1300  29.98810881 -095.33546329 -180.00 gate heavy Gate D05
-1301 E airline 
-1300  29.98810395 -095.33485502 -180.00 gate heavy Gate D06
+1300  29.98799964 -095.33672585 -173.42 gate heavy Gate D3
 1301 D airline 
-1300  29.98811852 -095.33425289 -180.00 gate heavy Gate D07
+1300  29.98814318 -095.33593179 145.00 gate heavy Gate D4
 1301 E airline 
-1300  29.98811124 -095.33365837 -180.00 gate heavy Gate D08
+1300  29.98810881 -095.33546329 -180.00 gate heavy Gate D5
 1301 D airline 
-1300  29.98806821 -095.33304630 -180.00 gate heavy Gate D09
+1300  29.98810395 -095.33485502 -180.00 gate heavy Gate D6
+1301 D airline 
+1300  29.98811852 -095.33425289 -180.00 gate heavy Gate D7
+1301 E airline 
+1300  29.98811124 -095.33365837 -180.00 gate heavy Gate D8
+1301 D airline 
+1300  29.98806821 -095.33304630 -180.00 gate heavy Gate D9
 1301 E airline 
 1300  29.98812640 -095.33245434 -180.00 gate heavy Gate D10
 1301 D airline 
@@ -9743,31 +9743,31 @@ I
 1301 F airline 
 1300  29.98828747 -095.33147508 -121.08 gate heavy Gate D12A
 1301 F airline 
-1300  29.98527385 -095.33583477  44.51 gate jets Gate E01
+1300  29.98527385 -095.33583477  44.51 gate jets Gate E1
 1301 C airline 
-1300  29.98465076 -095.33570012  90.19 gate jets Gate E02A
+1300  29.98465076 -095.33570012  90.19 gate jets Gate E2A
 1301 C airline 
-1300  29.98455873 -095.33564592  90.19 gate jets Gate E02B
+1300  29.98455873 -095.33564592  90.19 gate jets Gate E2B
 1301 B airline 
-1300  29.98426174 -095.33566614  90.19 gate jets Gate E03
+1300  29.98426174 -095.33566614  90.19 gate jets Gate E3
 1301 C airline 
-1300  29.98395986 -095.33559425  57.70 gate jets Gate E04A
+1300  29.98395986 -095.33559425  57.70 gate jets Gate E4A
 1301 C airline 
-1300  29.98396365 -095.33560159  57.80 gate jets Gate E04B
+1300  29.98396365 -095.33560159  57.80 gate jets Gate E4B
 1301 B airline 
-1300  29.98383087 -095.33533230  28.86 gate jets Gate E05A
+1300  29.98383087 -095.33533230  28.86 gate jets Gate E5A
 1301 C airline 
-1300  29.98383240 -095.33533941  28.86 gate jets Gate E05B
+1300  29.98383240 -095.33533941  28.86 gate jets Gate E5B
 1301 B airline 
-1300  29.98380795 -095.33508020   0.31 gate jets Gate E06
+1300  29.98380795 -095.33508020   0.31 gate jets Gate E6
 1301 C airline 
-1300  29.98393786 -095.33481034 -33.43 gate jets Gate E07A
+1300  29.98393786 -095.33481034 -33.43 gate jets Gate E7A
 1301 D airline 
-1300  29.98393480 -095.33481566 -33.43 gate jets Gate E07B
-1301 D airline 
-1300  29.98451445 -095.33482566 -38.07 gate jets Gate E08
+1300  29.98393480 -095.33481566 -33.43 gate jets Gate E7B
+1301 E airline 
+1300  29.98451445 -095.33482566 -38.07 gate jets Gate E8
 1301 C airline 
-1300  29.98483231 -095.33478230 -58.97 gate jets Gate E09
+1300  29.98483231 -095.33478230 -58.97 gate jets Gate E9
 1301 C airline 
 1300  29.98525702 -095.33448231 -34.93 gate jets Gate E10A
 1301 C airline 
@@ -9788,13 +9788,13 @@ I
 1300  29.98398648 -095.33273451  89.66 gate jets Gate E17
 1301 C airline 
 1300  29.98392730 -095.33241228  29.58 gate jets Gate E18A
-1301 D airline 
+1301 E airline 
 1300  29.98393137 -095.33242173  29.99 gate jets Gate E18B
 1301 C airline 
 1300  29.98381224 -095.33207569   7.13 gate jets Gate E19
 1301 C airline 
 1300  29.98401278 -095.33177281  -7.34 gate jets Gate E20B
-1301 D airline 
+1301 E airline 
 1300  29.98380408 -095.33175040 -41.32 gate jets Gate E20A
 1301 C airline 
 1300  29.98447126 -095.33172926 -37.50 gate jets Gate E21
@@ -9805,55 +9805,55 @@ I
 1301 C airline 
 1300  29.98554397 -095.33175397 -90.16 gate jets Gate E24
 1301 C airline 
-1300  29.98981072 -095.33145291 179.90 gate heavy Hardstand 01
+1300  29.98981072 -095.33145291 179.90 gate heavy Hardstand 1
 1301 E airline 
-1300  29.98977929 -095.33148765 -134.21 gate heavy Hardstand 01A
+1300  29.98977929 -095.33148765 -134.21 gate heavy Hardstand 1A
 1301 E airline 
-1300  29.98980173 -095.33221142 179.90 gate heavy Hardstand 02
+1300  29.98980173 -095.33221142 179.90 gate heavy Hardstand 2
 1301 E airline 
-1300  29.98978370 -095.33269113 -133.19 gate heavy Hardstand 02A
+1300  29.98978370 -095.33269113 -133.19 gate heavy Hardstand 2A
 1301 E airline 
-1300  29.98978077 -095.33465303 -133.37 gate heavy Hardstand 03A
+1300  29.98978077 -095.33465303 -133.37 gate heavy Hardstand 3A
 1301 F airline 
-1300  29.98977602 -095.33585240 -133.94 gate heavy Hardstand 04A
+1300  29.98977602 -095.33585240 -133.94 gate heavy Hardstand 4A
 1301 F airline 
 1300  29.97658682 -095.34602224 170.03 gate jets FedEx Cargo 11
 1301 C cargo 
 1300  29.97667408 -095.34555740 170.03 gate heavy FedEx Cargo 10
 1301 D cargo 
-1300  29.97677708 -095.34495788 170.03 gate heavy FedEx Cargo 09
+1300  29.97677708 -095.34495788 170.03 gate heavy FedEx Cargo 9
 1301 D cargo 
-1300  29.97682201 -095.34430047 170.03 gate heavy FedEx Cargo 07
+1300  29.97682201 -095.34430047 170.03 gate heavy FedEx Cargo 7
 1301 D cargo 
-1300  29.97856232 -095.34412994  18.11 gate jets United Cargo 06
+1300  29.97856232 -095.34412994  18.11 gate jets United Cargo 6
 1301 C cargo 
-1300  29.97858132 -095.34487191   0.00 gate jets United Cargo 03B
+1300  29.97858132 -095.34487191   0.00 gate jets United Cargo 3B
 1301 B cargo 
-1300  29.97858381 -095.34535564   0.00 gate jets United Cargo 03A
+1300  29.97858381 -095.34535564   0.00 gate jets United Cargo 3A
 1301 B cargo 
-1300  29.97858462 -095.34510620   0.00 gate jets United Cargo 03
+1300  29.97858462 -095.34510620   0.00 gate jets United Cargo 3
 1301 C cargo 
-1300  29.97858251 -095.34585991   0.00 gate jets United Cargo 02
+1300  29.97858251 -095.34585991   0.00 gate jets United Cargo 2
 1301 C cargo 
-1300  29.97859382 -095.34661686   0.00 gate jets United Cargo 01
+1300  29.97859382 -095.34661686   0.00 gate jets United Cargo 1
 1301 C cargo 
-1300  29.98956185 -095.32821946 -89.59 gate heavy United Maint 01
+1300  29.98956185 -095.32821946 -89.59 gate heavy United Maint 1
 1301 D airline 
-1300  29.98905734 -095.32821855 -89.59 gate heavy United Maint 02
+1300  29.98905734 -095.32821855 -89.59 gate heavy United Maint 2
 1301 D airline 
-1300  29.98848533 -095.32822384 -89.59 gate heavy United Maint 03
+1300  29.98848533 -095.32822384 -89.59 gate heavy United Maint 3
 1301 D airline 
-1300  29.98739522 -095.32879652 -162.56 gate heavy United Maint 04
+1300  29.98739522 -095.32879652 -162.56 gate heavy United Maint 4
 1301 D airline 
-1300  29.98944609 -095.32699192  90.00 gate jets United Maint 05
+1300  29.98944609 -095.32699192  90.00 gate jets United Maint 5
 1301 C airline 
-1300  29.98889195 -095.32698506  90.00 gate jets United Maint 06
+1300  29.98889195 -095.32698506  90.00 gate jets United Maint 6
 1301 C airline 
-1300  29.98912519 -095.32629464 -90.58 gate jets United Maint 07
+1300  29.98912519 -095.32629464 -90.58 gate jets United Maint 7
 1301 C airline 
-1300  29.98898884 -095.32544073 179.74 gate jets United Maint 08
+1300  29.98898884 -095.32544073 179.74 gate jets United Maint 8
 1301 C airline 
-1300  29.98899069 -095.32501852 179.74 gate jets United Maint 09
+1300  29.98899069 -095.32501852 179.74 gate jets United Maint 9
 1301 C airline 
 1300  29.98899400 -095.32459268 179.74 gate jets United Maint 10
 1301 C airline 
@@ -9861,143 +9861,151 @@ I
 1301 C airline 
 1300  29.98899732 -095.32416252 179.74 gate jets United Maint 11
 1301 C airline 
-1300  29.98787087 -095.32750451  90.11 gate heavy United Maint Hangar 01
+1300  29.98787087 -095.32750451  90.11 gate heavy United Maint Hangar 1
 1301 D airline 
-1300  29.98829718 -095.32331057 269.67 gate heavy United Maint Hangar 02
+1300  29.98829718 -095.32331057 269.67 gate heavy United Maint Hangar 2
 1301 D airline 
-1300  29.98824765 -095.32123223  90.03 gate heavy United Maint Hangar 03
+1300  29.98824765 -095.32123223  90.03 gate heavy United Maint Hangar 3
 1301 D airline 
-1300  29.96967927 -095.35320886 332.64 gate jets Landmark Aviation Hangar 06
+1300  29.96967927 -095.35320886 332.64 gate jets Landmark Aviation Hangar 6
 1301 B general_aviation 
-1300  29.97074467 -095.35551623 152.82 gate jets Landmark Aviation Hangar 02
+1300  29.97074467 -095.35551623 152.82 gate jets Landmark Aviation Hangar 2
 1301 B general_aviation 
-1300  29.96946619 -095.35383548 332.64 gate jets Landmark Aviation Hangar 05
+1300  29.96946619 -095.35383548 332.64 gate jets Landmark Aviation Hangar 5
 1301 B general_aviation 
-1300  29.96913643 -095.35436254 332.64 gate jets Landmark Aviation Hangar 04
+1300  29.96913643 -095.35436254 332.64 gate jets Landmark Aviation Hangar 4
 1301 B general_aviation 
-1300  29.97123678 -095.35458508 152.82 gate jets Landmark Aviation Hangar 03
+1300  29.97123678 -095.35458508 152.82 gate jets Landmark Aviation Hangar 3
 1301 B general_aviation 
-1300  29.97204344 -095.35508287 152.82 gate jets Landmark Aviation Hangar 01
+1300  29.97204344 -095.35508287 152.82 gate jets Landmark Aviation Hangar 1
 1301 B general_aviation 
-1300  29.96673007 -095.35120202 241.00 gate jets Standard Aero 08
+1300  29.96673007 -095.35120202 241.00 gate jets Standard Aero 8
 1301 B general_aviation 
-1300  29.96690963 -095.35128928 241.00 gate jets Standard Aero 07
+1300  29.96690963 -095.35128928 241.00 gate jets Standard Aero 7
 1301 B general_aviation 
-1300  29.96708604 -095.35139110 241.00 tie_down jets Standard Aero 06
+1300  29.96708604 -095.35139110 241.00 tie_down jets Standard Aero 6
 1301 B general_aviation 
-1300  29.96725299 -095.35149655 241.00 gate jets Standard Aero 05
+1300  29.96725299 -095.35149655 241.00 gate jets Standard Aero 5
 1301 B general_aviation 
-1300  29.96760266 -095.35170381 241.00 gate jets Standard Aero 03
+1300  29.96760266 -095.35170381 241.00 gate jets Standard Aero 3
 1301 B general_aviation 
-1300  29.96742310 -095.35160563 241.00 gate jets Standard Aero 04
+1300  29.96742310 -095.35160563 241.00 gate jets Standard Aero 4
 1301 B general_aviation 
-1300  29.96777276 -095.35179835 241.00 gate jets Standard Aero 02
+1300  29.96777276 -095.35179835 241.00 gate jets Standard Aero 2
 1301 B general_aviation 
-1300  29.96794287 -095.35189290 241.00 gate jets Standard Aero 01
+1300  29.96794287 -095.35189290 241.00 gate jets Standard Aero 1
 1301 B general_aviation 
-1300  29.96710809 -095.35223106  61.50 gate jets Standard Aero Hangar 02
+1300  29.96710809 -095.35223106  61.50 gate jets Standard Aero Hangar 2
 1301 B general_aviation 
-1300  29.96768141 -095.35255468  64.08 gate jets Standard Aero Hangar 01
+1300  29.96768141 -095.35255468  64.08 gate jets Standard Aero Hangar 1
 1301 B general_aviation 
-1300  29.97323916 -095.34380859  62.55 gate jets ExpressJet 04
+1300  29.97323916 -095.34380859  62.55 gate jets ExpressJet 4
 1301 B general_aviation 
-1300  29.97341697 -095.34391682  62.55 gate jets ExpressJet 03
+1300  29.97341697 -095.34391682  62.55 gate jets ExpressJet 3
 1301 B general_aviation 
-1300  29.97358994 -095.34401946  62.55 gate jets ExpressJet 02
+1300  29.97358994 -095.34401946  62.55 gate jets ExpressJet 2
 1301 B general_aviation 
-1300  29.97376776 -095.34412396  62.55 gate jets ExpressJet 01
+1300  29.97376776 -095.34412396  62.55 gate jets ExpressJet 1
 1301 B general_aviation 
-1300  29.97348175 -095.34246668 242.58 gate jets ExpressJet Hangar 02
+1300  29.97348175 -095.34246668 242.58 gate jets ExpressJet Hangar 2
 1301 B general_aviation 
-1300  29.97408414 -095.34284270 242.58 gate jets ExpressJet Hangar 01
+1300  29.97408414 -095.34284270 242.58 gate jets ExpressJet Hangar 1
 1301 B general_aviation 
-1300  29.97276297 -095.34270896 152.55 gate jets|props Atlantic Aviation 08
+1300  29.97276297 -095.34270896 152.55 gate jets|props Atlantic Aviation 8
 1301 A general_aviation 
-1300  29.97270488 -095.34286792 152.55 gate jets|props Atlantic Aviation 07
+1300  29.97270488 -095.34286792 152.55 gate jets|props Atlantic Aviation 7
 1301 A general_aviation 
-1300  29.97245960 -095.34250778 332.41 gate jets|props Atlantic Aviation 06
+1300  29.97245960 -095.34250778 332.41 gate jets|props Atlantic Aviation 6
 1301 A general_aviation 
-1300  29.97238860 -095.34267419 332.41 gate jets|props Atlantic Aviation 05
+1300  29.97238860 -095.34267419 332.41 gate jets|props Atlantic Aviation 5
 1301 A general_aviation 
-1300  29.97159196 -095.34279035  61.23 gate jets|props Atlantic Aviation 04
+1300  29.97159196 -095.34279035  61.23 gate jets|props Atlantic Aviation 4
 1301 A general_aviation 
-1300  29.97142061 -095.34268772  61.23 gate jets|props Atlantic Aviation 03
+1300  29.97142061 -095.34268772  61.23 gate jets|props Atlantic Aviation 3
 1301 A general_aviation 
-1300  29.97124603 -095.34257763  61.23 gate jets|props Atlantic Aviation 02
+1300  29.97124603 -095.34257763  61.23 gate jets|props Atlantic Aviation 2
 1301 A general_aviation 
-1300  29.97104856 -095.34245849  61.23 gate jets|props Atlantic Aviation 01
+1300  29.97104856 -095.34245849  61.23 gate jets|props Atlantic Aviation 1
 1301 A general_aviation 
-1300  29.97195608 -095.34138932 242.58 gate jets|props Atlantic Aviation Hangar 02
+1300  29.97195608 -095.34138932 242.58 gate jets|props Atlantic Aviation Hangar 2
 1301 A general_aviation 
-1300  29.96481679 -095.33789799 181.77 tie_down props Shell Corp Hangar 02
+1300  29.96481679 -095.33789799 181.77 tie_down props Shell Corp Hangar 2
 1301 A general_aviation 
-1300  29.97125473 -095.34102412 242.58 gate jets|props Atlantic Aviation Hangar 01
+1300  29.97125473 -095.34102412 242.58 gate jets|props Atlantic Aviation Hangar 1
 1301 A general_aviation 
-1300  29.96694283 -095.33894819 -117.45 gate props Marathon Oil Corp Hangar 01
+1300  29.96694283 -095.33894819 -117.45 gate props Marathon Oil Corp Hangar 1
 1301 A general_aviation 
-1300  29.96762641 -095.34004269 151.64 gate turboprops|props Marathon Oil Corp Hangar 02
+1300  29.96762641 -095.34004269 151.64 gate turboprops|props Marathon Oil Corp Hangar 2
 1301 A general_aviation 
-1300  29.96470625 -095.33859313 151.64 gate props Shell Corp Hangar 01
+1300  29.96470625 -095.33859313 151.64 gate props Shell Corp Hangar 1
 1301 A general_aviation 
 1300  29.96361230 -095.33702908  61.81 gate jets Mesa Airlines Hangar
 1301 C airline 
-1300  29.96091179 -095.33485053 -118.20 gate props Conoco Philips Hangar 04
+1300  29.96091179 -095.33485053 -118.20 gate props Conoco Philips Hangar 4
 1301 A general_aviation 
-1300  29.96172223 -095.33586530 152.24 gate props Conoco Philips Hangar 03
+1300  29.96172223 -095.33586530 152.24 gate props Conoco Philips Hangar 3
 1301 A general_aviation 
-1300  29.96239807 -095.33603719 -162.27 gate props Conoco Philips Hangar 02
+1300  29.96239807 -095.33603719 -162.27 gate props Conoco Philips Hangar 2
 1301 A general_aviation 
-1300  29.96251549 -095.33650326 -162.27 gate props Conoco Philips Hangar 01
+1300  29.96251549 -095.33650326 -162.27 gate props Conoco Philips Hangar 1
 1301 A general_aviation 
-1300  29.99985102 -095.30931770 180.00 gate heavy East Cargo CE05
+1300  29.99985102 -095.30931770 180.00 gate heavy East Cargo CE5
 1301 D cargo 
-1300  29.99986108 -095.30982837 -180.00 gate heavy East Cargo CE04
+1300  29.99986108 -095.30982837 -180.00 gate heavy East Cargo CE4
 1301 D cargo 
-1300  29.99985572 -095.31034886 -180.00 gate heavy East Cargo CE03
+1300  29.99985572 -095.31034886 -180.00 gate heavy East Cargo CE3
 1301 D cargo 
-1300  29.99986736 -095.31101743 -180.00 gate heavy East Cargo CE02
+1300  29.99986736 -095.31101743 -180.00 gate heavy East Cargo CE2
 1301 E cargo 
-1300  29.99985074 -095.31177294 -180.00 tie_down heavy East Cargo CE01
+1300  29.99985074 -095.31177294 -180.00 tie_down heavy East Cargo CE1
 1301 E cargo 
-1300  29.99944751 -095.30947329 359.96 gate heavy East Cargo CD04
+1300  29.99944751 -095.30947329 359.96 gate heavy East Cargo CD4
 1301 E cargo 
-1300  29.99945545 -095.31022774 359.96 gate heavy East Cargo CD03
+1300  29.99945545 -095.31022774 359.96 gate heavy East Cargo CD3
 1301 E cargo 
-1300  29.99945449 -095.31098005  -0.04 gate heavy East Cargo CD02
+1300  29.99945449 -095.31098005  -0.04 gate heavy East Cargo CD2
 1301 E cargo 
-1300  29.99946427 -095.31177385 359.96 gate heavy East Cargo CD01
+1300  29.99946427 -095.31177385 359.96 gate heavy East Cargo CD1
 1301 E cargo 
-1300  29.99738545 -095.30944749 -179.58 gate heavy East Cargo CC04
+1300  29.99738545 -095.30944749 -179.58 gate heavy East Cargo CC4
 1301 E cargo 
-1300  29.99736168 -095.31022486 -179.58 gate heavy East Cargo CC03
+1300  29.99736168 -095.31022486 -179.58 gate heavy East Cargo CC3
 1301 E cargo 
-1300  29.99736933 -095.31098955 -179.58 gate heavy East Cargo CC02
+1300  29.99736933 -095.31098955 -179.58 gate heavy East Cargo CC2
 1301 E cargo 
-1300  29.99725353 -095.31176122 -179.58 gate heavy East Cargo CC01
+1300  29.99725353 -095.31176122 -179.58 gate heavy East Cargo CC1
 1301 E cargo 
-1300  29.99466467 -095.30945476   0.00 gate heavy East Cargo CB04
+1300  29.99466467 -095.30945476   0.00 gate heavy East Cargo CB4
 1301 E cargo 
-1300  29.99469269 -095.31022296   0.00 gate heavy East Cargo CB03
+1300  29.99469269 -095.31022296   0.00 gate heavy East Cargo CB3
 1301 E cargo 
-1300  29.99471520 -095.31099055   0.00 gate heavy East Cargo CB02
+1300  29.99471520 -095.31099055   0.00 gate heavy East Cargo CB2
 1301 E cargo 
-1300  29.99471247 -095.31176904   0.00 gate heavy East Cargo CB01
+1300  29.99471247 -095.31176904   0.00 gate heavy East Cargo CB1
 1301 E cargo 
-1300  29.99268918 -095.30945741 -180.00 gate heavy East Cargo CA04
+1300  29.99268918 -095.30945741 -180.00 gate heavy East Cargo CA4
 1301 E cargo 
-1300  29.99272398 -095.31021856 -180.00 gate heavy East Cargo CA03
+1300  29.99272398 -095.31021856 -180.00 gate heavy East Cargo CA3
 1301 E cargo 
-1300  29.99268596 -095.31099789 -180.00 gate heavy East Cargo CA02
+1300  29.99268596 -095.31099789 -180.00 gate heavy East Cargo CA2
 1301 E cargo 
-1300  29.99268693 -095.31177399 -180.00 gate heavy East Cargo CA01
+1300  29.99268693 -095.31177399 -180.00 gate heavy East Cargo CA1
 1301 E cargo 
 18  29.98418144 -095.32835311 1 BEACON
 50 12405 ATIS
-51 12295 UNICOM
-52 12810 CLNC DEL
-53 12170 GND
-54 12880 Tower
-54 13515 TWR
-55 12435 APP
-56 13360 DEP
+52 12810 Houston Clearance
+53 11995 Ground Metering
+53 12170 Ground Rwys 15L/33R & 15R/33L
+53 11857 Ground Rwys 8L/26R, 26R/26L & 9/27
+53 12162 Ramp Control West
+53 13127 Ramp Control East
+53 13082 Ramp Control North
+54 12072 Tower Rwys 8L/26R
+54 12535 Tower Rwys 8R/26L
+54 13515 Tower Rwys 9/27
+54 12730 Tower Rwys 15L/33R & 15R/33L
+56 12667 Houston Departure West
+56 13225 Houston Departure North
+56 13360 Houston Departure East
+56 12712 Houston Departure South
 99
