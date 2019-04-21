@@ -1710,9 +1710,9 @@ I
 1300  26.27587838  127.76533330 324.85 hangar jets|turboprops|helos Hangar 02
 1301 C none 
 1300  26.27664346  127.76649970 324.85 hangar jets|turboprops|helos Hangar 01
-1301 C military 
-1300  26.26609555  127.74871486 234.85 tie_down jets|turboprops|helos Golf 16
 1301 C none 
+1300  26.26609555  127.74871486 234.85 tie_down jets|turboprops|helos Golf 16
+1301 C military 
 1300  26.26638102  127.74848992 234.85 tie_down jets|turboprops|helos Golf 15
 1301 C military 
 1300  26.26652938  127.74940199 234.85 tie_down jets|turboprops|helos Golf 14
