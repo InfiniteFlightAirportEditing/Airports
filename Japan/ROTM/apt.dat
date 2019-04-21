@@ -1691,26 +1691,26 @@ I
 21  26.26899756  127.74721595 2 54.8500 3.00 06  PAPI-4L
 21  26.27960176  127.76579100 2 234.8500 3.00 24  PAPI-4L
 14  26.26938685  127.75491837  82.02 0 New Tower Viewpoint 1
-1300  26.26564224  127.74885160 324.85 tie_down turboprops|helos Hangar 10
-1301 C general_aviation 
-1300  26.26654886  127.75084022 234.85 tie_down jets|turboprops|helos Hangar 09
+1300  26.26564224  127.74885160 324.85 hangar turboprops|helos Hangar 10
+1301 C military 
+1300  26.26654886  127.75084022 234.85 hangar jets|turboprops|helos Hangar 09
 1301 B military 
-1300  26.26785376  127.75290704 234.85 tie_down jets|turboprops|helos Hangar 08
+1300  26.26785376  127.75290704 234.85 hangar jets|turboprops|helos Hangar 08
 1301 B military 
-1300  26.26987197  127.75608237 234.85 tie_down jets|turboprops|helos Hangar 07
+1300  26.26987197  127.75608237 234.85 hangar jets|turboprops|helos Hangar 07
 1301 B military 
-1300  26.27222730  127.75974965 324.85 tie_down turboprops|helos Hangar 06
-1301 B general_aviation 
-1300  26.27235329  127.75994918 324.85 tie_down turboprops|helos Hangar 05
-1301 B general_aviation 
-1300  26.27330978  127.76120618 324.85 tie_down turboprops|helos Hangar 04
-1301 C general_aviation 
-1300  26.27370046  127.76191689 324.85 tie_down turboprops|helos Hangar 03
-1301 C general_aviation 
-1300  26.27587838  127.76533330 324.85 tie_down turboprops|helos Hangar 02
-1301 C general_aviation 
-1300  26.27664346  127.76649970 324.85 tie_down turboprops|helos Hangar 01
-1301 C general_aviation 
+1300  26.27222730  127.75974965 324.85 hangar jets|turboprops|helos Hangar 06
+1301 B military 
+1300  26.27235329  127.75994918 324.85 hangar jets|turboprops|helos Hangar 05
+1301 B military 
+1300  26.27330978  127.76120618 324.85 hangar jets|turboprops|helos Hangar 04
+1301 C military 
+1300  26.27370046  127.76191689 324.85 hangar jets|turboprops|helos Hangar 03
+1301 C military 
+1300  26.27587838  127.76533330 324.85 hangar jets|turboprops|helos Hangar 02
+1301 C military 
+1300  26.27664346  127.76649970 324.85 hangar jets|turboprops|helos Hangar 01
+1301 C military 
 1300  26.26609555  127.74871486 234.85 tie_down jets|turboprops|helos Golf 16
 1301 C military 
 1300  26.26638102  127.74848992 234.85 tie_down jets|turboprops|helos Golf 15
