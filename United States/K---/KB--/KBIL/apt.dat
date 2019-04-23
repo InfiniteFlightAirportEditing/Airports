@@ -2796,23 +2796,17 @@ I
 1301 A none 
 1300  45.80342735 -108.55041021  90.86 hangar turboprops|props Hangar 39
 1301 A none 
-1300  45.80430058 -108.55472330 291.76 hangar turboprops|props Hangar 33
-1301 A none 
-1300  45.80607551 -108.55558577  24.19 hangar turboprops|props Hangar 06
-1301 A none 
-1300  45.80603359 -108.55573996 202.93 hangar turboprops|props Hangar 05
-1301 A none 
-1300  45.80613732 -108.55580781  21.73 hangar turboprops|props Hangar 04
-1301 A none 
-1300  45.80609378 -108.55595583 201.63 hangar turboprops|props Hangar 03
-1301 A none 
-1300  45.80619805 -108.55601982  23.37 hangar turboprops|props Hangar 02
-1301 A none 
 1300  45.80377112 -108.55504177 290.57 hangar turboprops|props Hangar 36
 1301 A none 
-1300  45.80394665 -108.55494452 290.60 hangar turboprops|props Hangar 25
+1300  45.80394665 -108.55494452 290.60 hangar turboprops|props Hangar 35
 1301 A none 
+1300  45.80385020 -108.55047773 180.68 hangar turboprops|props Hangar 38
+1301 A none 
+1300  45.80427983 -108.55178384  20.18 hangar jets|turboprops|props Hangar 37
+1301 B none 
 1300  45.80412588 -108.55483928 289.54 hangar turboprops|props Hangar 34
+1301 A none 
+1300  45.80430058 -108.55472330 291.76 hangar turboprops|props Hangar 33
 1301 A none 
 1300  45.80448157 -108.55464212 292.91 hangar turboprops|props Hangar 32
 1301 A none 
@@ -2824,27 +2818,17 @@ I
 1301 A none 
 1300  45.80519108 -108.55422648 289.29 hangar turboprops|props Hangar 28
 1301 A none 
-1300  45.80572887 -108.55464211 200.28 hangar turboprops|props Hangar 15
-1301 A none 
-1300  45.80583313 -108.55471304  21.12 hangar turboprops|props Hangar 14
-1301 A none 
-1300  45.80578852 -108.55486801 200.04 hangar turboprops|props Hangar 13
-1301 A none 
-1300  45.80385020 -108.55047773 180.68 hangar turboprops|props Hangar 38
-1301 A none 
-1300  45.80427983 -108.55178384  20.18 hangar jets|turboprops|props Hangar 37
-1301 B none 
 1300  45.80537125 -108.55413722 293.04 hangar turboprops|props Hangar 27
 1301 A none 
 1300  45.80450827 -108.55536272 201.88 hangar turboprops|props Hangar 26
 1301 A none 
-1300  45.80525769 -108.55658509  22.79 hangar turboprops|props Hangar 22
-1301 A none 
-1300  45.80516141 -108.55621676  22.89 hangar turboprops|props Hangar 23
+1300  45.80489983 -108.55525912  19.40 hangar turboprops|props Hangar 25
 1301 A none 
 1300  45.80503624 -108.55574254  21.53 hangar turboprops|props Hangar 24
 1301 A none 
-1300  45.80489983 -108.55525912  19.40 hangar turboprops|props Hangar 25
+1300  45.80516141 -108.55621676  22.89 hangar turboprops|props Hangar 23
+1301 A none 
+1300  45.80525769 -108.55658509  22.79 hangar turboprops|props Hangar 22
 1301 A none 
 1300  45.80530584 -108.55490921 198.60 hangar turboprops|props Hangar 21
 1301 A none 
@@ -2858,6 +2842,12 @@ I
 1301 A none 
 1300  45.80569259 -108.55627432 201.83 hangar turboprops|props Hangar 16
 1301 A none 
+1300  45.80572887 -108.55464211 200.28 hangar turboprops|props Hangar 15
+1301 A none 
+1300  45.80583313 -108.55471304  21.12 hangar turboprops|props Hangar 14
+1301 A none 
+1300  45.80578852 -108.55486801 200.04 hangar turboprops|props Hangar 13
+1301 A none 
 1300  45.80589332 -108.55493277  22.64 hangar turboprops|props Hangar 12
 1301 A none 
 1300  45.80585033 -108.55508464 200.35 hangar turboprops|props Hangar 11
@@ -2869,6 +2859,16 @@ I
 1300  45.80601478 -108.55536605  21.33 hangar turboprops|props Hangar 08
 1301 A none 
 1300  45.80597125 -108.55552255 200.22 hangar turboprops|props Hangar 07
+1301 A none 
+1300  45.80607551 -108.55558577  24.19 hangar turboprops|props Hangar 06
+1301 A none 
+1300  45.80603359 -108.55573996 202.93 hangar turboprops|props Hangar 05
+1301 A none 
+1300  45.80613732 -108.55580781  21.73 hangar turboprops|props Hangar 04
+1301 A none 
+1300  45.80609378 -108.55595583 201.63 hangar turboprops|props Hangar 03
+1301 A none 
+1300  45.80619805 -108.55601982  23.37 hangar turboprops|props Hangar 02
 1301 A none 
 1300  45.80615720 -108.55617633 201.53 hangar turboprops|props Hangar 01
 1301 A none 
