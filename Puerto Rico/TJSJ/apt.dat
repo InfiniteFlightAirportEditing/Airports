@@ -7345,13 +7345,13 @@ I
 1300  18.44090435 -066.00405827 336.19 gate turboprops|props Gate D22
 1301 A airline 
 1300  18.44049157 -066.00420834 157.78 gate jets|turboprops Gate D23
-1301 C airline 
+1301 D airline 
 1300  18.44031586 -066.00466330 156.79 gate jets|turboprops Gate D24
-1301 C airline 
+1301 D airline 
 1300  18.44011803 -066.00513394 157.63 gate jets|turboprops Gate D25
-1301 C airline 
+1301 D airline 
 1300  18.43854734 -066.00152593 -69.71 gate jets|turboprops Gate C10A
-1301 C airline 
+1301 E airline 
 1300  18.44429377 -065.99123466 248.56 tie_down jets|fighters Military 10
 1301 D military 
 1300  18.44465690 -065.99143100 246.49 tie_down jets|fighters Military 09
@@ -7443,11 +7443,11 @@ I
 1300  18.43671396 -066.00099508 -88.65 gate jets|turboprops Gate B11
 1301 D airline 
 1300  18.43806745 -066.00295701 -13.74 gate jets|turboprops Gate C02
-1301 D airline 
+1301 C airline 
 1300  18.43868610 -066.00278649 169.19 gate jets|turboprops Gate C03
 1301 D airline 
 1300  18.43819384 -066.00235744  -0.61 gate jets|turboprops Gate C04
-1301 D airline 
+1301 C airline 
 1300  18.43883532 -066.00232501 172.30 gate jets|turboprops Gate C05
 1301 D airline 
 1300  18.43824118 -066.00192180  -1.54 gate jets|turboprops Gate C06
