@@ -5260,17 +5260,17 @@ I
 1300  51.88440799 -000.37268051  17.87 gate jets|turboprops CARGO 31
 1301 D cargo 
 1300  51.88156234 -000.37421872 161.70 gate jets|turboprops GATE 41L
-1301 C none 
+1301 C airline 
 1300  51.88140070 -000.37445914 161.86 gate jets|turboprops GATE 41
 1301 E airline 
 1300  51.88134255 -000.37475081 161.75 gate jets|turboprops GATE 41R
-1301 C none 
+1301 C airline 
 1300  51.88180168 -000.37305096 162.30 gate jets|turboprops GATE 42L
-1301 C none 
+1301 C airline 
 1300  51.88163224 -000.37332000 161.67 gate jets|turboprops GATE 42
-1301 E none 
+1301 E airline 
 1300  51.88158006 -000.37357731 161.75 gate jets|turboprops GATE 42R
-1301 C none 
+1301 C airline 
 1300  51.88077515 -000.37448125 -18.00 gate jets|turboprops GATE 43L
 1301 C airline 
 1300  51.88080658 -000.37439588 -18.17 gate jets|turboprops GATE 43
