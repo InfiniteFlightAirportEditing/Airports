@@ -8518,6 +8518,8 @@ I
 1301 E airline 
 1300  37.95038359  023.96279385 -53.38 tie_down turboprops|props Maintenance Apron 1
 1301 E airline 
+1300  37.95047958  023.96280936  37.30 tie_down turboprops|props GA Ramp C22
+1301 A general_aviation 
 1300  37.94961643  023.96286956  37.30 tie_down turboprops|props GA Ramp C29
 1301 A general_aviation 
 1300  37.94972056  023.96269796  37.30 tie_down turboprops|props GA Ramp C28
