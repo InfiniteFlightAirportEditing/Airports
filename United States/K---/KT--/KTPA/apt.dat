@@ -5612,6 +5612,9 @@ I
 120 Linear Feature 345
 111  27.97443005 -082.53309976 51
 115  27.97479477 -082.53256400
+120 Linear Feature 1
+111  27.97560116 -082.53258921 51
+115  27.97561892 -082.53329070
 120 Linear Feature 344
 111  27.97570327 -082.53255153 51
 111  27.97572064 -082.53264342 51
@@ -6660,8 +6663,8 @@ I
 1301 B airline 
 1300  27.97592431 -082.53274687 -178.52 gate jets|turboprops TERMINAL A02
 1301 B airline 
-1300  27.97570327 -082.53255153 101.17 gate jets|turboprops TERMINAL A03
-1301 D airline 
+1300  27.97560116 -082.53258921  91.48 gate jets|turboprops TERMINAL A03
+1301 C airline 
 1300  27.97481764 -082.53246281  28.05 gate heavy|jets|turboprops TERMINAL A05W
 1301 E airline 
 1300  27.97479477 -082.53256400  52.45 gate heavy|jets|turboprops TERMINAL A05
@@ -6769,7 +6772,7 @@ I
 1300  27.98408325 -082.53258730 -177.90 gate jets|turboprops TERMINAL C40
 1301 C airline 
 1300  27.98257394 -082.53288530 105.26 gate jets|turboprops TERMINAL C45W
-1301 D airline 
+1301 E airline 
 1300  27.98251026 -082.53288598  92.86 gate jets|turboprops TERMINAL C45
 1301 C airline 
 1300  27.98292968 -082.53291896  92.19 gate jets|turboprops TERMINAL C44
@@ -6892,6 +6895,10 @@ I
 1301 B none 
 1300  27.96748572 -082.51888728   0.83 tie_down turboprops|props HANGAR SE 01
 1301 B none 
+1300  27.96818714 -082.52402617   0.66 tie_down props GA 12
+1301 A general_aviation 
+1300  27.96818714 -082.52417949   0.66 tie_down props GA 11
+1301 A general_aviation 
 1300  27.96819061 -082.52433280   0.66 tie_down props GA 10
 1301 A general_aviation 
 1300  27.96819350 -082.52448847   0.66 tie_down props GA 09
@@ -6918,7 +6925,10 @@ I
 52 13360 Clearance Delivery
 53 12170 Ground
 54 11950 Tower
+55 11815 Tampa Approach
 56 11815 Tampa Departure
-55 11965 Tampa Departure
-55 11880 Tampa Departure
+55 11965 Tampa Approach
+56 11965 Tampa Departure
+55 11880 Tampa Approach
+56 11880 Tampa Departure
 99
