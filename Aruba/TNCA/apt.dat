@@ -1766,39 +1766,39 @@ I
 21  12.50311640 -070.02440051 2 104.0800 3.00 11  PAPI-4L
 21  12.49907273 -070.00755545 2 284.0900 3.00 29  PAPI-4L
 14  12.50340716 -070.00728991  98.43 0 PRINCESS BEATRIX INTL.
-1300  12.50384604 -070.01147941 -20.30 gate heavy|jets|turboprops|props Gate 11
+1300  12.50384604 -070.01147941 -20.30 gate jets|turboprops Gate 11
 1301 C airline 
-1300  12.50379864 -070.01089825  15.93 gate jets|turboprops|props Gate 10
+1300  12.50379864 -070.01089825  15.93 gate jets|turboprops Gate 10
 1301 C airline 
-1300  12.50374559 -070.01070994  13.54 gate jets|turboprops|props Gate 9A
+1300  12.50374559 -070.01070994  13.54 gate heavy|jets|turboprops Gate 9A
 1301 E airline 
-1300  12.50370949 -070.01050234  13.41 gate jets|turboprops|props Gate 9
+1300  12.50370949 -070.01050234  13.41 gate jets|turboprops Gate 9
 1301 C airline 
-1300  12.50346069 -070.01006050  25.78 gate jets|turboprops|props Gate 8
+1300  12.50346069 -070.01006050  25.78 gate jets|turboprops Gate 8
 1301 C airline 
-1300  12.50347049 -070.00958964  13.22 gate jets|turboprops|props Gate 7
+1300  12.50347049 -070.00958964  13.22 gate heavy|jets|turboprops Gate 7
 1301 E airline 
-1300  12.50321362 -070.00909696  12.67 gate jets|turboprops|props Gate 6
+1300  12.50321362 -070.00909696  12.67 gate jets|turboprops Gate 6
 1301 C airline 
-1300  12.50127016 -070.00744293 120.79 gate jets|turboprops|props Gate 22
+1300  12.50127016 -070.00744293 120.79 gate jets|turboprops Gate 22
 1301 C airline 
-1300  12.50144409 -070.00820437 120.03 gate jets|turboprops|props Gate 21
+1300  12.50144409 -070.00820437 120.03 gate jets|turboprops Gate 21
 1301 C airline 
-1300  12.50164497 -070.00899305 116.87 gate heavy|jets|turboprops|props Gate 20
+1300  12.50164497 -070.00899305 116.87 gate jets|turboprops Gate 20
 1301 C airline 
-1300  12.50313588 -070.00868290  14.72 gate jets|turboprops|props Gate 5
+1300  12.50313588 -070.00868290  14.72 gate jets|turboprops Gate 5
 1301 C airline 
-1300  12.50304173 -070.00821075  15.77 gate jets|turboprops|props Gate 4
+1300  12.50304173 -070.00821075  15.77 gate jets|turboprops Gate 4
 1301 D airline 
-1300  12.50289472 -070.00760189  11.47 gate jets|turboprops|props Gate 3
+1300  12.50289472 -070.00760189  11.47 gate jets|turboprops Gate 3
 1301 D airline 
-1300  12.50269853 -070.00695040  13.52 gate jets|turboprops|props Gate 2
+1300  12.50269853 -070.00695040  13.52 gate jets|turboprops Gate 2
 1301 D airline 
-1300  12.50233159 -070.00572324  14.53 gate jets|turboprops|props Gate 23
+1300  12.50233159 -070.00572324  14.53 gate jets|turboprops Gate 23
 1301 C airline 
-1300  12.50224383 -070.00532620  14.86 gate jets|turboprops|props Gate 24
+1300  12.50224383 -070.00532620  14.86 gate jets|turboprops Gate 24
 1301 C airline 
-1300  12.50270470 -070.00627887  12.82 gate jets|turboprops|props Gate 1
+1300  12.50270470 -070.00627887  12.82 gate heavy|jets|turboprops Gate 1
 1301 E airline 
 1300  12.49864837 -070.01380958 104.20 gate jets|turboprops|props GA Ramp 3
 1301 B general_aviation 
@@ -1842,20 +1842,17 @@ I
 1301 A general_aviation 
 1300  12.49903514 -070.01325812 103.88 gate jets|turboprops|props GA Ramp 4
 1301 A general_aviation 
-1300  12.50406702 -070.01206322  14.58 gate jets|turboprops|props Gate 13
+1300  12.50406702 -070.01206322  14.58 gate jets|turboprops Gate 13
 1301 C airline 
-1300  12.50417298 -070.01244477  14.58 gate jets|turboprops|props Gate 14
+1300  12.50417298 -070.01244477  14.58 gate jets|turboprops Gate 14
 1301 C airline 
-1300  12.50425486 -070.01285266   2.96 gate jets|turboprops|props Gate 15
+1300  12.50425486 -070.01285266   2.96 gate jets|turboprops Gate 15
 1301 C airline 
-1300  12.50422319 -070.01337470 -16.74 gate jets|turboprops|props Gate 16
+1300  12.50422319 -070.01337470 -16.74 gate jets|turboprops Gate 16
 1301 C airline 
-1300  12.50411912 -070.01373211 -16.42 gate jets|turboprops|props Gate 17
+1300  12.50411912 -070.01373211 -16.42 gate jets|turboprops Gate 17
 1301 C airline 
 18  12.50340716 -070.00728991 1 BCN
 50 13210 ATIS
-53 12190 Beatrix Ground
-53 11800 Beatrix Ground
-54 12090 Beatrix Tower
-54 12885 Beatrix Tower
+54 11800 Beatrix Tower
 99
