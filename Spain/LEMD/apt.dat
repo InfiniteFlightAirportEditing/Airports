@@ -28448,21 +28448,35 @@ I
 1301 D airline 
 1300  40.47310244 -003.57122989 158.41 gate jets Terminal 3 Gate T31
 1301 D airline 
-1300  40.48682718 -003.58759215 -90.15 gate jets Terminal 4 Gate 448
+1300  40.48682718 -003.58759215 -90.15 gate jets Remote Stand 448
 1301 E airline 
-1300  40.48832282 -003.58750176 -90.15 gate jets Terminal 4 Gate 446
+1300  40.48832282 -003.58750176 -90.15 gate jets Remote Stand 446
 1301 C airline 
-1300  40.48880037 -003.58750389 -90.15 gate jets Terminal 4 Gate 444
+1300  40.48880037 -003.58750389 -90.15 gate jets Remote Stand 444
 1301 C airline 
-1300  40.48962588 -003.58751421 -90.15 gate jets Terminal 4 Gate 442
+1300  40.48962588 -003.58751421 -90.15 gate jets Remote Stand 442
 1301 C airline 
-1300  40.49010813 -003.58751622 -90.15 gate jets Terminal 4 Gate 440
+1300  40.49010813 -003.58751622 -90.15 gate jets Remote Stand 440
 1301 C airline 
-1300  40.49057018 -003.58751877 -90.15 gate jets Terminal 4 Gate 438
+1300  40.49057018 -003.58751877 -90.15 gate jets Remote Stand 438
 1301 C airline 
-1300  40.49124107 -003.58751872 -90.15 gate jets Terminal 4 Gate 436
+1300  40.49124107 -003.58751872 -90.15 gate jets Remote Stand 436
 1301 C airline 
-1300  40.49171610 -003.58752145 -90.15 gate jets Terminal 4 Gate 434
+1300  40.49171610 -003.58752145 -90.15 gate jets Remote Stand 434
+1301 C airline 
+1300  40.49309158 -003.58753324 -90.15 gate jets Remote Stand 432
+1301 C airline 
+1300  40.49348839 -003.58753693 -90.15 gate jets Remote Stand 430
+1301 C airline 
+1300  40.49422548 -003.58754212 -90.15 gate jets Remote Stand 428
+1301 C airline 
+1300  40.49462198 -003.58753870 -90.15 gate jets Remote Stand 426
+1301 C airline 
+1300  40.49503131 -003.58754108 -90.15 gate jets Remote Stand 424
+1301 C airline 
+1300  40.49543963 -003.58754464 -90.15 gate jets Remote Stand 422
+1301 C airline 
+1300  40.49583616 -003.58754641 -90.15 gate jets Remote Stand 420
 1301 C airline 
 1300  40.49053662 -003.56678292 -89.93 gate jets Terminal 4S Gate 577
 1301 E airline 
@@ -28479,8 +28493,6 @@ I
 1300  40.49012279 -003.56655953 -40.18 gate jets Terminal 4S Gate 580
 1301 E airline 
 1300  40.49082807 -003.56658245 -90.27 gate jets Terminal 4S Gate 576
-1301 C airline 
-1300  40.49098314 -003.56678410 -90.27 gate jets Terminal 4S Gate 575
 1301 C airline 
 1300  40.49126078 -003.56652302 -90.27 gate jets Terminal 4S Gate 574
 1301 C airline 
@@ -28522,43 +28534,43 @@ I
 1301 E airline 
 1300  40.49780260 -003.56679111 -97.26 gate jets Terminal 4S Gate 548
 1301 C airline 
-1300  40.48933226 -003.56354628 -90.32 gate jets Terminal 4S Gate 628
+1300  40.48933226 -003.56354628 -90.32 gate jets Remote Stand 628
 1301 C airline 
-1300  40.48953226 -003.56386989 -90.32 gate jets Terminal 4S Gate 627
+1300  40.48953226 -003.56386989 -90.32 gate jets Remote Stand 627
 1301 E airline 
-1300  40.48975040 -003.56360331 -90.32 gate jets Terminal 4S Gate 626
+1300  40.48975040 -003.56360331 -90.32 gate jets Remote Stand 626
 1301 C airline 
-1300  40.49036129 -003.56381248 -90.32 gate jets Terminal 4S Gate 624
+1300  40.49036129 -003.56381248 -90.32 gate jets Remote Stand 624
 1301 E airline 
-1300  40.49152412 -003.56382050 -90.32 gate jets Terminal 4S Gate 622
+1300  40.49152412 -003.56382050 -90.32 gate jets Remote Stand 622
 1301 E airline 
-1300  40.49221990 -003.56361054 -90.32 gate jets Terminal 4S Gate 620
+1300  40.49221990 -003.56361054 -90.32 gate jets Remote Stand 620
 1301 C airline 
-1300  40.49243751 -003.56381433 -90.32 gate jets Terminal 4S Gate 619
+1300  40.49243751 -003.56381433 -90.32 gate jets Remote Stand 619
 1301 E airline 
-1300  40.49271861 -003.56365122 -90.32 gate jets Terminal 4S Gate 618
+1300  40.49271861 -003.56365122 -90.32 gate jets Remote Stand 618
 1301 C airline 
-1300  40.49333061 -003.56364896 -90.32 gate jets Terminal 4S Gate 616
+1300  40.49333061 -003.56364896 -90.32 gate jets Remote Stand 616
 1301 C airline 
-1300  40.49392844 -003.56383584 -90.32 gate jets Terminal 4S Gate 614
+1300  40.49392844 -003.56383584 -90.32 gate jets Remote Stand 614
 1301 E airline 
-1300  40.49472886 -003.56383841 -90.32 gate jets Terminal 4S Gate 612
+1300  40.49472886 -003.56383841 -90.32 gate jets Remote Stand 612
 1301 E airline 
-1300  40.49619659 -003.56364524 -90.32 gate jets Terminal 4S Gate 610
+1300  40.49619659 -003.56364524 -90.32 gate jets Remote Stand 610
 1301 C airline 
-1300  40.49637604 -003.56384807 -90.32 gate jets Terminal 4S Gate 609
+1300  40.49637604 -003.56384807 -90.32 gate jets Remote Stand 609
 1301 E airline 
-1300  40.49655315 -003.56377728 -90.32 gate jets Terminal 4S Gate 608
+1300  40.49655315 -003.56377728 -90.32 gate jets Remote Stand 608
 1301 C airline 
-1300  40.49713633 -003.56366986 -90.32 gate jets Terminal 4S Gate 606
+1300  40.49713633 -003.56366986 -90.32 gate jets Remote Stand 606
 1301 C airline 
-1300  40.49769973 -003.56385519 -90.32 gate jets Terminal 4S Gate 604
+1300  40.49769973 -003.56385519 -90.32 gate jets Remote Stand 604
 1301 E airline 
-1300  40.49832601 -003.56369018 -90.32 gate jets Terminal 4S Gate 602
+1300  40.49832601 -003.56369018 -90.32 gate jets Remote Stand 602
 1301 C airline 
-1300  40.49850122 -003.56386023 -90.32 gate jets Terminal 4S Gate 601
+1300  40.49850122 -003.56386023 -90.32 gate jets Remote Stand 601
 1301 E airline 
-1300  40.49868505 -003.56378944 -90.32 gate jets Terminal 4S Gate 600
+1300  40.49868505 -003.56378944 -90.32 gate jets Remote Stand 600
 1301 C airline 
 1300  40.49820695 -003.56656460 -89.97 gate jets Terminal 4S Gate 546
 1301 C airline 
@@ -28629,12 +28641,6 @@ I
 1300  40.49286088 -003.56833761  89.77 gate jets Terminal 4S Gate 501
 1301 E airline 
 1300  40.49269969 -003.56845071  84.83 gate jets Terminal 4S Gate 500
-1301 C airline 
-1300  40.49309158 -003.58753324 -90.15 gate jets Terminal 4 Gate 432
-1301 C airline 
-1300  40.49348839 -003.58753693 -90.15 gate jets Terminal 4 Gate 430
-1301 C airline 
-1300  40.49422548 -003.58754212 -90.15 gate jets Terminal 4 Gate 428
 1301 C airline 
 1300  40.49690748 -003.58911177 -179.99 gate jets Terminal 4 Gate 329
 1301 B airline 
@@ -28732,43 +28738,35 @@ I
 1301 C airline 
 1300  40.49411625 -003.59193113  89.70 gate jets Terminal 4 Gate 300
 1301 C airline 
-1300  40.49462198 -003.58753870 -90.15 gate jets Terminal 4 Gate 426
+1300  40.49813695 -003.58844753   0.02 gate jets Remote Stand 400
 1301 C airline 
-1300  40.49503131 -003.58754108 -90.15 gate jets Terminal 4 Gate 424
+1300  40.49813554 -003.58895484   0.02 gate jets Remote Stand 402
 1301 C airline 
-1300  40.49543963 -003.58754464 -90.15 gate jets Terminal 4 Gate 422
+1300  40.49813312 -003.58946118   0.02 gate jets Remote Stand 404
 1301 C airline 
-1300  40.49583616 -003.58754641 -90.15 gate jets Terminal 4 Gate 420
+1300  40.49813293 -003.58996856   0.02 gate jets Remote Stand 406
 1301 C airline 
-1300  40.49813695 -003.58844753   0.02 gate jets Terminal 4 Gate 400
+1300  40.49812957 -003.59132488   0.02 gate jets Remote Stand 408
 1301 C airline 
-1300  40.49813554 -003.58895484   0.02 gate jets Terminal 4 Gate 402
+1300  40.49812795 -003.59183296   0.02 gate jets Remote Stand 410
 1301 C airline 
-1300  40.49813312 -003.58946118   0.02 gate jets Terminal 4 Gate 404
+1300  40.49812692 -003.59234058   0.02 gate jets Remote Stand 411
 1301 C airline 
-1300  40.49813293 -003.58996856   0.02 gate jets Terminal 4 Gate 406
+1300  40.49893501 -003.59234544 179.67 gate jets Remote Stand 412
 1301 C airline 
-1300  40.49812957 -003.59132488   0.02 gate jets Terminal 4 Gate 408
+1300  40.49893654 -003.59183789 179.67 gate jets Remote Stand 413
 1301 C airline 
-1300  40.49812795 -003.59183296   0.02 gate jets Terminal 4 Gate 410
+1300  40.49893896 -003.59133001 179.67 gate jets Remote Stand 414
 1301 C airline 
-1300  40.49812692 -003.59234058   0.02 gate jets Terminal 4 Gate 411
+1300  40.49894048 -003.59048157 179.67 gate jets Remote Stand 415
 1301 C airline 
-1300  40.49893501 -003.59234544 179.67 gate jets Terminal 4 Gate 412
+1300  40.49894194 -003.59001527 179.67 gate jets Remote Stand 416
 1301 C airline 
-1300  40.49893654 -003.59183789 179.67 gate jets Terminal 4 Gate 413
+1300  40.49894278 -003.58954998 179.67 gate jets Remote Stand 417
 1301 C airline 
-1300  40.49893896 -003.59133001 179.67 gate jets Terminal 4 Gate 414
+1300  40.49894554 -003.58908399 179.67 gate jets Remote Stand 418
 1301 C airline 
-1300  40.49894048 -003.59048157 179.67 gate jets Terminal 4 Gate 415
-1301 C airline 
-1300  40.49894194 -003.59001527 179.67 gate jets Terminal 4 Gate 416
-1301 C airline 
-1300  40.49894278 -003.58954998 179.67 gate jets Terminal 4 Gate 417
-1301 C airline 
-1300  40.49894554 -003.58908399 179.67 gate jets Terminal 4 Gate 418
-1301 C airline 
-1300  40.49894665 -003.58861861 179.67 gate jets Terminal 4 Gate 419
+1300  40.49894665 -003.58861861 179.67 gate jets Remote Stand 419
 1301 C airline 
 1300  40.49824456 -003.58652905  89.74 gate jets Remote Stand PE30
 1301 E airline 
