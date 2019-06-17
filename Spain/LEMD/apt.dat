@@ -28449,21 +28449,21 @@ I
 1300  40.47310244 -003.57122989 158.41 gate jets Terminal 3 Gate T31
 1301 D airline 
 1300  40.48682718 -003.58759215 -90.15 gate jets Remote Stand 448
-1301 E airline 
+1301 F airline 
 1300  40.48832282 -003.58750176 -90.15 gate jets Remote Stand 446
-1301 C airline 
+1301 D airline 
 1300  40.48880037 -003.58750389 -90.15 gate jets Remote Stand 444
-1301 C airline 
+1301 D airline 
 1300  40.48962588 -003.58751421 -90.15 gate jets Remote Stand 442
 1301 C airline 
 1300  40.49010813 -003.58751622 -90.15 gate jets Remote Stand 440
-1301 C airline 
+1301 D airline 
 1300  40.49057018 -003.58751877 -90.15 gate jets Remote Stand 438
 1301 C airline 
 1300  40.49124107 -003.58751872 -90.15 gate jets Remote Stand 436
-1301 C airline 
+1301 D airline 
 1300  40.49171610 -003.58752145 -90.15 gate jets Remote Stand 434
-1301 C airline 
+1301 D airline 
 1300  40.49309158 -003.58753324 -90.15 gate jets Remote Stand 432
 1301 C airline 
 1300  40.49348839 -003.58753693 -90.15 gate jets Remote Stand 430
@@ -28537,29 +28537,29 @@ I
 1300  40.48933226 -003.56354628 -90.32 gate jets Remote Stand 628
 1301 C airline 
 1300  40.48953226 -003.56386989 -90.32 gate jets Remote Stand 627
-1301 E airline 
+1301 F airline 
 1300  40.48975040 -003.56360331 -90.32 gate jets Remote Stand 626
 1301 C airline 
 1300  40.49036129 -003.56381248 -90.32 gate jets Remote Stand 624
-1301 E airline 
+1301 F airline 
 1300  40.49152412 -003.56382050 -90.32 gate jets Remote Stand 622
-1301 E airline 
+1301 F airline 
 1300  40.49221990 -003.56361054 -90.32 gate jets Remote Stand 620
 1301 C airline 
 1300  40.49243751 -003.56381433 -90.32 gate jets Remote Stand 619
-1301 E airline 
+1301 F airline 
 1300  40.49271861 -003.56365122 -90.32 gate jets Remote Stand 618
 1301 C airline 
 1300  40.49333061 -003.56364896 -90.32 gate jets Remote Stand 616
 1301 C airline 
 1300  40.49392844 -003.56383584 -90.32 gate jets Remote Stand 614
-1301 E airline 
+1301 F airline 
 1300  40.49472886 -003.56383841 -90.32 gate jets Remote Stand 612
-1301 E airline 
+1301 F airline 
 1300  40.49619659 -003.56364524 -90.32 gate jets Remote Stand 610
 1301 C airline 
 1300  40.49637604 -003.56384807 -90.32 gate jets Remote Stand 609
-1301 E airline 
+1301 F airline 
 1300  40.49655315 -003.56377728 -90.32 gate jets Remote Stand 608
 1301 C airline 
 1300  40.49713633 -003.56366986 -90.32 gate jets Remote Stand 606
@@ -28569,7 +28569,7 @@ I
 1300  40.49832601 -003.56369018 -90.32 gate jets Remote Stand 602
 1301 C airline 
 1300  40.49850122 -003.56386023 -90.32 gate jets Remote Stand 601
-1301 E airline 
+1301 F airline 
 1300  40.49868505 -003.56378944 -90.32 gate jets Remote Stand 600
 1301 C airline 
 1300  40.49820695 -003.56656460 -89.97 gate jets Terminal 4S Gate 546
