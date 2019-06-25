@@ -412,10 +412,10 @@ I
 112  43.98881506 -088.56373451  43.98890594 -088.56451861
 111  43.98881506 -088.56373451
 111  43.98900836 -088.57600538
-112  43.98900836 -088.57600538  43.98909162 -088.57722967
+112  43.98900836 -088.57600538  43.98909163 -088.57722967
 111  43.99008837 -088.57755517
-111  43.99140851 -088.57762610
-112  43.99140851 -088.57762610  43.99167671 -088.57764364
+111  43.99140851 -088.57762609
+112  43.99140851 -088.57762609  43.99167671 -088.57764364
 112  43.99237310 -088.57813199  43.99265076 -088.57837320
 111  43.99237310 -088.57813199
 111  43.99225176 -088.57832242
@@ -423,7 +423,7 @@ I
 112  43.99140497 -088.57778194  43.99120618 -088.57772931
 111  43.99140497 -088.57778194
 111  43.99005004 -088.57770956
-112  43.99005004 -088.57770956  43.98888521 -088.57721253
+112  43.99005004 -088.57770956  43.98888521 -088.57721254
 111  43.98893197 -088.57601729
 111  43.98880108 -088.56771590
 111  43.98873836 -088.56373763
@@ -1571,7 +1571,7 @@ I
 111  43.98568927 -088.55884120
 112  43.98568927 -088.55884120  43.98569332 -088.55925487
 111  43.98569612 -088.55962909
-111  43.96746747 -088.55993896
+111  43.96746747 -088.55993897
 113  43.96743948 -088.55826583
 110 3 0.00 0.0000 New Taxiway 2
 111  43.98880108 -088.56771590
@@ -1586,7 +1586,7 @@ I
 113  43.98873836 -088.56373763
 110 3 0.00 0.0000 New Taxiway 1
 111  43.99008837 -088.57755517
-112  43.98900836 -088.57600538  43.98892510 -088.57478110
+112  43.98900836 -088.57600538  43.98892509 -088.57478110
 111  43.98900836 -088.57600538
 111  43.98881506 -088.56373451
 112  43.98881506 -088.56373451  43.98872419 -088.56295040
@@ -1622,13 +1622,13 @@ I
 111  43.99058852 -088.55888207
 111  43.99143888 -088.56031048
 111  43.99145864 -088.57216085
-113  43.99140851 -088.57762610
+113  43.99140851 -088.57762609
 130 Airport Boundary 272
 111  43.99486334 -088.56935541
 111  43.99491889 -088.57880511
-111  43.98876895 -088.57892947
+111  43.98876894 -088.57892947
 111  43.98875810 -088.56781200
-111  43.98617913 -088.56776855
+111  43.98617914 -088.56776856
 111  43.98618277 -088.56742165
 111  43.98612456 -088.56718782
 111  43.98605178 -088.56698868
@@ -2947,11 +2947,11 @@ I
 1301 A general_aviation 
 1300  43.96908885 -088.55842743   0.51 tie_down props EAA Grass Area West 24
 1301 A general_aviation 
-1300  43.96951413 -088.55842742   0.51 tie_down props EAA Grass Area West 30
+1300  43.96951413 -088.55842743   0.51 tie_down props EAA Grass Area West 30
 1301 A general_aviation 
 1300  43.96998047 -088.55842695   0.51 tie_down props EAA Grass Area West 36
 1301 A general_aviation 
-1300  43.97040576 -088.55842695   0.51 tie_down props EAA Grass Area West 42
+1300  43.97040576 -088.55842694   0.51 tie_down props EAA Grass Area West 42
 1301 A general_aviation 
 1300  43.97084412 -088.55843603   0.51 tie_down props EAA Grass Area West 48
 1301 A general_aviation 
@@ -2971,13 +2971,13 @@ I
 1301 A general_aviation 
 1300  43.97413442 -088.55842687   0.51 tie_down props EAA Grass Area West 96
 1301 A general_aviation 
-1300  43.97451609 -088.55842686   0.51 tie_down props EAA Grass Area West 102
+1300  43.97451608 -088.55842686   0.51 tie_down props EAA Grass Area West 102
 1301 A general_aviation 
 1300  43.97492501 -088.55841928   0.51 tie_down props EAA Grass Area West 108
 1301 A general_aviation 
 1300  43.97531213 -088.55841927   0.51 tie_down props EAA Grass Area West 114
 1301 A general_aviation 
-1300  43.97568289 -088.55841926   0.51 tie_down props EAA Grass Area West 120
+1300  43.97568288 -088.55841926   0.51 tie_down props EAA Grass Area West 120
 1301 A general_aviation 
 1300  43.97609181 -088.55841926   0.51 tie_down props EAA Grass Area West 126
 1301 A general_aviation 
@@ -3027,7 +3027,7 @@ I
 1301 A general_aviation 
 1300  43.98486341 -088.55843489   0.51 tie_down props EAA Grass Area West 264
 1301 A general_aviation 
-1300  43.98521932 -088.55842436   0.51 tie_down props EAA Grass Area West 270
+1300  43.98521933 -088.55842436   0.51 tie_down props EAA Grass Area West 270
 1301 A general_aviation 
 1300  43.96777025 -088.55907270   0.51 tie_down props EAA Grass Area West 3
 1301 A general_aviation 
@@ -3057,7 +3057,7 @@ I
 1301 A general_aviation 
 1300  43.97334688 -088.55905097   0.51 tie_down props EAA Grass Area West 81
 1301 A general_aviation 
-1300  43.97375035 -088.55903581   0.51 tie_down props EAA Grass Area West 87
+1300  43.97375035 -088.55903582   0.51 tie_down props EAA Grass Area West 87
 1301 A general_aviation 
 1300  43.97413746 -088.55903581   0.51 tie_down props EAA Grass Area West 93
 1301 A general_aviation 
@@ -3075,7 +3075,7 @@ I
 1301 A general_aviation 
 1300  43.97693451 -088.55902822   0.51 tie_down props EAA Grass Area West 135
 1301 A general_aviation 
-1300  43.97738161 -088.55902821   0.51 tie_down props EAA Grass Area West 141
+1300  43.97738160 -088.55902821   0.51 tie_down props EAA Grass Area West 141
 1301 A general_aviation 
 1300  43.97777417 -088.55902063   0.51 tie_down props EAA Grass Area West 147
 1301 A general_aviation 
@@ -3087,7 +3087,7 @@ I
 1301 A general_aviation 
 1300  43.97970975 -088.55902062   0.51 tie_down props EAA Grass Area West 171
 1301 A general_aviation 
-1300  43.98006415 -088.55902062   0.51 tie_down props EAA Grass Area West 177
+1300  43.98006416 -088.55902062   0.51 tie_down props EAA Grass Area West 177
 1301 A general_aviation 
 1300  43.98040765 -088.55902062   0.51 tie_down props EAA Grass Area West 183
 1301 A general_aviation 
@@ -3141,13 +3141,13 @@ I
 1301 A general_aviation 
 1300  43.97254677 -088.55864384   0.51 tie_down props EAA Grass Area West 71
 1301 A general_aviation 
-1300  43.97215675 -088.55864080   0.51 tie_down props EAA Grass Area West 65
+1300  43.97215674 -088.55864080   0.51 tie_down props EAA Grass Area West 65
 1301 A general_aviation 
 1300  43.97293643 -088.55864079   0.51 tie_down props EAA Grass Area West 77
 1301 A general_aviation 
 1300  43.97334535 -088.55864078   0.51 tie_down props EAA Grass Area West 83
 1301 A general_aviation 
-1300  43.97374883 -088.55862562   0.51 tie_down props EAA Grass Area West 89
+1300  43.97374883 -088.55862563   0.51 tie_down props EAA Grass Area West 89
 1301 A general_aviation 
 1300  43.97413594 -088.55862562   0.51 tie_down props EAA Grass Area West 95
 1301 A general_aviation 
@@ -3163,7 +3163,7 @@ I
 1301 A general_aviation 
 1300  43.97650226 -088.55861801   0.51 tie_down props EAA Grass Area West 131
 1301 A general_aviation 
-1300  43.97693299 -088.55861801   0.51 tie_down props EAA Grass Area West 137
+1300  43.97693299 -088.55861800   0.51 tie_down props EAA Grass Area West 137
 1301 A general_aviation 
 1300  43.97738008 -088.55861800   0.51 tie_down props EAA Grass Area West 143
 1301 A general_aviation 
@@ -3177,7 +3177,7 @@ I
 1301 A general_aviation 
 1300  43.97970823 -088.55861039   0.51 tie_down props EAA Grass Area West 173
 1301 A general_aviation 
-1300  43.98006263 -088.55861039   0.51 tie_down props EAA Grass Area West 179
+1300  43.98006263 -088.55861038   0.51 tie_down props EAA Grass Area West 179
 1301 A general_aviation 
 1300  43.98040613 -088.55861038   0.51 tie_down props EAA Grass Area West 185
 1301 A general_aviation 
@@ -3197,7 +3197,7 @@ I
 1301 A general_aviation 
 1300  43.98319137 -088.55862318   0.51 tie_down props EAA Grass Area West 233
 1301 A general_aviation 
-1300  43.98349806 -088.55861792   0.51 tie_down props EAA Grass Area West 239
+1300  43.98349806 -088.55861791   0.51 tie_down props EAA Grass Area West 239
 1301 A general_aviation 
 1300  43.98382747 -088.55862317   0.51 tie_down props EAA Grass Area West 245
 1301 A general_aviation 
@@ -3211,9 +3211,9 @@ I
 1301 A general_aviation 
 1300  43.96777177 -088.55927143   0.51 tie_down props EAA Grass Area West 2
 1301 A general_aviation 
-1300  43.96821014 -088.55927143   0.51 tie_down props EAA Grass Area West 8
+1300  43.96821013 -088.55927143   0.51 tie_down props EAA Grass Area West 8
 1301 A general_aviation 
-1300  43.96862887 -088.55924415   0.51 tie_down props EAA Grass Area West 14
+1300  43.96862888 -088.55924415   0.51 tie_down props EAA Grass Area West 14
 1301 A general_aviation 
 1300  43.96909341 -088.55923506   0.51 tie_down props EAA Grass Area West 20
 1301 A general_aviation 
@@ -3239,17 +3239,17 @@ I
 1301 A general_aviation 
 1300  43.97375187 -088.55923457   0.51 tie_down props EAA Grass Area West 86
 1301 A general_aviation 
-1300  43.97413899 -088.55923457   0.51 tie_down props EAA Grass Area West 92
+1300  43.97413899 -088.55923456   0.51 tie_down props EAA Grass Area West 92
 1301 A general_aviation 
 1300  43.97452065 -088.55923456   0.51 tie_down props EAA Grass Area West 98
 1301 A general_aviation 
-1300  43.97492958 -088.55922699   0.51 tie_down props EAA Grass Area West 104
+1300  43.97492957 -088.55922699   0.51 tie_down props EAA Grass Area West 104
 1301 A general_aviation 
 1300  43.97531669 -088.55922698   0.51 tie_down props EAA Grass Area West 110
 1301 A general_aviation 
 1300  43.97568745 -088.55922698   0.51 tie_down props EAA Grass Area West 116
 1301 A general_aviation 
-1300  43.97609638 -088.55922698   0.51 tie_down props EAA Grass Area West 122
+1300  43.97609637 -088.55922698   0.51 tie_down props EAA Grass Area West 122
 1301 A general_aviation 
 1300  43.97650530 -088.55922698   0.51 tie_down props EAA Grass Area West 128
 1301 A general_aviation 
@@ -3273,7 +3273,7 @@ I
 1301 A general_aviation 
 1300  43.98073631 -088.55922697   0.51 tie_down props EAA Grass Area West 188
 1301 A general_aviation 
-1300  43.98106345 -088.55922697   0.51 tie_down props EAA Grass Area West 194
+1300  43.98106345 -088.55922696   0.51 tie_down props EAA Grass Area West 194
 1301 A general_aviation 
 1300  43.98140695 -088.55921939   0.51 tie_down props EAA Grass Area West 200
 1301 A general_aviation 
@@ -3289,7 +3289,7 @@ I
 1301 A general_aviation 
 1300  43.98350110 -088.55922696   0.51 tie_down props EAA Grass Area West 236
 1301 A general_aviation 
-1300  43.98383051 -088.55923222   0.51 tie_down props EAA Grass Area West 242
+1300  43.98383052 -088.55923222   0.51 tie_down props EAA Grass Area West 242
 1301 A general_aviation 
 1300  43.98417507 -088.55923748   0.51 tie_down props EAA Grass Area West 248
 1301 A general_aviation 
@@ -3321,7 +3321,7 @@ I
 1301 A general_aviation 
 1300  43.97254677 -088.55885104   0.51 tie_down props EAA Grass Area West 70
 1301 A general_aviation 
-1300  43.97215675 -088.55884800   0.51 tie_down props EAA Grass Area West 64
+1300  43.97215674 -088.55884800   0.51 tie_down props EAA Grass Area West 64
 1301 A general_aviation 
 1300  43.97293643 -088.55884799   0.51 tie_down props EAA Grass Area West 76
 1301 A general_aviation 
@@ -3391,9 +3391,9 @@ I
 1301 A general_aviation 
 1300  43.96777177 -088.55947862   0.51 tie_down props EAA Grass Area West 1
 1301 A general_aviation 
-1300  43.96821014 -088.55947862   0.51 tie_down props EAA Grass Area West 7
+1300  43.96821013 -088.55947862   0.51 tie_down props EAA Grass Area West 7
 1301 A general_aviation 
-1300  43.96862887 -088.55945135   0.51 tie_down props EAA Grass Area West 13
+1300  43.96862888 -088.55945134   0.51 tie_down props EAA Grass Area West 13
 1301 A general_aviation 
 1300  43.96909341 -088.55944225   0.51 tie_down props EAA Grass Area West 19
 1301 A general_aviation 
@@ -3423,13 +3423,13 @@ I
 1301 A general_aviation 
 1300  43.97452065 -088.55944178   0.51 tie_down props EAA Grass Area West 97
 1301 A general_aviation 
-1300  43.97492958 -088.55943420   0.51 tie_down props EAA Grass Area West 103
+1300  43.97492957 -088.55943420   0.51 tie_down props EAA Grass Area West 103
 1301 A general_aviation 
 1300  43.97531669 -088.55943420   0.51 tie_down props EAA Grass Area West 109
 1301 A general_aviation 
 1300  43.97568745 -088.55943420   0.51 tie_down props EAA Grass Area West 115
 1301 A general_aviation 
-1300  43.97609638 -088.55943420   0.51 tie_down props EAA Grass Area West 121
+1300  43.97609637 -088.55943420   0.51 tie_down props EAA Grass Area West 121
 1301 A general_aviation 
 1300  43.97650530 -088.55943420   0.51 tie_down props EAA Grass Area West 127
 1301 A general_aviation 
@@ -3469,7 +3469,7 @@ I
 1301 A general_aviation 
 1300  43.98350110 -088.55943420   0.51 tie_down props EAA Grass Area West 235
 1301 A general_aviation 
-1300  43.98383051 -088.55943946   0.51 tie_down props EAA Grass Area West 241
+1300  43.98383052 -088.55943946   0.51 tie_down props EAA Grass Area West 241
 1301 A general_aviation 
 1300  43.98417507 -088.55944472   0.51 tie_down props EAA Grass Area West 247
 1301 A general_aviation 
@@ -3485,7 +3485,7 @@ I
 1301 A general_aviation 
 1300  43.98650268 -088.56043333  90.00 tie_down props EAA Grass Area North West 390
 1301 A general_aviation 
-1300  43.98719046 -088.55862630  90.00 tie_down props EAA Grass Area North West 360
+1300  43.98719046 -088.55862629  90.00 tie_down props EAA Grass Area North West 360
 1301 A general_aviation 
 1300  43.98871677 -088.55863936  90.00 tie_down props EAA Grass Area North West 330
 1301 A general_aviation 
@@ -3495,7 +3495,7 @@ I
 1301 A general_aviation 
 1300  43.98965496 -088.56224932  90.00 tie_down props EAA Grass Area North West 240
 1301 A general_aviation 
-1300  43.98966042 -088.56406808  90.00 tie_down props EAA Grass Area North West 210
+1300  43.98966042 -088.56406807  90.00 tie_down props EAA Grass Area North West 210
 1301 A general_aviation 
 1300  43.98965496 -088.56586410  90.00 tie_down props EAA Grass Area North West 180
 1301 A general_aviation 
@@ -3513,9 +3513,9 @@ I
 1301 A general_aviation 
 1300  43.98725379 -088.56658912  90.00 tie_down props EAA Grass Area North West 410
 1301 A general_aviation 
-1300  43.98650005 -088.56107651  90.00 tie_down props EAA Grass Area North West 380
+1300  43.98650006 -088.56107651  90.00 tie_down props EAA Grass Area North West 380
 1301 A general_aviation 
-1300  43.98718783 -088.55926948  90.00 tie_down props EAA Grass Area North West 350
+1300  43.98718783 -088.55926949  90.00 tie_down props EAA Grass Area North West 350
 1301 A general_aviation 
 1300  43.98871414 -088.55928256  90.00 tie_down props EAA Grass Area North West 320
 1301 A general_aviation 
@@ -3545,9 +3545,9 @@ I
 1301 A general_aviation 
 1300  43.98649743 -088.56167584  90.00 tie_down props EAA Grass Area North West 370
 1301 A general_aviation 
-1300  43.98718520 -088.55986882  90.00 tie_down props EAA Grass Area North West 340
+1300  43.98718521 -088.55986882  90.00 tie_down props EAA Grass Area North West 340
 1301 A general_aviation 
-1300  43.98871151 -088.55988191  90.00 tie_down props EAA Grass Area North West 310
+1300  43.98871151 -088.55988192  90.00 tie_down props EAA Grass Area North West 310
 1301 A general_aviation 
 1300  43.98811795 -088.56171515  90.00 tie_down props EAA Grass Area North West 280
 1301 A general_aviation 
@@ -3587,7 +3587,7 @@ I
 1301 A general_aviation 
 1300  43.99022862 -088.56050608  90.00 tie_down props EAA Grass Area North West 266
 1301 A general_aviation 
-1300  43.99023407 -088.56225662  90.00 tie_down props EAA Grass Area North West 236
+1300  43.99023407 -088.56225663  90.00 tie_down props EAA Grass Area North West 236
 1301 A general_aviation 
 1300  43.99023952 -088.56407538  90.00 tie_down props EAA Grass Area North West 206
 1301 A general_aviation 
@@ -3599,11 +3599,11 @@ I
 1301 A general_aviation 
 1300  43.99023907 -088.57144402  90.00 tie_down props EAA Grass Area North West 86
 1301 A general_aviation 
-1300  43.99024091 -088.57324045  90.00 tie_down props EAA Grass Area North West 56
+1300  43.99024092 -088.57324045  90.00 tie_down props EAA Grass Area North West 56
 1301 A general_aviation 
 1300  43.99022760 -088.57507267  90.00 tie_down props EAA Grass Area North West 26
 1301 A general_aviation 
-1300  43.98625006 -088.56655716  90.00 tie_down props EAA Grass Area North West 461
+1300  43.98625006 -088.56655717  90.00 tie_down props EAA Grass Area North West 461
 1301 A general_aviation 
 1300  43.98625948 -088.56464542  90.00 tie_down props EAA Grass Area North West 485
 1301 A general_aviation 
@@ -3623,7 +3623,7 @@ I
 1301 A general_aviation 
 1300  43.99023144 -088.56289984  90.00 tie_down props EAA Grass Area North West 226
 1301 A general_aviation 
-1300  43.99023689 -088.56471860  90.00 tie_down props EAA Grass Area North West 196
+1300  43.99023690 -088.56471860  90.00 tie_down props EAA Grass Area North West 196
 1301 A general_aviation 
 1300  43.99023144 -088.56651462  90.00 tie_down props EAA Grass Area North West 166
 1301 A general_aviation 
@@ -3633,11 +3633,11 @@ I
 1301 A general_aviation 
 1300  43.99023644 -088.57208724  90.00 tie_down props EAA Grass Area North West 76
 1301 A general_aviation 
-1300  43.99023829 -088.57388366  90.00 tie_down props EAA Grass Area North West 46
+1300  43.99023828 -088.57388366  90.00 tie_down props EAA Grass Area North West 46
 1301 A general_aviation 
 1300  43.99022497 -088.57571589  90.00 tie_down props EAA Grass Area North West 16
 1301 A general_aviation 
-1300  43.98625685 -088.56524474  90.00 tie_down props EAA Grass Area North West 477
+1300  43.98625685 -088.56524475  90.00 tie_down props EAA Grass Area North West 477
 1301 A general_aviation 
 1300  43.98781142 -088.56527093  90.00 tie_down props EAA Grass Area North West 426
 1301 A general_aviation 
@@ -3669,13 +3669,13 @@ I
 1301 A general_aviation 
 1300  43.99022234 -088.57631525  90.00 tie_down props EAA Grass Area North West 6
 1301 A general_aviation 
-1300  43.98737956 -088.56402110  90.00 tie_down props EAA Grass Area North West 459
+1300  43.98737956 -088.56402110  90.00 tie_down props EAA Grass Area North West 449
 1301 A general_aviation 
 1300  43.98739840 -088.56594593  90.00 tie_down props EAA Grass Area North West 419
 1301 A general_aviation 
 1300  43.98664467 -088.56043333  90.00 tie_down props EAA Grass Area North West 389
 1301 A general_aviation 
-1300  43.98733245 -088.55862630  90.00 tie_down props EAA Grass Area North West 359
+1300  43.98733245 -088.55862629  90.00 tie_down props EAA Grass Area North West 359
 1301 A general_aviation 
 1300  43.98885876 -088.55863936  90.00 tie_down props EAA Grass Area North West 329
 1301 A general_aviation 
@@ -3685,43 +3685,43 @@ I
 1301 A general_aviation 
 1300  43.98979695 -088.56224932  90.00 tie_down props EAA Grass Area North West 239
 1301 A general_aviation 
-1300  43.98980240 -088.56406808  90.00 tie_down props EAA Grass Area North West 209
+1300  43.98980240 -088.56406807  90.00 tie_down props EAA Grass Area North West 209
 1301 A general_aviation 
 1300  43.98979695 -088.56586410  90.00 tie_down props EAA Grass Area North West 179
 1301 A general_aviation 
-1300  43.98980194 -088.56772364  90.00 tie_down props EAA Grass Area North West 149
+1300  43.98980195 -088.56772364  90.00 tie_down props EAA Grass Area North West 149
 1301 A general_aviation 
-1300  43.98980194 -088.56961038  90.00 tie_down props EAA Grass Area North West 119
+1300  43.98980195 -088.56961038  90.00 tie_down props EAA Grass Area North West 119
 1301 A general_aviation 
-1300  43.98980194 -088.57143672  90.00 tie_down props EAA Grass Area North West 89
+1300  43.98980195 -088.57143672  90.00 tie_down props EAA Grass Area North West 89
 1301 A general_aviation 
 1300  43.98980379 -088.57323314  90.00 tie_down props EAA Grass Area North West 59
 1301 A general_aviation 
 1300  43.98979048 -088.57506536  90.00 tie_down props EAA Grass Area North West 29
 1301 A general_aviation 
-1300  43.98737693 -088.56466429  90.00 tie_down props EAA Grass Area North West 449
+1300  43.98737693 -088.56466429  90.00 tie_down props EAA Grass Area North West 439
 1301 A general_aviation 
-1300  43.98739577 -088.56658912  90.00 tie_down props EAA Grass Area North West 419
+1300  43.98739577 -088.56658912  90.00 tie_down props EAA Grass Area North West 409
 1301 A general_aviation 
-1300  43.98664204 -088.56107651  90.00 tie_down props EAA Grass Area North West 389
+1300  43.98664204 -088.56107651  90.00 tie_down props EAA Grass Area North West 379
 1301 A general_aviation 
-1300  43.98732982 -088.55926948  90.00 tie_down props EAA Grass Area North West 359
+1300  43.98732982 -088.55926949  90.00 tie_down props EAA Grass Area North West 349
 1301 A general_aviation 
-1300  43.98885613 -088.55928256  90.00 tie_down props EAA Grass Area North West 329
+1300  43.98885613 -088.55928256  90.00 tie_down props EAA Grass Area North West 319
 1301 A general_aviation 
-1300  43.98826256 -088.56111581  90.00 tie_down props EAA Grass Area North West 299
+1300  43.98826256 -088.56111581  90.00 tie_down props EAA Grass Area North West 289
 1301 A general_aviation 
-1300  43.98978887 -088.56114198  90.00 tie_down props EAA Grass Area North West 269
+1300  43.98978887 -088.56114198  90.00 tie_down props EAA Grass Area North West 259
 1301 A general_aviation 
-1300  43.98979432 -088.56289253  90.00 tie_down props EAA Grass Area North West 239
+1300  43.98979432 -088.56289253  90.00 tie_down props EAA Grass Area North West 229
 1301 A general_aviation 
-1300  43.98979977 -088.56471129  90.00 tie_down props EAA Grass Area North West 209
+1300  43.98979977 -088.56471129  90.00 tie_down props EAA Grass Area North West 199
 1301 A general_aviation 
-1300  43.98979432 -088.56650732  90.00 tie_down props EAA Grass Area North West 179
+1300  43.98979432 -088.56650732  90.00 tie_down props EAA Grass Area North West 169
 1301 A general_aviation 
-1300  43.98979932 -088.56836685  90.00 tie_down props EAA Grass Area North West 149
+1300  43.98979932 -088.56836685  90.00 tie_down props EAA Grass Area North West 139
 1301 A general_aviation 
-1300  43.98979932 -088.57025360  90.00 tie_down props EAA Grass Area North West 119
+1300  43.98979932 -088.57025360  90.00 tie_down props EAA Grass Area North West 109
 1301 A general_aviation 
 1300  43.98979932 -088.57207993  90.00 tie_down props EAA Grass Area North West 79
 1301 A general_aviation 
@@ -3737,9 +3737,9 @@ I
 1301 A general_aviation 
 1300  43.98732719 -088.55986882  90.00 tie_down props EAA Grass Area North West 339
 1301 A general_aviation 
-1300  43.98885350 -088.55988191  90.00 tie_down props EAA Grass Area North West 309
+1300  43.98885350 -088.55988192  90.00 tie_down props EAA Grass Area North West 309
 1301 A general_aviation 
-1300  43.98825993 -088.56171515  90.00 tie_down props EAA Grass Area North West 279
+1300  43.98825994 -088.56171515  90.00 tie_down props EAA Grass Area North West 279
 1301 A general_aviation 
 1300  43.98978624 -088.56174134  90.00 tie_down props EAA Grass Area North West 249
 1301 A general_aviation 
@@ -3755,7 +3755,7 @@ I
 1301 A general_aviation 
 1300  43.98979669 -088.57267929  90.00 tie_down props EAA Grass Area North West 69
 1301 A general_aviation 
-1300  43.98979854 -088.57447572  90.00 tie_down props EAA Grass Area North West 39
+1300  43.98979853 -088.57447572  90.00 tie_down props EAA Grass Area North West 39
 1301 A general_aviation 
 1300  43.98978522 -088.57630794  90.00 tie_down props EAA Grass Area North West 9
 1301 A general_aviation 
@@ -3777,7 +3777,7 @@ I
 1301 A general_aviation 
 1300  43.99037061 -088.56050608  90.00 tie_down props EAA Grass Area North West 265
 1301 A general_aviation 
-1300  43.99037606 -088.56225662  90.00 tie_down props EAA Grass Area North West 235
+1300  43.99037606 -088.56225663  90.00 tie_down props EAA Grass Area North West 235
 1301 A general_aviation 
 1300  43.99038151 -088.56407538  90.00 tie_down props EAA Grass Area North West 205
 1301 A general_aviation 
@@ -3791,9 +3791,9 @@ I
 1301 A general_aviation 
 1300  43.99038290 -088.57324045  90.00 tie_down props EAA Grass Area North West 55
 1301 A general_aviation 
-1300  43.99036958 -088.57507267  90.00 tie_down props EAA Grass Area North West 25
+1300  43.99036959 -088.57507267  90.00 tie_down props EAA Grass Area North West 25
 1301 A general_aviation 
-1300  43.98639205 -088.56655716  90.00 tie_down props EAA Grass Area North West 460
+1300  43.98639205 -088.56655717  90.00 tie_down props EAA Grass Area North West 460
 1301 A general_aviation 
 1300  43.98640147 -088.56464542  90.00 tie_down props EAA Grass Area North West 484
 1301 A general_aviation 
@@ -3825,11 +3825,11 @@ I
 1301 A general_aviation 
 1300  43.99038027 -088.57388366  90.00 tie_down props EAA Grass Area North West 45
 1301 A general_aviation 
-1300  43.99036696 -088.57571589  90.00 tie_down props EAA Grass Area North West 15
+1300  43.99036695 -088.57571589  90.00 tie_down props EAA Grass Area North West 15
 1301 A general_aviation 
-1300  43.98638942 -088.56715649  90.00 tie_down props EAA Grass Area North West 455
+1300  43.98638942 -088.56715648  90.00 tie_down props EAA Grass Area North West 455
 1301 A general_aviation 
-1300  43.98639884 -088.56524474  90.00 tie_down props EAA Grass Area North West 476
+1300  43.98639884 -088.56524475  90.00 tie_down props EAA Grass Area North West 476
 1301 A general_aviation 
 1300  43.98795341 -088.56527093  90.00 tie_down props EAA Grass Area North West 425
 1301 A general_aviation 
@@ -3871,7 +3871,7 @@ I
 1301 A general_aviation 
 1300  43.98678403 -088.56043333  90.00 tie_down props EAA Grass Area North West 388
 1301 A general_aviation 
-1300  43.98747181 -088.55862630  90.00 tie_down props EAA Grass Area North West 358
+1300  43.98747181 -088.55862629  90.00 tie_down props EAA Grass Area North West 358
 1301 A general_aviation 
 1300  43.98899812 -088.55863936  90.00 tie_down props EAA Grass Area North West 328
 1301 A general_aviation 
@@ -3881,7 +3881,7 @@ I
 1301 A general_aviation 
 1300  43.98993631 -088.56224932  90.00 tie_down props EAA Grass Area North West 238
 1301 A general_aviation 
-1300  43.98994176 -088.56406808  90.00 tie_down props EAA Grass Area North West 208
+1300  43.98994176 -088.56406807  90.00 tie_down props EAA Grass Area North West 208
 1301 A general_aviation 
 1300  43.98993631 -088.56586410  90.00 tie_down props EAA Grass Area North West 178
 1301 A general_aviation 
@@ -3897,7 +3897,7 @@ I
 1301 A general_aviation 
 1300  43.98595230 -088.56654986  90.00 tie_down props EAA Grass Area North West 463
 1301 A general_aviation 
-1300  43.98596172 -088.56463812  90.00 tie_down props EAA Grass Area North West 487
+1300  43.98596172 -088.56463811  90.00 tie_down props EAA Grass Area North West 487
 1301 A general_aviation 
 1300  43.98751629 -088.56466429  90.00 tie_down props EAA Grass Area North West 438
 1301 A general_aviation 
@@ -3905,7 +3905,7 @@ I
 1301 A general_aviation 
 1300  43.98678140 -088.56107651  90.00 tie_down props EAA Grass Area North West 378
 1301 A general_aviation 
-1300  43.98746918 -088.55926948  90.00 tie_down props EAA Grass Area North West 348
+1300  43.98746918 -088.55926949  90.00 tie_down props EAA Grass Area North West 348
 1301 A general_aviation 
 1300  43.98899549 -088.55928256  90.00 tie_down props EAA Grass Area North West 318
 1301 A general_aviation 
@@ -3931,19 +3931,19 @@ I
 1301 A general_aviation 
 1300  43.98595909 -088.56523744  90.00 tie_down props EAA Grass Area North West 479
 1301 A general_aviation 
-1300  43.98751366 -088.56526362  90.00 tie_down props EAA Grass Area North West 418
+1300  43.98751366 -088.56526362  90.00 tie_down props EAA Grass Area North West 428
 1301 A general_aviation 
-1300  43.98753250 -088.56718846  90.00 tie_down props EAA Grass Area North West 388
+1300  43.98753250 -088.56718846  90.00 tie_down props EAA Grass Area North West 398
 1301 A general_aviation 
-1300  43.98677877 -088.56167584  90.00 tie_down props EAA Grass Area North West 358
+1300  43.98677877 -088.56167584  90.00 tie_down props EAA Grass Area North West 368
 1301 A general_aviation 
-1300  43.98746655 -088.55986882  90.00 tie_down props EAA Grass Area North West 328
+1300  43.98746655 -088.55986882  90.00 tie_down props EAA Grass Area North West 338
 1301 A general_aviation 
-1300  43.98899286 -088.55988191  90.00 tie_down props EAA Grass Area North West 298
+1300  43.98899286 -088.55988192  90.00 tie_down props EAA Grass Area North West 308
 1301 A general_aviation 
-1300  43.98839929 -088.56171515  90.00 tie_down props EAA Grass Area North West 268
+1300  43.98839929 -088.56171515  90.00 tie_down props EAA Grass Area North West 278
 1301 A general_aviation 
-1300  43.98992560 -088.56174134  90.00 tie_down props EAA Grass Area North West 238
+1300  43.98992560 -088.56174134  90.00 tie_down props EAA Grass Area North West 248
 1301 A general_aviation 
 1300  43.98993105 -088.56349189  90.00 tie_down props EAA Grass Area North West 218
 1301 A general_aviation 
@@ -3951,21 +3951,21 @@ I
 1301 A general_aviation 
 1300  43.98993105 -088.56710668  90.00 tie_down props EAA Grass Area North West 158
 1301 A general_aviation 
-1300  43.98993604 -088.56896621  90.00 tie_down props EAA Grass Area North West 128
+1300  43.98993605 -088.56896621  90.00 tie_down props EAA Grass Area North West 128
 1301 A general_aviation 
-1300  43.98993604 -088.57085296  90.00 tie_down props EAA Grass Area North West 98
+1300  43.98993605 -088.57085296  90.00 tie_down props EAA Grass Area North West 98
 1301 A general_aviation 
-1300  43.98993604 -088.57267929  90.00 tie_down props EAA Grass Area North West 68
+1300  43.98993605 -088.57267929  90.00 tie_down props EAA Grass Area North West 68
 1301 A general_aviation 
 1300  43.98993789 -088.57447572  90.00 tie_down props EAA Grass Area North West 38
 1301 A general_aviation 
 1300  43.98992458 -088.57630794  90.00 tie_down props EAA Grass Area North West 8
 1301 A general_aviation 
-1300  43.98653404 -088.56591399  90.00 tie_down props EAA Grass Area North West 467
+1300  43.98653403 -088.56591399  90.00 tie_down props EAA Grass Area North West 467
 1301 A general_aviation 
 1300  43.98654346 -088.56400225  90.00 tie_down props EAA Grass Area North West 491
 1301 A general_aviation 
-1300  43.98809803 -088.56402841  90.00 tie_down props EAA Grass Area North West 434
+1300  43.98809803 -088.56402841  90.00 tie_down props EAA Grass Area North West 444
 1301 A general_aviation 
 1300  43.98811687 -088.56595324  90.00 tie_down props EAA Grass Area North West 414
 1301 A general_aviation 
@@ -3979,7 +3979,7 @@ I
 1301 A general_aviation 
 1300  43.99050997 -088.56050608  90.00 tie_down props EAA Grass Area North West 264
 1301 A general_aviation 
-1300  43.99051542 -088.56225662  90.00 tie_down props EAA Grass Area North West 234
+1300  43.99051542 -088.56225663  90.00 tie_down props EAA Grass Area North West 234
 1301 A general_aviation 
 1300  43.99052087 -088.56407538  90.00 tie_down props EAA Grass Area North West 204
 1301 A general_aviation 
@@ -3995,7 +3995,7 @@ I
 1301 A general_aviation 
 1300  43.99050894 -088.57507267  90.00 tie_down props EAA Grass Area North West 24
 1301 A general_aviation 
-1300  43.98653141 -088.56655716  90.00 tie_down props EAA Grass Area North West 459
+1300  43.98653141 -088.56655717  90.00 tie_down props EAA Grass Area North West 459
 1301 A general_aviation 
 1300  43.98654083 -088.56464542  90.00 tie_down props EAA Grass Area North West 483
 1301 A general_aviation 
@@ -4007,7 +4007,7 @@ I
 1301 A general_aviation 
 1300  43.98804829 -088.55927679  90.00 tie_down props EAA Grass Area North West 344
 1301 A general_aviation 
-1300  43.98957459 -088.55928987  90.00 tie_down props EAA Grass Area North West 314
+1300  43.98957460 -088.55928987  90.00 tie_down props EAA Grass Area North West 314
 1301 A general_aviation 
 1300  43.98898103 -088.56112312  90.00 tie_down props EAA Grass Area North West 284
 1301 A general_aviation 
@@ -4029,23 +4029,23 @@ I
 1301 A general_aviation 
 1300  43.99050631 -088.57571589  90.00 tie_down props EAA Grass Area North West 14
 1301 A general_aviation 
-1300  43.98652878 -088.56715649  90.00 tie_down props EAA Grass Area North West 454
+1300  43.98652878 -088.56715648  90.00 tie_down props EAA Grass Area North West 454
 1301 A general_aviation 
-1300  43.98653820 -088.56524474  90.00 tie_down props EAA Grass Area North West 475
+1300  43.98653820 -088.56524475  90.00 tie_down props EAA Grass Area North West 475
 1301 A general_aviation 
-1300  43.98809277 -088.56527093  90.00 tie_down props EAA Grass Area North West 414
+1300  43.98809277 -088.56527093  90.00 tie_down props EAA Grass Area North West 424
 1301 A general_aviation 
-1300  43.98811161 -088.56719577  90.00 tie_down props EAA Grass Area North West 384
+1300  43.98811161 -088.56719577  90.00 tie_down props EAA Grass Area North West 394
 1301 A general_aviation 
-1300  43.98735788 -088.56168315  90.00 tie_down props EAA Grass Area North West 354
+1300  43.98735788 -088.56168315  90.00 tie_down props EAA Grass Area North West 364
 1301 A general_aviation 
-1300  43.98804566 -088.55987613  90.00 tie_down props EAA Grass Area North West 324
+1300  43.98804566 -088.55987613  90.00 tie_down props EAA Grass Area North West 334
 1301 A general_aviation 
-1300  43.98957197 -088.55988922  90.00 tie_down props EAA Grass Area North West 294
+1300  43.98957197 -088.55988922  90.00 tie_down props EAA Grass Area North West 304
 1301 A general_aviation 
-1300  43.98897840 -088.56172246  90.00 tie_down props EAA Grass Area North West 264
+1300  43.98897840 -088.56172246  90.00 tie_down props EAA Grass Area North West 274
 1301 A general_aviation 
-1300  43.99050471 -088.56174865  90.00 tie_down props EAA Grass Area North West 234
+1300  43.99050471 -088.56174865  90.00 tie_down props EAA Grass Area North West 244
 1301 A general_aviation 
 1300  43.99051016 -088.56349920  90.00 tie_down props EAA Grass Area North West 214
 1301 A general_aviation 
@@ -4061,7 +4061,7 @@ I
 1301 A general_aviation 
 1300  43.99051700 -088.57448303  90.00 tie_down props EAA Grass Area North West 34
 1301 A general_aviation 
-1300  43.99050368 -088.57631525  90.00 tie_down props EAA Grass Area North West 4
+1300  43.99050369 -088.57631525  90.00 tie_down props EAA Grass Area North West 4
 1301 A general_aviation 
 1300  43.98610480 -088.56590668  90.00 tie_down props EAA Grass Area North West 470
 1301 A general_aviation 
@@ -4073,7 +4073,7 @@ I
 1301 A general_aviation 
 1300  43.98693391 -088.56043333  90.00 tie_down props EAA Grass Area North West 387
 1301 A general_aviation 
-1300  43.98762169 -088.55862630  90.00 tie_down props EAA Grass Area North West 357
+1300  43.98762169 -088.55862629  90.00 tie_down props EAA Grass Area North West 357
 1301 A general_aviation 
 1300  43.98914799 -088.55863936  90.00 tie_down props EAA Grass Area North West 327
 1301 A general_aviation 
@@ -4083,7 +4083,7 @@ I
 1301 A general_aviation 
 1300  43.99008619 -088.56224932  90.00 tie_down props EAA Grass Area North West 237
 1301 A general_aviation 
-1300  43.99009164 -088.56406808  90.00 tie_down props EAA Grass Area North West 207
+1300  43.99009164 -088.56406807  90.00 tie_down props EAA Grass Area North West 207
 1301 A general_aviation 
 1300  43.99008619 -088.56586410  90.00 tie_down props EAA Grass Area North West 177
 1301 A general_aviation 
@@ -4099,15 +4099,15 @@ I
 1301 A general_aviation 
 1300  43.98610217 -088.56654986  90.00 tie_down props EAA Grass Area North West 462
 1301 A general_aviation 
-1300  43.98611159 -088.56463812  90.00 tie_down props EAA Grass Area North West 486
+1300  43.98611159 -088.56463811  90.00 tie_down props EAA Grass Area North West 486
 1301 A general_aviation 
-1300  43.98766616 -088.56466429  90.00 tie_down props EAA Grass Area North West 437
+1300  43.98766617 -088.56466429  90.00 tie_down props EAA Grass Area North West 437
 1301 A general_aviation 
 1300  43.98768501 -088.56658912  90.00 tie_down props EAA Grass Area North West 407
 1301 A general_aviation 
 1300  43.98693128 -088.56107651  90.00 tie_down props EAA Grass Area North West 377
 1301 A general_aviation 
-1300  43.98761906 -088.55926948  90.00 tie_down props EAA Grass Area North West 347
+1300  43.98761906 -088.55926949  90.00 tie_down props EAA Grass Area North West 347
 1301 A general_aviation 
 1300  43.98914536 -088.55928256  90.00 tie_down props EAA Grass Area North West 317
 1301 A general_aviation 
@@ -4131,7 +4131,7 @@ I
 1301 A general_aviation 
 1300  43.99007708 -088.57570858  90.00 tie_down props EAA Grass Area North West 17
 1301 A general_aviation 
-1300  43.98610897 -088.56523744  90.00 tie_down props EAA Grass Area North West 478
+1300  43.98610896 -088.56523744  90.00 tie_down props EAA Grass Area North West 478
 1301 A general_aviation 
 1300  43.98766354 -088.56526362  90.00 tie_down props EAA Grass Area North West 427
 1301 A general_aviation 
@@ -4141,7 +4141,7 @@ I
 1301 A general_aviation 
 1300  43.98761643 -088.55986882  90.00 tie_down props EAA Grass Area North West 337
 1301 A general_aviation 
-1300  43.98914273 -088.55988191  90.00 tie_down props EAA Grass Area North West 307
+1300  43.98914273 -088.55988192  90.00 tie_down props EAA Grass Area North West 307
 1301 A general_aviation 
 1300  43.98854917 -088.56171515  90.00 tie_down props EAA Grass Area North West 277
 1301 A general_aviation 
@@ -4171,7 +4171,7 @@ I
 1301 A general_aviation 
 1300  43.98826675 -088.56595324  90.00 tie_down props EAA Grass Area North West 413
 1301 A general_aviation 
-1300  43.98751302 -088.56044063  90.00 tie_down props EAA Grass Area North West 383
+1300  43.98751301 -088.56044063  90.00 tie_down props EAA Grass Area North West 383
 1301 A general_aviation 
 1300  43.98820079 -088.55863360  90.00 tie_down props EAA Grass Area North West 353
 1301 A general_aviation 
@@ -4181,7 +4181,7 @@ I
 1301 A general_aviation 
 1300  43.99065984 -088.56050608  90.00 tie_down props EAA Grass Area North West 263
 1301 A general_aviation 
-1300  43.99066529 -088.56225662  90.00 tie_down props EAA Grass Area North West 233
+1300  43.99066529 -088.56225663  90.00 tie_down props EAA Grass Area North West 233
 1301 A general_aviation 
 1300  43.99067075 -088.56407538  90.00 tie_down props EAA Grass Area North West 203
 1301 A general_aviation 
@@ -4197,7 +4197,7 @@ I
 1301 A general_aviation 
 1300  43.99065882 -088.57507267  90.00 tie_down props EAA Grass Area North West 23
 1301 A general_aviation 
-1300  43.98668128 -088.56655716  90.00 tie_down props EAA Grass Area North West 458
+1300  43.98668128 -088.56655717  90.00 tie_down props EAA Grass Area North West 458
 1301 A general_aviation 
 1300  43.98669070 -088.56464542  90.00 tie_down props EAA Grass Area North West 482
 1301 A general_aviation 
@@ -4231,9 +4231,9 @@ I
 1301 A general_aviation 
 1300  43.99065619 -088.57571589  90.00 tie_down props EAA Grass Area North West 13
 1301 A general_aviation 
-1300  43.98667865 -088.56715649  90.00 tie_down props EAA Grass Area North West 453
+1300  43.98667865 -088.56715648  90.00 tie_down props EAA Grass Area North West 453
 1301 A general_aviation 
-1300  43.98668807 -088.56524474  90.00 tie_down props EAA Grass Area North West 474
+1300  43.98668807 -088.56524475  90.00 tie_down props EAA Grass Area North West 474
 1301 A general_aviation 
 1300  43.98824264 -088.56527093  90.00 tie_down props EAA Grass Area North West 423
 1301 A general_aviation 
@@ -4283,23 +4283,23 @@ I
 1301 A general_aviation 
 1300  43.99080709 -088.56050608  90.00 tie_down props EAA Grass Area North West 262
 1301 A general_aviation 
-1300  43.99081254 -088.56225662  90.00 tie_down props EAA Grass Area North West 232
+1300  43.99081254 -088.56225663  90.00 tie_down props EAA Grass Area North West 232
 1301 A general_aviation 
 1300  43.99081799 -088.56407538  90.00 tie_down props EAA Grass Area North West 202
 1301 A general_aviation 
 1300  43.99081254 -088.56587141  90.00 tie_down props EAA Grass Area North West 172
 1301 A general_aviation 
-1300  43.99081754 -088.56773095  90.00 tie_down props EAA Grass Area North West 142
+1300  43.99081753 -088.56773095  90.00 tie_down props EAA Grass Area North West 142
 1301 A general_aviation 
-1300  43.99081754 -088.56961769  90.00 tie_down props EAA Grass Area North West 112
+1300  43.99081753 -088.56961769  90.00 tie_down props EAA Grass Area North West 112
 1301 A general_aviation 
-1300  43.99081754 -088.57144402  90.00 tie_down props EAA Grass Area North West 82
+1300  43.99081753 -088.57144402  90.00 tie_down props EAA Grass Area North West 82
 1301 A general_aviation 
 1300  43.99081938 -088.57324045  90.00 tie_down props EAA Grass Area North West 52
 1301 A general_aviation 
 1300  43.99080607 -088.57507267  90.00 tie_down props EAA Grass Area North West 22
 1301 A general_aviation 
-1300  43.98682853 -088.56655716  90.00 tie_down props EAA Grass Area North West 457
+1300  43.98682853 -088.56655717  90.00 tie_down props EAA Grass Area North West 457
 1301 A general_aviation 
 1300  43.98683795 -088.56464542  90.00 tie_down props EAA Grass Area North West 481
 1301 A general_aviation 
@@ -4333,9 +4333,9 @@ I
 1301 A general_aviation 
 1300  43.99080344 -088.57571589  90.00 tie_down props EAA Grass Area North West 12
 1301 A general_aviation 
-1300  43.98682590 -088.56715649  90.00 tie_down props EAA Grass Area North West 452
+1300  43.98682590 -088.56715648  90.00 tie_down props EAA Grass Area North West 452
 1301 A general_aviation 
-1300  43.98683532 -088.56524474  90.00 tie_down props EAA Grass Area North West 473
+1300  43.98683532 -088.56524475  90.00 tie_down props EAA Grass Area North West 473
 1301 A general_aviation 
 1300  43.98838989 -088.56527093  90.00 tie_down props EAA Grass Area North West 422
 1301 A general_aviation 
@@ -4363,7 +4363,7 @@ I
 1301 A general_aviation 
 1300  43.99081228 -088.57268660  90.00 tie_down props EAA Grass Area North West 62
 1301 A general_aviation 
-1300  43.99081413 -088.57448303  90.00 tie_down props EAA Grass Area North West 32
+1300  43.99081412 -088.57448303  90.00 tie_down props EAA Grass Area North West 32
 1301 A general_aviation 
 1300  43.99080081 -088.57631525  90.00 tie_down props EAA Grass Area North West 2
 1301 A general_aviation 
@@ -4385,7 +4385,7 @@ I
 1301 A general_aviation 
 1300  43.99094645 -088.56050608  90.00 tie_down props EAA Grass Area North West 261
 1301 A general_aviation 
-1300  43.99095190 -088.56225662  90.00 tie_down props EAA Grass Area North West 231
+1300  43.99095190 -088.56225663  90.00 tie_down props EAA Grass Area North West 231
 1301 A general_aviation 
 1300  43.99095735 -088.56407538  90.00 tie_down props EAA Grass Area North West 201
 1301 A general_aviation 
@@ -4401,7 +4401,7 @@ I
 1301 A general_aviation 
 1300  43.99094542 -088.57507267  90.00 tie_down props EAA Grass Area North West 21
 1301 A general_aviation 
-1300  43.98696789 -088.56655716  90.00 tie_down props EAA Grass Area North West 456
+1300  43.98696789 -088.56655717  90.00 tie_down props EAA Grass Area North West 456
 1301 A general_aviation 
 1300  43.98697731 -088.56464542  90.00 tie_down props EAA Grass Area North West 480
 1301 A general_aviation 
@@ -4435,9 +4435,9 @@ I
 1301 A general_aviation 
 1300  43.99094280 -088.57571589  90.00 tie_down props EAA Grass Area North West 11
 1301 A general_aviation 
-1300  43.98696526 -088.56715649  90.00 tie_down props EAA Grass Area North West 451
+1300  43.98696526 -088.56715648  90.00 tie_down props EAA Grass Area North West 451
 1301 A general_aviation 
-1300  43.98697468 -088.56524474  90.00 tie_down props EAA Grass Area North West 472
+1300  43.98697468 -088.56524475  90.00 tie_down props EAA Grass Area North West 472
 1301 A general_aviation 
 1300  43.98852925 -088.56527093  90.00 tie_down props EAA Grass Area North West 421
 1301 A general_aviation 
@@ -4459,11 +4459,11 @@ I
 1301 A general_aviation 
 1300  43.99094664 -088.56711399  90.00 tie_down props EAA Grass Area North West 151
 1301 A general_aviation 
-1300  43.99095163 -088.56897352  90.00 tie_down props EAA Grass Area North West 121
+1300  43.99095164 -088.56897352  90.00 tie_down props EAA Grass Area North West 121
 1301 A general_aviation 
-1300  43.99095163 -088.57086027  90.00 tie_down props EAA Grass Area North West 91
+1300  43.99095164 -088.57086027  90.00 tie_down props EAA Grass Area North West 91
 1301 A general_aviation 
-1300  43.99095163 -088.57268660  90.00 tie_down props EAA Grass Area North West 61
+1300  43.99095164 -088.57268660  90.00 tie_down props EAA Grass Area North West 61
 1301 A general_aviation 
 1300  43.99095348 -088.57448303  90.00 tie_down props EAA Grass Area North West 31
 1301 A general_aviation 
