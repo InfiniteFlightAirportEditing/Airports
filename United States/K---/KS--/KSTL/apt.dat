@@ -7435,219 +7435,219 @@ I
 21  38.74126546 -090.34368125 3 301.8600 3.00 30L PAPI
 21  38.74062539 -090.35092845 3 302.6700 3.00 30L PAPI
 14  38.74320309 -090.36613268 154.20 0 Tower
-1300  38.73900684 -090.36094064 213.06 gate jets|turboprops GATE D24
+1300  38.73900684 -090.36094064 213.06 gate jets|turboprops Gate D24
 1301 B airline 
-1300  38.73916511 -090.36122870 -142.57 gate jets|turboprops GATE D22
+1300  38.73916511 -090.36122870 -142.57 gate jets|turboprops Gate D22
 1301 B airline 
-1300  38.73927171 -090.36153740 -176.22 gate jets|turboprops GATE D20
+1300  38.73927171 -090.36153740 -176.22 gate jets|turboprops Gate D20
 1301 C airline 
-1300  38.73973318 -090.36225275 -116.58 gate jets|turboprops GATE D18
+1300  38.73973318 -090.36225275 -116.58 gate jets|turboprops Gate D18
 1301 C airline 
-1300  38.73985657 -090.36260998 -143.98 gate jets|turboprops GATE D16
+1300  38.73985657 -090.36260998 -143.98 gate jets|turboprops Gate D16
 1301 C airline 
-1300  38.74013048 -090.36294061  -6.32 gate jets|turboprops GATE D14
+1300  38.74013048 -090.36294061  -6.32 gate jets|turboprops Gate D14
 1301 A airline 
-1300  38.74041009 -090.36302125  -9.29 gate jets|turboprops GATE D12
+1300  38.74041009 -090.36302125  -9.29 gate jets|turboprops Gate D12
 1301 A airline 
-1300  38.74038406 -090.36320453  -2.96 gate jets|turboprops GATE D10
+1300  38.74038406 -090.36320453  -2.96 gate jets|turboprops Gate D10
 1301 A airline 
-1300  38.74034607 -090.36339323  -8.92 gate jets|turboprops GATE D8
+1300  38.74034607 -090.36339323  -8.92 gate jets|turboprops Gate D8
 1301 A airline 
-1300  38.74059423 -090.36391475 -99.69 gate jets|turboprops GATE D6
+1300  38.74059423 -090.36391475 -99.69 gate jets|turboprops Gate D6
 1301 C airline 
-1300  38.74094059 -090.36391353 -103.54 gate jets|turboprops GATE D4
+1300  38.74094059 -090.36391353 -103.54 gate jets|turboprops Gate D4
 1301 C airline 
-1300  38.74110788 -090.36415077 -129.05 gate jets|turboprops GATE D2
+1300  38.74110788 -090.36415077 -129.05 gate jets|turboprops Gate D2
 1301 B airline 
-1300  38.74184198 -090.36365035  77.24 gate props GATE C3
+1300  38.74184198 -090.36365035  77.24 gate props Gate C3
 1301 A airline 
-1300  38.74169750 -090.36360968  76.97 gate props GATE C1
+1300  38.74169750 -090.36360968  76.97 gate props Gate C1
 1301 A airline 
-1300  38.74198703 -090.36369098  77.72 gate props GATE C5
+1300  38.74198703 -090.36369098  77.72 gate props Gate C5
 1301 A airline 
-1300  38.74188733 -090.36340079 -102.25 gate props GATE C9
+1300  38.74188733 -090.36340079 -102.25 gate props Gate C9
 1301 A airline 
-1300  38.74203112 -090.36344387 -102.22 gate props GATE C7
+1300  38.74203112 -090.36344387 -102.22 gate props Gate C7
 1301 A airline 
-1300  38.74567433 -090.34859054  76.50 gate jets|turboprops|props GA 01
+1300  38.74567433 -090.34859054  76.50 gate jets|turboprops|props GA Apron 1
 1301 B general_aviation 
-1300  38.74585644 -090.34895295  82.41 gate jets|turboprops|props GA 02
+1300  38.74585644 -090.34895295  82.41 gate jets|turboprops|props GA Apron 2
 1301 B general_aviation 
-1300  38.74587613 -090.34792701 116.57 gate jets|turboprops|props GA 03
+1300  38.74587613 -090.34792701 116.57 gate jets|turboprops|props GA Apron 3
 1301 B general_aviation 
-1300  38.74551272 -090.34752087 -127.44 gate jets|turboprops|props GA 04
+1300  38.74526998 -090.34713812 303.69 gate jets|turboprops|props GA Apron 5
 1301 B general_aviation 
-1300  38.74526998 -090.34713812 303.69 gate jets|turboprops|props GA 05
+1300  38.74551272 -090.34752087 -127.44 gate jets|turboprops|props GA Apron 4
 1301 B general_aviation 
-1300  38.74598723 -090.34920810  83.99 gate jets|turboprops|props GA 06
+1300  38.74598723 -090.34920810  83.99 gate jets|turboprops|props GA Apron 6
 1301 B general_aviation 
-1300  38.74616595 -090.34949556  80.75 gate jets|turboprops|props GA 07
+1300  38.74616595 -090.34949556  80.75 gate jets|turboprops|props GA Apron 7
 1301 B general_aviation 
-1300  38.74632269 -090.34979827  85.24 gate jets|turboprops|props GA 08
+1300  38.74632269 -090.34979827  85.24 gate jets|turboprops|props GA Apron 8
 1301 B general_aviation 
-1300  38.74606468 -090.34830798 118.61 gate jets|turboprops|props GA 09
+1300  38.74606468 -090.34830798 118.61 gate jets|turboprops|props GA Apron 9
 1301 B general_aviation 
-1300  38.74626181 -090.34870187 122.38 gate jets|turboprops|props GA 10
+1300  38.74626181 -090.34870187 122.38 gate jets|turboprops|props GA Apron 10
 1301 B general_aviation 
-1300  38.74505222 -090.34731932 299.15 gate jets|turboprops|props GA 11
+1300  38.74505222 -090.34731932 299.15 gate jets|turboprops|props GA Apron 11
 1301 B general_aviation 
-1300  38.74792044 -090.34631370  32.13 gate jets UPS 1
+1300  38.74792044 -090.34631370  32.13 gate jets UPS Cargo 1
 1301 D cargo 
-1300  38.74817666 -090.34683323  32.34 gate jets UPS 2
+1300  38.74817666 -090.34683323  32.34 gate jets UPS Cargo 2
 1301 D cargo 
-1300  38.74843243 -090.34735185  32.08 gate jets UPS 3
+1300  38.74843243 -090.34735185  32.08 gate jets UPS Cargo 3
 1301 D cargo 
-1300  38.74916491 -090.34878454  32.54 gate jets FEDEX 1
+1300  38.74916491 -090.34878454  32.54 gate jets FEDEX Cargo 1
 1301 D cargo 
-1300  38.74945838 -090.34937959  32.62 gate jets FEDEX 2
+1300  38.74945838 -090.34937959  32.62 gate jets FEDEX Cargo 2
 1301 D cargo 
-1300  38.74974169 -090.34999050  32.19 gate jets FEDEX 3
+1300  38.74974169 -090.34999050  32.19 gate jets FEDEX Cargo 3
 1301 D cargo 
-1300  38.74380157 -090.36719215 -83.94 gate jets|turboprops GATE A2
+1300  38.74380157 -090.36719215 -83.94 gate jets|turboprops Gate A2
 1301 C airline 
-1300  38.74357827 -090.36771604 103.03 gate jets|turboprops GATE A3
+1300  38.74357827 -090.36771604 103.03 gate jets|turboprops Gate A3
 1301 C airline 
-1300  38.74415356 -090.36723775 -88.17 gate jets|turboprops GATE A4
+1300  38.74415356 -090.36723775 -88.17 gate jets|turboprops Gate A4
 1301 C airline 
-1300  38.74444126 -090.36722886 -108.04 gate jets|turboprops GATE A6
+1300  38.74444126 -090.36722886 -108.04 gate jets|turboprops Gate A6
 1301 C airline 
-1300  38.74475478 -090.36739176 -101.30 gate jets|turboprops GATE A8
+1300  38.74475478 -090.36739176 -101.30 gate jets|turboprops Gate A8
 1301 B airline 
-1300  38.74445422 -090.36801866  52.64 gate jets|turboprops GATE A9
+1300  38.74445422 -090.36801866  52.64 gate jets|turboprops Gate A9
 1301 C airline 
-1300  38.74509112 -090.36726622 -107.23 gate jets|turboprops GATE A10
+1300  38.74509112 -090.36726622 -107.23 gate jets|turboprops Gate A10
 1301 C airline 
-1300  38.74521323 -090.36749701 -146.82 gate jets|turboprops GATE A12
+1300  38.74521323 -090.36749701 -146.82 gate jets|turboprops Gate A12
 1301 C airline 
-1300  38.74520515 -090.36789694 -160.36 gate jets|turboprops GATE A14
+1300  38.74520515 -090.36789694 -160.36 gate jets|turboprops Gate A14
 1301 C airline 
-1300  38.74471746 -090.36834419  62.21 gate jets|turboprops GATE A15
+1300  38.74471746 -090.36834419  62.21 gate jets|turboprops Gate A15
 1301 C airline 
-1300  38.74543525 -090.36827818 -160.22 gate jets|turboprops GATE A16
+1300  38.74543525 -090.36827818 -160.22 gate jets|turboprops Gate A16
 1301 C airline 
-1300  38.74493330 -090.36876260  84.57 gate jets|turboprops GATE A17
+1300  38.74493330 -090.36876260  84.57 gate jets|turboprops Gate A17
 1301 C airline 
-1300  38.74558074 -090.36872153 -169.97 gate jets|turboprops GATE A18
+1300  38.74558074 -090.36872153 -169.97 gate jets|turboprops Gate A18
 1301 C airline 
-1300  38.74517826 -090.36903991 115.42 gate jets|turboprops GATE A19
+1300  38.74517826 -090.36903991 115.42 gate jets|turboprops Gate A19
 1301 C airline 
-1300  38.74536384 -090.36894483 158.09 gate jets|turboprops GATE A21
+1300  38.74536384 -090.36894483 158.09 gate jets|turboprops Gate A21
 1301 C airline 
-1300  38.74315611 -090.36515552 -57.35 gate jets|turboprops GATE B2
+1300  38.74315611 -090.36515552 -57.35 gate jets|turboprops Gate B2
 1301 C airline 
-1300  38.74330919 -090.36509191 -56.65 gate jets|turboprops GATE B4
+1300  38.74330919 -090.36509191 -56.65 gate jets|turboprops Gate B4
 1301 C airline 
-1300  38.74344961 -090.36491485 -57.38 gate jets|turboprops GATE B6
+1300  38.74344961 -090.36491485 -57.38 gate jets|turboprops Gate B6
 1301 C airline 
-1300  38.74364048 -090.36450432 -56.96 gate jets|turboprops GATE B8
+1300  38.74364048 -090.36450432 -56.96 gate jets|turboprops Gate B8
 1301 B airline 
-1300  38.74379323 -090.36458235 -125.15 gate jets|turboprops GATE B10
+1300  38.74379323 -090.36458235 -125.15 gate jets|turboprops Gate B10
 1301 C airline 
-1300  38.74357170 -090.36567245 122.14 gate jets|turboprops GATE B3
+1300  38.74357170 -090.36567245 122.14 gate jets|turboprops Gate B3
 1301 B airline 
-1300  38.74391678 -090.36566247 100.77 gate jets|turboprops GATE B7
+1300  38.74391678 -090.36566247 100.77 gate jets|turboprops Gate B7
 1301 B airline 
-1300  38.74416690 -090.36562525 148.47 gate jets|turboprops GATE B16
+1300  38.74416690 -090.36562525 148.47 gate jets|turboprops Gate B16
 1301 C airline 
-1300  38.74416193 -090.36532586 -147.82 gate jets|turboprops|props GATE B14
+1300  38.74416193 -090.36532586 -147.82 gate jets|turboprops|props Gate B14
 1301 C airline 
-1300  38.74394580 -090.36498689 -138.09 gate jets|turboprops GATE B12
+1300  38.74394580 -090.36498689 -138.09 gate jets|turboprops Gate B12
 1301 C airline 
-1300  38.74241624 -090.36436770 167.78 gate jets|turboprops GATE C2
+1300  38.74241624 -090.36436770 167.78 gate jets|turboprops Gate C2
 1301 C airline 
-1300  38.74246524 -090.36383085 163.72 gate jets|turboprops GATE C6
+1300  38.74246524 -090.36383085 163.72 gate jets|turboprops Gate C6
 1301 C airline 
-1300  38.74274343 -090.36334572 152.15 gate jets|turboprops GATE C8
+1300  38.74274343 -090.36334572 152.15 gate jets|turboprops Gate C8
 1301 C airline 
-1300  38.74279471 -090.36307775 -169.00 gate jets|turboprops GATE C10
+1300  38.74279471 -090.36307775 -169.00 gate jets|turboprops Gate C10
 1301 C airline 
-1300  38.74271216 -090.36269253 -145.02 gate jets|turboprops GATE C12
+1300  38.74271216 -090.36269253 -145.02 gate jets|turboprops Gate C12
 1301 C airline 
-1300  38.74249814 -090.36225227 -142.72 gate jets|turboprops GATE C16
+1300  38.74249814 -090.36225227 -142.72 gate jets|turboprops Gate C16
 1301 C airline 
-1300  38.74222843 -090.36179016 -146.68 gate jets|turboprops GATE C18
+1300  38.74222843 -090.36179016 -146.68 gate jets|turboprops Gate C18
 1301 C airline 
-1300  38.74167164 -090.36201351  33.17 gate jets|turboprops GATE C19
+1300  38.74167164 -090.36201351  33.17 gate jets|turboprops Gate C19
 1301 C airline 
-1300  38.74163987 -090.36202583  14.91 gate jets|turboprops GATE C17
+1300  38.74163987 -090.36202583  14.91 gate jets|turboprops Gate C17
 1301 B airline 
-1300  38.74199413 -090.36264414   5.69 gate jets|turboprops GATE C15
+1300  38.74199413 -090.36264414   5.69 gate jets|turboprops Gate C15
 1301 C airline 
-1300  38.74202296 -090.36138335 -134.50 gate jets|turboprops GATE C24
+1300  38.74202296 -090.36138335 -134.50 gate jets|turboprops Gate C24
 1301 C airline 
-1300  38.74157854 -090.36063578 -169.12 gate jets|turboprops GATE C28
+1300  38.74157854 -090.36063578 -169.12 gate jets|turboprops Gate C28
 1301 E airline 
-1300  38.74125835 -090.36157332  -4.22 gate jets|turboprops GATE C21
+1300  38.74125835 -090.36157332  -4.22 gate jets|turboprops Gate C21
 1301 B airline 
-1300  38.74136540 -090.36158801  14.94 gate jets|turboprops GATE C23
+1300  38.74136540 -090.36158801  14.94 gate jets|turboprops Gate C23
 1301 C airline 
-1300  38.74138378 -090.36022904 -156.54 gate jets|turboprops GATE C30
+1300  38.74138378 -090.36022904 -156.54 gate jets|turboprops Gate C30
 1301 C airline 
-1300  38.74122487 -090.36114379  44.99 gate jets|turboprops GATE C25
+1300  38.74122487 -090.36114379  44.99 gate jets|turboprops Gate C25
 1301 B airline 
-1300  38.74104681 -090.36080907  31.86 gate jets|turboprops GATE C27
+1300  38.74104681 -090.36080907  31.86 gate jets|turboprops Gate C27
 1301 C airline 
-1300  38.74115702 -090.35975911 -144.62 gate jets|turboprops GATE C32
+1300  38.74115702 -090.35975911 -144.62 gate jets|turboprops Gate C32
 1301 C airline 
-1300  38.74086504 -090.36043901  32.13 gate jets|turboprops GATE C29
+1300  38.74086504 -090.36043901  32.13 gate jets|turboprops Gate C29
 1301 C airline 
-1300  38.74102384 -090.35936794 -116.44 gate jets|turboprops GATE C34
+1300  38.74102384 -090.35936794 -116.44 gate jets|turboprops Gate C34
 1301 C airline 
-1300  38.74067868 -090.36005571  32.61 gate jets|turboprops GATE C31
+1300  38.74067868 -090.36005571  32.61 gate jets|turboprops Gate C31
 1301 C airline 
-1300  38.74077715 -090.35910966 -83.78 gate jets|turboprops GATE C36
+1300  38.74077715 -090.35910966 -83.78 gate jets|turboprops Gate C36
 1301 B airline 
-1300  38.74055475 -090.35968826  18.19 gate jets|turboprops GATE C33
+1300  38.74055475 -090.35968826  18.19 gate jets|turboprops Gate C33
 1301 C airline 
-1300  38.74057556 -090.35919581 -27.64 gate jets|turboprops GATE C38
+1300  38.74057556 -090.35919581 -27.64 gate jets|turboprops Gate C38
 1301 B airline 
-1300  38.74038523 -090.35937497   0.04 gate jets|turboprops GATE C35
+1300  38.74038523 -090.35937497   0.04 gate jets|turboprops Gate C35
 1301 B airline 
-1300  38.73638321 -090.35312167 -97.86 gate jets|turboprops GATE E4
+1300  38.73638321 -090.35312167 -97.86 gate jets|turboprops Gate E4
 1301 C airline 
-1300  38.73664395 -090.35329217 -119.21 gate jets|turboprops GATE E6
+1300  38.73664395 -090.35329217 -119.21 gate jets|turboprops Gate E6
 1301 C airline 
-1300  38.73682156 -090.35360665 -137.33 gate jets|turboprops GATE E8
+1300  38.73682156 -090.35360665 -137.33 gate jets|turboprops Gate E8
 1301 C airline 
-1300  38.73705873 -090.35401553 -131.89 gate jets|turboprops GATE E10
+1300  38.73705873 -090.35401553 -131.89 gate jets|turboprops Gate E10
 1301 C airline 
-1300  38.73726667 -090.35439130 -138.22 gate jets|turboprops GATE E12
+1300  38.73726667 -090.35439130 -138.22 gate jets|turboprops Gate E12
 1301 C airline 
-1300  38.73746139 -090.35477291 -145.16 gate jets GATE E14
+1300  38.73746139 -090.35477291 -145.16 gate jets Gate E14
 1301 C airline 
-1300  38.73766607 -090.35515592 -148.95 gate jets GATE E16
+1300  38.73766607 -090.35515592 -148.95 gate jets Gate E16
 1301 C airline 
-1300  38.73785579 -090.35556606 -150.16 gate jets GATE E18
+1300  38.73785579 -090.35556606 -150.16 gate jets Gate E18
 1301 C airline 
-1300  38.73807838 -090.35595717 -150.78 gate jets GATE E20
+1300  38.73807838 -090.35595717 -150.78 gate jets Gate E20
 1301 C airline 
-1300  38.73826978 -090.35634374 -155.80 gate jets GATE E22
+1300  38.73826978 -090.35634374 -155.80 gate jets Gate E22
 1301 C airline 
-1300  38.73834828 -090.35673116 -171.89 gate jets GATE E24
+1300  38.73834828 -090.35673116 -171.89 gate jets Gate E24
 1301 C airline 
-1300  38.73804511 -090.35704615 169.76 gate jets GATE E29
+1300  38.73804511 -090.35704615 169.76 gate jets Gate E29
 1301 C airline 
-1300  38.73782643 -090.35746420 169.01 gate jets GATE E31
+1300  38.73782643 -090.35746420 169.01 gate jets Gate E31
 1301 C airline 
-1300  38.73886713 -090.36065910 -145.81 gate jets GATE D26
+1300  38.73886713 -090.36065910 -145.81 gate jets Gate D26
 1301 B airline 
-1300  38.73811216 -090.35899958 -127.10 gate jets GATE E34
+1300  38.73811216 -090.35899958 -127.10 gate jets Gate E34
 1301 C airline 
-1300  38.73829806 -090.35937826 -137.13 gate jets GATE E36
+1300  38.73829806 -090.35937826 -137.13 gate jets Gate E36
 1301 C airline 
-1300  38.73844216 -090.35974386 -153.08 gate jets GATE E38
+1300  38.73844216 -090.35974386 -153.08 gate jets Gate E38
 1301 C airline 
-1300  38.73865311 -090.36015222 -153.65 gate jets GATE E40
+1300  38.73865311 -090.36015222 -153.65 gate jets Gate E40
 1301 C airline 
-1300  38.73776350 -090.35786466 152.25 gate jets GATE E33
+1300  38.73776350 -090.35786466 152.25 gate jets Gate E33
 1301 C airline 
-1300  38.74692774 -090.34941752 209.51 hangar jets|turboprops|props GA Hangar 01
+1300  38.74692774 -090.34941752 209.51 hangar jets|turboprops|props GA Hangar 1
 1301 B none 
-1300  38.74650837 -090.34860699 212.62 hangar jets|turboprops|props GA Hangar 02
+1300  38.74650837 -090.34860699 212.62 hangar jets|turboprops|props GA Hangar 2
 1301 B none 
-1300  38.74615698 -090.34789060 -148.32 hangar jets|turboprops|props GA Hangar 03
+1300  38.74615698 -090.34789060 -148.32 hangar jets|turboprops|props GA Hangar 3
 1301 B none 
-1300  38.74562873 -090.34684549 212.28 hangar jets|turboprops|props GA Hangar 04
+1300  38.74562873 -090.34684549 212.28 hangar jets|turboprops|props GA Hangar 4
 1301 B none 
 18  38.74320309 -090.36613268 1 Beacon
 50 12505 D-ATIS
