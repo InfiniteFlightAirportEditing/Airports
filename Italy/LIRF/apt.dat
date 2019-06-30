@@ -11214,7 +11214,7 @@ I
 1300  41.79936719  012.25989863  72.09 gate jets Remote Stand 321
 1301 C airline 
 1300  41.79466114  012.26125853 149.80 gate jets Remote Stand 361
-1301 C airline 
+1301 D airline 
 1300  41.79479416  012.26136291 115.11 gate jets Remote Stand 313
 1301 C airline 
 1300  41.79523945  012.26163342 115.11 gate jets Remote Stand 314
@@ -11226,7 +11226,7 @@ I
 1300  41.79631401  012.26231359 115.11 gate jets Remote Stand 317
 1301 C airline 
 1300  41.79157285  012.26742658 -37.74 gate jets Alitalia Maintenance Hangar 8
-1301 D airline 
+1301 E airline 
 1300  41.79159765  012.26564017  26.32 gate jets Alitalia Maintenance Hangar 7
 1301 E airline 
 1300  41.79139880  012.26450639 205.68 gate jets Alitalia Maintenance Hangar 6
