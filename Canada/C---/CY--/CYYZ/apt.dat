@@ -20499,17 +20499,16 @@ I
 1300  43.68386002 -079.60151552 -12.20 gate jets Remote Stand H14
 1301 D airline 
 18  43.67509306 -079.62921599 1 BCN
-54 11835 Tower
-54 11870 Tower
-53 11910 Ground Center
-53 12165 Ground North
-53 12190 Ground South
+54 11835 Toronto Tower
+54 11870 Toronto Tower
+53 11910 Toronto Ground
+53 12165 Toronto Ground
+53 12190 Toronto Ground
 53 12207 South Apron
 53 12227 North Apron
 53 13117 Central De-Icing Facility
 53 13195 Pad Control Hangar De-Icing Facility
 53 12287 Apron Coordinator
-53 12267 Emergency Services
 50 12082 ATIS
 50 13310 ATIS
 52 12130 Toronto Clearance
