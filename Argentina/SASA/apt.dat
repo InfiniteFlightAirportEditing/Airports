@@ -734,9 +734,9 @@ I
 1301 B airline 
 1300 -24.84482100 -065.47819118  71.40 gate jets|turboprops Gate 3
 1301 C airline 
-1300 -24.84547133 -065.47951569  62.45 gate jets|turboprops Gate 5
+1300 -24.84547133 -065.47951569  62.45 gate jets|turboprops Remote Stand 5
 1301 A airline 
-1300 -24.84559284 -065.47922200  62.45 gate jets|turboprops Gate 6
+1300 -24.84559284 -065.47922200  62.45 gate jets|turboprops Remote Stand 6
 1301 A airline 
 1300 -24.84468441 -065.47861374  22.20 gate jets|turboprops Gate 3A
 1301 B airline 
