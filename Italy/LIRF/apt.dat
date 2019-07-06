@@ -11225,22 +11225,34 @@ I
 1301 C airline 
 1300  41.79631401  012.26231359 115.11 gate jets Remote Stand 317
 1301 C airline 
-1300  41.79316440  012.26672374 -154.30 gate jets Alitalia Maintenance 08
+1300  41.79316440  012.26672374 -154.30 gate jets Alitalia Maintenance Apron 08
 1301 C airline 
-1300  41.79330694  012.26632062 -154.30 gate jets Alitalia Maintenance 07
+1300  41.79330694  012.26632062 -154.30 gate jets Alitalia Maintenance Apron 07
 1301 C airline 
-1300  41.79345094  012.26591963 -154.30 gate jets Alitalia Maintenance 06
+1300  41.79345094  012.26591963 -154.30 gate jets Alitalia Maintenance Apron 06
 1301 C airline 
-1300  41.79359239  012.26551889 -154.30 gate jets Alitalia Maintenance 05
+1300  41.79359239  012.26551889 -154.30 gate jets Alitalia Maintenance Apron 05
 1301 C airline 
-1300  41.79351110  012.26333862 206.55 gate jets Alitalia Maintenance 04
+1300  41.79351110  012.26333862 206.55 gate jets Alitalia Maintenance Apron 04
 1301 C airline 
-1300  41.79367641  012.26286349 206.55 gate jets Alitalia Maintenance 03
+1300  41.79367641  012.26286349 206.55 gate jets Alitalia Maintenance Apron 03
 1301 C airline 
-1300  41.79238916  012.25839996 133.72 gate jets Alitalia Maintenance 02
+1300  41.79238916  012.25839996 133.72 gate jets Alitalia Maintenance Apron 02
 1301 C airline 
-1300  41.79202312  012.25834453  79.94 gate jets Alitalia Maintenance 01
+1300  41.79202312  012.25834453  79.94 gate jets Alitalia Maintenance Apron 01
 1301 C airline 
+1300  41.79157541  012.26738745 -38.91 gate jets Alitalia Maintenance Hangar 06
+1301 E airline 
+1300  41.79164304  012.26557938  24.64 gate jets Alitalia Maintenance Hangar 05
+1301 E airline 
+1300  41.79192145  012.26478970  24.64 gate jets Alitalia Maintenance Hangar 04
+1301 E airline 
+1300  41.79269430  012.26237347  24.64 gate jets Alitalia Maintenance Hangar 03
+1301 E airline 
+1300  41.79297910  012.26159481  24.64 gate jets Alitalia Maintenance Hangar 02
+1301 E airline 
+1300  41.79329677  012.26076472  24.64 gate jets Alitalia Maintenance Hangar 01
+1301 E airline 
 1300  41.79513886  012.25929832 -64.94 gate jets Remote Stand 312
 1301 C airline 
 1300  41.79549446  012.25951487 -64.94 gate jets Remote Stand 311

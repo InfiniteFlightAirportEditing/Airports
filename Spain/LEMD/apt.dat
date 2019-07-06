@@ -28233,9 +28233,9 @@ I
 1300  40.45759480 -003.57478601  44.18 gate jets GA Apron 97
 1301 A general_aviation 
 1300  40.45810072 -003.57504436  44.62 gate jets GA Apron 98
-1301 C general_aviation 
+1301 B general_aviation 
 1300  40.45833130 -003.57534801  44.62 gate jets GA Apron 99
-1301 C general_aviation 
+1301 B general_aviation 
 1300  40.45841180 -003.57595352 -135.50 gate jets GA Apron 75
 1301 C general_aviation 
 1300  40.45754656 -003.57468189 -135.44 gate jets GA Apron 85
@@ -28818,6 +28818,10 @@ I
 1301 C airline 
 1300  40.46134905 -003.53877978  -0.19 gate jets Iberia Maintenance Apron 05B
 1301 C airline 
+1300  40.45892175 -003.53435838 134.50 gate jets Iberia Maintenance Apron 15
+1301 E airline 
+1300  40.46188920 -003.53552380  44.90 gate jets Iberia Maintenance Apron 14
+1301 E airline 
 1300  40.46538639 -003.53481888 135.00 gate jets Iberia Maintenance Apron 13
 1301 C airline 
 1300  40.46529361 -003.53537125 135.44 gate jets Iberia Maintenance Apron 12
@@ -28840,6 +28844,18 @@ I
 1301 C airline 
 1300  40.46126268 -003.53736355  44.83 gate jets Iberia Maintenance Apron 04B
 1301 C airline 
+1300  40.46005874 -003.53314492 -134.80 gate jets Iberia Maintenance Hangar 06
+1301 C airline 
+1300  40.46072586 -003.53386177 -134.80 gate jets Iberia Maintenance Hangar 05
+1301 E airline 
+1300  40.46151265 -003.53487942 -134.80 gate jets Iberia Maintenance Hangar 04
+1301 E airline 
+1300  40.46478208 -003.53438339 -46.63 gate jets Iberia Maintenance Hangar 03
+1301 E airline 
+1300  40.46429785 -003.53502933 -46.63 gate jets Iberia Maintenance Hangar 02
+1301 E airline 
+1300  40.46375943 -003.53569902 -46.63 gate jets Iberia Maintenance Hangar 01
+1301 E airline 
 1300  40.46113990 -003.53720858  45.01 gate jets Iberia Maintenance Apron 04
 1301 E airline 
 1300  40.46100609 -003.53702738  46.50 gate jets Iberia Maintenance Apron 04A
