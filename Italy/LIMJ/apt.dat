@@ -3,17 +3,6 @@ I
 
 1     13 1 0 LIMJ Genoa Cristoforo Colombo
 100 45.00 1 1 0.00 1 3 1 10  44.41543383  008.82415807    0   60 3 0 0 1 28  44.40848502  008.85958504  163    0 3 7 0 1
-110 2 0.00 0.0000 New Taxiway 6
-111  44.41602334  008.84656556
-111  44.41609604  008.84650674
-111  44.41608603  008.84648338
-111  44.41633703  008.84628130
-111  44.41592267  008.84530655
-111  44.41597614  008.84526223
-111  44.41549510  008.84411538
-111  44.41520273  008.84435727
-111  44.41522692  008.84441902
-113  44.41515618  008.84447851
 110 2 0.00 0.0000 New Taxiway 5
 111  44.41206746  008.85343060
 111  44.41200563  008.85373871
@@ -2487,6 +2476,18 @@ I
 1301 A general_aviation 
 1300  44.41891855  008.85346316 174.09 tie_down jets|turboprops|props GA Apron 07
 1301 A general_aviation 
+1300  44.41821068  008.85144267 142.55 tie_down jets|turboprops|props Hangar 06
+1301 A general_aviation 
+1300  44.41812124  008.85127255 142.55 tie_down jets|turboprops|props Hangar 05
+1301 A general_aviation 
+1300  44.41801998  008.85109771 142.55 tie_down jets|turboprops|props Hangar 04
+1301 A general_aviation 
+1300  44.41785942  008.85082369 142.55 tie_down jets|turboprops|props Hangar 03
+1301 B general_aviation 
+1300  44.41771945  008.85056403 142.55 tie_down jets|turboprops|props Hangar 02
+1301 B general_aviation 
+1300  44.41758444  008.85028286 142.55 tie_down jets|turboprops|props Hangar 01
+1301 B general_aviation 
 1300  44.41777885  008.85128859 -38.56 tie_down jets|turboprops|props GA Apron 06
 1301 A general_aviation 
 1300  44.41768502  008.85112439 -38.56 tie_down jets|turboprops|props GA Apron 05

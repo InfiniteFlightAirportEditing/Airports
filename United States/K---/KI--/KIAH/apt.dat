@@ -13271,29 +13271,39 @@ I
 1301 E cargo 
 1300  29.97859588 -095.34660455  -0.31 gate jets Central Cargo Apron 01
 1301 E cargo 
-1300  29.98957234 -095.32816235 -89.98 gate heavy United Airlines Maintenance 01
+1300  29.98957234 -095.32816235 -89.98 gate heavy United Airlines Maintenance Apron 01
 1301 D airline 
-1300  29.98907234 -095.32816048 -89.74 gate heavy United Airlines Maintenance 02
+1300  29.98907234 -095.32816048 -89.74 gate heavy United Airlines Maintenance Apron 02
 1301 D airline 
-1300  29.98849418 -095.32815475 -89.99 gate heavy United Airlines Maintenance 03
+1300  29.98849418 -095.32815475 -89.99 gate heavy United Airlines Maintenance Apron 03
 1301 D airline 
-1300  29.98739522 -095.32879652 -162.56 gate heavy United Airlines Maintenance 04
+1300  29.98888043 -095.32152794 -90.42 gate heavy United Airlines Maintenance Hangar 05
 1301 E airline 
-1300  29.98945339 -095.32688344  89.38 gate jets United Airlines Maintenance 05
+1300  29.98822847 -095.32166037 -90.42 gate heavy United Airlines Maintenance Hangar 04
+1301 C airline 
+1300  29.98774193 -095.32210300 359.34 gate heavy United Airlines Maintenance Hangar 03
+1301 E airline 
+1300  29.98830712 -095.32291893  89.93 gate heavy United Airlines Maintenance Hangar 02
 1301 D airline 
-1300  29.98896020 -095.32694904  90.00 gate jets United Airlines Maintenance 06
-1301 C airline 
-1300  29.98905648 -095.32612920 179.68 gate jets United Airlines Maintenance 07
-1301 C airline 
-1300  29.98905548 -095.32546145 179.99 gate jets United Airlines Maintenance 08
-1301 C airline 
-1300  29.98905650 -095.32504184 179.99 gate jets United Airlines Maintenance 09
-1301 C airline 
-1300  29.98905708 -095.32462003 179.99 gate jets United Airlines Maintenance 10
-1301 C airline 
-1300  29.98904765 -095.32301160  89.98 gate jets United Airlines Maintenance 12
+1300  29.98786969 -095.32782127 -89.33 gate heavy United Airlines Maintenance Hangar 01
 1301 D airline 
-1300  29.98905938 -095.32420051 179.98 gate jets United Airlines Maintenance 11
+1300  29.98739522 -095.32879652 -162.56 gate heavy United Airlines Maintenance Apron 04
+1301 E airline 
+1300  29.98945339 -095.32688344  89.38 gate jets United Airlines Maintenance Apron 05
+1301 D airline 
+1300  29.98896020 -095.32694904  90.00 gate jets United Airlines Maintenance Apron 06
+1301 C airline 
+1300  29.98905648 -095.32612920 179.68 gate jets United Airlines Maintenance Apron 07
+1301 C airline 
+1300  29.98905548 -095.32546145 179.99 gate jets United Airlines Maintenance Apron 08
+1301 C airline 
+1300  29.98905650 -095.32504184 179.99 gate jets United Airlines Maintenance Apron 09
+1301 C airline 
+1300  29.98905708 -095.32462003 179.99 gate jets United Airlines Maintenance Apron 10
+1301 C airline 
+1300  29.98904765 -095.32301160  89.98 gate jets United Airlines Maintenance Apron 12
+1301 D airline 
+1300  29.98905938 -095.32420051 179.98 gate jets United Airlines Maintenance Apron 11
 1301 C airline 
 1300  29.96988391 -095.35378124 332.64 gate jets FBO Landmark Aviation 06
 1301 B general_aviation 
@@ -13355,7 +13365,9 @@ I
 1301 A general_aviation 
 1300  29.96443406 -095.33845307 151.64 gate props Shell Corp 01
 1301 A general_aviation 
-1300  29.96345171 -095.33778468 177.81 gate jets Mesa Airlines Maintenance
+1300  29.96367307 -095.33699291  61.42 gate jets Mesa Airlines Maintenance Hangar
+1301 C airline 
+1300  29.96345171 -095.33778468 177.81 gate jets Mesa Airlines Maintenance Apron
 1301 C airline 
 1300  29.96066622 -095.33537925 -118.20 gate props Conoco Philips 04
 1301 A general_aviation 

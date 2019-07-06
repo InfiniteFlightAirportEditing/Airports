@@ -8308,7 +8308,7 @@ I
 1300  45.62910691  008.71879873  79.07 tie_down jets|turboprops|props Remote Stand 552
 1301 C airline 
 1300  45.62884239  008.71887286  79.25 tie_down jets|turboprops|props Remote Stand 553
-1301 B airline 
+1301 D airline 
 1300  45.62850918  008.71896761  79.30 tie_down jets|turboprops|props Remote Stand 554
 1301 C airline 
 1300  45.62780651  008.71902946  78.93 tie_down jets|turboprops|props Remote Stand 555
@@ -8316,7 +8316,7 @@ I
 1300  45.62772761  008.71918126  79.13 tie_down jets|turboprops|props Remote Stand 556
 1301 C airline 
 1300  45.62753843  008.71924098  79.08 tie_down jets|turboprops|props Remote Stand 557
-1301 B airline 
+1301 D airline 
 1300  45.62728822  008.71931224  78.73 tie_down jets|turboprops|props Remote Stand 558
 1301 C airline 
 1300  45.62723415  008.71919798  78.29 tie_down jets|turboprops|props Remote Stand 559
@@ -8326,7 +8326,7 @@ I
 1300  45.62597761  008.71966602  79.29 tie_down jets|turboprops|props Remote Stand 652
 1301 C airline 
 1300  45.62573640  008.71973476  79.49 tie_down jets|turboprops|props Remote Stand 653
-1301 B airline 
+1301 D airline 
 1300  45.62537576  008.71983062  79.99 tie_down jets|turboprops|props Remote Stand 654
 1301 C airline 
 1300  45.62467993  008.71989516  78.91 tie_down jets|turboprops|props Remote Stand 655
@@ -8334,7 +8334,7 @@ I
 1300  45.62459933  008.72004817  78.78 tie_down jets|turboprops|props Remote Stand 656
 1301 C airline 
 1300  45.62440909  008.72009209  78.77 tie_down jets|turboprops|props Remote Stand 657
-1301 B airline 
+1301 D airline 
 1300  45.62415889  008.72017682  80.13 tie_down jets|turboprops|props Remote Stand 658
 1301 C airline 
 1300  45.62410460  008.72005495  78.37 tie_down jets|turboprops|props Remote Stand 659
@@ -8670,9 +8670,9 @@ I
 1300  45.61453568  008.72279399  78.79 tie_down jets|turboprops|props Remote Stand 764
 1301 C none 
 1300  45.61600143  008.72239457 112.42 tie_down jets|turboprops|props Remote Stand 791
-1301 C none 
+1301 D none 
 1300  45.61510657  008.72263413 112.83 tie_down jets|turboprops|props Remote Stand 792
-1301 C none 
+1301 D none 
 1300  45.61439227  008.72277150 112.87 tie_down jets|turboprops|props Remote Stand 793
 1301 C none 
 1300  45.61223519  008.72317642 -101.14 tie_down jets|turboprops|props De-Ice Pad 804
