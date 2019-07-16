@@ -6388,16 +6388,12 @@ I
 21 -22.79385673 -043.22194047 2 254.4500 3.00 28  PAPI-4L
 21 -22.82656155 -043.24324839 2 305.0600 3.00 33  PAPI-4L
 14 -22.80971676 -043.25045174  88.58 0 Tower Viewpoint
-1300 -22.80180898 -043.22547925 -122.24 tie_down jets|turboprops Remote 03
-1301 C airline 
-1300 -22.80141912 -043.22557875 -122.24 tie_down jets|turboprops Remote 02
-1301 C airline 
-1300 -22.80098626 -043.22585862 171.21 tie_down jets|turboprops Remote 01
-1301 B airline 
-1300 -22.80181070 -043.22616982 -16.54 hangar jets Hangar 06
-1301 D none 
-1300 -22.80198820 -043.22686389 -16.54 hangar jets Hangar 05
-1301 D none 
+1300 -22.79988905 -043.22519699 164.71 tie_down heavy|jets|turboprops Tie-Down 02
+1301 E airline 
+1300 -22.80049250 -043.22726351 164.71 tie_down heavy|jets|turboprops Tie-Down 01
+1301 E airline 
+1300 -22.80191747 -043.22660632 -16.54 hangar heavy|jets Maintenance
+1301 E none 
 1300 -22.80304454 -043.23186747 -16.54 hangar jets|turboprops|props Hangar 04
 1301 B none 
 1300 -22.80310302 -043.23210629 -16.54 hangar jets|turboprops|props Hangar 03
