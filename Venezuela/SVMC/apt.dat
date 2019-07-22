@@ -487,13 +487,13 @@ I
 111  10.55280998 -071.73038147 54 103
 115  10.55296000 -071.73049512
 120 Linear Feature 21
-111  10.55393748 -071.72799161 52 103
+111  10.55393748 -071.72799161 52
 115  10.55411414 -071.72791818
 120 Linear Feature 20
 111  10.55633609 -071.72894315 54 103
 115  10.55636190 -071.72875642
 120 Linear Feature 19
-111  10.55684787 -071.72675074 52 103
+111  10.55684787 -071.72675074 52
 115  10.55704663 -071.72666322
 120 Linear Feature 18
 111  10.55736432 -071.72806347 54 103
@@ -502,7 +502,7 @@ I
 111  10.55862572 -071.72794587 54 103
 115  10.55877459 -071.72807016
 120 Linear Feature 15
-111  10.56645155 -071.72257164 52 103
+111  10.56645155 -071.72257164 52
 115  10.56637168 -071.72277410
 120 Linear Feature 15
 111  10.56454595 -071.72536229 54 103
@@ -1801,69 +1801,69 @@ I
 1301 A general_aviation 
 1300  10.55405426 -071.72570209  22.75 gate jets|turboprops|props GA Apron 10
 1301 A general_aviation 
-1300  10.55412501 -071.72587719  23.12 gate jets|turboprops|props GA Apron 9
+1300  10.55412501 -071.72587719  23.12 gate jets|turboprops|props GA Apron 09
 1301 A general_aviation 
-1300  10.55381053 -071.72601123  21.91 gate jets|turboprops|props GA Apron 4
+1300  10.55381053 -071.72601123  21.91 gate jets|turboprops|props GA Apron 04
 1301 A general_aviation 
-1300  10.55372827 -071.72584292  21.55 gate jets|turboprops|props GA Apron 5
+1300  10.55372827 -071.72584292  21.55 gate jets|turboprops|props GA Apron 05
 1301 A general_aviation 
-1300  10.55365971 -071.72567598  22.99 gate jets|turboprops|props GA Apron 6
+1300  10.55365971 -071.72567598  22.99 gate jets|turboprops|props GA Apron 06
 1301 A general_aviation 
-1300  10.55360407 -071.72550566  23.82 gate jets|turboprops|props GA Apron 7
+1300  10.55360407 -071.72550566  23.82 gate jets|turboprops|props GA Apron 07
 1301 A general_aviation 
-1300  10.55352656 -071.72533381  21.65 gate jets|turboprops|props GA Apron 8
+1300  10.55352656 -071.72533381  21.65 gate jets|turboprops|props GA Apron 08
 1301 A general_aviation 
-1300  10.55314632 -071.72556834  22.94 gate jets|turboprops|props GA Apron 3
+1300  10.55314632 -071.72556834  22.94 gate jets|turboprops|props GA Apron 03
 1301 B general_aviation 
-1300  10.55325148 -071.72582369  23.81 gate jets|turboprops|props GA Apron 2
+1300  10.55325148 -071.72582369  23.81 gate jets|turboprops|props GA Apron 02
 1301 B general_aviation 
-1300  10.55337122 -071.72610289  22.93 gate jets|turboprops|props GA Apron 1
+1300  10.55337122 -071.72610289  22.93 gate jets|turboprops|props GA Apron 01
 1301 B general_aviation 
 1300  10.55488899 -071.72462514  60.98 gate jets|turboprops|props Gate 11
 1301 C airline 
 1300  10.55504825 -071.72503608  64.81 gate jets|turboprops|props Gate 10
 1301 C airline 
-1300  10.55525854 -071.72549291  62.68 gate jets|turboprops|props Gate 9
+1300  10.55525854 -071.72549291  62.68 gate jets|turboprops|props Gate 09
 1301 C airline 
-1300  10.55574980 -071.72523503 -168.60 gate jets|turboprops|props Gate 8
+1300  10.55574980 -071.72523503 -168.60 gate jets|turboprops|props Gate 08
 1301 D airline 
-1300  10.55552726 -071.72485150 -177.43 gate jets|turboprops|props Gate 7
+1300  10.55552726 -071.72485150 -177.43 gate jets|turboprops|props Gate 07
 1301 C airline 
-1300  10.55537673 -071.72446726 -177.17 gate jets|turboprops|props Gate 6
+1300  10.55537673 -071.72446726 -177.17 gate jets|turboprops|props Gate 06
 1301 C airline 
-1300  10.55645079 -071.72396499  56.44 gate jets|turboprops|props Gate 5
+1300  10.55645079 -071.72396499  56.44 gate jets|turboprops|props Gate 05
 1301 C airline 
-1300  10.55663138 -071.72440405 120.05 gate jets|turboprops|props Gate 4
+1300  10.55663138 -071.72440405 120.05 gate jets|turboprops|props Gate 04
 1301 D airline 
-1300  10.55711819 -071.72445781 126.26 gate jets|turboprops|props Gate 3
+1300  10.55711819 -071.72445781 126.26 gate jets|turboprops|props Gate 03
 1301 C airline 
-1300  10.55710218 -071.72421134 -154.33 gate jets|turboprops|props Gate 2
+1300  10.55710218 -071.72421134 -154.33 gate jets|turboprops|props Gate 02
 1301 D airline 
-1300  10.55694347 -071.72371083 -175.50 gate jets|turboprops|props Gate 1
+1300  10.55694347 -071.72371083 -175.50 gate jets|turboprops|props Gate 01
 1301 C airline 
-1300  10.55874130 -071.72295142  71.62 gate jets|turboprops|props Maintenance Apron 4
+1300  10.55874130 -071.72295142  71.62 gate jets|turboprops|props Maintenance Apron 04
 1301 D airline 
-1300  10.55929016 -071.72271853  71.62 gate jets|turboprops|props Maintenance Apron 3
+1300  10.55929016 -071.72271853  71.62 gate jets|turboprops|props Maintenance Apron 03
 1301 D airline 
-1300  10.55977211 -071.72291144 201.35 gate jets|turboprops|props Maintenance Apron 2
+1300  10.55977211 -071.72291144 201.35 gate jets|turboprops|props Maintenance Apron 02
 1301 E airline 
-1300  10.56005177 -071.72364813 202.95 gate jets|turboprops|props Maintenance Apron 1
+1300  10.56005177 -071.72364813 202.95 gate jets|turboprops|props Maintenance Apron 01
 1301 E airline 
-1300  10.56449007 -071.72101694 -68.24 gate turboprops|props Military Apron 8
+1300  10.56449007 -071.72101694 -68.24 gate turboprops|props Military Apron 08
 1301 A military 
-1300  10.56438667 -071.72106532 -68.10 gate turboprops|props Military Apron 7
+1300  10.56438667 -071.72106532 -68.10 gate turboprops|props Military Apron 07
 1301 A military 
-1300  10.56428390 -071.72111161 -67.02 gate turboprops|props Military Apron 6
+1300  10.56428390 -071.72111161 -67.02 gate turboprops|props Military Apron 06
 1301 A military 
-1300  10.56418046 -071.72115953 -66.46 gate turboprops|props Military Apron 5
+1300  10.56418046 -071.72115953 -66.46 gate turboprops|props Military Apron 05
 1301 A military 
-1300  10.56503201 -071.71954157 -63.60 gate jets|turboprops|props Military Apron 4
+1300  10.56503201 -071.71954157 -63.60 gate jets|turboprops|props Military Apron 04
 1301 C military 
-1300  10.56541791 -071.72023296 -127.03 gate jets|turboprops|props Military Apron 3
+1300  10.56541791 -071.72023296 -127.03 gate jets|turboprops|props Military Apron 03
 1301 B military 
-1300  10.56549938 -071.72044663 -135.00 gate jets|turboprops|props Military Apron 2
+1300  10.56549938 -071.72044663 -135.00 gate jets|turboprops|props Military Apron 02
 1301 B military 
-1300  10.56560463 -071.72066438 -138.01 gate jets|turboprops|props Military Apron 1
+1300  10.56560463 -071.72066438 -138.01 gate jets|turboprops|props Military Apron 01
 1301 B military 
 18  10.55606250 -071.72356634 4 BCN
 53 12190 Maracaibo Ground

@@ -2545,41 +2545,41 @@ I
 1301 E airline 
 1300  10.60138724 -067.00496632  -2.45 gate heavy|jets|turboprops Remote Stand 35
 1301 D airline 
-1300  10.60096131 -066.98098767 -151.14 gate heavy|jets|turboprops|props Cargo Apron 5
+1300  10.60096131 -066.98098767 -151.14 gate heavy|jets|turboprops|props Cargo Apron 05
 1301 E cargo 
-1300  10.60167467 -066.97801184 -144.17 gate heavy|jets|turboprops|props Cargo Apron 1
+1300  10.60167467 -066.97801184 -144.17 gate heavy|jets|turboprops|props Cargo Apron 01
 1301 E cargo 
-1300  10.60148965 -066.97880778 -152.37 gate heavy|jets|turboprops|props Cargo Apron 2
+1300  10.60148965 -066.97880778 -152.37 gate heavy|jets|turboprops|props Cargo Apron 02
 1301 E cargo 
-1300  10.60134132 -066.97953618 -151.72 gate heavy|jets|turboprops|props Cargo Apron 3
+1300  10.60134132 -066.97953618 -151.72 gate heavy|jets|turboprops|props Cargo Apron 03
 1301 D cargo 
-1300  10.60117936 -066.98017051 -153.16 gate jets|turboprops|props Cargo Apron 4
+1300  10.60117936 -066.98017051 -153.16 gate jets|turboprops|props Cargo Apron 04
 1301 D cargo 
-1300  10.60076569 -066.98189230 -147.32 gate heavy|jets|turboprops|props Cargo Apron 6
+1300  10.60076569 -066.98189230 -147.32 gate heavy|jets|turboprops|props Cargo Apron 06
 1301 E cargo 
-1300  10.60053590 -066.98276010 -147.32 gate heavy|jets|turboprops|props Cargo Apron 7
+1300  10.60053590 -066.98276010 -147.32 gate heavy|jets|turboprops|props Cargo Apron 07
 1301 D cargo 
-1300  10.60037519 -066.98349227 -145.36 gate jets|turboprops|props Cargo Apron 8
+1300  10.60037519 -066.98349227 -145.36 gate jets|turboprops|props Cargo Apron 08
 1301 D cargo 
-1300  10.60021798 -066.98413203 -144.99 gate jets|turboprops|props Cargo Apron 9
+1300  10.60021798 -066.98413203 -144.99 gate jets|turboprops|props Cargo Apron 09
 1301 D cargo 
 1300  10.60006077 -066.98478246 -142.94 gate jets|turboprops|props Cargo Apron 10
 1301 D cargo 
-1300  10.59810334 -067.00234878 178.25 gate jets|turboprops National Terminal Gate 8
+1300  10.59810334 -067.00234878 178.25 gate jets|turboprops National Terminal Gate 08
 1301 C airline 
-1300  10.59810626 -067.00192769 178.81 gate jets|turboprops National Terminal Gate 7
+1300  10.59810626 -067.00192769 178.81 gate jets|turboprops National Terminal Gate 07
 1301 C airline 
-1300  10.59811482 -067.00157166 178.25 gate jets|turboprops National Terminal Gate 6
+1300  10.59811482 -067.00157166 178.25 gate jets|turboprops National Terminal Gate 06
 1301 C airline 
-1300  10.59812715 -067.00118979 178.25 gate jets|turboprops National Terminal Gate 5
+1300  10.59812715 -067.00118979 178.25 gate jets|turboprops National Terminal Gate 05
 1301 C airline 
-1300  10.59819375 -067.00083669 178.25 gate jets|turboprops National Terminal Gate 4
+1300  10.59819375 -067.00083669 178.25 gate jets|turboprops National Terminal Gate 04
 1301 C airline 
-1300  10.59821029 -067.00016804 177.94 gate jets|turboprops National Terminal Gate 3
+1300  10.59821029 -067.00016804 177.94 gate jets|turboprops National Terminal Gate 03
 1301 C airline 
-1300  10.59817305 -066.99976833 178.26 gate jets|turboprops National Terminal Gate 2
+1300  10.59817305 -066.99976833 178.26 gate jets|turboprops National Terminal Gate 02
 1301 C airline 
-1300  10.59818856 -066.99934039 178.18 gate jets|turboprops National Terminal Gate 1
+1300  10.59818856 -066.99934039 178.18 gate jets|turboprops National Terminal Gate 01
 1301 C airline 
 1300  10.60053186 -066.99983102 177.29 gate jets|turboprops Remote Stand 18
 1301 C airline 
@@ -2613,26 +2613,26 @@ I
 1301 C airline 
 1300  10.59968427 -066.99978905 177.58 gate jets|turboprops Remote Stand 10
 1301 C airline 
-1300  10.59811710 -067.00283624 178.25 gate jets|turboprops National Terminal Gate 9
+1300  10.59811710 -067.00283624 178.25 gate jets|turboprops National Terminal Gate 09
 1301 C airline 
-1300  10.59790534 -066.99140747 299.95 gate jets|turboprops|props Private Terminal 8
+1300  10.59790534 -066.99140747 299.95 gate jets|turboprops|props Private Terminal 08
 1301 E airline 
-1300  10.59738800 -066.99595967 110.03 gate jets|turboprops|props Private Terminal 7
+1300  10.59738800 -066.99595967 110.03 gate jets|turboprops|props Private Terminal 07
 1301 A airline 
-1300  10.59727971 -066.99479737  74.83 gate jets|turboprops|props Private Terminal 6
+1300  10.59727971 -066.99479737  74.83 gate jets|turboprops|props Private Terminal 06
 1301 B airline 
-1300  10.59722368 -066.99413679  74.82 gate jets|turboprops|props Private Terminal 4
+1300  10.59722368 -066.99413679  74.82 gate jets|turboprops|props Private Terminal 04
 1301 B airline 
-1300  10.59762353 -066.99428421  75.09 gate jets|turboprops|props Private Terminal 5
+1300  10.59762353 -066.99428421  75.09 gate jets|turboprops|props Private Terminal 05
 1301 B airline 
-1300  10.59735033 -066.99366838 165.69 gate jets|turboprops|props Private Terminal 3
+1300  10.59735033 -066.99366838 165.69 gate jets|turboprops|props Private Terminal 03
 1301 C airline 
-1300  10.59741790 -066.99339639 180.94 gate jets|turboprops|props Private Terminal 2
+1300  10.59741790 -066.99339639 180.94 gate jets|turboprops|props Private Terminal 02
 1301 C airline 
-1300  10.59753541 -066.99304072 179.28 gate jets|turboprops|props Private Terminal 1
+1300  10.59753541 -066.99304072 179.28 gate jets|turboprops|props Private Terminal 01
 1301 C airline 
 18  10.59568446 -066.99670319 1 BCN
-52 11950 Maiquetia Clearance
+52 11950 Clearance Delivery
 53 12190 Maiquetia Ground
 54 11840 Maiquetia Tower
 55 12040 Maiquetia Approach

@@ -15164,10 +15164,10 @@ I
 111  40.65643231 -073.79935095 51 101
 115  40.65641471 -073.79773636
 120 Linear Feature 76
-111  40.65219860 -073.79651919 55 103
+111  40.65219860 -073.79651919 55
 111  40.65300500 -073.79710385
-112  40.65300500 -073.79710385  40.65311471 -073.79717972 55 103
-111  40.65325411 -073.79718504 55 103
+112  40.65300500 -073.79710385  40.65311471 -073.79717972 55
+111  40.65325411 -073.79718504 55
 111  40.65798517 -073.79710002 55 103
 115  40.65799144 -073.79785665
 120 Linear Feature 238
@@ -21576,105 +21576,105 @@ I
 21  40.63403614 -073.78664391 2 300.9100 3.00 PAPI-4L 31L
 21  40.65499596 -073.78274661 2 120.4400 3.00 PAPI-4L 13L
 14  40.64246143 -073.78132291 321.52 0 TWR
-1300  40.65156911 -073.76958568 121.59 gate heavy|jets Cargo Apron D Stand 15
+1300  40.65156911 -073.76958568 121.59 gate heavy|jets Cargo Apron D15
 1301 E cargo 
-1300  40.65420060 -073.77396621 -155.25 gate heavy|jets Cargo Apron D Stand 14
+1300  40.65420060 -073.77396621 -155.25 gate heavy|jets Cargo Apron D14
 1301 E cargo 
-1300  40.65454961 -073.77471088 -156.78 gate heavy|jets Cargo Apron D Stand 13
+1300  40.65454961 -073.77471088 -156.78 gate heavy|jets Cargo Apron D13
 1301 E cargo 
-1300  40.65485675 -073.77539465 -159.62 gate heavy|jets Cargo Apron D Stand 12
+1300  40.65485675 -073.77539465 -159.62 gate heavy|jets Cargo Apron D12
 1301 D cargo 
-1300  40.65766959 -073.77728635  30.83 gate heavy|jets Cargo Apron D Stand 11 (American Airlines Cargo)
+1300  40.65766959 -073.77728635  30.83 gate heavy|jets Cargo Apron D11
 1301 E cargo 
-1300  40.65807289 -073.77848742  30.77 gate heavy|jets Cargo Apron D Stand 10 (China Airlines Cargo)
+1300  40.65807289 -073.77848742  30.77 gate heavy|jets Cargo Apron D10
 1301 E cargo 
-1300  40.65815989 -073.78045426 -13.99 gate heavy|jets Cargo Apron D Stand 09 (DHL Express)
+1300  40.65815989 -073.78045426 -13.99 gate heavy|jets Cargo Apron D09
 1301 D cargo 
-1300  40.65641895 -073.78001514 -167.56 gate heavy|jets Cargo Apron D Stand 08 (DHL Express)
+1300  40.65641895 -073.78001514 -167.56 gate heavy|jets Cargo Apron D08
 1301 D cargo 
-1300  40.65664011 -073.78054894 179.02 gate heavy|jets Cargo Apron D Stand 07 (DHL Express)
+1300  40.65664011 -073.78054894 179.02 gate heavy|jets Cargo Apron D07
 1301 D cargo 
-1300  40.65697911 -073.78137620 -133.85 gate heavy|jets Cargo Apron D Stand 06 (DHL Express)
+1300  40.65697911 -073.78137620 -133.85 gate heavy|jets Cargo Apron D06
 1301 D cargo 
-1300  40.66042408 -073.78313344  29.91 gate heavy|jets Cargo Apron D Stand 05 (FedEx Express)
+1300  40.66042408 -073.78313344  29.91 gate heavy|jets FedEx Cargo Apron D05
 1301 D cargo 
-1300  40.66077375 -073.78390949  29.91 gate heavy|jets Cargo Apron D Stand 04 (FedEx Express)
+1300  40.66077375 -073.78390949  29.91 gate heavy|jets FedEx Cargo Apron D04
 1301 D cargo 
-1300  40.66105557 -073.78463324  29.91 gate heavy|jets Cargo Apron D Stand 03 (FedEx Express)
+1300  40.66105557 -073.78463324  29.91 gate heavy|jets FedEx Cargo Apron D03
 1301 D cargo 
-1300  40.66075803 -073.78557441 -19.60 gate heavy|jets Cargo Apron D Stand 02B (FedEx Feeder)
+1300  40.66075803 -073.78557441 -19.60 gate heavy|jets FedEx Feeder Cargo Apron D02B
 1301 B cargo 
-1300  40.66097248 -073.78602975 -18.10 gate heavy|jets Cargo Apron D Stand 02A (FedEx Feeder)
+1300  40.66097248 -073.78602975 -18.10 gate heavy|jets FedEx Feeder Cargo Apron D02A
 1301 B cargo 
-1300  40.66140628 -073.78530197  29.91 gate heavy|jets Cargo Apron D Stand 02 (FedEx Express)
+1300  40.66140628 -073.78530197  29.91 gate heavy|jets FedEx Cargo Apron D02
 1301 D cargo 
-1300  40.66170011 -073.78594295  29.91 gate heavy|jets Cargo Apron D Stand 01 (FedEx Express)
+1300  40.66170011 -073.78594295  29.91 gate heavy|jets FedEx Cargo Apron D01
 1301 D cargo 
-1300  40.65357171 -073.79640499  50.43 gate heavy|jets Cargo Apron C Stand 15 (Kalitta Air)
+1300  40.65357171 -073.79640499  50.43 gate heavy|jets Cargo Apron C15
 1301 E cargo 
-1300  40.65460783 -073.79639587  90.50 gate heavy|jets Cargo Apron C Stand 14 (Kalitta Air)
+1300  40.65460783 -073.79639587  90.50 gate heavy|jets Cargo Apron C14
 1301 E cargo 
-1300  40.65518420 -073.79655143  91.38 gate heavy|jets Cargo Apron C Stand 13 (UPS Airlines)
+1300  40.65518420 -073.79655143  91.38 gate heavy|jets UPS Cargo Apron C13
 1301 D cargo 
-1300  40.65571653 -073.79651903  90.66 gate heavy|jets Cargo Apron C Stand 12 (UPS Airlines)
+1300  40.65571653 -073.79651903  90.66 gate heavy|jets UPS Cargo Apron C12
 1301 D cargo 
-1300  40.65628682 -073.79654306  90.57 gate heavy|jets Cargo Apron C Stand 11 (UPS Airlines)
+1300  40.65628682 -073.79654306  90.57 gate heavy|jets UPS Cargo Apron C11
 1301 D cargo 
-1300  40.65685134 -073.79646853  90.92 gate heavy|jets Cargo Apron C Stand 10 (UPS Airlines)
+1300  40.65685134 -073.79646853  90.92 gate heavy|jets UPS Cargo Apron C10
 1301 D cargo 
-1300  40.65865170 -073.79610974  91.17 gate heavy|jets Cargo Apron C Stand 09
+1300  40.65865170 -073.79610974  91.17 gate heavy|jets Cargo Apron C09
 1301 E cargo 
-1300  40.65927449 -073.79606617  91.76 gate heavy|jets Cargo Apron C Stand 08
+1300  40.65927449 -073.79606617  91.76 gate heavy|jets Cargo Apron C08
 1301 E cargo 
-1300  40.66134488 -073.79612527  91.40 gate heavy|jets Cargo Apron C Stand 07
+1300  40.66134488 -073.79612527  91.40 gate heavy|jets Cargo Apron C07
 1301 E cargo 
-1300  40.66201204 -073.79622274  93.26 gate heavy|jets Cargo Apron C Stand 06
+1300  40.66201204 -073.79622274  93.26 gate heavy|jets Cargo Apron C06
 1301 E cargo 
-1300  40.66279739 -073.79634299  89.66 gate heavy|jets Cargo Apron C Stand 05
+1300  40.66279739 -073.79634299  89.66 gate heavy|jets Cargo Apron C05
 1301 E cargo 
-1300  40.66342265 -073.79633924  91.47 gate heavy|jets Cargo Apron C Stand 04
+1300  40.66342265 -073.79633924  91.47 gate heavy|jets Cargo Apron C04
 1301 D cargo 
-1300  40.66148740 -073.79898377 -83.53 gate heavy|jets Cargo Apron C Stand 03
+1300  40.66148740 -073.79898377 -83.53 gate heavy|jets Cargo Apron C03
 1301 E cargo 
-1300  40.66105029 -073.79889913 -44.85 gate heavy|jets Cargo Apron C Stand 02
+1300  40.66105029 -073.79889913 -44.85 gate heavy|jets Cargo Apron C02
 1301 E cargo 
-1300  40.65907263 -073.79926625 -88.70 gate heavy|jets Cargo Apron C Stand 01
+1300  40.65907263 -073.79926625 -88.70 gate heavy|jets Cargo Apron C01
 1301 E cargo 
-1300  40.65292775 -073.80355373 -89.59 gate heavy|jets Cargo Apron B Stand 08
+1300  40.65292775 -073.80355373 -89.59 gate heavy|jets Cargo Apron B08
 1301 E cargo 
-1300  40.65214446 -073.80363657 -89.59 gate heavy|jets Cargo Apron B Stand 07
+1300  40.65214446 -073.80363657 -89.59 gate heavy|jets Cargo Apron B07
 1301 E cargo 
-1300  40.65150006 -073.80363752 -89.59 gate heavy|jets Cargo Apron B Stand 06
+1300  40.65150006 -073.80363752 -89.59 gate heavy|jets Cargo Apron B06
 1301 E cargo 
-1300  40.65212128 -073.80103545  91.15 gate heavy|jets Cargo Apron B Stand 05
+1300  40.65212128 -073.80103545  91.15 gate heavy|jets Cargo Apron B05
 1301 E cargo 
-1300  40.65030993 -073.79952703 156.88 gate heavy|jets Cargo Apron B Stand 04
+1300  40.65030993 -073.79952703 156.88 gate heavy|jets Cargo Apron B04
 1301 E cargo 
-1300  40.65034019 -073.80086494 -148.71 gate heavy|jets Cargo Apron B Stand 03
+1300  40.65034019 -073.80086494 -148.71 gate heavy|jets Cargo Apron B03
 1301 E cargo 
-1300  40.65041061 -073.80278662 -158.63 gate heavy|jets Cargo Apron B Stand 01
+1300  40.65041061 -073.80278662 -158.63 gate heavy|jets Cargo Apron B01
 1301 E cargo 
-1300  40.65037710 -073.80209744 -138.28 gate heavy|jets Cargo Apron B Stand 02A
+1300  40.65037710 -073.80209744 -138.28 gate heavy|jets Cargo Apron B02A
 1301 E cargo 
-1300  40.65038725 -073.80198566 -140.62 gate heavy|jets Cargo Apron B Stand 02
+1300  40.65038725 -073.80198566 -140.62 gate heavy|jets Cargo Apron B02
 1301 E cargo 
-1300  40.65092938 -073.81103850  26.84 gate heavy|jets Cargo Apron A Stand 03A
+1300  40.65092938 -073.81103850  26.84 gate heavy|jets Cargo Apron A03A
 1301 E cargo 
-1300  40.65102794 -073.81113756 -27.77 gate heavy|jets Cargo Apron A Stand 03
+1300  40.65102794 -073.81113756 -27.77 gate heavy|jets Cargo Apron A03
 1301 D cargo 
-1300  40.65076224 -073.81178326 -27.77 gate heavy|jets Cargo Apron A Stand 02A
+1300  40.65076224 -073.81178326 -27.77 gate heavy|jets Cargo Apron A02A
 1301 E cargo 
-1300  40.65071614 -073.81189905 -27.77 gate heavy|jets Cargo Apron A Stand 02
+1300  40.65071614 -073.81189905 -27.77 gate heavy|jets Cargo Apron A02
 1301 D cargo 
-1300  40.65049810 -073.81239854 -28.15 gate jets Cargo Apron A Stand 01C
+1300  40.65049810 -073.81239854 -28.15 gate jets Cargo Apron A01C
 1301 C cargo 
-1300  40.65042491 -073.81246831 -28.15 gate jets Cargo Apron A Stand 01B
+1300  40.65042491 -073.81246831 -28.15 gate jets Cargo Apron A01B
 1301 C cargo 
-1300  40.65021011 -073.81301031 -50.10 gate jets Cargo Apron A Stand 01A
+1300  40.65021011 -073.81301031 -50.10 gate jets Cargo Apron A01A
 1301 C cargo 
-1300  40.65030599 -073.81287398 -50.22 gate heavy|jets Cargo Apron A Stand 01L
+1300  40.65030599 -073.81287398 -50.22 gate heavy|jets Cargo Apron A01L
 1301 D cargo 
-1300  40.65040038 -073.81276395 -38.23 gate heavy|jets Cargo Apron A Stand 01R
+1300  40.65040038 -073.81276395 -38.23 gate heavy|jets Cargo Apron A01R
 1301 F cargo 
 1300  40.65270450 -073.78861340 146.49 gate jets JetBlue Maintenance Apron 03
 1301 C airline 

@@ -1174,85 +1174,85 @@ I
 21  10.44870431 -075.51311109 3 183.4877 3.00 New Light Fixture 6
 21  10.44867725 -075.51218029 2 182.9657 3.00 New Light Fixture 5
 14  10.44581147 -075.51612902  98.43 0 New Tower Viewpoint 10
-1300  10.44497473 -075.51458440 -87.80 gate jets|turboprops|props Gate 11A
+1300  10.44497473 -075.51458440 -87.80 gate jets|turboprops|props Remote Stand 11A
 1301 D airline 
-1300  10.44589967 -075.51557592 -87.26 gate jets|turboprops|props Gate 3B
+1300  10.44477170 -075.51405270 -177.99 gate heavy|jets|turboprops Remote Stand 10
 1301 C airline 
-1300  10.44581759 -075.51565305 -88.27 gate jets|turboprops|props Gate 3A
+1300  10.44479115 -075.51456345 -177.88 gate heavy|jets|turboprops Remote Stand 11
+1301 C airline 
+1300  10.44589967 -075.51557592 -87.26 gate jets|turboprops|props Gate 03B
+1301 C airline 
+1300  10.44581759 -075.51565305 -88.27 gate jets|turboprops|props Gate 03A
 1301 E airline 
-1300  10.44641005 -075.51558476 -87.69 gate jets|turboprops|props Gate 4A
+1300  10.44641005 -075.51558476 -87.69 gate jets|turboprops|props Gate 04A
 1301 D airline 
-1300  10.44523952 -075.51107472  92.69 gate props Gate 21
+1300  10.44523952 -075.51107472  92.69 gate props GA Apron 21
 1301 A airline 
-1300  10.44537634 -075.51106803  92.69 gate props Gate 22
+1300  10.44537634 -075.51106803  92.69 gate props GA Apron 22
 1301 A airline 
-1300  10.44551001 -075.51106127  93.01 gate props Gate 23
+1300  10.44551001 -075.51106127  93.01 gate props GA Apron 23
 1301 A airline 
-1300  10.44564591 -075.51105489  91.99 gate props Gate 24
+1300  10.44564591 -075.51105489  91.99 gate props GA Apron 24
 1301 A airline 
-1300  10.44578849 -075.51111081  92.91 gate props Gate 25
+1300  10.44578849 -075.51111081  92.91 gate props GA Apron 25
 1301 A airline 
-1300  10.44592511 -075.51110333  92.51 gate props Gate 26
+1300  10.44592511 -075.51110333  92.51 gate props GA Apron 26
 1301 A airline 
-1300  10.44606015 -075.51109670  91.72 gate props Gate 27
+1300  10.44606015 -075.51109670  91.72 gate props GA Apron 27
 1301 A airline 
-1300  10.44619335 -075.51108974  93.11 gate props Gate 28
+1300  10.44619335 -075.51108974  93.11 gate props GA Apron 28
 1301 A airline 
-1300  10.44634064 -075.51104587  92.70 gate jets|turboprops|props|helos Gate 29
+1300  10.44634064 -075.51104587  92.70 gate jets|turboprops|props|helos GA Apron 29
 1301 A airline 
-1300  10.44628715 -075.51101346 -87.55 gate props Gate 39
+1300  10.44628715 -075.51101346 -87.55 gate props GA Apron 39
 1301 A airline 
-1300  10.44607649 -075.51102292 -88.17 gate jets|turboprops|props Gate 38
+1300  10.44607649 -075.51102292 -88.17 gate jets|turboprops|props GA Apron 38
 1301 B airline 
-1300  10.44582350 -075.51103430 -88.16 gate jets|turboprops|props Gate 37
+1300  10.44582350 -075.51103430 -88.16 gate jets|turboprops|props GA Apron 37
 1301 B airline 
-1300  10.44556782 -075.51100999 -87.72 gate jets|turboprops|props Gate 36
+1300  10.44556782 -075.51100999 -87.72 gate jets|turboprops|props GA Apron 36
 1301 B airline 
-1300  10.44534721 -075.51102009 -87.26 gate jets|turboprops|props Gate 35
+1300  10.44534721 -075.51102009 -87.26 gate jets|turboprops|props GA Apron 35
 1301 B airline 
-1300  10.44536688 -075.51032071  93.07 gate jets|turboprops|props Gate 44
+1300  10.44536688 -075.51032071  93.07 gate jets|turboprops|props GA Apron 44
 1301 B airline 
-1300  10.44558871 -075.51031146  92.64 gate jets|turboprops|props Gate 45
+1300  10.44558871 -075.51031146  92.64 gate jets|turboprops|props GA Apron 45
 1301 B airline 
-1300  10.44580927 -075.51030350  93.65 gate jets|turboprops|props Gate 46
+1300  10.44580927 -075.51030350  93.65 gate jets|turboprops|props GA Apron 46
 1301 B airline 
-1300  10.44602903 -075.51028910  92.99 gate jets|turboprops|props Gate 47
+1300  10.44602903 -075.51028910  92.99 gate jets|turboprops|props GA Apron 47
 1301 B airline 
-1300  10.44624891 -075.51027808  93.04 gate jets|turboprops|props Gate 48
+1300  10.44624891 -075.51027808  93.04 gate jets|turboprops|props GA Apron 48
 1301 B airline 
-1300  10.44654154 -075.51030445  92.83 gate jets|turboprops Gate 49
+1300  10.44654154 -075.51030445  92.83 gate jets|turboprops GA Apron 49
 1301 C airline 
-1300  10.44732751 -075.51378546   2.32 gate heavy|jets|turboprops Gate 9D
+1300  10.44732751 -075.51378546   2.32 gate heavy|jets|turboprops Remote Stand 09D
 1301 C airline 
-1300  10.44728047 -075.51405567   2.21 gate heavy|jets|turboprops Gate 9
+1300  10.44728047 -075.51405567   2.21 gate heavy|jets|turboprops Remote Stand 09
 1301 C airline 
-1300  10.44723949 -075.51396201  46.90 gate heavy Gate 9B
+1300  10.44723949 -075.51396201  46.90 gate heavy Remote Stand 09B
 1301 E airline 
-1300  10.44728716 -075.51422876   2.32 gate jets Gate 8A
+1300  10.44728716 -075.51422876   2.32 gate jets Remote Stand 08A
 1301 D airline 
-1300  10.44728859 -075.51437007   1.98 gate jets Gate 8C
+1300  10.44728859 -075.51437007   1.98 gate jets Remote Stand 08C
 1301 C airline 
-1300  10.44729616 -075.51447600   1.86 gate heavy|jets|turboprops Gate 8
+1300  10.44729616 -075.51447600   1.86 gate heavy|jets|turboprops Remote Stand 08
 1301 C airline 
-1300  10.44492174 -075.51566118 -88.78 gate jets|turboprops Gate 1
+1300  10.44492174 -075.51566118 -88.78 gate jets|turboprops Gate 01
 1301 C airline 
-1300  10.44531194 -075.51561773 -88.90 gate heavy|jets|turboprops Gate 2
+1300  10.44531194 -075.51561773 -88.90 gate heavy|jets|turboprops Gate 02
 1301 C airline 
-1300  10.44570608 -075.51562713 -87.32 gate heavy|jets|turboprops Gate 3
+1300  10.44570608 -075.51562713 -87.32 gate heavy|jets|turboprops Gate 03
 1301 C airline 
-1300  10.44609756 -075.51560842 -87.64 gate heavy|jets|turboprops Gate 4
+1300  10.44609756 -075.51560842 -87.64 gate heavy|jets|turboprops Gate 04
 1301 C airline 
-1300  10.44648338 -075.51559196 -87.83 gate heavy|jets|turboprops Gate 5
+1300  10.44648338 -075.51559196 -87.83 gate heavy|jets|turboprops Gate 05
 1301 C airline 
-1300  10.44703222 -075.51557685 -87.72 gate heavy|jets|turboprops Gate 6A
+1300  10.44703222 -075.51557685 -87.72 gate heavy|jets|turboprops Gate 06A
 1301 D airline 
-1300  10.44687274 -075.51558772 -87.70 gate heavy|jets|turboprops Gate 6
+1300  10.44687274 -075.51558772 -87.70 gate heavy|jets|turboprops Gate 06
 1301 C airline 
-1300  10.44725984 -075.51557521 -87.38 gate heavy|jets|turboprops Gate 7
-1301 C airline 
-1300  10.44477170 -075.51405270 -177.99 gate heavy|jets|turboprops Gate 10
-1301 C airline 
-1300  10.44479115 -075.51456345 -177.88 gate heavy|jets|turboprops Gate 11
+1300  10.44725984 -075.51557521 -87.38 gate heavy|jets|turboprops Gate 07
 1301 C airline 
 18  10.44581147 -075.51612902 1 New Airport Beacon 12
 54 11830 Rafael Nunez Tower

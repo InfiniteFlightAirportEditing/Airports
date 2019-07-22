@@ -1386,21 +1386,21 @@ I
 21  13.07223072 -059.50379955 2 74.6300 3.00 09 PAPI-4L
 21  13.07683907 -059.48125979 2 255.3600 3.00 27 PAPI-4L
 14  13.07818858 -059.49024661  98.43 0 Tower Viewpoint
-1300  13.07327253 -059.49121812 -18.87 tie_down jets|turboprops|props GA Apron 5
+1300  13.07327253 -059.49121812 -18.87 tie_down jets|turboprops|props GA Apron 05
 1301 A general_aviation 
-1300  13.07325149 -059.49137595 -18.87 tie_down jets|turboprops|props GA Apron 4
+1300  13.07325149 -059.49137595 -18.87 tie_down jets|turboprops|props GA Apron 04
 1301 A general_aviation 
-1300  13.07367309 -059.49147812 151.42 tie_down jets|turboprops|props GA Apron 3
+1300  13.07367309 -059.49147812 151.42 tie_down jets|turboprops|props GA Apron 03
 1301 A general_aviation 
-1300  13.07358417 -059.49164140 148.15 tie_down jets|turboprops|props GA Apron 2
+1300  13.07358417 -059.49164140 148.15 tie_down jets|turboprops|props GA Apron 02
 1301 A general_aviation 
-1300  13.07350787 -059.49177628 148.15 tie_down jets|turboprops|props GA Apron 1
+1300  13.07350787 -059.49177628 148.15 tie_down jets|turboprops|props GA Apron 01
 1301 A general_aviation 
-1300  13.07299847 -059.49098059 -14.71 hangar turboprops|props Hangar 3
+1300  13.07299847 -059.49098059 -14.71 hangar turboprops|props Hangar 03
 1301 A none 
-1300  13.07289076 -059.49142826 -14.71 hangar turboprops|props Hangar 2
+1300  13.07289076 -059.49142826 -14.71 hangar turboprops|props Hangar 02
 1301 A none 
-1300  13.07304391 -059.49212388   2.90 hangar turboprops|props Hangar 1
+1300  13.07304391 -059.49212388   2.90 hangar turboprops|props Hangar 01
 1301 A none 
 1300  13.08058927 -059.48103917 -13.66 gate heavy|jets|turboprops|props Gate 22
 1301 E airline 
@@ -1428,31 +1428,31 @@ I
 1301 E airline 
 1300  13.07880906 -059.48824419 -13.22 gate heavy|jets|turboprops|props Gate 10
 1301 E airline 
-1300  13.07866739 -059.48884009 -13.85 gate heavy|jets|turboprops|props Gate 9
+1300  13.07866739 -059.48884009 -13.85 gate heavy|jets|turboprops|props Gate 09
 1301 E airline 
-1300  13.07850997 -059.48946104 -14.46 gate jets|turboprops|props Gate 8
+1300  13.07850997 -059.48946104 -14.46 gate jets|turboprops|props Gate 08
 1301 C airline 
-1300  13.07841026 -059.48982610 -13.93 gate jets|turboprops|props Gate 7
+1300  13.07841026 -059.48982610 -13.93 gate jets|turboprops|props Gate 07
 1301 C airline 
-1300  13.07789160 -059.49047320 -12.97 gate jets|turboprops|props Gate 6R
+1300  13.07789160 -059.49047320 -12.97 gate jets|turboprops|props Gate 06R
 1301 C airline 
-1300  13.07798348 -059.49021620 -13.48 gate jets|turboprops|props Gate 6
+1300  13.07798348 -059.49021620 -13.48 gate jets|turboprops|props Gate 06
 1301 C airline 
-1300  13.07810067 -059.49081926 -14.01 gate heavy|jets|turboprops|props Gate 5
+1300  13.07810067 -059.49081926 -14.01 gate heavy|jets|turboprops|props Gate 05
 1301 D airline 
-1300  13.07739577 -059.49068684 -13.35 gate heavy|jets|turboprops|props Gate 5R
+1300  13.07739577 -059.49068684 -13.35 gate heavy|jets|turboprops|props Gate 05R
 1301 C airline 
-1300  13.07734329 -059.49093737 -13.80 gate heavy|jets|turboprops|props Gate 4R
+1300  13.07734329 -059.49093737 -13.80 gate heavy|jets|turboprops|props Gate 04R
 1301 C airline 
-1300  13.07799747 -059.49135253 -13.91 gate heavy|jets|turboprops|props Gate 4
+1300  13.07799747 -059.49135253 -13.91 gate heavy|jets|turboprops|props Gate 04
 1301 D airline 
-1300  13.07721735 -059.49142411 -12.72 gate jets|turboprops|props Gate 3R
+1300  13.07721735 -059.49142411 -12.72 gate jets|turboprops|props Gate 03R
 1301 C airline 
-1300  13.07715439 -059.49170147 -13.92 gate jets|turboprops|props Gate 3
+1300  13.07715439 -059.49170147 -13.92 gate jets|turboprops|props Gate 03
 1301 C airline 
-1300  13.07700221 -059.49223474 -15.23 gate jets|turboprops|props Gate 2
+1300  13.07700221 -059.49223474 -15.23 gate jets|turboprops|props Gate 02
 1301 C airline 
-1300  13.07691125 -059.49264095 -14.42 gate jets|turboprops|props Gate 1
+1300  13.07691125 -059.49264095 -14.42 gate jets|turboprops|props Gate 01
 1301 C airline 
 18  13.07818858 -059.49024661 1 Airport Beacon
 53 12190 Adams Ground

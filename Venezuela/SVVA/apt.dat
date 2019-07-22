@@ -310,16 +310,16 @@ I
 111  10.15116606 -067.92326321 52
 115  10.15103242 -067.92326934
 120 Linear Feature 22
-111  10.15158706 -067.92062478 52 103
+111  10.15158706 -067.92062478 52
 115  10.15158507 -067.92039214
 120 Linear Feature 21
-111  10.15113315 -067.91996972 52 103
+111  10.15113315 -067.91996972 52
 115  10.15088063 -067.91997939
 120 Linear Feature 20
-111  10.15119169 -067.92105519 52 103
+111  10.15119169 -067.92105519 52
 115  10.15093213 -067.92106756
 120 Linear Feature 19
-111  10.15124478 -067.92215680 52 103
+111  10.15124478 -067.92215680 52
 115  10.15098348 -067.92216742
 120 Linear Feature 18
 111  10.14995854 -067.91477614 54 103
@@ -848,53 +848,53 @@ I
 21  10.14884059 -067.91758176 2 272.4100 3.00 10  PAPI-4L
 21  10.15075913 -067.93941211 2 92.8400 3.00 10  PAPI-4L
 14  10.15403863 -067.92285283  65.62 0 New Tower Viewpoint 1
-1300  10.15157960 -067.93797185 -127.78 gate jets|turboprops GA Apron 8
+1300  10.15157960 -067.93797185 -127.78 gate jets|turboprops GA Apron 08
 1301 B general_aviation 
-1300  10.15157092 -067.93824830 -127.78 gate jets|turboprops GA Apron 7
+1300  10.15157092 -067.93824830 -127.78 gate jets|turboprops GA Apron 07
 1301 B general_aviation 
-1300  10.15158057 -067.93853505 -127.78 gate jets|turboprops GA Apron 6
+1300  10.15158057 -067.93853505 -127.78 gate jets|turboprops GA Apron 06
 1301 B general_aviation 
-1300  10.15159263 -067.93882425 -127.78 gate jets|turboprops GA Apron 5
+1300  10.15159263 -067.93882425 -127.78 gate jets|turboprops GA Apron 05
 1301 B general_aviation 
-1300  10.15161864 -067.93910965 -127.67 gate jets|turboprops GA Apron 4
+1300  10.15161864 -067.93910965 -127.67 gate jets|turboprops GA Apron 04
 1301 B general_aviation 
-1300  10.15162078 -067.93944197 -125.61 gate jets|turboprops GA Apron 3
+1300  10.15162078 -067.93944197 -125.61 gate jets|turboprops GA Apron 03
 1301 B general_aviation 
-1300  10.15162809 -067.93971880 -129.50 gate jets|turboprops GA Apron 2
+1300  10.15162809 -067.93971880 -129.50 gate jets|turboprops GA Apron 02
 1301 B general_aviation 
-1300  10.15163677 -067.93998529 -135.25 gate jets|turboprops GA Apron 1
+1300  10.15163677 -067.93998529 -135.25 gate jets|turboprops GA Apron 01
 1301 B general_aviation 
-1300  10.15443991 -067.91907373  92.84 gate jets|turboprops Cargo Apron 1C
+1300  10.15443991 -067.91907373  92.84 gate jets|turboprops Cargo Apron 01C
 1301 D cargo 
-1300  10.15392459 -067.91911960  92.87 gate jets|turboprops Cargo Apron 2C
+1300  10.15392459 -067.91911960  92.87 gate jets|turboprops Cargo Apron 02C
 1301 D cargo 
-1300  10.15342087 -067.91915052  92.22 gate jets|turboprops Cargo Apron 3C
+1300  10.15342087 -067.91915052  92.22 gate jets|turboprops Cargo Apron 03C
 1301 D cargo 
-1300  10.15290888 -067.91918136  92.50 gate jets|turboprops Cargo Apron 4C
+1300  10.15290888 -067.91918136  92.50 gate jets|turboprops Cargo Apron 04C
 1301 D cargo 
-1300  10.15226360 -067.91918997  92.96 gate jets|turboprops Cargo Apron 5C
+1300  10.15226360 -067.91918997  92.96 gate jets|turboprops Cargo Apron 05C
 1301 E cargo 
-1300  10.15359568 -067.92053448 -87.82 gate jets|turboprops Cargo Apron 8C
+1300  10.15359568 -067.92053448 -87.82 gate jets|turboprops Cargo Apron 08C
 1301 C cargo 
-1300  10.15410836 -067.92052302 -87.21 gate jets|turboprops Cargo Apron 7C
+1300  10.15410836 -067.92052302 -87.21 gate jets|turboprops Cargo Apron 07C
 1301 C cargo 
-1300  10.15456306 -067.92049515 -86.86 gate jets|turboprops Cargo Ramp 6C
+1300  10.15456306 -067.92049515 -86.86 gate jets|turboprops Cargo Ramp 06C
 1301 C cargo 
-1300  10.15248831 -067.92182443 -89.85 gate jets|turboprops Terminal Apron 3
+1300  10.15248831 -067.92182443 -89.85 gate jets|turboprops Terminal Apron 03
 1301 C airline 
-1300  10.15284135 -067.92182803 -90.37 gate jets|turboprops Terminal Apron 2
+1300  10.15284135 -067.92182803 -90.37 gate jets|turboprops Terminal Apron 02
 1301 C airline 
-1300  10.15319514 -067.92182788 -90.53 gate jets|turboprops Terminal Apron 1
+1300  10.15319514 -067.92182788 -90.53 gate jets|turboprops Terminal Apron 01
 1301 C airline 
-1300  10.15279755 -067.92263352  95.02 gate jets|turboprops Terminal Apron 8
+1300  10.15279755 -067.92263352  95.02 gate jets|turboprops Terminal Apron 08
 1301 B airline 
-1300  10.15314939 -067.92262488  92.64 gate jets|turboprops Terminal Apron 7
+1300  10.15314939 -067.92262488  92.64 gate jets|turboprops Terminal Apron 07
 1301 B airline 
-1300  10.15242210 -067.92349179  91.22 gate jets|turboprops Terminal Apron 6
+1300  10.15242210 -067.92349179  91.22 gate jets|turboprops Terminal Apron 06
 1301 B airline 
-1300  10.15281499 -067.92346211  90.52 gate jets|turboprops Terminal Apron 5
+1300  10.15281499 -067.92346211  90.52 gate jets|turboprops Terminal Apron 05
 1301 B airline 
-1300  10.15321365 -067.92338517  92.25 gate jets|turboprops Terminal Apron 4
+1300  10.15321365 -067.92338517  92.25 gate jets|turboprops Terminal Apron 04
 1301 B airline 
 18  10.15403863 -067.92285283 1 BCN
 53 12190 Valencia Ground

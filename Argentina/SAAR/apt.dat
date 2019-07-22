@@ -826,66 +826,66 @@ I
 21 -32.89316502 -060.78174447 2 190.4032 3.00 20 PAPI-4L
 21 -32.91403053 -060.78763412 2 10.8855 3.00 02 PAPI-4L
 14 -32.91720612 -060.78051418 101.71 0 Tower Viewpoint
-1300 -32.92030541 -060.78225337 -170.05 tie_down turboprops|props Tie Down 3
+1300 -32.92030541 -060.78225337 -170.05 tie_down turboprops|props Tie Down 03
 1301 A general_aviation 
-1300 -32.92033027 -060.78209049 -170.05 tie_down turboprops|props Tie Down 2
+1300 -32.92033027 -060.78209049 -170.05 tie_down turboprops|props Tie Down 02
 1301 A general_aviation 
-1300 -32.92035389 -060.78193204 -170.05 tie_down turboprops|props Tie Down 1
+1300 -32.92035389 -060.78193204 -170.05 tie_down turboprops|props Tie Down 01
 1301 A general_aviation 
-1300 -32.91983750 -060.78243897 -169.61 hangar turboprops|props Hangar 8
+1300 -32.91983750 -060.78243897 -169.61 hangar turboprops|props Hangar 08
 1301 A none 
-1300 -32.92072820 -060.78069241 -128.54 hangar turboprops|props Hangar 7
+1300 -32.92072820 -060.78069241 -128.54 hangar turboprops|props Hangar 07
 1301 A none 
-1300 -32.92111049 -060.78043373 -80.89 hangar turboprops|props Hangar 6
+1300 -32.92111049 -060.78043373 -80.89 hangar turboprops|props Hangar 06
 1301 A none 
-1300 -32.92120372 -060.78095350   8.22 hangar turboprops|props Hangar 5
+1300 -32.92120372 -060.78095350   8.22 hangar turboprops|props Hangar 05
 1301 A none 
-1300 -32.92115897 -060.78136931   8.22 hangar turboprops|props Hangar 4
+1300 -32.92115897 -060.78136931   8.22 hangar turboprops|props Hangar 04
 1301 A none 
-1300 -32.92086721 -060.78214123   8.22 hangar turboprops|props Hangar 3
+1300 -32.92086721 -060.78214123   8.22 hangar turboprops|props Hangar 03
 1301 A none 
-1300 -32.92097890 -060.78248156   8.22 hangar turboprops|props Hangar 2
+1300 -32.92097890 -060.78248156   8.22 hangar turboprops|props Hangar 02
 1301 A none 
-1300 -32.92095777 -060.78283251   8.22 hangar turboprops|props Hangar 1
+1300 -32.92095777 -060.78283251   8.22 hangar turboprops|props Hangar 01
 1301 A none 
 1300 -32.91790652 -060.78159101 -158.46 tie_down jets|turboprops|props GA Apron 10
 1301 A general_aviation 
-1300 -32.91784561 -060.78177759 -158.46 tie_down jets|turboprops|props GA Apron 9
+1300 -32.91784561 -060.78177759 -158.46 tie_down jets|turboprops|props GA Apron 09
 1301 A general_aviation 
-1300 -32.91778290 -060.78196696 -158.46 tie_down jets|turboprops|props GA Apron 8
+1300 -32.91778290 -060.78196696 -158.46 tie_down jets|turboprops|props GA Apron 08
 1301 A general_aviation 
-1300 -32.91823330 -060.78173990  20.54 tie_down jets|turboprops|props|helos GA Apron 7
+1300 -32.91823330 -060.78173990  20.54 tie_down jets|turboprops|props|helos GA Apron 07
 1301 A general_aviation 
-1300 -32.91814810 -060.78199770  20.83 tie_down jets|turboprops|props|helos GA Apron 6
+1300 -32.91814810 -060.78199770  20.83 tie_down jets|turboprops|props|helos GA Apron 06
 1301 A general_aviation 
-1300 -32.91807069 -060.78223104  21.11 tie_down jets|turboprops|props GA Apron 5
+1300 -32.91807069 -060.78223104  21.11 tie_down jets|turboprops|props GA Apron 05
 1301 A general_aviation 
-1300 -32.91436617 -060.78039332 111.25 gate jets|turboprops Gate 4B
+1300 -32.91436617 -060.78039332 111.25 gate jets|turboprops Gate 04B
 1301 C airline 
-1300 -32.91462113 -060.78032149 111.08 gate heavy|jets|turboprops Gate 4
+1300 -32.91462113 -060.78032149 111.08 gate heavy|jets|turboprops Gate 04
 1301 E airline 
-1300 -32.91467846 -060.78034212  88.42 gate jets|turboprops Gate 4A
+1300 -32.91467846 -060.78034212  88.42 gate jets|turboprops Gate 04A
 1301 C airline 
-1300 -32.91509663 -060.78081363 111.07 gate jets|turboprops Gate 3B
+1300 -32.91509663 -060.78081363 111.07 gate jets|turboprops Gate 03B
 1301 C airline 
-1300 -32.91537402 -060.78065939 110.93 gate heavy|jets|turboprops Gate 3
+1300 -32.91537402 -060.78065939 110.93 gate heavy|jets|turboprops Gate 03
 1301 E airline 
-1300 -32.91544223 -060.78067284  89.77 gate jets|turboprops Gate 3A
+1300 -32.91544223 -060.78067284  89.77 gate jets|turboprops Gate 03A
 1301 C airline 
-1300 -32.91587523 -060.78110850 111.08 gate jets|turboprops Gate 2B
+1300 -32.91587523 -060.78110850 111.08 gate jets|turboprops Gate 02B
 1301 C airline 
-1300 -32.91613548 -060.78101952 111.28 gate heavy|jets|turboprops Gate 2
+1300 -32.91613548 -060.78101952 111.28 gate heavy|jets|turboprops Gate 02
 1301 E airline 
-1300 -32.91629784 -060.78101384 111.06 gate jets|turboprops Gate 2A
+1300 -32.91629784 -060.78101384 111.06 gate jets|turboprops Gate 02A
 1301 C airline 
-1300 -32.91664413 -060.78145259 111.60 gate jets|turboprops Gate 1B
+1300 -32.91664413 -060.78145259 111.60 gate jets|turboprops Gate 01B
 1301 C airline 
-1300 -32.91688932 -060.78136424 111.23 gate heavy|jets|turboprops Gate 1
+1300 -32.91688932 -060.78136424 111.23 gate heavy|jets|turboprops Gate 01
 1301 E airline 
-1300 -32.91705417 -060.78135424 110.61 gate jets|turboprops Gate 1A
+1300 -32.91705417 -060.78135424 110.61 gate jets|turboprops Gate 01A
 1301 C airline 
 18 -32.91720612 -060.78051414 1 Rotating Beacon
-50 12740 Rosario ATIS
+50 12740 ATIS
 53 12185 Rosario Ground
 54 11870 Rosario Tower
 99

@@ -18933,17 +18933,17 @@ I
 1301 C none 
 1300  33.93851026 -118.42328357  83.39 misc jets United Airlines Maintenance Apron 13
 1301 C none 
-1300  33.93787281 -118.42827648 -30.04 misc heavy|jets Qantas Airways Maintenance Apron 06
+1300  33.93787281 -118.42827648 -30.04 misc heavy|jets Qantas Maintenance Apron 06
 1301 F none 
-1300  33.93894561 -118.42810894 232.90 misc heavy|jets Qantas Airways Maintenance Apron 05
+1300  33.93894561 -118.42810894 232.90 misc heavy|jets Qantas Maintenance Apron 05
 1301 F none 
-1300  33.93893648 -118.42913892 173.19 misc heavy|jets Qantas Airways Maintenance Apron 04
+1300  33.93893648 -118.42913892 173.19 misc heavy|jets Qantas Maintenance Apron 04
 1301 F none 
-1300  33.93718562 -118.43172777 -97.26 misc heavy|jets Qantas Airways Maintenance Apron 01
+1300  33.93718562 -118.43172777 -97.26 misc heavy|jets Qantas Maintenance Apron 01
 1301 F none 
-1300  33.93794649 -118.43208257 -96.86 misc heavy|jets Qantas Airways Maintenance Apron 02
+1300  33.93794649 -118.43208257 -96.86 misc heavy|jets Qantas Maintenance Apron 02
 1301 F none 
-1300  33.93869966 -118.43266356 -97.54 misc heavy|jets Qantas Airways Maintenance Apron 03
+1300  33.93869966 -118.43266356 -97.54 misc heavy|jets Qantas Maintenance Apron 03
 1301 F none 
 1300  33.94395075 -118.43412010  59.31 gate heavy|jets West Remote Stand 206B
 1301 F airline 
@@ -19087,11 +19087,11 @@ I
 1301 C none 
 1300  33.94124236 -118.39193499 173.24 misc jets East Remote Stand 18
 1301 C none 
-1300  33.94114021 -118.39283475   0.00 misc jets East Remote Stand X1
+1300  33.94114021 -118.39283475   0.00 misc jets East Remote Stand X01
 1301 B none 
-1300  33.94170547 -118.39271783  32.69 misc jets East Remote Stand X2
+1300  33.94170547 -118.39271783  32.69 misc jets East Remote Stand X02
 1301 C none 
-1300  33.94182569 -118.39268469 124.80 misc jets East Remote Stand X3
+1300  33.94182569 -118.39268469 124.80 misc jets East Remote Stand X03
 1301 B none 
 1300  33.94208040 -118.39573128 -90.31 misc jets Delta Airlines Maintenance Apron 01
 1301 D none 
@@ -19375,7 +19375,7 @@ I
 1301 C airline 
 1300  33.94611775 -118.40002953 164.90 gate jets Terminal 1 Gate 09
 1301 C airline 
-1300  33.93383831 -118.39059138 179.80 gate jets FedEx Cargo 13
+1300  33.93383831 -118.39059138 179.80 gate jets FedEx Cargo Apron 13
 1301 D cargo 
 1300  33.93369645 -118.39920040 172.98 tie_down jets|turboprops FBO Atlantic Aviation LAX 01
 1301 C general_aviation 
