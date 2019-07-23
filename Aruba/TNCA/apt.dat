@@ -1766,13 +1766,13 @@ I
 21  12.50311640 -070.02440051 2 104.0800 3.00 11  PAPI-4L
 21  12.49907273 -070.00755545 2 284.0900 3.00 29  PAPI-4L
 14  12.50340716 -070.00728991  98.43 0 PRINCESS BEATRIX INTL.
-1300  12.50384604 -070.01147941 -20.30 gate jets|turboprops Gate 11
+1300  12.50384604 -070.01147941 -20.30 gate jets|turboprops Remote Stand 11
 1301 C airline 
-1300  12.50379864 -070.01089825  15.93 gate jets|turboprops Gate 10
+1300  12.50379864 -070.01089825  15.93 gate jets|turboprops Remote Stand 10
 1301 C airline 
-1300  12.50374559 -070.01070994  13.54 gate heavy|jets|turboprops Gate 09A
+1300  12.50374559 -070.01070994  13.54 gate heavy|jets|turboprops Remote Stand 09A
 1301 E airline 
-1300  12.50370949 -070.01050234  13.41 gate jets|turboprops Gate 09
+1300  12.50370949 -070.01050234  13.41 gate jets|turboprops Remote Stand 09
 1301 C airline 
 1300  12.50346069 -070.01006050  25.78 gate jets|turboprops Gate 08
 1301 C airline 

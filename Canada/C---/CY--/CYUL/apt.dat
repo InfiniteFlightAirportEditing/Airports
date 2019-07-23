@@ -2867,16 +2867,16 @@ I
 111  45.46633815 -073.75619658 54 104
 115  45.46631599 -073.75605421
 120 Linear Feature 80
-111  45.46192148 -073.76443446 4 104
-111  45.46173583 -073.76414635 4 104
+111  45.46192148 -073.76443446 4 103
+111  45.46173583 -073.76414635 4 103
 115  45.46195764 -073.76330167
 120 Linear Feature 79
-111  45.46257053 -073.76024082 4 104
-111  45.46283316 -073.76025398 4 104
+111  45.46257053 -073.76024082 4 103
+111  45.46283316 -073.76025398 4 103
 115  45.46313195 -073.76026896
 120 Linear Feature 79
-111  45.46366955 -073.76106128 4 104
-111  45.46384909 -073.76133964 4 104
+111  45.46366955 -073.76106128 4 103
+111  45.46384909 -073.76133964 4 103
 115  45.46405183 -073.76165396
 120 Linear Feature 78
 111  45.46379439 -073.75686114 54 104
@@ -9209,23 +9209,23 @@ I
 1301 B airline 
 1300  45.46993725 -073.73151212 -46.88 gate jets|turboprops Air Canada Maintenance Apron 01
 1301 C airline 
-1300  45.47524618 -073.72677571 -143.24 gate jets|turboprops Bombardier Aerospace 04
+1300  45.47524618 -073.72677571 -143.24 gate jets|turboprops Bombardier Aerospace Apron 04
 1301 B general_aviation 
-1300  45.47424842 -073.72556290 -45.14 gate jets|turboprops Bombardier Aerospace 03
+1300  45.47424842 -073.72556290 -45.14 gate jets|turboprops Bombardier Aerospace Apron 03
 1301 B general_aviation 
-1300  45.47402942 -073.72581741 -45.13 gate jets|turboprops Bombardier Aerospace 02
+1300  45.47402942 -073.72581741 -45.13 gate jets|turboprops Bombardier Aerospace Apron 02
 1301 B general_aviation 
-1300  45.47384351 -073.72602740 -45.67 gate jets|turboprops Bombardier Aerospace 01
+1300  45.47384351 -073.72602740 -45.67 gate jets|turboprops Bombardier Aerospace Apron 01
 1301 B general_aviation 
-1300  45.47687932 -073.72481628 -138.92 gate jets|turboprops Bombardier Aerospace 05
+1300  45.47687932 -073.72481628 -138.92 gate jets|turboprops Bombardier Aerospace Apron 05
 1301 B general_aviation 
-1300  45.48326941 -073.72928108 -176.35 gate jets|turboprops Bombardier Aerospace 09
+1300  45.48326941 -073.72928108 -176.35 gate jets|turboprops Bombardier Aerospace Apron 09
 1301 B general_aviation 
-1300  45.48346424 -073.72901315 -174.74 gate jets|turboprops Bombardier Aerospace 08
+1300  45.48346424 -073.72901315 -174.74 gate jets|turboprops Bombardier Aerospace Apron 08
 1301 B general_aviation 
-1300  45.48364297 -073.72877042 -170.00 gate jets|turboprops Bombardier Aerospace 07
+1300  45.48364297 -073.72877042 -170.00 gate jets|turboprops Bombardier Aerospace Apron 07
 1301 B general_aviation 
-1300  45.47709761 -073.72510823 -137.38 gate jets|turboprops Bombardier Aerospace 06
+1300  45.47709761 -073.72510823 -137.38 gate jets|turboprops Bombardier Aerospace Apron 06
 1301 B general_aviation 
 1300  45.47916768 -073.73304575  48.44 gate jets|turboprops Air Inuit Maintenance Apron 03
 1301 C airline 
