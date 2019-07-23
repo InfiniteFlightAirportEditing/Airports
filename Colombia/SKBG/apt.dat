@@ -1130,19 +1130,19 @@ I
 1301 C airline 
 1300  07.12727605 -073.18072385  10.68 gate jets|turboprops Gate 04
 1301 C airline 
-1300  07.12629522 -073.18108512 162.72 gate jets|turboprops Gate 05
+1300  07.12629522 -073.18108512 162.72 gate jets|turboprops Remote Stand 05
 1301 B airline 
-1300  07.12632547 -073.18138539 162.63 gate jets|turboprops Gate 06
+1300  07.12632547 -073.18138539 162.63 gate jets|turboprops Remote Stand 06
 1301 B airline 
-1300  07.12638614 -073.18169625 162.53 gate jets|turboprops Gate 07
+1300  07.12638614 -073.18169625 162.53 gate jets|turboprops Remote Stand 07
 1301 B airline 
-1300  07.12644263 -073.18200626 162.66 gate jets|turboprops Gate 08
+1300  07.12644263 -073.18200626 162.66 gate jets|turboprops Remote Stand 08
 1301 B airline 
-1300  07.12649989 -073.18231122 162.32 gate jets|turboprops Gate 09
+1300  07.12649989 -073.18231122 162.32 gate jets|turboprops Remote Stand 09
 1301 B airline 
-1300  07.12745143 -073.18228583 102.10 gate turboprops|props Gate 10
+1300  07.12745143 -073.18228583 102.10 gate turboprops|props Remote Stand 10
 1301 A general_aviation 
-1300  07.12760431 -073.18225048 101.01 gate turboprops|props Gate 11
+1300  07.12760431 -073.18225048 101.01 gate turboprops|props Remote Stand 11
 1301 A general_aviation 
 1300  07.12942708 -073.18324196 -123.61 tie_down turboprops|props Tie Down 01
 1301 A general_aviation 

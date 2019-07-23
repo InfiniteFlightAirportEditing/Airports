@@ -880,21 +880,21 @@ I
 1301 C cargo 
 1300  10.15456306 -067.92049515 -86.86 gate jets|turboprops Cargo Ramp 06C
 1301 C cargo 
-1300  10.15248831 -067.92182443 -89.85 gate jets|turboprops Terminal Apron 03
+1300  10.15248831 -067.92182443 -89.85 gate jets|turboprops Gate 03
 1301 C airline 
-1300  10.15284135 -067.92182803 -90.37 gate jets|turboprops Terminal Apron 02
+1300  10.15284135 -067.92182803 -90.37 gate jets|turboprops Gate 02
 1301 C airline 
-1300  10.15319514 -067.92182788 -90.53 gate jets|turboprops Terminal Apron 01
+1300  10.15319514 -067.92182788 -90.53 gate jets|turboprops Gate 01
 1301 C airline 
-1300  10.15279755 -067.92263352  95.02 gate jets|turboprops Terminal Apron 08
+1300  10.15279755 -067.92263352  95.02 gate jets|turboprops Remote Stand 08
 1301 B airline 
-1300  10.15314939 -067.92262488  92.64 gate jets|turboprops Terminal Apron 07
+1300  10.15314939 -067.92262488  92.64 gate jets|turboprops Remote Stand 07
 1301 B airline 
-1300  10.15242210 -067.92349179  91.22 gate jets|turboprops Terminal Apron 06
+1300  10.15242210 -067.92349179  91.22 gate jets|turboprops Remote Stand 06
 1301 B airline 
-1300  10.15281499 -067.92346211  90.52 gate jets|turboprops Terminal Apron 05
+1300  10.15281499 -067.92346211  90.52 gate jets|turboprops Remote Stand 05
 1301 B airline 
-1300  10.15321365 -067.92338517  92.25 gate jets|turboprops Terminal Apron 04
+1300  10.15321365 -067.92338517  92.25 gate jets|turboprops Remote Stand 04
 1301 B airline 
 18  10.15403863 -067.92285283 1 BCN
 53 12190 Valencia Ground
