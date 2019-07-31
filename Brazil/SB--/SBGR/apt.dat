@@ -4209,11 +4209,11 @@ I
 1301 B military 
 1300 -23.44012122 -046.48215684  42.03 tie_down turboprops|props GA Apron F
 1301 B general_aviation 
-1300 -23.44004169 -046.48221907  45.00 tie_down turboprops|props GA Apron E1
+1300 -23.44004169 -046.48221907  45.00 tie_down turboprops|props GA Apron E01
 1301 A general_aviation 
 1300 -23.43993524 -046.48240599  45.00 tie_down turboprops|props GA Apron E
 1301 B general_aviation 
-1300 -23.43980917 -046.48244568  75.65 tie_down jets|turboprops|props GA Apron D1
+1300 -23.43980917 -046.48244568  75.65 tie_down jets|turboprops|props GA Apron D01
 1301 B general_aviation 
 1300 -23.43977919 -046.48249175 102.75 misc helos Helipad D
 1301 A none 
@@ -4305,19 +4305,19 @@ I
 1301 C airline 
 1300 -23.42902912 -046.48855826 -85.17 gate jets Gate 105L
 1301 C airline 
-1300 -23.42854660 -046.48850611 -85.06 gate jets Cargo 105R
+1300 -23.42854660 -046.48850611 -85.06 gate jets Cargo Apron 105R
 1301 C cargo 
-1300 -23.42812082 -046.48855705 -84.53 gate heavy|jets Cargo 106
+1300 -23.42812082 -046.48855705 -84.53 gate heavy|jets Cargo Apron 106
 1301 E cargo 
-1300 -23.42775932 -046.48831060 -84.31 gate jets Cargo 107L
+1300 -23.42775932 -046.48831060 -84.31 gate jets Cargo Apron 107L
 1301 C cargo 
-1300 -23.42749445 -046.48846890 -84.11 gate heavy|jets Cargo 107
+1300 -23.42749445 -046.48846890 -84.11 gate heavy|jets Cargo Apron 107
 1301 E cargo 
-1300 -23.42718499 -046.48820794 -83.66 gate jets Cargo 108L
+1300 -23.42718499 -046.48820794 -83.66 gate jets Cargo Apron 108L
 1301 C cargo 
-1300 -23.42687882 -046.48835926 -83.97 gate heavy|jets Cargo 108
+1300 -23.42687882 -046.48835926 -83.97 gate heavy|jets Cargo Apron 108
 1301 E cargo 
-1300 -23.42682719 -046.48812840 -83.64 gate jets Cargo 108R
+1300 -23.42682719 -046.48812840 -83.64 gate jets Cargo Apron 108R
 1301 C cargo 
 1300 -23.42711325 -046.48639427  94.90 gate jets Gate 109
 1301 C airline 

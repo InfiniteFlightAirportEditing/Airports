@@ -3186,37 +3186,37 @@ I
 1301 E cargo 
 1300 -00.12811048 -078.35759446 -91.93 gate jets|turboprops Cargo Apron 80A
 1301 C cargo 
-1300 -00.12426613 -078.35734533 -93.84 gate jets|turboprops Gate 67
+1300 -00.12426613 -078.35734533 -93.84 gate jets|turboprops Remote Stand 67
 1301 C airline 
-1300 -00.12464553 -078.35732785 -93.13 gate jets|turboprops Gate 66
+1300 -00.12464553 -078.35732785 -93.13 gate jets|turboprops Remote Stand 66
 1301 C airline 
-1300 -00.12502353 -078.35730647 -92.60 gate jets|turboprops Gate 65
+1300 -00.12502353 -078.35730647 -92.60 gate jets|turboprops Remote Stand 65
 1301 C airline 
-1300 -00.12540266 -078.35729197 -92.06 gate jets|turboprops Gate 64
+1300 -00.12540266 -078.35729197 -92.06 gate jets|turboprops Remote Stand 64
 1301 C airline 
-1300 -00.12575068 -078.35722784 -91.99 gate jets|turboprops Gate 63
+1300 -00.12575068 -078.35722784 -91.99 gate jets|turboprops Remote Stand 63
 1301 C airline 
-1300 -00.12607080 -078.35721871 -91.37 gate jets|turboprops Gate 62
+1300 -00.12607080 -078.35721871 -91.37 gate jets|turboprops Remote Stand 62
 1301 C airline 
-1300 -00.12638955 -078.35721367 -92.07 gate jets|turboprops Gate 61
+1300 -00.12638955 -078.35721367 -92.07 gate jets|turboprops Remote Stand 61
 1301 C airline 
-1300 -00.12427040 -078.35768692  87.25 gate jets|turboprops Gate 56
+1300 -00.12427040 -078.35768692  87.25 gate jets|turboprops Remote Stand 56
 1301 C airline 
-1300 -00.12464936 -078.35767079  87.92 gate jets|turboprops Gate 55
+1300 -00.12464936 -078.35767079  87.92 gate jets|turboprops Remote Stand 55
 1301 C airline 
-1300 -00.12504326 -078.35765252  86.85 gate jets|turboprops Gate 54
+1300 -00.12504326 -078.35765252  86.85 gate jets|turboprops Remote Stand 54
 1301 C airline 
-1300 -00.12548246 -078.35762231  86.47 gate jets|turboprops Gate 53
+1300 -00.12548246 -078.35762231  86.47 gate jets|turboprops Remote Stand 53
 1301 C airline 
-1300 -00.12603817 -078.35763807  87.25 gate jets|turboprops Gate 52
+1300 -00.12603817 -078.35763807  87.25 gate jets|turboprops Remote Stand 52
 1301 C airline 
-1300 -00.12621565 -078.35778053  87.73 gate jets|turboprops Gate 51A
+1300 -00.12621565 -078.35778053  87.73 gate jets|turboprops Remote Stand 51A
 1301 B airline 
-1300 -00.12639122 -078.35761513  88.01 gate jets|turboprops Gate 51
+1300 -00.12639122 -078.35761513  88.01 gate jets|turboprops Remote Stand 51
 1301 C airline 
-1300 -00.12244849 -078.35779256  87.55 gate jets|turboprops Gate 17
+1300 -00.12244849 -078.35779256  87.55 gate jets|turboprops Remote Stand 17
 1301 C airline 
-1300 -00.12282540 -078.35777059  87.96 gate jets|turboprops Gate 16
+1300 -00.12282540 -078.35777059  87.96 gate jets|turboprops Remote Stand 16
 1301 C airline 
 1300 -00.12261093 -078.35962858 -92.80 gate heavy|jets|turboprops Gate 15
 1301 E airline 
@@ -3240,21 +3240,21 @@ I
 1301 C airline 
 1300 -00.13391570 -078.35762437  -1.31 gate jets|turboprops LATAM Ecuador Maintenance Apron 01
 1301 C airline 
-1300 -00.12705461 -078.35945767 -92.46 gate jets|turboprops Gate 07
+1300 -00.12705461 -078.35945767 -92.46 gate jets|turboprops Remote Stand 07
 1301 D airline 
-1300 -00.12754059 -078.35940401 -135.13 gate jets|turboprops Gate 06
+1300 -00.12754059 -078.35940401 -135.13 gate jets|turboprops Remote Stand 06
 1301 B airline 
-1300 -00.12772773 -078.35931606 -135.00 gate heavy|jets|turboprops Gate 05A
+1300 -00.12772773 -078.35931606 -135.00 gate heavy|jets|turboprops Remote Stand 05A
 1301 E airline 
-1300 -00.12770143 -078.35906187 -135.93 gate jets|turboprops Gate 05
+1300 -00.12770143 -078.35906187 -135.93 gate jets|turboprops Remote Stand 05
 1301 C airline 
-1300 -00.12778434 -078.35848963 177.38 gate jets|turboprops Gate 04
+1300 -00.12778434 -078.35848963 177.38 gate jets|turboprops Remote Stand 04
 1301 C airline 
-1300 -00.12776318 -078.35812330 177.55 gate jets|turboprops Gate 03
+1300 -00.12776318 -078.35812330 177.55 gate jets|turboprops Remote Stand 03
 1301 C airline 
-1300 -00.12774505 -078.35774144 176.86 gate jets|turboprops Gate 02
+1300 -00.12774505 -078.35774144 176.86 gate jets|turboprops Remote Stand 02
 1301 C airline 
-1300 -00.12767670 -078.35740003 177.85 gate jets|turboprops Gate 01
+1300 -00.12767670 -078.35740003 177.85 gate jets|turboprops Remote Stand 01
 1301 C airline 
 18 -00.12721034 -078.35989154 1 Airport Beacon
 50 11890 ATIS

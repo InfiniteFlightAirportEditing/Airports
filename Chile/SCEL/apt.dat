@@ -6711,13 +6711,13 @@ I
 21 -33.40269351 -070.80259664 2 357.7100 3.00 35L PAPI-4L
 21 -33.40134831 -070.78594147 2 357.4300 3.00 35R PAPI-4L
 14 -33.39220456 -070.79394740 229.66 0 Tower Viewpoint
-1300 -33.39827194 -070.78939621 176.27 gate jets|turboprops|props Gate 32
+1300 -33.39827194 -070.78939621 176.27 gate jets|turboprops|props Remote Stand 32
 1301 C airline 
-1300 -33.39832847 -070.79066131 176.61 gate jets|turboprops|props Gate 29
+1300 -33.39832847 -070.79066131 176.61 gate jets|turboprops|props Remote Stand 29
 1301 B airline 
-1300 -33.39831827 -070.79027218 176.68 gate jets|turboprops|props Gate 30
+1300 -33.39831827 -070.79027218 176.68 gate jets|turboprops|props Remote Stand 30
 1301 C airline 
-1300 -33.39830194 -070.78985615 176.73 gate jets|turboprops|props Gate 31
+1300 -33.39830194 -070.78985615 176.73 gate jets|turboprops|props Remote Stand 31
 1301 C airline 
 1300 -33.39685379 -070.78950061  -1.74 gate jets|turboprops|props Gate 26
 1301 C airline 
