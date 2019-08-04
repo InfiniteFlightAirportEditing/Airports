@@ -13418,14 +13418,12 @@ I
 1300  29.99268644 -095.31182594 -180.00 gate heavy East Cargo Apron CA01
 1301 E cargo 
 18  29.98420153 -095.32818022 1 BEACON
-50 12405 ATIS
+50 12405 D-ATIS
+50 12295 Unicom
 52 12810 Clearance Delivery
 53 11995 Houston Ground
 53 12170 Houston Ground
 53 11857 Houston Ground
-53 12162 Ramp Control
-53 13127 Ramp Control
-53 13082 Ramp Control
 54 12072 Houston Tower
 54 12535 Houston Tower
 54 13515 Houston Tower
