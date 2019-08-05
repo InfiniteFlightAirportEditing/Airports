@@ -1260,7 +1260,7 @@ I
 111 -34.80124678 -058.53368567 54 103
 115 -34.80110193 -058.53385812
 120 Linear Feature 104
-111 -34.80592707 -058.53742387 55
+111 -34.80592707 -058.53742387 55 103
 115 -34.80587229 -058.53718581
 120 Linear Feature 103
 111 -34.81173333 -058.53484822 2
@@ -2431,15 +2431,19 @@ I
 21 -34.82505519 -058.52297508 2 281.7300 3.00 29 PAPI-4L
 21 -34.82401517 -058.52270218 3 281.8300 3.00 29 PAPI-4R
 14 -34.81363767 -058.54126674 196.85 0 Tower Viewpoint
-1300 -34.80376644 -058.52912623 -45.53 hangar jets Hangar 09
+1300 -34.80376644 -058.52912623 -45.53 hangar jets Aerolineas Argentinas Maintenance Hangar 05
 1301 C none 
-1300 -34.80291815 -058.53013574 -45.53 hangar jets Hangar 08
+1300 -34.80291815 -058.53013574 -45.53 hangar jets Aerolineas Argentinas Maintenance Hangar 04
 1301 C none 
-1300 -34.80182445 -058.53113731  45.84 hangar jets Hangar 07
-1301 C none 
-1300 -34.80117034 -058.53194332  45.84 hangar jets Hangar 06
-1301 C none 
-1300 -34.79879871 -058.52934430 -44.16 hangar heavy|jets Hangar 05
+1300 -34.80017950 -058.53072542 226.49 hangar jets Aerolineas Argentinas Maintenance Apron 02
+1301 E none 
+1300 -34.80074410 -058.52967009  92.41 hangar jets Aerolineas Argentinas Maintenance Apron 01
+1301 E none 
+1300 -34.80182445 -058.53113731  45.84 hangar jets Aerolineas Argentinas Maintenance Hangar 03
+1301 E none 
+1300 -34.80117034 -058.53194332  45.84 hangar jets Aerolineas Argentinas Maintenance Hangar 02
+1301 E none 
+1300 -34.79879871 -058.52934430 -44.16 hangar heavy|jets Aerolineas Argentinas Maintenance Hangar 01
 1301 E none 
 1300 -34.79805291 -058.52638597 -135.89 hangar jets|turboprops|props Hangar 04
 1301 B none 
