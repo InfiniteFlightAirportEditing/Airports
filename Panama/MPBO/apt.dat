@@ -93,6 +93,8 @@ I
 1300  09.34081582 -082.24459807 173.93 gate turboprops|props Gate 02
 1301 A airline 
 18  09.34051232 -082.24456598 1 New Airport Beacon 5
-53 12160 Bocas del Toro Ground
-54 11840 Bocas del Toro Tower
+53 12160 Bocas Ground
+54 11840 Bocas Tower
+55 12550 Panama Control
+55 13300 Panama Control
 99
