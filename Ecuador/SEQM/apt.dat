@@ -3151,7 +3151,7 @@ I
 1300 -00.14052795 -078.35636031 -123.69 misc helos Helipad 01
 1301 A none 
 1300 -00.13680549 -078.35667221 -64.05 tie_down jets|turboprops|props GA Apron 98
-1301 B general_aviation 
+1301 A general_aviation 
 1300 -00.13722652 -078.35668957 -133.96 tie_down jets|turboprops|props GA Apron 97
 1301 B general_aviation 
 1300 -00.13744318 -078.35657818 -126.07 tie_down turboprops|props GA Apron 96

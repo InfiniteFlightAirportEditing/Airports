@@ -2925,9 +2925,9 @@ I
 1300  25.77828852 -100.11255908 -148.38 gate jets|turboprops|props Gate D06B
 1301 C airline 
 1300  25.77847660 -100.11288303 -148.48 gate jets|turboprops|props Gate D07
-1301 C airline 
+1301 D airline 
 1300  25.77875467 -100.11334243 -148.96 gate jets|turboprops|props Gate D08
-1301 C airline 
+1301 D airline 
 1300  25.77903420 -100.11392361 -149.22 gate jets|turboprops|props Gate D09
 1301 C airline 
 1300  25.77924690 -100.11436943 -149.34 gate jets|turboprops|props Gate D10
