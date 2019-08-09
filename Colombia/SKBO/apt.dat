@@ -7285,7 +7285,7 @@ I
 1301 C airline 
 1300  04.69765349 -074.14487506  36.18 gate jets|turboprops Gate 86
 1301 C airline 
-1300  04.69792971 -074.14513062  35.34 gate jets|turboprops Gate 85
+1300  04.69792971 -074.14513062  36.60 gate jets|turboprops Gate 85
 1301 C airline 
 1300  04.69814556 -074.14542716  35.79 gate jets|turboprops Gate 84
 1301 C airline 
@@ -7320,7 +7320,7 @@ I
 1300  04.69861681 -074.14465476 -132.73 gate jets|turboprops Gate 74
 1301 D airline 
 1300  04.70006053 -074.14321615  37.06 gate jets|turboprops Gate 15
-1301 E airline 
+1301 D airline 
 1300  04.70039968 -074.14370709  36.63 gate jets|turboprops Gate 17
 1301 E airline 
 1300  04.70063247 -074.14418316  60.19 gate jets|turboprops Gate 19
@@ -7336,7 +7336,7 @@ I
 1300  04.70103308 -074.14318322 -144.92 gate jets|turboprops Gate 26
 1301 C airline 
 1300  04.70069760 -074.14278084 -161.95 gate jets|turboprops Gate 27
-1301 E airline 
+1301 D airline 
 1300  04.70075676 -074.14233471 -168.65 gate jets|turboprops Gate 28
 1301 D airline 
 1300  04.70042948 -074.14234830 -141.85 gate jets|turboprops Gate 29
@@ -7405,7 +7405,7 @@ I
 1301 C airline 
 1300  04.69610321 -074.13635675 -135.23 gate jets|turboprops Remote Stand 59
 1301 C airline 
-1300  04.69523838 -074.13448839  38.03 gate jets|turboprops Avianca Maintenance Hangar
+1300  04.69491611 -074.13474560 220.61 gate jets|turboprops Avianca Maintenance Hangar
 1301 D airline 
 1300  04.69495765 -074.13415407 -140.97 gate jets|turboprops Regional Apron F10
 1301 C airline 
@@ -7564,7 +7564,7 @@ I
 53 12180 El Dorado Ground
 53 12275 El Dorado Ground
 55 12130 Bogata Approach
-52 11950 Bogota Approach
+55 11950 Bogota Approach
 55 11965 Bogota Approach
 55 11995 Bogota Approach
 99
