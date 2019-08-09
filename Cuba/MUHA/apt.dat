@@ -2269,10 +2269,6 @@ I
 1301 C airline 
 1300  22.99632336 -082.39403617 179.31 gate turboprops Terminal 1 Gate 03
 1301 C airline 
-1300  22.99810874 -082.39136380 -85.34 hangar props Hangar 01
-1301 A none 
-1300  22.99749959 -082.39145816 276.63 hangar turboprops Hangar 02
-1301 B none 
 1300  22.99708417 -082.39209181 138.92 gate turboprops Terminal 1 Gate 07
 1301 C airline 
 1300  22.99666652 -082.39254494 179.84 gate turboprops Terminal 1 Gate 06
@@ -2281,10 +2277,10 @@ I
 1301 C airline 
 1300  22.99632342 -082.39352486 179.22 gate turboprops Terminal 1 Gate 04
 1301 C airline 
-1300  22.99778241 -082.39281468 -175.53 gate turboprops|props Remote Stand 08
-1301 D general_aviation 
-1300  22.99743695 -082.39334248 -175.52 gate turboprops|props Remote Stand 09
-1301 D general_aviation 
+1300  22.99810874 -082.39136380 -85.34 hangar props Hangar 01
+1301 A none 
+1300  22.99749959 -082.39145816 276.63 hangar turboprops Hangar 02
+1301 B none 
 1300  22.98401013 -082.42136860   8.87 gate turboprops|props GA Apron 05
 1301 C airline 
 1300  22.98363683 -082.42169251  51.98 gate turboprops|props GA Apron 04
@@ -2295,10 +2291,14 @@ I
 1301 C airline 
 1300  22.98394490 -082.42310335  54.35 gate turboprops|props GA Apron 01
 1301 C airline 
-1300  23.00089466 -082.39829331 -122.55 gate jets Remote Stand 04
+1300  23.00089466 -082.39829331 -122.55 gate jets Terminal 2 Remote Stand 04
 1301 C airline 
-1300  23.00129233 -082.39860204 -125.66 gate jets Remote Stand 05
+1300  23.00129233 -082.39860204 -125.66 gate jets Terminal 2 Remote Stand 05
 1301 C airline 
+1300  22.99778241 -082.39281468 -175.53 gate turboprops|props Terminal 1 Remote Stand 08
+1301 D general_aviation 
+1300  22.99743695 -082.39334248 -175.52 gate turboprops|props Terminal 1 Remote Stand 09
+1301 D general_aviation 
 1300  22.99640792 -082.40727622  55.70 gate jets|turboprops Terminal 3 Gate 08
 1301 C airline 
 1300  22.99673927 -082.40752407  54.94 gate jets|turboprops Terminal 3 Gate 07
@@ -2315,12 +2315,18 @@ I
 1301 D airline 
 1300  22.99631472 -082.40643843 -59.34 gate jets|turboprops Terminal 3 Gate 11
 1301 D airline 
-1300  22.99541929 -082.40809586 -80.98 gate jets|turboprops Remote Stand 06
+1300  22.99610166 -082.40667502 -12.19 gate heavy|jets Terminal 3 Gate 10
+1301 E airline 
+1300  22.99618435 -082.40700386  32.81 gate jets|turboprops Terminal 3 Gate 09
 1301 C airline 
-1300  22.99442241 -082.40921190 -35.33 gate jets|turboprops Remote Stand 03
+1300  22.99541929 -082.40809586 -80.98 gate jets|turboprops Terminal 3 Remote Stand 06
+1301 C airline 
+1300  22.99442241 -082.40921190 -35.33 gate jets|turboprops Terminal 3 Remote Stand 03
 1301 D airline 
-1300  22.99470471 -082.40875197 -35.42 gate jets|turboprops Remote Stand 04
+1300  22.99470471 -082.40875197 -35.42 gate jets|turboprops Terminal 3 Remote Stand 04
 1301 D airline 
+1300  22.99509307 -082.40819207 -35.44 gate heavy|jets Terminal 3 Remote Stand 05
+1301 E airline 
 1300  22.99061962 -082.41180045 143.49 misc jets|turboprops Maintenance Apron 05
 1301 D none 
 1300  22.99030829 -082.41225522 143.27 misc jets|turboprops Maintenance Apron 04
@@ -2333,12 +2339,6 @@ I
 1301 D none 
 1300  22.99002115 -082.41271422 143.51 misc jets|turboprops Maintenance Apron 03
 1301 D none 
-1300  22.99509307 -082.40819207 -35.44 gate heavy|jets Remote Stand 05
-1301 E airline 
-1300  22.99610166 -082.40667502 -12.19 gate heavy|jets Terminal 3 Gate 10
-1301 E airline 
-1300  22.99618435 -082.40700386  32.81 gate jets|turboprops Terminal 3 Gate 09
-1301 C airline 
 1300  23.00210250 -082.39734606  56.31 gate jets Terminal 2 Gate 03
 1301 D airline 
 1300  23.00150742 -082.39678081  55.99 gate jets Terminal 2 Gate 01A
