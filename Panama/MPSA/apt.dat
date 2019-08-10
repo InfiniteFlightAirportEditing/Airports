@@ -66,6 +66,7 @@ I
 120 Linear Feature 5
 111  08.09110304 -080.94542857 3
 115  08.09107658 -080.94568080
+14  08.09046196 -080.94528518  16.40 0 New Tower Viewpoint 14
 1300  08.09083800 -080.94553222 -98.02 gate props Tie Down 05
 1301 A airline 
 1300  08.09098663 -080.94555541 -107.62 gate props Tie Down 04
@@ -76,5 +77,6 @@ I
 1301 A general_aviation 
 1300  08.09093839 -080.94613427  82.73 tie_down props Tie Down 01
 1301 A general_aviation 
+18  08.09046196 -080.94528518 1 New Airport Beacon 13
 54 12400 Santiago Radio
 99

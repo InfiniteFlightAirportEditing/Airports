@@ -52,6 +52,7 @@ I
 111  07.59044432 -078.17901375
 111  07.58599566 -078.18068947
 113  07.58615058 -078.18089913
+14  07.58503800 -078.18058447  16.40 0 New Tower Viewpoint 44
 1300  07.58548623 -078.18078679 130.85 tie_down turboprops|props Tie Down 06
 1301 A general_aviation 
 1300  07.58534597 -078.18087206 130.85 tie_down turboprops|props Tie Down 05
@@ -64,4 +65,5 @@ I
 1301 A general_aviation 
 1300  07.58453332 -078.18114731  91.91 tie_down turboprops|props Tie Down 01
 1301 A general_aviation 
+18  07.58503800 -078.18058447 1 New Airport Beacon 45
 99
