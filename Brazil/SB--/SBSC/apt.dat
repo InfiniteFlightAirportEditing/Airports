@@ -1665,13 +1665,13 @@ I
 1300 -22.92562831 -043.71327052 -155.96 misc helos Military Helipad 74
 1301 A none 
 1300 -22.92628927 -043.71281047 -155.56 tie_down jets|turboprops Military 73
-1301 A military 
+1301 B military 
 1300 -22.92620932 -043.71298589 -155.87 tie_down jets|turboprops Military 72
-1301 A military 
+1301 B military 
 1300 -22.92613324 -043.71316555 -156.09 tie_down jets|turboprops Military 71
-1301 A military 
+1301 B military 
 1300 -22.92606762 -043.71333366 -156.89 tie_down jets|turboprops Military 70
-1301 A military 
+1301 B military 
 1300 -22.92663537 -043.71369456 113.33 tie_down helos|fighters Military 69
 1301 A military 
 1300 -22.92680499 -043.71377193 113.46 tie_down helos|fighters Military 68
@@ -1695,27 +1695,27 @@ I
 1300 -22.92831819 -043.71452097 114.68 tie_down helos|fighters Military 59
 1301 A military 
 1300 -22.92648577 -043.71405878 113.88 tie_down fighters Military 58
-1301 B military 
+1301 C military 
 1300 -22.92665427 -043.71414083 113.60 tie_down fighters Military 57
-1301 B military 
+1301 C military 
 1300 -22.92682414 -043.71422199 113.54 tie_down fighters Military 56
-1301 B military 
+1301 C military 
 1300 -22.92699171 -043.71430872 113.29 tie_down fighters Military 55
-1301 B military 
+1301 C military 
 1300 -22.92715967 -043.71438705 113.15 tie_down fighters Military 54
-1301 B military 
+1301 C military 
 1300 -22.92733183 -043.71446315 113.70 tie_down fighters Military 53
-1301 B military 
+1301 C military 
 1300 -22.92749823 -043.71454873 113.76 tie_down fighters Military 52
-1301 B military 
+1301 C military 
 1300 -22.92766795 -043.71462986 114.02 tie_down fighters Military 51
-1301 B military 
+1301 C military 
 1300 -22.92783110 -043.71470172 111.78 tie_down fighters Military 50
-1301 B military 
+1301 C military 
 1300 -22.92800291 -043.71479819 113.79 tie_down fighters Military 49
-1301 B military 
+1301 C military 
 1300 -22.92817262 -043.71489214 114.89 tie_down fighters Military 48
-1301 B military 
+1301 C military 
 1300 -22.92924289 -043.71396255 -65.97 tie_down fighters Military 47
 1301 A military 
 1300 -22.92937775 -043.71401949 -65.96 tie_down fighters Military 46
