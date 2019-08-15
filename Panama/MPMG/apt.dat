@@ -732,13 +732,15 @@ I
 21  08.97808210 -079.55474554 2 185.0300 3.00 18  PAPI-4L
 21  08.96818456 -079.55653589 2 5.0300 3.00 36  PAPI-4L
 14  08.97150818 -079.55739174  65.62 0 New Tower Viewpoint 1
-1300  08.97241022 -079.55851931  94.46 gate jets|props Air Panama Maintenance Apron 01
+1300  08.97256237 -079.55843929 121.92 gate jets|props Air Panama Maintenance Apron 01
 1301 B airline 
-1300  08.97218969 -079.55857488  86.08 gate jets|props Air Panama Maintenance Apron 02
+1300  08.97233986 -079.55855088 109.24 gate jets|props Air Panama Maintenance Apron 02
 1301 B airline 
-1300  08.97251510 -079.55902617  86.08 gate jets|props Air Panama Maintenance Hangar 02
+1300  08.97277309 -079.55910332 294.11 gate jets|props Air Panama Maintenance Hangar 03
 1301 B airline 
-1300  08.97227268 -079.55911258  86.08 gate jets|props Air Panama Maintenance Hangar 01
+1300  08.97254309 -079.55919454 294.11 gate jets|props Air Panama Maintenance Hangar 02
+1301 B airline 
+1300  08.97230726 -079.55929428 292.93 gate jets|props Air Panama Maintenance Hangar 01
 1301 B airline 
 1300  08.96769779 -079.56029224 111.50 gate jets|props FBO Signature Flight Support PAC 02
 1301 B general_aviation 
@@ -770,7 +772,9 @@ I
 1301 A general_aviation 
 1300  08.97030600 -079.55694296 119.93 gate jets FBO MAG Flight Training 01
 1301 A general_aviation 
-1300  08.97317609 -079.55669084 169.22 gate jets FBO Panama Jet Center
+1300  08.97306627 -079.55671608  45.36 gate jets FBO Panama Jet Center 02
+1301 A general_aviation 
+1300  08.97325728 -079.55672441 169.22 gate jets FBO Panama Jet Center 01
 1301 A general_aviation 
 1300  08.96951192 -079.55985296 -70.26 gate jets|props Gate 02
 1301 B airline 
