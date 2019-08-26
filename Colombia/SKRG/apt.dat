@@ -2366,9 +2366,9 @@ I
 1301 B military 
 1300  06.16958070 -075.42639146 123.43 gate jets|turboprops Remote Stand R01
 1301 C airline 
-1300  06.16702209 -075.42744474  89.49 gate jets|turboprops Avianca MRO Hangar 04
+1300  06.16702209 -075.42744474  89.49 gate jets|turboprops Avianca MRO Hangar 01
 1301 E airline 
-1300  06.16650254 -075.42788455 -90.19 gate jets|turboprops Avianca MRO Hangar 03
+1300  06.16650254 -075.42788455 -90.19 gate jets|turboprops Avianca MRO Hangar 02
 1301 E airline 
 1300  06.16640512 -075.42686162 -91.44 gate jets|turboprops Avianca MRO Apron 02
 1301 C airline 
@@ -2461,7 +2461,7 @@ I
 1300  06.17480268 -075.42705716 -90.51 gate jets|turboprops Cargo Apron C01A
 1301 E cargo 
 1300  06.17425745 -075.42697846 -116.60 gate jets|turboprops Cargo Apron C01
-1301 D cargo 
+1301 C cargo 
 1300  06.17541309 -075.42696639 -90.13 gate jets|turboprops Cargo Apron C03
 1301 D cargo 
 1300  06.17592063 -075.42696952 -89.78 gate jets|turboprops Cargo Apron C04

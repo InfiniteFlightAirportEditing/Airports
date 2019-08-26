@@ -1193,6 +1193,8 @@ I
 1301 D cargo 
 1300  17.93467148 -076.77834275 -67.64 gate jets|turboprops Cargo Apron 17
 1301 C cargo 
+1300  17.93510181 -076.77576941 -143.74 misc jets|turboprops Maintenance Hangar
+1301 C none 
 1300  17.93477410 -076.77603765 310.77 misc jets|turboprops Maintenance Apron 02
 1301 D none 
 1300  17.93472654 -076.77642220  68.91 misc jets|turboprops Maintenance Apron 01

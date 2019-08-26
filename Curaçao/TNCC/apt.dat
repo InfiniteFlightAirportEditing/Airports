@@ -1618,9 +1618,9 @@ I
 1301 D airline 
 1300  12.18542354 -068.95729823 -167.02 gate jets|turboprops Gate 04
 1301 D airline 
-1300  12.18550597 -068.95906330 -166.88 gate jets|turboprops Gate 05B
+1300  12.18550597 -068.95906330 -166.88 gate jets|turboprops Remote Stand 05B
 1301 C airline 
-1300  12.18557886 -068.95876561 -167.63 gate jets|turboprops Gate 05A
+1300  12.18557886 -068.95876561 -167.63 gate jets|turboprops Remote Stand 05A
 1301 E airline 
 1300  12.18539738 -068.95805286 -167.41 gate jets|turboprops Gate 05
 1301 E airline 
@@ -1646,9 +1646,9 @@ I
 1301 D cargo 
 1300  12.18679753 -068.96213099 155.15 gate jets|turboprops Cargo Apron 16
 1301 D cargo 
-1300  12.18392557 -068.95264183 106.24 gate jets|turboprops Maintenance Hangar 02
+1300  12.18382779 -068.95197121 110.94 gate jets|turboprops Maintenance Hangar
 1301 C airline 
-1300  12.18420718 -068.95260455 217.45 gate jets|turboprops Maintenance Hangar 01
+1300  12.18420718 -068.95260455 217.45 gate jets|turboprops Maintenance Apron
 1301 C airline 
 1300  12.18407729 -068.95336692  55.18 gate jets|turboprops GA Apron 09
 1301 B general_aviation 
