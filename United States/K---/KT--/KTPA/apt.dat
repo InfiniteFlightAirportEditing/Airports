@@ -6644,19 +6644,19 @@ I
 1301 C airline 
 1300  27.97756386 -082.53191802 -151.18 gate jets|turboprops Gate A17
 1301 C airline 
-1300  27.98041407 -082.53190428 -127.56 tie_down jets|turboprops Remote Stand A26
+1300  27.98041407 -082.53190428 -127.56 tie_down jets|turboprops Hardstand A26
 1301 C airline 
-1300  27.98034369 -082.53128228 -127.56 tie_down jets|turboprops Remote Stand A25
+1300  27.98034369 -082.53128228 -127.56 tie_down jets|turboprops Hardstand A25
 1301 C airline 
-1300  27.98007848 -082.53132741 -88.45 tie_down jets|turboprops Remote Stand A24
+1300  27.98007848 -082.53132741 -88.45 tie_down jets|turboprops Hardstand A24
 1301 C airline 
-1300  27.97969914 -082.53133992 -88.86 tie_down heavy|jets|turboprops Remote Stand A23
+1300  27.97969914 -082.53133992 -88.86 tie_down heavy|jets|turboprops Hardstand A23
 1301 C airline 
-1300  27.97932032 -082.53135067 -88.19 tie_down jets|turboprops Remote Stand A22
+1300  27.97932032 -082.53135067 -88.19 tie_down jets|turboprops Hardstand A22
 1301 C airline 
-1300  27.97910626 -082.53147192 -43.31 tie_down jets|turboprops Remote Stand A21
+1300  27.97910626 -082.53147192 -43.31 tie_down jets|turboprops Hardstand A21
 1301 C airline 
-1300  27.97892083 -082.53190693 -43.16 tie_down jets|turboprops Remote Stand A20
+1300  27.97892083 -082.53190693 -43.16 tie_down jets|turboprops Hardstand A20
 1301 C airline 
 1300  27.98166899 -082.53159423 -16.72 gate jets|turboprops Gate C31
 1301 C airline 

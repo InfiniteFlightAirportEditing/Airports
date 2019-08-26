@@ -18405,16 +18405,16 @@ I
 1301 B general_aviation 
 1300  25.80561520 -080.28772106 179.34 tie_down jets|turboprops FBO IBC Airways 01
 1301 B general_aviation 
-1300  25.80713604 -080.28299712  -3.11 tie_down jets|turboprops FBO AAR Aircraft Hangar 03
+1300  25.80713604 -080.28299712  -3.11 tie_down jets|turboprops AAR Aircraft Hangar 03
 1301 E general_aviation 
-1300  25.80712132 -080.28371081  -3.11 tie_down jets|turboprops FBO AAR Aircraft Hangar 02
+1300  25.80712132 -080.28371081  -3.11 tie_down jets|turboprops AAR Aircraft Hangar 02
 1301 E general_aviation 
-1300  25.80708209 -080.28445719  -3.11 tie_down jets|turboprops FBO AAR Aircraft Hangar 01
+1300  25.80708209 -080.28445719  -3.11 tie_down jets|turboprops AAR Aircraft Hangar 01
 1301 E general_aviation 
-1300  25.80669940 -080.28190479 177.06 tie_down jets|turboprops FBO AAR Aircraft Apron 12
-1301 C general_aviation 
-1300  25.80666632 -080.28233353 177.06 tie_down jets|turboprops FBO AAR Aircraft Apron 11
-1301 C general_aviation 
+1300  25.80654229 -080.28141719 -138.82 tie_down jets|turboprops FBO AAR Aircraft Apron 12
+1301 D general_aviation 
+1300  25.80648149 -080.28207690 177.06 tie_down jets|turboprops FBO AAR Aircraft Apron 11
+1301 E general_aviation 
 1300  25.80585551 -080.27926665  -2.91 tie_down jets|turboprops FBO AAR Aircraft Apron 10
 1301 C general_aviation 
 1300  25.80584020 -080.27970561  -2.91 tie_down jets|turboprops FBO AAR Aircraft Apron 09
