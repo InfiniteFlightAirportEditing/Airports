@@ -1303,7 +1303,10 @@ I
 111 -33.38685504 -070.79783237
 112 -33.38666679 -070.79774458 -33.38658676 -070.79766046
 111 -33.38657799 -070.79750717
+111 -33.38655760 -070.79750837
 111 -33.38636023 -070.79751994
+112 -33.38641979 -070.79931768 -33.38647935 -070.80111542
+111 -33.38641979 -070.79931768
 112 -33.38641979 -070.79931768 -33.38642178 -070.79952381
 112 -33.38613312 -070.79970591 -33.38598527 -070.79971749
 111 -33.38560685 -070.79973643
@@ -2565,19 +2568,19 @@ I
 111 -33.40327317 -070.78757816 56 103
 115 -33.40327249 -070.78719396
 120 Linear Feature 22
-111 -33.40282245 -070.80011898 52 103
+111 -33.40282245 -070.80011898 52
 115 -33.40281375 -070.79983369
 120 Linear Feature 21
-111 -33.39787079 -070.80038024 52 103
+111 -33.39787079 -070.80038024 52
 115 -33.39785882 -070.79999970
 120 Linear Feature 20
-111 -33.39993570 -070.80032730 52 103
+111 -33.39993570 -070.80032730 52
 115 -33.39992748 -070.80001137
 120 Linear Feature 19
-111 -33.40542010 -070.80009095 52 103
+111 -33.40542010 -070.80009095 52
 115 -33.40540066 -070.79958846
 120 Linear Feature 18
-111 -33.40434006 -070.80003702 52 103
+111 -33.40434006 -070.80003702 52
 115 -33.40432653 -070.79964184
 120 Linear Feature 17
 111 -33.40803305 -070.78656665 54 103
@@ -2610,25 +2613,25 @@ I
 111 -33.40038789 -070.80116536 54 103
 115 -33.40027094 -070.80094254
 120 Linear Feature 8
-111 -33.39896679 -070.80032410 52 103
+111 -33.39896679 -070.80032410 52
 115 -33.39895883 -070.79993820
 120 Linear Feature 7
-111 -33.39661103 -070.80044844 52 103
+111 -33.39661103 -070.80044844 52
 115 -33.39660478 -070.80017734
 120 Linear Feature 6
 111 -33.39407009 -070.80150867 54 103
 115 -33.39394813 -070.80128690
 120 Linear Feature 5
-111 -33.39295996 -070.80064331 52 103
+111 -33.39295996 -070.80064331 52
 115 -33.39294727 -070.80025925
 120 Linear Feature 1
 111 -33.38340255 -070.79320898 55
 115 -33.38340828 -070.79331892
 120 Linear Feature 4
-111 -33.38349453 -070.79070907 52 103
+111 -33.38349453 -070.79070907 52
 115 -33.38372144 -070.79069668
 120 Linear Feature 4
-111 -33.38379437 -070.79896177 52 103
+111 -33.38379437 -070.79896177 52
 115 -33.38401161 -070.79895584
 120 Linear Feature 3
 111 -33.37119347 -070.80257369 54 103
@@ -3294,6 +3297,7 @@ I
 112 -33.39014537 -070.79313262 -33.39014306 -070.79307194 53
 115 -33.39017531 -070.79301609
 120 Linear Feature 10
+111 -33.38655760 -070.79750837 53 102
 111 -33.38636023 -070.79751994 53 102
 111 -33.38641979 -070.79931768
 112 -33.38641979 -070.79931768 -33.38642178 -070.79952381 53 102
@@ -3452,7 +3456,7 @@ I
 115 -33.38812816 -070.79552104
 120 Linear Feature 9
 111 -33.38685343 -070.79785514 53 102
-116 -33.38655911 -070.79751910 -33.38652534 -070.79715909
+116 -33.38655760 -070.79750837 -33.38652490 -070.79714194
 120 Linear Feature 8
 111 -33.38688421 -070.79865647 53 102
 112 -33.38663606 -070.79839193 -33.38662617 -070.79811871 53 102
@@ -6711,13 +6715,13 @@ I
 21 -33.40269351 -070.80259664 2 357.7100 3.00 35L PAPI-4L
 21 -33.40134831 -070.78594147 2 357.4300 3.00 35R PAPI-4L
 14 -33.39220456 -070.79394740 229.66 0 Tower Viewpoint
-1300 -33.39827194 -070.78939621 176.27 gate jets|turboprops|props Gate 32
+1300 -33.39827194 -070.78939621 176.27 gate jets|turboprops|props Remote Stand 32
 1301 C airline 
-1300 -33.39832847 -070.79066131 176.61 gate jets|turboprops|props Gate 29
+1300 -33.39832847 -070.79066131 176.61 gate jets|turboprops|props Remote Stand 29
 1301 B airline 
-1300 -33.39831827 -070.79027218 176.68 gate jets|turboprops|props Gate 30
+1300 -33.39831827 -070.79027218 176.68 gate jets|turboprops|props Remote Stand 30
 1301 C airline 
-1300 -33.39830194 -070.78985615 176.73 gate jets|turboprops|props Gate 31
+1300 -33.39830194 -070.78985615 176.73 gate jets|turboprops|props Remote Stand 31
 1301 C airline 
 1300 -33.39685379 -070.78950061  -1.74 gate jets|turboprops|props Gate 26
 1301 C airline 
@@ -6745,63 +6749,63 @@ I
 1301 E airline 
 1300 -33.39618687 -070.79605689 177.86 gate jets|turboprops|props Gate 16
 1301 E airline 
-1300 -33.40800536 -070.79534008  88.83 gate jets|turboprops|props Remote Stand W9
+1300 -33.40800536 -070.79534008  88.83 gate jets|turboprops|props Remote Stand W09
 1301 E airline 
-1300 -33.40816642 -070.79546534  88.32 gate jets|turboprops|props Remote Stand W9A
+1300 -33.40816642 -070.79546534  88.32 gate jets|turboprops|props Remote Stand W09A
 1301 C airline 
-1300 -33.40742812 -070.79555624  86.70 gate jets|turboprops|props Remote Stand W7A
+1300 -33.40742812 -070.79555624  86.70 gate jets|turboprops|props Remote Stand W07A
 1301 C airline 
-1300 -33.40778782 -070.79541010  87.52 gate jets|turboprops|props Remote Stand W9B
+1300 -33.40778782 -070.79541010  87.52 gate jets|turboprops|props Remote Stand W09B
 1301 C airline 
-1300 -33.40706085 -070.79556470  86.04 gate jets|turboprops|props Remote Stand W7B
+1300 -33.40706085 -070.79556470  86.04 gate jets|turboprops|props Remote Stand W07B
 1301 C airline 
-1300 -33.40735033 -070.79540556  87.42 gate jets|turboprops|props Remote Stand W7
+1300 -33.40735033 -070.79540556  87.42 gate jets|turboprops|props Remote Stand W07
 1301 E airline 
-1300 -33.40672042 -070.79539346  88.22 gate jets|turboprops|props Remote Stand W5
+1300 -33.40672042 -070.79539346  88.22 gate jets|turboprops|props Remote Stand W05
 1301 E airline 
-1300 -33.40606312 -070.79544203  89.18 gate jets|turboprops|props Remote Stand W3
+1300 -33.40606312 -070.79544203  89.18 gate jets|turboprops|props Remote Stand W03
 1301 E airline 
-1300 -33.40538066 -070.79548319  87.63 gate jets|turboprops|props Remote Stand W1
+1300 -33.40538066 -070.79548319  87.63 gate jets|turboprops|props Remote Stand W01
 1301 E airline 
-1300 -33.39943720 -070.79729149 177.18 gate jets|turboprops|props Gate C2A
+1300 -33.39943720 -070.79729149 177.18 gate jets|turboprops|props Gate C02A
 1301 C airline 
-1300 -33.39940295 -070.79819152 177.68 gate jets|turboprops|props Gate C4A
+1300 -33.39940295 -070.79819152 177.68 gate jets|turboprops|props Gate C04A
 1301 C airline 
-1300 -33.40243526 -070.79801501 172.46 gate jets|turboprops|props Gate E6A
+1300 -33.40243526 -070.79801501 172.46 gate jets|turboprops|props Gate E06A
 1301 C airline 
-1300 -33.40053203 -070.79761697  -3.25 gate jets|turboprops|props Gate C5A
+1300 -33.40053203 -070.79761697  -3.25 gate jets|turboprops|props Gate C05A
 1301 C airline 
-1300 -33.40389100 -070.79744083  -2.13 gate jets|turboprops|props Gate E5A
+1300 -33.40389100 -070.79744083  -2.13 gate jets|turboprops|props Gate E05A
 1301 C airline 
-1300 -33.40042203 -070.79685434   4.78 gate jets|turboprops|props Gate C3
+1300 -33.40042203 -070.79685434   4.78 gate jets|turboprops|props Gate C03
 1301 E airline 
-1300 -33.40357975 -070.79670430   2.42 gate jets|turboprops|props Gate E3
+1300 -33.40357975 -070.79670430   2.42 gate jets|turboprops|props Gate E03
 1301 E airline 
-1300 -33.39939432 -070.79714692 -179.83 gate jets|turboprops|props Gate C2
+1300 -33.39939432 -070.79714692 -179.83 gate jets|turboprops|props Gate C02
 1301 E airline 
-1300 -33.39944928 -070.79800921 -179.04 gate jets|turboprops|props Gate C4
+1300 -33.39944928 -070.79800921 -179.04 gate jets|turboprops|props Gate C04
 1301 E airline 
-1300 -33.40263291 -070.79783964 178.99 gate jets|turboprops|props Gate E6
+1300 -33.40263291 -070.79783964 178.99 gate jets|turboprops|props Gate E06
 1301 E airline 
-1300 -33.40045745 -070.79775220  -0.31 gate jets|turboprops|props Gate C5
+1300 -33.40045745 -070.79775220  -0.31 gate jets|turboprops|props Gate C05
 1301 E airline 
-1300 -33.40368163 -070.79757141   3.15 gate jets|turboprops|props Gate E5
+1300 -33.40368163 -070.79757141   3.15 gate jets|turboprops|props Gate E05
 1301 E airline 
-1300 -33.40041509 -070.79582699  -4.20 gate jets|turboprops|props Gate C1A
+1300 -33.40041509 -070.79582699  -4.20 gate jets|turboprops|props Gate C01A
 1301 C airline 
-1300 -33.40384634 -070.79563429  -3.09 gate jets|turboprops|props Gate E1A
+1300 -33.40384634 -070.79563429  -3.09 gate jets|turboprops|props Gate E01A
 1301 C airline 
-1300 -33.40051206 -070.79674301  -7.93 gate jets|turboprops|props Gate C3A
+1300 -33.40051206 -070.79674301  -7.93 gate jets|turboprops|props Gate C03A
 1301 C airline 
-1300 -33.40376455 -070.79654247  -2.79 gate jets|turboprops|props Gate E3A
+1300 -33.40376455 -070.79654247  -2.79 gate jets|turboprops|props Gate E03A
 1301 C airline 
-1300 -33.40063358 -070.79622767  -0.38 gate jets|turboprops|props Gate C1B
+1300 -33.40063358 -070.79622767  -0.38 gate jets|turboprops|props Gate C01B
 1301 C airline 
-1300 -33.40384667 -070.79605329  -0.06 gate jets|turboprops|props Gate E1B
+1300 -33.40384667 -070.79605329  -0.06 gate jets|turboprops|props Gate E01B
 1301 C airline 
-1300 -33.40068542 -070.79713507  -0.82 gate jets|turboprops|props Gate C3B
+1300 -33.40068542 -070.79713507  -0.82 gate jets|turboprops|props Gate C03B
 1301 C airline 
-1300 -33.40390716 -070.79696431  -0.87 gate jets|turboprops|props Gate E3B
+1300 -33.40390716 -070.79696431  -0.87 gate jets|turboprops|props Gate E03B
 1301 C airline 
 1300 -33.39413767 -070.78961525  -0.97 gate jets|turboprops|props Remote Stand 25L
 1301 C airline 
@@ -6809,124 +6813,130 @@ I
 1301 C airline 
 1300 -33.39413522 -070.79056619  -0.11 gate jets|turboprops|props Remote Stand 23L
 1301 C airline 
-1300 -33.39742802 -070.79697820  -2.07 gate jets|turboprops|props Remote Stand A5
+1300 -33.39742802 -070.79697820  -2.07 gate jets|turboprops|props Remote Stand A05
 1301 C airline 
-1300 -33.39742256 -070.79746086  -2.21 gate jets|turboprops|props Remote Stand A4
+1300 -33.39742256 -070.79746086  -2.21 gate jets|turboprops|props Remote Stand A04
 1301 C airline 
-1300 -33.39743284 -070.79793788  -2.27 gate jets|turboprops|props Remote Stand A3
+1300 -33.39743284 -070.79793788  -2.27 gate jets|turboprops|props Remote Stand A03
 1301 C airline 
-1300 -33.39746976 -070.79842590  -2.54 gate jets|turboprops|props Remote Stand A2
+1300 -33.39746976 -070.79842590  -2.54 gate jets|turboprops|props Remote Stand A02
 1301 C airline 
-1300 -33.39914114 -070.79687821 179.60 gate jets|turboprops|props Gate C2B
+1300 -33.39914114 -070.79687821 179.60 gate jets|turboprops|props Gate C02B
 1301 C airline 
-1300 -33.39931165 -070.79781200 -176.22 gate jets|turboprops|props Gate C4B
+1300 -33.39931165 -070.79781200 -176.22 gate jets|turboprops|props Gate C04B
 1301 C airline 
-1300 -33.40243298 -070.79760384 179.76 gate jets|turboprops|props Gate E6B
+1300 -33.40243298 -070.79760384 179.76 gate jets|turboprops|props Gate E06B
 1301 C airline 
-1300 -33.40069751 -070.79804306  -1.58 gate jets|turboprops|props Gate C5B
+1300 -33.40069751 -070.79804306  -1.58 gate jets|turboprops|props Gate C05B
 1301 C airline 
-1300 -33.40388369 -070.79787140   0.94 gate jets|turboprops|props Gate E5B
+1300 -33.40388369 -070.79787140   0.94 gate jets|turboprops|props Gate E05B
 1301 C airline 
-1300 -33.40564987 -070.79794037 -93.18 gate jets|turboprops|props Remote Stand W2
+1300 -33.40564987 -070.79794037 -93.18 gate jets|turboprops|props Remote Stand W02
 1301 E airline 
-1300 -33.40629124 -070.79791117 -92.06 gate jets|turboprops|props Remote Stand W4
+1300 -33.40629124 -070.79791117 -92.06 gate jets|turboprops|props Remote Stand W04
 1301 E airline 
-1300 -33.40694487 -070.79785876 -91.50 gate jets|turboprops|props Remote Stand W6
+1300 -33.40694487 -070.79785876 -91.50 gate jets|turboprops|props Remote Stand W06
 1301 E airline 
-1300 -33.40760073 -070.79787441 -92.17 gate jets|turboprops|props Remote Stand W8
+1300 -33.40760073 -070.79787441 -92.17 gate jets|turboprops|props Remote Stand W08
 1301 E airline 
 1300 -33.39626104 -070.79670217 143.26 gate jets|turboprops|props Gate 15
 1301 E airline 
-1300 -33.40446201 -070.78954228 -92.88 gate jets|turboprops|props Cargo Ramp 40B
+1300 -33.40446201 -070.78954228 -92.88 gate jets|turboprops|props Cargo Apron 40B
 1301 D airline 
-1300 -33.40457261 -070.78964195 -91.85 gate jets|turboprops|props Cargo Ramp 40
+1300 -33.40457261 -070.78964195 -91.85 gate jets|turboprops|props Cargo Apron 40
 1301 E airline 
-1300 -33.40727356 -070.78929911 -92.60 gate jets|turboprops|props Cargo Ramp 44B
+1300 -33.40727356 -070.78929911 -92.60 gate jets|turboprops|props Cargo Apron 44B
 1301 C airline 
-1300 -33.40689734 -070.78937015 -93.01 gate jets|turboprops|props Cargo Ramp 44A
+1300 -33.40689734 -070.78937015 -93.01 gate jets|turboprops|props Cargo Apron 44A
 1301 C airline 
-1300 -33.40902063 -070.78935162 -91.69 gate jets|turboprops|props Cargo Ramp 47
+1300 -33.40902063 -070.78935162 -91.69 gate jets|turboprops|props Cargo Apron 47
 1301 E airline 
-1300 -33.40837758 -070.78941437 -91.99 gate jets|turboprops|props Cargo Ramp 46
+1300 -33.40837758 -070.78941437 -91.99 gate jets|turboprops|props Cargo Apron 46
 1301 E airline 
-1300 -33.40766956 -070.78951045 -91.02 gate jets|turboprops|props Cargo Ramp 45
+1300 -33.40766956 -070.78951045 -91.02 gate jets|turboprops|props Cargo Apron 45
 1301 E airline 
-1300 -33.40702533 -070.78951413 -92.61 gate jets|turboprops|props Cargo Ramp 44
+1300 -33.40702533 -070.78951413 -92.61 gate jets|turboprops|props Cargo Apron 44
 1301 E airline 
-1300 -33.40637972 -070.78950957 -91.96 gate jets|turboprops|props Cargo Ramp 43
+1300 -33.40637972 -070.78950957 -91.96 gate jets|turboprops|props Cargo Apron 43
 1301 E airline 
-1300 -33.40550766 -070.78956104 -91.83 gate jets|turboprops|props Cargo Ramp 41
+1300 -33.40550766 -070.78956104 -91.83 gate jets|turboprops|props Cargo Apron 41
 1301 E airline 
-1300 -33.38889724 -070.79501348 -93.51 gate jets|turboprops|props GA Ramp 8
+1300 -33.38889724 -070.79501348 -93.51 gate jets|turboprops|props GA Apron 08
 1301 B general_aviation 
-1300 -33.38855397 -070.79502447 -91.34 gate jets|turboprops|props GA Ramp 7
+1300 -33.38855397 -070.79502447 -91.34 gate jets|turboprops|props GA Apron 07
 1301 B general_aviation 
-1300 -33.38784042 -070.79541641 -88.21 gate jets|turboprops|props GA Ramp 6
+1300 -33.38784042 -070.79541641 -88.21 gate jets|turboprops|props GA Apron 06
 1301 B general_aviation 
-1300 -33.38746918 -070.79543401 -89.67 gate jets|turboprops|props GA Ramp 4
+1300 -33.38746918 -070.79543401 -89.67 gate jets|turboprops|props GA Apron 04
 1301 B general_aviation 
-1300 -33.38714205 -070.79544721 -91.43 gate jets|turboprops|props GA Ramp 2
+1300 -33.38714205 -070.79544721 -91.43 gate jets|turboprops|props GA Apron 02
 1301 B general_aviation 
-1300 -33.38776449 -070.79589314  87.05 gate jets|turboprops|props GA Ramp 5
+1300 -33.38776449 -070.79589314  87.05 gate jets|turboprops|props GA Apron 05
 1301 B general_aviation 
-1300 -33.38747124 -070.79591612  89.73 gate jets|turboprops|props GA Ramp 3
+1300 -33.38747124 -070.79591612  89.73 gate jets|turboprops|props GA Apron 03
 1301 B airline 
-1300 -33.38716577 -070.79592303  88.48 gate jets|turboprops|props GA Ramp 1
+1300 -33.38716577 -070.79592303  88.48 gate jets|turboprops|props GA Apron 01
 1301 B general_aviation 
-1300 -33.38923337 -070.79499702 -92.11 gate jets|turboprops|props GA Ramp 9
+1300 -33.38923337 -070.79499702 -92.11 gate jets|turboprops|props GA Apron 09
 1301 B general_aviation 
-1300 -33.37434049 -070.79140235  39.27 gate jets|turboprops|props FAC Stand 02
+1300 -33.37434049 -070.79140235  39.27 gate jets|turboprops|props Military Apron 02
 1301 D military 
-1300 -33.37447514 -070.79251290 -42.43 gate jets|turboprops|props FAC Stand 01
+1300 -33.37447514 -070.79251290 -42.43 gate jets|turboprops|props Military Apron 01
 1301 D military 
-1300 -33.37580792 -070.79229802 178.27 gate jets|turboprops|props FAC Stand 03
+1300 -33.37580792 -070.79229802 178.27 gate jets|turboprops|props Military Apron 03
 1301 C airline 
-1300 -33.37579635 -070.79181143 178.00 gate jets|turboprops|props FAC Stand 04
+1300 -33.37579635 -070.79181143 178.00 gate jets|turboprops|props Military Apron 04
 1301 C airline 
-1300 -33.37662127 -070.79226062 176.48 gate jets|turboprops|props FAC Stand 05
+1300 -33.37662127 -070.79226062 176.48 gate jets|turboprops|props Military Apron 05
 1301 C airline 
-1300 -33.37660135 -070.79178572 177.53 gate jets|turboprops|props FAC Stand 06
+1300 -33.37660135 -070.79178572 177.53 gate jets|turboprops|props Military Apron 06
 1301 C airline 
-1300 -33.37742267 -070.79174257 178.08 gate jets|turboprops|props FAC Stand 07
+1300 -33.37742267 -070.79174257 178.08 gate jets|turboprops|props Military Apron 07
 1301 C military 
-1300 -33.37766877 -070.79235251  89.87 gate jets|turboprops|props FAC Stand 10
+1300 -33.37766877 -070.79235251  89.87 gate jets|turboprops|props Military Apron 10
 1301 A military 
-1300 -33.37748093 -070.79236135  89.89 gate jets|turboprops|props FAC Stand 09
+1300 -33.37748093 -070.79236135  89.89 gate jets|turboprops|props Military Apron 09
 1301 A military 
-1300 -33.37730080 -070.79237078  90.08 gate jets|turboprops|props FAC Stand 08
+1300 -33.37730080 -070.79237078  90.08 gate jets|turboprops|props Military Apron 08
 1301 A military 
-1300 -33.38913195 -070.79122174  41.35 gate jets|turboprops|props LATAM Maintenance 7
+1300 -33.38913195 -070.79122174  41.35 gate jets|turboprops|props LATAM Chile Maintenance Apron 07
 1301 E airline 
-1300 -33.38844721 -070.79128050  46.78 gate jets|turboprops|props LATAM Maintenance 6
+1300 -33.38844721 -070.79128050  46.78 gate jets|turboprops|props LATAM Chile Maintenance Apron 06
 1301 E airline 
-1300 -33.38714327 -070.79109230  54.59 gate jets|turboprops|props LATAM Maintenance 5
+1300 -33.38714327 -070.79109230  54.59 gate jets|turboprops|props LATAM Chile Maintenance Apron 05
 1301 E airline 
-1300 -33.38645340 -070.79116935  57.31 gate jets|turboprops|props LATAM Maintenance 4
+1300 -33.38645340 -070.79116935  57.31 gate jets|turboprops|props LATAM Chile Maintenance Apron 04
 1301 E airline 
-1300 -33.38579004 -070.79120602  55.64 gate jets|turboprops|props LATAM Maintenance 3
+1300 -33.38579004 -070.79120602  55.64 gate jets|turboprops|props LATAM Chile Maintenance Apron 03
 1301 E airline 
-1300 -33.38744529 -070.79793873 176.86 gate jets|turboprops|props Remote Maintenance 1
+1300 -33.38744529 -070.79793873 176.86 gate jets|turboprops|props Remote Maintenance Apron 01
 1301 E airline 
-1300 -33.38748837 -070.79874637 177.25 gate jets|turboprops|props Remote Maintenance 2
+1300 -33.38748837 -070.79874637 177.25 gate jets|turboprops|props Remote Maintenance Apron 02
 1301 E airline 
-1300 -33.38867665 -070.79351596  -1.31 gate jets|turboprops|props LATAM Maintenance 2
+1300 -33.38776414 -070.79328414 116.33 gate jets|turboprops|props LATAM Chile Maintenance Hangar 02
 1301 E airline 
-1300 -33.39061701 -070.79512068 359.18 gate jets|turboprops|props SKY Maintenance 2
+1300 -33.38844622 -070.79335037 116.33 gate jets|turboprops|props LATAM Chile Maintenance Hangar 01
+1301 E airline 
+1300 -33.38867665 -070.79351596  -1.31 gate jets|turboprops|props LATAM Chile Maintenance Apron 02
+1301 E airline 
+1300 -33.39075481 -070.79564241 359.18 gate jets|turboprops|props SKY Maintenance Hangar
 1301 C airline 
-1300 -33.39045781 -070.79569564 158.76 gate jets|turboprops|props SKY Maintenance 1
+1300 -33.39061701 -070.79512068 359.18 gate jets|turboprops|props SKY Maintenance Apron 02
 1301 C airline 
-1300 -33.38880037 -070.79422220  -1.31 gate jets|turboprops|props LATAM Maintenance 1
+1300 -33.39045781 -070.79569564 158.76 gate jets|turboprops|props SKY Maintenance Apron 01
 1301 C airline 
-1300 -33.37853941 -070.79337728 146.22 gate jets|turboprops|props FAC Stand 11
+1300 -33.38880037 -070.79422220  -1.31 gate jets|turboprops|props LATAM Chile Maintenance Apron 01
+1301 C airline 
+1300 -33.37853941 -070.79337728 146.22 gate jets|turboprops|props Military Apron 11
 1301 D military 
-1300 -33.37881389 -070.79397081 143.86 gate jets|turboprops|props FAC Stand 12
+1300 -33.37881389 -070.79397081 143.86 gate jets|turboprops|props Military Apron 12
 1301 C military 
 18 -33.39220456 -070.79394740 1 Rotating Beacon
 50 13270 ATIS
 54 11810 Santiago Tower
 54 11835 Santiago Tower
 53 12220 Santiago Ground
-52 12170 Santiago Clearance
+52 12170 Clearance Delivery
 55 11970 Santiago Approach
 55 12970 Santiago Approach
 99

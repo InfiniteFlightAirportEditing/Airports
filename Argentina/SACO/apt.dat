@@ -393,7 +393,7 @@ I
 111 -31.32290684 -064.20685413 4
 115 -31.32263022 -064.20719244
 120 Linear Feature 57
-111 -31.31833403 -064.21041837 52 103
+111 -31.31833403 -064.21041837 52
 115 -31.31833333 -064.21016938
 120 Linear Feature 56
 111 -31.31917425 -064.21163504 51
@@ -813,31 +813,31 @@ I
 21 -31.32088236 -064.20566527 2 44.2200 3.00 05 PAPI-4L
 21 -31.32146819 -064.20871817 1 359.7500 3.00 36 VASI
 14 -31.31190612 -064.21240937  98.43 0 New Tower Viewpoint 1
-1300 -31.32017145 -064.21227086  89.72 hangar turboprops|props Hangar 5
+1300 -31.32017145 -064.21227086  89.72 hangar turboprops|props Hangar 05
 1301 A none 
-1300 -31.31984441 -064.21227086  89.72 hangar turboprops|props Hangar 4
+1300 -31.31984441 -064.21227086  89.72 hangar turboprops|props Hangar 04
 1301 A none 
-1300 -31.31904439 -064.21223097  92.54 hangar turboprops|props Hangar 3
+1300 -31.31904439 -064.21223097  92.54 hangar turboprops|props Hangar 03
 1301 A none 
-1300 -31.31276943 -064.21240336  88.98 hangar turboprops|props Hangar 2
+1300 -31.31276943 -064.21240336  88.98 hangar turboprops|props Hangar 02
 1301 A none 
-1300 -31.31249691 -064.21240336  88.98 hangar turboprops|props Hangar 1
+1300 -31.31249691 -064.21240336  88.98 hangar turboprops|props Hangar 01
 1301 A none 
-1300 -31.31449459 -064.21202495 -136.16 gate jets|turboprops Gate 26A
+1300 -31.31449459 -064.21202495 -136.16 gate jets|turboprops Remote Stand 26A
 1301 D airline 
-1300 -31.31409935 -064.21197460 -90.86 gate jets|turboprops Gate 26
+1300 -31.31409935 -064.21197460 -90.86 gate jets|turboprops Remote Stand 26
 1301 C airline 
-1300 -31.31370729 -064.21196527 -90.54 gate jets|turboprops Gate 25
+1300 -31.31370729 -064.21196527 -90.54 gate jets|turboprops Remote Stand 25
 1301 C airline 
-1300 -31.31381939 -064.21199376 -126.70 gate jets|turboprops Gate 24A
+1300 -31.31381939 -064.21199376 -126.70 gate jets|turboprops Remote Stand 24A
 1301 D airline 
-1300 -31.31334085 -064.21196708 -90.76 gate jets|turboprops Gate 24
+1300 -31.31334085 -064.21196708 -90.76 gate jets|turboprops Remote Stand 24
 1301 C airline 
-1300 -31.31325062 -064.21202184 -127.71 gate heavy|jets|turboprops Gate 23A
+1300 -31.31325062 -064.21202184 -127.71 gate heavy|jets|turboprops Remote Stand 23A
 1301 E airline 
-1300 -31.31297754 -064.21199175 -90.40 gate jets|turboprops Gate 23
+1300 -31.31297754 -064.21199175 -90.40 gate jets|turboprops Remote Stand 23
 1301 C airline 
-1300 -31.31261225 -064.21203268 -90.42 gate jets|turboprops Gate 22
+1300 -31.31261225 -064.21203268 -90.42 gate jets|turboprops Remote Stand 22
 1301 C airline 
 1300 -31.31241045 -064.21167569 177.41 gate jets|turboprops|props GA Apron 21
 1301 A general_aviation 
@@ -849,48 +849,48 @@ I
 1301 A general_aviation 
 1300 -31.31242410 -064.21053018 -148.94 gate jets|turboprops|props GA Apron 17
 1301 A general_aviation 
-1300 -31.31233956 -064.21039594  31.93 gate jets|turboprops Gate 16A
+1300 -31.31233956 -064.21039594  31.93 gate jets|turboprops Remote Stand 16A
 1301 D airline 
-1300 -31.31259797 -064.21031228  63.76 gate jets|turboprops Gate 16
+1300 -31.31259797 -064.21031228  63.76 gate jets|turboprops Remote Stand 16
 1301 B airline 
-1300 -31.31288035 -064.21030433  49.73 gate jets|turboprops Gate 15
+1300 -31.31288035 -064.21030433  49.73 gate jets|turboprops Remote Stand 15
 1301 B airline 
-1300 -31.31327304 -064.21030729  48.46 gate jets|turboprops Gate 14
+1300 -31.31327304 -064.21030729  48.46 gate jets|turboprops Remote Stand 14
 1301 B airline 
-1300 -31.31367263 -064.21030921  48.94 gate jets|turboprops Gate 13
+1300 -31.31367263 -064.21030921  48.94 gate jets|turboprops Remote Stand 13
 1301 B airline 
-1300 -31.31405848 -064.21028800  45.62 gate jets|turboprops Gate 12
+1300 -31.31405848 -064.21028800  45.62 gate jets|turboprops Remote Stand 12
 1301 B airline 
-1300 -31.31594003 -064.21043544 140.26 gate jets|turboprops Gate 11
+1300 -31.31594003 -064.21043544 140.26 gate jets|turboprops Remote Stand 11
 1301 B airline 
-1300 -31.31627882 -064.21044603 140.89 gate jets|turboprops Gate 10
+1300 -31.31627882 -064.21044603 140.89 gate jets|turboprops Remote Stand 10
 1301 B airline 
-1300 -31.31668424 -064.21037153 138.66 gate jets|turboprops Gate 9
+1300 -31.31668424 -064.21037153 138.66 gate jets|turboprops Remote Stand 09
 1301 B airline 
-1300 -31.31705103 -064.21039374 137.72 gate jets|turboprops Gate 8
+1300 -31.31705103 -064.21039374 137.72 gate jets|turboprops Remote Stand 08
 1301 B airline 
-1300 -31.31643117 -064.21193259 -42.38 gate heavy|jets|turboprops Gate 7A
+1300 -31.31643117 -064.21193259 -42.38 gate heavy|jets|turboprops Gate 07A
 1301 E airline 
-1300 -31.31678112 -064.21180097 -57.24 gate jets|turboprops Gate 7
+1300 -31.31678112 -064.21180097 -57.24 gate jets|turboprops Gate 07
 1301 C airline 
-1300 -31.31655486 -064.21194618 -90.91 gate jets|turboprops Gate 6
+1300 -31.31655486 -064.21194618 -90.91 gate jets|turboprops Gate 06
 1301 C airline 
-1300 -31.31618469 -064.21193031 -91.70 gate jets|turboprops Gate 5
+1300 -31.31618469 -064.21193031 -91.70 gate jets|turboprops Gate 05
 1301 C airline 
-1300 -31.31597950 -064.21192144 -79.58 gate jets|turboprops Gate 4A
+1300 -31.31597950 -064.21192144 -79.58 gate jets|turboprops Gate 04A
 1301 D airline 
-1300 -31.31590725 -064.21191408 -111.00 gate jets|turboprops Gate 4
+1300 -31.31590725 -064.21191408 -111.00 gate jets|turboprops Gate 04
 1301 C airline 
-1300 -31.31544133 -064.21196250 -91.17 gate jets|turboprops Gate 3
+1300 -31.31544133 -064.21196250 -91.17 gate jets|turboprops Gate 03
 1301 C airline 
-1300 -31.31506223 -064.21183962 -90.77 gate jets|turboprops Gate 2
+1300 -31.31506223 -064.21183962 -90.77 gate jets|turboprops Gate 02
 1301 C airline 
-1300 -31.31485306 -064.21191741 -100.81 gate heavy|jets|turboprops Gate 1A
+1300 -31.31485306 -064.21191741 -100.81 gate heavy|jets|turboprops Gate 01A
 1301 E airline 
-1300 -31.31480741 -064.21195794 -110.30 gate jets|turboprops Gate 1
+1300 -31.31480741 -064.21195794 -110.30 gate jets|turboprops Gate 01
 1301 C airline 
 18 -31.31190612 -064.21240937 1 BCN
-50 12750 Cordoba ATIS
+50 12750 ATIS
 53 12175 Cordoba Ground
 54 11830 Cordoba Tower
 99

@@ -623,7 +623,7 @@ I
 115  25.03685667 -077.46033460
 120 Linear Feature 46
 111  25.03696470 -077.46022620 4 103
-111  25.03689479 -077.46014056 4 103
+111  25.03689069 -077.46013555 4 103
 115  25.03682390 -077.46005374
 120 Linear Feature 45
 111  25.03525371 -077.45997312 4 103
@@ -644,7 +644,7 @@ I
 111  25.03497735 -077.45455606 4 103
 115  25.03513217 -077.45439386
 120 Linear Feature 40
-111  25.03517106 -077.45547376 2 103
+111  25.03517106 -077.45547376 2
 115  25.03496889 -077.45525252
 120 Linear Feature 39
 111  25.03477423 -077.45545935 4 103
@@ -654,27 +654,27 @@ I
 111  25.03711083 -077.45659664 4 103
 115  25.03689763 -077.45682487
 120 Linear Feature 37
-111  25.03802174 -077.45808106 2 103
+111  25.03802174 -077.45808106 2
 115  25.03823971 -077.45784958
 120 Linear Feature 36
 111  25.03785862 -077.45890862 4 103
 111  25.03795235 -077.45900471 4 103
 115  25.03804440 -077.45909908
 120 Linear Feature 35
-111  25.03880908 -077.45893890 2 103
+111  25.03880908 -077.45893890 2
 115  25.03901612 -077.45871167
 120 Linear Feature 34
 111  25.04089786 -077.46225284 4 103
 115  25.04125916 -077.46212402
 120 Linear Feature 33
-111  25.04510027 -077.46650301 2 103
+111  25.04510027 -077.46650301 2
 115  25.04532533 -077.46674789
 120 Linear Feature 32
 111  25.04493716 -077.46674128 4 103
 111  25.04502330 -077.46683892 4 103
 115  25.04511728 -077.46694544
 120 Linear Feature 31
-111  25.04705090 -077.46712180 2 103
+111  25.04705090 -077.46712180 2
 115  25.04731726 -077.46741621
 120 Linear Feature 30
 111  25.04730815 -077.47194923 4
@@ -685,10 +685,10 @@ I
 111  25.04790579 -077.46992679 4 103
 115  25.04802078 -077.46995073
 120 Linear Feature 28
-111  25.04895206 -077.46920676 2 103
+111  25.04895206 -077.46920676 2
 115  25.04926667 -077.46957186
 120 Linear Feature 27
-111  25.05041158 -077.47084080 2 103
+111  25.05041158 -077.47084080 2
 115  25.05065700 -077.47110221
 120 Linear Feature 62
 111  25.05231209 -077.46825360 20
@@ -1125,7 +1125,7 @@ I
 111  25.03826387 -077.45866292 7 105
 111  25.03795235 -077.45900471 1 101
 111  25.03760969 -077.45937240 1 101
-111  25.03689479 -077.46014056 7 105
+111  25.03689069 -077.46013555 7 105
 111  25.03678409 -077.46024910 1 101
 111  25.03621472 -077.46085405 1 101
 112  25.03612151 -077.46098100  25.03607662 -077.46105446
@@ -2520,63 +2520,63 @@ I
 21  25.03561379 -077.46231357 2 269.6400 3.00 27  PAPI-4L
 14  25.04180297 -077.47088712  98.43 0 ATC Tower
 1300  25.04554174 -077.46283417 323.16 gate turboprops|props GA Apron 29
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04588704 -077.46237041 322.82 gate turboprops|props GA Apron 28
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04358047 -077.46091777 335.03 tie_down turboprops|props GA Apron 27
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04514566 -077.46255592 325.64 tie_down turboprops|props GA Apron 26
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04545541 -077.46211464 322.51 gate turboprops|props GA Apron 25
-1301 A airline 
+1301 B airline 
 1300  25.04341136 -077.46139215 338.75 tie_down turboprops|props GA Apron 24
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04322426 -077.46075518 334.82 gate turboprops|props GA Apron 23
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04304082 -077.46120734 336.46 gate turboprops|props GA Apron 22
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04273555 -077.46105027 334.27 tie_down turboprops|props GA Apron 21
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04291899 -077.46059653 332.57 gate turboprops|props GA Apron 20
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04278858 -077.45983023 160.41 tie_down turboprops|props GA Apron 19
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04291899 -077.45941297 161.72 tie_down turboprops|props GA Apron 18
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04201275 -077.46049670 340.02 tie_down turboprops|props GA Apron 17
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04215390 -077.46008070 338.20 gate turboprops|props GA Apron 16
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04230215 -077.45963966 336.89 gate turboprops|props GA Apron 15
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04242740 -077.45923906 339.29 tie_down turboprops|props GA Apron 14
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03151071 -077.45664973 224.60 gate turboprops|props GA Apron 13
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03131465 -077.45642675 225.26 tie_down turboprops|props GA Apron 12
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03111097 -077.45617431 225.13 gate turboprops|props GA Apron 11
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03086351 -077.45588611 222.40 tie_down turboprops|props GA Apron 10
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03110021 -077.45709574 225.00 gate turboprops|props GA Apron 09
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03090758 -077.45688286 228.43 gate turboprops|props GA Apron 08
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03069400 -077.45663989 224.09 gate turboprops|props GA Apron 07
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.03044902 -077.45634139 224.27 tie_down turboprops|props GA Apron 06
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.02959814 -077.45453010 131.19 gate turboprops|props GA Apron 05
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.02965275 -077.45494533 312.51 gate turboprops|props GA Apron 04
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.02929262 -077.45485769 131.19 gate turboprops|props GA Apron 03
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.02934853 -077.45526573 315.00 tie_down turboprops|props GA Apron 02
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.02897538 -077.45521114 135.00 tie_down turboprops|props GA Apron 01
-1301 A general_aviation 
+1301 B general_aviation 
 1300  25.04648877 -077.46219048 229.48 gate jets|turboprops|props Hangar 07
 1301 B general_aviation 
 1300  25.04583548 -077.46135756 229.64 gate turboprops|props Hangar 06
@@ -2585,14 +2585,14 @@ I
 1301 B general_aviation 
 1300  25.04594219 -077.45966979 243.15 gate turboprops|props Hangar 04
 1301 B airline 
-1300  25.04483702 -077.45986834 -105.03 gate turboprops|props Hangar 03
+1300  25.04484850 -077.45986074 -105.03 gate turboprops|props Hangar 03
 1301 C airline 
-1300  25.04359712 -077.46048385 247.68 gate turboprops|props Hangar 02
+1300  25.04363011 -077.46042936 247.68 gate turboprops|props Hangar 02
 1301 A general_aviation 
-1300  25.02781850 -077.45423614 318.58 gate turboprops|props Hangar 01
+1300  25.02784751 -077.45414009 318.58 gate turboprops|props Hangar 01
 1301 A general_aviation 
-1300  25.02990000 -077.45605758  45.58 gate jets|turboprops|props Odyssey Aviation Hangar
-1301 A general_aviation 
+1300  25.02994383 -077.45600481  45.58 gate jets|turboprops|props Odyssey Aviation Hangar
+1301 B general_aviation 
 1300  25.05165478 -077.46813593 165.84 gate jets|turboprops|props Gate C59
 1301 B airline 
 1300  25.05144072 -077.46872075 -149.02 gate jets|turboprops|props Gate C58
@@ -2665,15 +2665,15 @@ I
 1301 B airline 
 1300  25.04774921 -077.46497686  -0.51 gate turboprops|props Gate A09
 1301 B airline 
-1300  25.04662663 -077.46526500 -47.23 gate turboprops|props Gate A08
+1300  25.04662663 -077.46526500 -47.23 gate turboprops|props Remote Stand A08
 1301 B airline 
-1300  25.04677074 -077.46512688 -46.38 gate turboprops|props Gate A07
+1300  25.04677074 -077.46512688 -46.38 gate turboprops|props Remote Stand A07
 1301 B airline 
-1300  25.04691338 -077.46498882 -46.79 gate turboprops|props Gate A06
+1300  25.04691338 -077.46498882 -46.79 gate turboprops|props Remote Stand A06
 1301 B airline 
-1300  25.04706656 -077.46484017 -46.89 gate turboprops|props Gate A05
+1300  25.04706656 -077.46484017 -46.89 gate turboprops|props Remote Stand A05
 1301 B airline 
-1300  25.04722935 -077.46462588 -23.89 gate turboprops|props Gate A04
+1300  25.04722935 -077.46462588 -23.89 gate turboprops|props Remote Stand A04
 1301 B airline 
 1300  25.04687896 -077.46398285 124.08 gate turboprops|props Gate A03
 1301 B airline 
@@ -2695,21 +2695,21 @@ I
 1301 B airline 
 1300  25.04703047 -077.46318302 -11.40 gate turboprops|props Gate R07
 1301 B airline 
-1300  25.04575612 -077.46366763 -11.84 gate jets|turboprops|props Gate R05
+1300  25.04575612 -077.46366763 -11.84 gate jets|turboprops|props Remote Stand R05
 1301 B airline 
-1300  25.04595505 -077.46346053 -12.88 gate jets|turboprops|props Gate R04
+1300  25.04595505 -077.46346053 -12.88 gate jets|turboprops|props Remote Stand R04
 1301 B airline 
-1300  25.04613270 -077.46325131 -14.02 gate jets|turboprops|props Gate R03
+1300  25.04613270 -077.46325131 -14.02 gate jets|turboprops|props Remote Stand R03
 1301 B airline 
-1300  25.04637071 -077.46299019 -14.57 gate jets|turboprops|props Gate R02
+1300  25.04637071 -077.46299019 -14.57 gate jets|turboprops|props Remote Stand R02
 1301 B airline 
-1300  25.04662540 -077.46271673 -13.92 gate turboprops|props Gate R01
+1300  25.04662540 -077.46271673 -13.92 gate turboprops|props Remote Stand R01
 1301 B airline 
 18  25.04180297 -077.47088712 1 BCN
 50 11870 ATIS
 56 12100 Nassau Departure
 55 12530 Nassau Approach
-52 11830 Pindling Clearance
+52 11830 Clearance Delivery
 53 12170 Nassau Ground
 54 11950 Nassau Tower
 99
