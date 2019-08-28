@@ -15807,7 +15807,7 @@ I
 1301 C airline 
 1300  40.69559773 -074.17371728 126.95 gate heavy Terminal C Gate 92W
 1301 D airline 
-1300  40.69564683 -074.17386979 157.07 gate jets Terminal C Gate 92
+1300  40.69564683 -074.17386979 157.07 gate jets Terminal C Gate 92A
 1301 B airline 
 1300  40.69573542 -074.17371286 120.08 gate jets Terminal C Gate 92
 1301 C airline 
@@ -15963,7 +15963,7 @@ I
 1301 B airline 
 1300  40.68572856 -074.18335353  69.51 gate jets Terminal A Gate 23A
 1301 C airline 
-1300  40.68572722 -074.18354359  84.81 gate jets Terminal A Gate 23
+1300  40.68572722 -074.18354359  84.81 gate jets Terminal A Gate 23B
 1301 B airline 
 1300  40.68590448 -074.18360890 116.72 gate jets Terminal A Gate 23
 1301 B airline 
