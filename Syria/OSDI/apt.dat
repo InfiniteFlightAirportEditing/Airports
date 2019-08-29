@@ -2531,49 +2531,49 @@ I
 1301 D cargo 
 1300  33.40929786  036.51850535  48.06 gate jets|turboprops Cargo 401
 1301 D cargo 
-1300  33.41067778  036.51524338 -34.13 gate jets|turboprops Stand Remote 305
+1300  33.41067778  036.51524338 -34.13 gate jets|turboprops Remote 305
 1301 C airline 
-1300  33.41090052  036.51615904   2.85 gate jets|turboprops Stand Remote 304
+1300  33.41090052  036.51615904   2.85 gate jets|turboprops Remote 304
 1301 C airline 
-1300  33.41088506  036.51665075   3.46 gate jets|turboprops Stand Remote 303
+1300  33.41088506  036.51665075   3.46 gate jets|turboprops Remote 303
 1301 C airline 
-1300  33.41040818  036.51712763 -87.95 gate jets|turboprops Stand Remote 302
+1300  33.41040818  036.51712763 -87.95 gate jets|turboprops Remote 302
 1301 D airline 
-1300  33.41107067  036.51715477 -86.99 gate jets|turboprops Stand Remote 301
+1300  33.41107067  036.51715477 -86.99 gate jets|turboprops Remote 301
 1301 D airline 
-1300  33.41359098  036.51226214  92.42 gate jets|turboprops Stand Remote 205
+1300  33.41359098  036.51226214  92.42 gate jets|turboprops Remote 205
 1301 C airline 
-1300  33.41409958  036.51230473  93.24 gate jets|turboprops Stand Remote 204
+1300  33.41409958  036.51230473  93.24 gate jets|turboprops Remote 204
 1301 C airline 
-1300  33.41461032  036.51237791  93.55 gate jets|turboprops Stand Remote 203
+1300  33.41461032  036.51237791  93.55 gate jets|turboprops Remote 203
 1301 C airline 
-1300  33.41490612  036.51236824 -177.80 gate jets|turboprops Stand Remote 202
+1300  33.41490612  036.51236824 -177.80 gate jets|turboprops Remote 202
 1301 D airline 
-1300  33.41484774  036.51313274 -177.10 gate jets|turboprops Stand Remote 201
+1300  33.41484774  036.51313274 -177.10 gate jets|turboprops Remote 201
 1301 D airline 
-1300  33.41117825  036.51631977 -177.03 gate jets|turboprops Stand Remote 114
+1300  33.41117825  036.51631977 -177.03 gate jets|turboprops Remote 114
 1301 C airline 
 1300  33.41128399  036.51488501 -124.57 gate jets|turboprops Gate 112
 1301 C airline 
 1300  33.41161878  036.51443500 -131.52 gate heavy|jets|turboprops Gate 110
 1301 E airline 
-1300  33.41269073  036.51701758   3.28 gate jets|turboprops Stand Remote 109
+1300  33.41269073  036.51701758   3.28 gate jets|turboprops Remote 109
 1301 D airline 
 1300  33.41209970  036.51397330 -131.59 gate heavy|jets|turboprops Gate 108
 1301 E airline 
-1300  33.41293279  036.51600271  10.04 gate heavy|jets|turboprops Stand Remote 107
+1300  33.41293279  036.51600271  10.04 gate heavy|jets|turboprops Remote 107
 1301 E airline 
 1300  33.41257503  036.51349729 -131.19 gate heavy|jets|turboprops Gate 106
 1301 E airline 
-1300  33.41312381  036.51582279  48.09 gate jets|turboprops Stand Remote 105
+1300  33.41312381  036.51582279  48.09 gate jets|turboprops Remote 105
 1301 C airline 
 1300  33.41303785  036.51302405 -131.21 gate heavy|jets|turboprops Gate 104
 1301 E airline 
-1300  33.41364587  036.51537344  92.89 gate heavy|jets|turboprops Stand Remote 103
+1300  33.41364587  036.51537344  92.89 gate heavy|jets|turboprops Remote 103
 1301 E airline 
 1300  33.41383347  036.51317308 -88.43 gate jets|turboprops Gate 102
 1301 B airline 
-1300  33.41459312  036.51494702  93.74 gate jets|turboprops Stand Remote 101
+1300  33.41459312  036.51494702  93.74 gate jets|turboprops Remote 101
 1301 D airline 
 18  33.41064756  036.51441302 4 BCN
 50 12822 Damascus ATIS
