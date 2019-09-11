@@ -2199,11 +2199,11 @@ I
 1300 -29.99136309 -051.18153780 -63.20 gate jets|turboprops Gate 23
 1301 C airline 
 1300 -29.99178382 -051.18182144 -64.42 gate jets|turboprops Gate 22
-1301 B airline 
-1300 -29.99186218 -051.18208876 -63.94 gate jets|turboprops Gate 21A
 1301 C airline 
+1300 -29.99186218 -051.18208876 -63.94 gate jets|turboprops Gate 21A
+1301 D airline 
 1300 -29.99207047 -051.18209481 -63.69 gate jets|turboprops Gate 21
-1301 B airline 
+1301 C airline 
 1300 -29.99080608 -051.17600348  26.28 gate jets|turboprops Gate 05C
 1301 D airline 
 1300 -29.99085058 -051.17626141   2.28 gate jets|turboprops Gate 05L
