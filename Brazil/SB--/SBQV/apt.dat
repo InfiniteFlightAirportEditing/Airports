@@ -212,13 +212,13 @@ I
 1301 A general_aviation 
 1300 -14.86531859 -040.86405722 -142.43 tie_down turboprops|props|helos Ramp GA 01
 1301 A general_aviation 
-1300 -14.86596705 -040.86268662 -102.98 gate jets|turboprops Gate 02B
+1300 -14.86596705 -040.86268662 -102.98 gate jets|turboprops Remote 02B
 1301 B airline 
-1300 -14.86606178 -040.86255083 -179.63 gate jets|turboprops Gate 02A
+1300 -14.86606178 -040.86255083 -179.63 gate jets|turboprops Remote 02A
 1301 B airline 
-1300 -14.86616883 -040.86239903 -106.97 gate jets|turboprops Gate 01B
+1300 -14.86616883 -040.86239903 -106.97 gate jets|turboprops Remote 01B
 1301 B airline 
-1300 -14.86626777 -040.86226624 -177.32 gate jets|turboprops Gate 01A
+1300 -14.86626777 -040.86226624 -177.32 gate jets|turboprops Remote 01A
 1301 B airline 
 18 -14.86620247 -040.86267977 1 BCN
 19 -14.86483810 -040.86204251 1 WS
