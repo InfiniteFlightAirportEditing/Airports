@@ -10385,8 +10385,8 @@ I
 111  53.43432438 -006.24653764 20
 115  53.43421456 -006.24585587
 120 Linear Feature 21
-111  53.43512106 -006.24286365 3
-115  53.43466537 -006.24363991
+111  53.43466537 -006.24363991 3
+115  53.43512106 -006.24286365
 120 Linear Feature 21
 111  53.43450117 -006.24268558 3
 111  53.43428490 -006.24278016 3
@@ -16512,8 +16512,6 @@ I
 1301 E airline 
 1300  53.42411644 -006.24159565 -36.21 gate heavy|jets|turboprops Terminal 2 Gate 408C
 1301 E airline 
-1300  53.42423855 -006.23979505 172.42 gate jets|turboprops Hardstand 410T
-1301 B airline 
 1300  53.42467531 -006.24037940 -47.51 gate jets|turboprops Terminal 2 Gate 409R
 1301 C airline 
 1300  53.42470774 -006.24042836 -24.27 gate jets|turboprops Terminal 2 Gate 409C
@@ -16564,8 +16562,6 @@ I
 1301 C airline 
 1300  53.42514116 -006.24237500 135.37 gate jets|turboprops Terminal 2 Gate 400L
 1301 C airline 
-1300  53.42559443 -006.24301368  70.87 gate jets|turboprops Hardstand 400T
-1301 B airline 
 1300  53.43074859 -006.24543129 -146.18 gate jets|turboprops Terminal 1 Gate 107T
 1301 C airline 
 1300  53.43076056 -006.24646211 -148.25 gate jets|turboprops Terminal 1 Gate 107
@@ -16660,8 +16656,6 @@ I
 1301 D airline 
 1300  53.42876019 -006.24762631 185.13 gate jets|turboprops Terminal 1 Gate 200C
 1301 C airline 
-1300  53.42935855 -006.24684914 -84.65 gate jets|turboprops Hardstand 200T
-1301 B airline 
 1300  53.42882359 -006.24729567 175.39 gate jets|turboprops Terminal 1 Gate 200L
 1301 B airline 
 1300  53.42885227 -006.24781917 171.77 gate jets|turboprops Terminal 1 Gate 200R

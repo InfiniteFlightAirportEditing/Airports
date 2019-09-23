@@ -8930,7 +8930,7 @@ I
 1300  28.43546086 -081.30066816 254.29 gate jets|turboprops Gate 120
 1301 C airline 
 1300  28.43588991 -081.30076331 -102.19 gate jets|turboprops Gate 112
-1301 C airline 
+1301 D airline 
 1300  28.43663810 -081.30013256 -21.56 gate jets|turboprops Hardstand 114J
 1301 D airline 
 1300  28.43671222 -081.30022913 -63.77 gate jets|turboprops Hardstand 114
@@ -9322,8 +9322,8 @@ I
 1300  28.41501705 -081.33273507 269.42 gate turboprops FedEx Cargo Apron 01A
 1301 A cargo 
 18  28.42720657 -081.30780736 1 New Airport Beacon 2
-50 12052 D-ATIS (Departure)
-50 12125 D-ATIS (Arrival)
+50 12052 D-ATIS
+50 12125 D-ATIS
 52 13470 Clearance Delivery
 51 12295 Unicom
 53 12640 Orlando Ground
