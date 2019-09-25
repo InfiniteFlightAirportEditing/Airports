@@ -16735,9 +16735,9 @@ I
 1300  53.43314392 -006.25254073   5.04 gate jets|turboprops North Remote Stand 142L
 1301 C airline 
 1300  53.43319535 -006.25380057 -23.20 gate jets|turboprops North Remote Stand 143R
-1301 C cargo 
+1301 D cargo 
 1300  53.43298612 -006.25460338 -23.27 gate jets|turboprops North Remote Stand 143L
-1301 C cargo 
+1301 D cargo 
 1300  53.43309470 -006.25196246  45.79 misc jets|turboprops|props North Remote Stand 142T
 1301 D none 
 1300  53.43422675 -006.24713986 -164.79 misc jets|turboprops|props Light Aircraft Apron C13
