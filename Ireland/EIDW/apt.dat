@@ -16362,7 +16362,7 @@ I
 1301 B none 
 1300  53.42984873 -006.26276473 359.70 hangar jets|turboprops|props West Hangar 01
 1301 B none 
-1300  53.43036363 -006.26353446 -179.51 hangar jets|turboprops|props Cityjet Maintenance Apron 02
+1300  53.43036363 -006.26353446 -179.23 hangar jets|turboprops|props Cityjet Maintenance Apron 02
 1301 B none 
 1300  53.43035654 -006.26398760 -179.03 hangar jets|turboprops|props Cityjet Maintenance Apron 01
 1301 B none 
@@ -16451,12 +16451,12 @@ I
 1300  53.42290006 -006.23928205 116.42 gate jets|turboprops South Remote Stand 411C
 1301 E cargo 
 1300  53.42322084 -006.23967172  15.47 gate jets|turboprops South Remote Stand 411T
-1301 C cargo 
+1301 D cargo 
 1300  53.42313091 -006.23950282  90.20 gate jets|turboprops South Remote Stand 411L
 1301 C cargo 
 1300  53.42963443 -006.23302310 -176.37 misc jets|turboprops|props Aer Lingus Maintenance Hangar 02
 1301 E none 
-1300  53.42968711 -006.23420404 -176.37 misc jets|turboprops|props Aer Lingus Maintenance Hangar 01
+1300  53.42970345 -006.23417662 -175.90 misc jets|turboprops|props Aer Lingus Maintenance Hangar 01
 1301 E none 
 1300  53.43097537 -006.23317317 -84.74 misc jets|turboprops|props Aer Lingus Maintenance Apron 03
 1301 C none 
@@ -16479,7 +16479,7 @@ I
 1300  53.43066060 -006.23733317 -165.75 tie_down jets|turboprops|props North Maintenance Apron 103R
 1301 C general_aviation 
 1300  53.43067047 -006.23783266 174.85 tie_down jets|turboprops|props North GA Apron 102
-1301 B general_aviation 
+1301 C general_aviation 
 1300  53.43063494 -006.23824809 148.42 tie_down jets|turboprops|props North GA Apron 101
 1301 B general_aviation 
 1300  53.43183594 -006.24156898 -164.58 tie_down jets|turboprops|props Light Aircraft Apron B05
@@ -16637,7 +16637,7 @@ I
 1300  53.42582561 -006.24528957   2.55 gate jets|turboprops Terminal 1 Gate 316
 1301 E airline 
 1300  53.42568850 -006.24540108  -6.95 gate jets|turboprops Terminal 1 Gate 317
-1301 D airline 
+1301 E airline 
 1300  53.42525041 -006.24623562   8.44 gate jets|turboprops Terminal 1 Gate 315R
 1301 C airline 
 1300  53.42532830 -006.24663793  47.44 gate jets|turboprops Terminal 1 Gate 315L
