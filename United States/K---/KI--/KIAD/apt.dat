@@ -12820,7 +12820,9 @@ I
 1301 B general_aviation 
 1300  38.97141802 -077.45332939   0.33 gate jets United Airlines Maintenance Apron 01
 1301 D airline 
-1300  38.97170401 -077.45304059 -178.84 gate jets United Airlines Maintenance Hangar
+1300  38.97203709 -077.45271180  -0.66 gate jets United Airlines Maintenance Hangar 02
+1301 D airline 
+1300  38.97171563 -077.45329465 -178.84 gate jets United Airlines Maintenance Hangar 01
 1301 D airline 
 1300  38.97140656 -077.45269591   0.33 gate jets United Airlines Maintenance Apron 02
 1301 D airline 
@@ -12982,13 +12984,13 @@ I
 1301 C airline 
 1300  38.94919219 -077.45322846 -179.27 gate jets Gate B71
 1301 C airline 
-1300  38.94922516 -077.45370777 -179.25 gate jets Gate B73A
+1300  38.94922516 -077.45370777 -179.24 gate jets Gate B73A
 1301 D airline 
 1300  38.94914338 -077.45376469 -179.40 gate jets Gate B73
 1301 C airline 
 1300  38.94928270 -077.45427337 -179.57 gate jets Gate B75
 1301 C airline 
-1300  38.94915452 -077.45452191 -179.61 gate jets Gate B79A
+1300  38.94915452 -077.45452191 -179.26 gate jets Gate B79A
 1301 E airline 
 1300  38.94914844 -077.45480333 -179.14 gate jets Gate B79
 1301 C airline 

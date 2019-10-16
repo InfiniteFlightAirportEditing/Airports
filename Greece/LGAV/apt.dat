@@ -8455,6 +8455,12 @@ I
 1301 D airline 
 1300  37.94828280  023.96077469 -52.83 tie_down turboprops|props Maintenance Apron 06
 1301 D airline 
+1300  37.94955851  023.96078672 -52.81 tie_down turboprops|props Maintenance Hangar 03
+1301 E airline 
+1300  37.94890951  023.96018510 -52.81 tie_down turboprops|props Maintenance Hangar 02
+1301 E airline 
+1300  37.94825354  023.95955782 -52.81 tie_down turboprops|props Maintenance Hangar 01
+1301 E airline 
 1300  37.94875325  023.96122411 -52.81 tie_down turboprops|props Maintenance Apron 05
 1301 D airline 
 1300  37.94915487  023.96162251 -53.09 tie_down turboprops|props Maintenance Apron 04
