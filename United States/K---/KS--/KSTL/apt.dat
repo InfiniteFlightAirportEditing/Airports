@@ -7431,11 +7431,11 @@ I
 1301 A airline 
 1300  38.74203112 -090.36344387 -102.22 gate props Gate C07
 1301 A airline 
-1300  38.74575535 -090.34879754  79.46 gate jets|turboprops|props FBO Centene Corporation 04
+1300  38.74564019 -090.34858303  79.46 gate jets|turboprops|props GA Apron 01
 1301 B general_aviation 
-1300  38.74589682 -090.34910418  79.46 gate jets|turboprops|props FBO Centene Corporation 03
+1300  38.74576670 -090.34885388  79.46 gate jets|turboprops|props GA Apron 02
 1301 B general_aviation 
-1300  38.74605177 -090.34939354  79.46 gate jets|turboprops|props FBO Centene Corporation 02
+1300  38.74590736 -090.34914423  79.46 gate jets|turboprops|props GA Apron 03
 1301 B general_aviation 
 1300  38.74594036 -090.37330705 -156.37 gate jets|turboprops|props FBO Jet Linx 05
 1301 A general_aviation 
@@ -7447,7 +7447,43 @@ I
 1301 A general_aviation 
 1300  38.74619730 -090.37413948 -156.37 gate jets|turboprops|props FBO Jet Linx 01
 1301 A general_aviation 
-1300  38.74622693 -090.34973473  79.46 gate jets|turboprops|props FBO Centene Corporation 01
+1300  38.74592193 -090.34811716 270.95 gate jets|turboprops|props GA Apron 10
+1301 B general_aviation 
+1300  38.74601160 -090.34834351 175.90 gate jets|turboprops|props GA Apron 09
+1301 B general_aviation 
+1300  38.74617412 -090.34863812 175.90 gate jets|turboprops|props GA Apron 08
+1301 B general_aviation 
+1300  38.74630002 -090.34896096 175.90 gate jets|turboprops|props GA Apron 07
+1301 B general_aviation 
+1300  38.74645180 -090.34922743 175.90 gate jets|turboprops|props GA Apron 06
+1301 B general_aviation 
+1300  38.75365952 -090.35690129 -178.87 gate jets|turboprops|props Boeing Manufacturing Plant 12
+1301 A general_aviation 
+1300  38.75274136 -090.35711780   1.46 gate jets|turboprops|props Boeing Manufacturing Plant 11
+1301 A general_aviation 
+1300  38.75213811 -090.35691319 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 10
+1301 A general_aviation 
+1300  38.75197865 -090.35704835 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 09
+1301 A general_aviation 
+1300  38.75181649 -090.35717657 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 08
+1301 A general_aviation 
+1300  38.75165536 -090.35731431 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 07
+1301 A general_aviation 
+1300  38.75148256 -090.35745205 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 06
+1301 A general_aviation 
+1300  38.75133662 -090.35757930 125.59 gate jets|turboprops|props Boeing Manufacturing Plant 05
+1301 A general_aviation 
+1300  38.75047778 -090.35700292   4.75 gate jets|turboprops|props Boeing Manufacturing Plant 04
+1301 A general_aviation 
+1300  38.75056464 -090.35718052   4.55 gate jets|turboprops|props Boeing Manufacturing Plant 03
+1301 A general_aviation 
+1300  38.75065204 -090.35735875   4.65 gate jets|turboprops|props Boeing Manufacturing Plant 02
+1301 A general_aviation 
+1300  38.75073664 -090.35753653   5.91 gate jets|turboprops|props Boeing Manufacturing Plant 01
+1301 A general_aviation 
+1300  38.74621306 -090.34970168  79.46 gate jets|turboprops|props GA Apron 05
+1301 B general_aviation 
+1300  38.74605544 -090.34943221  79.46 gate jets|turboprops|props GA Apron 04
 1301 B general_aviation 
 1300  38.74574188 -090.34781284 -128.56 gate jets|turboprops|props FBO Signature Flight Support STL 05
 1301 B general_aviation 
@@ -7524,6 +7560,16 @@ I
 1300  38.74493330 -090.36876260  84.57 gate jets|turboprops Gate A17
 1301 C airline 
 1300  38.74558074 -090.36872153 -169.97 gate jets|turboprops Gate A18
+1301 C airline 
+1300  38.74518002 -090.37543540 142.39 gate jets|turboprops Maintenance Hangar 02
+1301 C airline 
+1300  38.74492229 -090.37589933 143.86 gate jets|turboprops Maintenance Hangar 01
+1301 C airline 
+1300  38.74606927 -090.37545303  98.55 gate jets|turboprops Maintenance Apron 03
+1301 C airline 
+1300  38.74573752 -090.37607000  95.28 gate jets|turboprops Maintenance Apron 02
+1301 C airline 
+1300  38.74541171 -090.37667773  94.73 gate jets|turboprops Maintenance Apron 01
 1301 C airline 
 1300  38.74517826 -090.36903991 115.42 gate jets|turboprops Gate A19
 1301 C airline 

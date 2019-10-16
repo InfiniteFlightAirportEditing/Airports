@@ -819,8 +819,12 @@ I
 19  32.92867044  129.90416648 1 WS
 19  32.90776037  129.92648249 1 WS
 50 12685 ATIS
-53 12160 GND
-54 11850 TWR
-54 12102 APP
-54 12100 DEP
+54 11850 Nagasaki Tower
+54 12620 Nagasaki Tower
+54 23680 Nagasaki Tower
+53 12160 Nagasaki Ground
+55 119175 Nagasaki Approach
+55 26120 Nagasaki Approach
+56 12100 Nagasaki Departure
+56 26120 Nagasaki Departure
 99
