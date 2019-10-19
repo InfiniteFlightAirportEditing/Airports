@@ -752,37 +752,37 @@ I
 111  42.38536722  013.31000527 1
 115  42.38534044  013.31000573
 14  42.37828940  013.31072840  59.00 0 Aeroporto_dei_Parchi Tower
-1300  42.38560105  013.30999213 -91.69 gate turboprops|props Remote Stand 101
+1300  42.38560105  013.30999213 -91.69 gate turboprops|props Helipad 101
 1301 A airline 
-1300  42.38532952  013.31000596 -91.69 gate turboprops|props Remote Stand 102
+1300  42.38532952  013.31000596 -91.69 gate turboprops|props Helipad 102
 1301 A airline 
 1300  42.38461764  013.31016815 135.76 gate turboprops|props Remote Stand 103
-1301 A airline 
+1301 B airline 
 1300  42.38420843  013.31018570 138.06 gate turboprops|props Remote Stand 104
+1301 B airline 
+1300  42.38381135  013.31009339  89.76 gate turboprops|props Tie Down 105
 1301 A airline 
-1300  42.38381135  013.31009339  89.76 gate turboprops|props Remote Stand 105
+1300  42.38366830  013.31010385  89.76 gate turboprops|props Tie Down 106
 1301 A airline 
-1300  42.38366830  013.31010385  89.76 gate turboprops|props Remote Stand 106
+1300  42.38353655  013.31011077  89.76 gate turboprops|props Tie Down 107
 1301 A airline 
-1300  42.38353655  013.31011077  89.76 gate turboprops|props Remote Stand 107
+1300  42.38340238  013.31011571  89.76 gate turboprops|props Tie Down 108
 1301 A airline 
-1300  42.38340238  013.31011571  89.76 gate turboprops|props Remote Stand 108
+1300  42.38326883  013.31012051  89.76 gate turboprops|props Tie Down 109
 1301 A airline 
-1300  42.38326883  013.31012051  89.76 gate turboprops|props Remote Stand 109
+1300  42.38313205  013.31012531  89.76 gate turboprops|props Tie Down 110
 1301 A airline 
-1300  42.38313205  013.31012531  89.76 gate turboprops|props Remote Stand 110
+1300  42.38300100  013.31012689  89.76 gate turboprops|props Tie Down 111
 1301 A airline 
-1300  42.38300100  013.31012689  89.76 gate turboprops|props Remote Stand 111
+1300  42.38286422  013.31013169  89.76 gate turboprops|props Tie Down 112
 1301 A airline 
-1300  42.38286422  013.31013169  89.76 gate turboprops|props Remote Stand 112
+1300  42.37925817  013.31017963  89.41 gate turboprops|props Helipad 201
 1301 A airline 
-1300  42.37925817  013.31017963  89.41 gate turboprops|props Gate 201
-1301 A airline 
-1300  42.37890512  013.31012125  89.41 gate turboprops|props Gate 202
+1300  42.37890512  013.31012125  89.41 gate turboprops|props Tie Down 202
 1301 A airline 
 1300  42.37871515  013.31036590 132.23 gate turboprops|props Gate 203
 1301 B airline 
-1300  42.37861078  013.31011578  89.88 gate turboprops|props Gate 204
+1300  42.37861078  013.31011578  89.88 gate turboprops|props Tie Down 204
 1301 A airline 
 18  42.37828940  013.31072840 3 tower
 50 12250 AFIS
