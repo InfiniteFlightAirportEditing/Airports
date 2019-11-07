@@ -817,6 +817,7 @@ I
 111  33.82603428 -116.50746140
 111  33.82604463 -116.50747386
 111  33.82647883 -116.50747132
+111  33.82648070 -116.50761154 3
 111  33.82648752 -116.50812403
 111  33.82657257 -116.50812457
 111  33.82657230 -116.50878098
@@ -995,6 +996,9 @@ I
 111  33.82444877 -116.49964071 54 104
 111  33.82454496 -116.49972672 54 104
 115  33.82464230 -116.49981377
+120 Linear Feature 1
+111  33.82545461 -116.50761185 3
+115  33.82648070 -116.50761154
 120 Linear Feature 186
 111  33.82250458 -116.49672798 22
 111  33.82349559 -116.49760429 22
@@ -2839,7 +2843,10 @@ I
 111  33.82611301 -116.50712852 53 102
 111  33.82597763 -116.50734257 53 102
 111  33.82573843 -116.50734006
-112  33.82573843 -116.50734006  33.82544412 -116.50735433 53 102
+112  33.82573843 -116.50734006  33.82552736 -116.50735029 53 102
+112  33.82545461 -116.50761185  33.82543911 -116.50770582
+111  33.82545461 -116.50761185
+112  33.82545461 -116.50761185  33.82544850 -116.50764891 53 102
 111  33.82544888 -116.50767452 53
 115  33.82545002 -116.50873309
 120 Linear Feature 12
@@ -2869,6 +2876,38 @@ I
 21  33.82426629 -116.50214231 3 323.5600 3.00 31L  PAPI-R
 21  33.83154282 -116.50877692 5 143.9700 3.00 13R  VASI-L
 14  33.82698701 -116.50864184  82.02 0 Tower Viewpoint
+1300  33.82559154 -116.50954230   0.00 tie_down turboprops|props Ramp GA 61
+1301 A general_aviation 
+1300  33.82558930 -116.50970427   0.00 tie_down turboprops|props Ramp GA 60
+1301 A general_aviation 
+1300  33.82558930 -116.50986625   0.00 tie_down turboprops|props Ramp GA 59
+1301 A general_aviation 
+1300  33.82558706 -116.51003362   0.00 tie_down turboprops|props Ramp GA 58
+1301 A general_aviation 
+1300  33.82558706 -116.51019613   0.00 tie_down turboprops|props Ramp GA 57
+1301 A general_aviation 
+1300  33.82558706 -116.51035865   0.00 tie_down turboprops|props Ramp GA 56
+1301 A general_aviation 
+1300  33.82595261 -116.50954176   0.00 tie_down turboprops|props Ramp GA 55
+1301 A general_aviation 
+1300  33.82595261 -116.50970427   0.00 tie_down turboprops|props Ramp GA 54
+1301 A general_aviation 
+1300  33.82595261 -116.50986949   0.00 tie_down turboprops|props Ramp GA 53
+1301 A general_aviation 
+1300  33.82595037 -116.51003740   0.00 tie_down turboprops|props Ramp GA 52
+1301 A general_aviation 
+1300  33.82595037 -116.51020207   0.00 tie_down turboprops|props Ramp GA 51
+1301 A general_aviation 
+1300  33.82594812 -116.51036459   0.00 tie_down turboprops|props Ramp GA 50
+1301 A general_aviation 
+1300  33.82625607 -116.50801081 -90.53 tie_down jets|turboprops|props Ramp GA 49
+1301 B general_aviation 
+1300  33.82603808 -116.50801081 -90.53 tie_down jets|turboprops|props Ramp GA 48
+1301 B general_aviation 
+1300  33.82582548 -116.50800433 -90.53 tie_down jets|turboprops|props Ramp GA 47
+1301 B general_aviation 
+1300  33.82561018 -116.50800109 -90.53 tie_down jets|turboprops|props Ramp GA 46
+1301 B general_aviation 
 1300  33.82314007 -116.49650977 -128.22 hangar jets|turboprops|props Hangar 8
 1301 B none 
 1300  33.82372143 -116.49703462 -128.22 hangar jets|turboprops|props Hangar 7
@@ -2889,37 +2928,67 @@ I
 1301 A none 
 1300  33.82778196 -116.50886912 -88.58 misc helos Helipad 1
 1301 A none 
-1300  33.82056469 -116.49431291 -35.77 tie_down turboprops|props Ramp GA 30
+1300  33.82056469 -116.49431291 -35.77 tie_down turboprops|props Ramp GA 45
 1301 A general_aviation 
-1300  33.82049932 -116.49441887 -35.15 tie_down turboprops|props Ramp GA 29
+1300  33.82049932 -116.49441887 -35.15 tie_down turboprops|props Ramp GA 44
 1301 A general_aviation 
-1300  33.82043415 -116.49452528 -36.18 tie_down turboprops|props Ramp GA 28
+1300  33.82043415 -116.49452528 -36.18 tie_down turboprops|props Ramp GA 43
 1301 A general_aviation 
-1300  33.82036805 -116.49463205 -35.54 tie_down turboprops|props Ramp GA 27
+1300  33.82036805 -116.49463205 -35.54 tie_down turboprops|props Ramp GA 42
 1301 A general_aviation 
-1300  33.82030418 -116.49472962 -34.70 tie_down turboprops|props Ramp GA 26
+1300  33.82030418 -116.49472962 -34.70 tie_down turboprops|props Ramp GA 41
 1301 A general_aviation 
-1300  33.82023804 -116.49484240 -36.22 tie_down turboprops|props Ramp GA 25
+1300  33.82023804 -116.49484240 -36.22 tie_down turboprops|props Ramp GA 40
 1301 A general_aviation 
-1300  33.82017242 -116.49494853 -35.35 tie_down turboprops|props Ramp GA 24
+1300  33.82017242 -116.49494853 -35.35 tie_down turboprops|props Ramp GA 39
 1301 A general_aviation 
-1300  33.82072133 -116.49446885 143.24 tie_down turboprops|props Ramp GA 23
+1300  33.82072133 -116.49446885 143.24 tie_down turboprops|props Ramp GA 38
 1301 A general_aviation 
-1300  33.82063114 -116.49461570 143.00 tie_down turboprops|props Ramp GA 22
+1300  33.82063114 -116.49461570 143.00 tie_down turboprops|props Ramp GA 37
 1301 A general_aviation 
-1300  33.82054262 -116.49476094 141.71 tie_down turboprops|props Ramp GA 21
+1300  33.82054262 -116.49476094 141.71 tie_down turboprops|props Ramp GA 36
 1301 A general_aviation 
-1300  33.82045189 -116.49490670 142.65 tie_down turboprops|props Ramp GA 20
+1300  33.82045189 -116.49490670 142.65 tie_down turboprops|props Ramp GA 35
 1301 A general_aviation 
-1300  33.82081167 -116.49443443 -36.80 tie_down turboprops|props Ramp GA 19
+1300  33.82081167 -116.49443443 -36.80 tie_down turboprops|props Ramp GA 34
 1301 A general_aviation 
-1300  33.82072507 -116.49457626 -35.74 tie_down turboprops|props Ramp GA 18
+1300  33.82072507 -116.49457626 -35.74 tie_down turboprops|props Ramp GA 33
 1301 A general_aviation 
-1300  33.82063297 -116.49472669 -36.46 tie_down turboprops|props Ramp GA 17
+1300  33.82063297 -116.49472669 -36.46 tie_down turboprops|props Ramp GA 32
 1301 A general_aviation 
-1300  33.82054414 -116.49487268 -35.58 tie_down turboprops|props Ramp GA 16
+1300  33.82054414 -116.49487268 -35.58 tie_down turboprops|props Ramp GA 31
 1301 A general_aviation 
-1300  33.82045160 -116.49501968 -36.57 tie_down turboprops|props Ramp GA 15
+1300  33.82045160 -116.49501968 -36.57 tie_down turboprops|props Ramp GA 30
+1301 A general_aviation 
+1300  33.82256169 -116.49688181  54.90 tie_down jets|turboprops|props Ramp GA 29
+1301 B general_aviation 
+1300  33.82272316 -116.49701786  54.90 tie_down jets|turboprops|props Ramp GA 28
+1301 B general_aviation 
+1300  33.82288732 -116.49715715  54.90 tie_down jets|turboprops|props Ramp GA 27
+1301 B general_aviation 
+1300  33.82304610 -116.49729321  54.90 tie_down jets|turboprops|props Ramp GA 26
+1301 B general_aviation 
+1300  33.82320488 -116.49742926  54.90 tie_down jets|turboprops|props Ramp GA 25
+1301 B general_aviation 
+1300  33.82336411 -116.49756424  54.90 tie_down jets|turboprops|props Ramp GA 24
+1301 B general_aviation 
+1300  33.82353455 -116.49782609  54.90 tie_down turboprops|props Ramp GA 23
+1301 A general_aviation 
+1300  33.82364489 -116.49792327  54.90 tie_down turboprops|props Ramp GA 22
+1301 A general_aviation 
+1300  33.82375522 -116.49802045  54.90 tie_down turboprops|props Ramp GA 21
+1301 A general_aviation 
+1300  33.82386825 -116.49811439  54.90 tie_down turboprops|props Ramp GA 20
+1301 A general_aviation 
+1300  33.82397859 -116.49820834  54.90 tie_down turboprops|props Ramp GA 19
+1301 A general_aviation 
+1300  33.82408699 -116.49830282  54.90 tie_down turboprops|props Ramp GA 18
+1301 A general_aviation 
+1300  33.82419725 -116.49839730  54.90 tie_down turboprops|props Ramp GA 17
+1301 A general_aviation 
+1300  33.82430378 -116.49848729  54.90 tie_down turboprops|props Ramp GA 16
+1301 A general_aviation 
+1300  33.82441404 -116.49857952  54.90 tie_down turboprops|props Ramp GA 15
 1301 A general_aviation 
 1300  33.82566999 -116.49828355 -37.66 tie_down turboprops|props Ramp GA 14
 1301 A general_aviation 
