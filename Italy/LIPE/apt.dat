@@ -4005,7 +4005,17 @@ I
 1301 B airline 
 1300  44.53584816  011.27756822 -153.36 gate jets GA Apron 401
 1301 B airline 
-1300  44.52945250  011.29666158  18.74 gate turboprops Gate 113
+1300  44.52635529  011.29163880 178.74 gate jets Military Apron 05
+1301 A cargo 
+1300  44.52634963  011.29143235 178.74 gate jets Military Apron 04
+1301 A cargo 
+1300  44.52634397  011.29122061 178.74 gate jets Military Apron 03
+1301 A cargo 
+1300  44.52634397  011.29101416 178.74 gate jets Military Apron 02
+1301 A cargo 
+1300  44.52634266  011.29080646 178.74 gate jets Military Apron 01
+1301 A cargo 
+1300  44.52945250  011.29666158   8.97 gate turboprops Gate 113
 1301 B airline 
 1300  44.53059168  011.29309334 -153.13 gate jets Gate 106
 1301 C airline 
@@ -4025,31 +4035,27 @@ I
 1301 C airline 
 1300  44.53119383  011.29244420  26.81 gate jets Gate 104
 1301 C airline 
-1300  44.53016918  011.29188812 116.75 gate jets Gate 1032
+1300  44.53016918  011.29188812 116.75 gate jets Gate 103 2
 1301 C airline 
-1300  44.52635529  011.29163880 178.74 gate jets Military Apron 05
-1301 A cargo 
-1300  44.52634963  011.29143235 178.74 gate jets Military Apron 04
-1301 A cargo 
-1300  44.52634397  011.29122061 178.74 gate jets Military Apron 03
-1301 A cargo 
-1300  44.52634397  011.29101416 178.74 gate jets Military Apron 02
-1301 A cargo 
-1300  44.52634266  011.29080646 178.74 gate jets Military Apron 01
-1301 A cargo 
 1300  44.52984483  011.29160245 116.88 gate jets Gate 102
 1301 C airline 
 1300  44.53026282  011.29229567 116.72 gate heavy Gate 103
 1301 E airline 
-1300  44.53050699  011.29212398 116.83 gate turboprops Gate 1031
+1300  44.53050699  011.29212398 116.83 gate turboprops Gate 103 1
+1301 C airline 
+1300  44.52890113  011.29681724 -153.43 gate jets Gate 114
+1301 E airline 
+1300  44.52921813  011.29731137   3.15 gate turboprops Gate 116
+1301 B airline 
+1300  44.52880450  011.29720685 -153.21 gate jets Gate 115
 1301 C airline 
 1300  44.53142198  011.29079619 -153.25 gate jets Remote Stand 219
 1301 B airline 
-1300  44.53176913  011.29057316  -2.75 gate turboprops Gate 2202
+1300  44.53176913  011.29057316  -2.75 gate turboprops Remote Stand 220 2
 1301 B airline 
 1300  44.53157264  011.29038070 -153.16 gate jets Remote Stand 218
 1301 B airline 
-1300  44.53203876  011.29003578  13.30 gate jets Remote Stand 220 1
+1300  44.53203876  011.29003578  20.16 gate jets Remote Stand 220 1
 1301 B airline 
 1300  44.53177762  011.28993978 -153.29 gate jets Remote Stand 217
 1301 C airline 
@@ -4099,12 +4105,6 @@ I
 1301 D cargo 
 1300  44.53365556  011.28313290 161.89 gate jets Remote Stand 306
 1301 D cargo 
-1300  44.52890113  011.29681724 -153.43 gate jets Gate 114
-1301 E airline 
-1300  44.52921813  011.29731137   6.46 gate turboprops Gate 116
-1301 B airline 
-1300  44.52880450  011.29720685 -153.21 gate jets Gate 115
-1301 C airline 
 18  44.53002684  011.29357891 1 New Airport Beacon 49
 50 13487 ATIS
 53 12992 Bologna Ground
