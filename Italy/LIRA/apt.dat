@@ -3569,7 +3569,11 @@ I
 18  41.79858336  012.59176029 1 New Airport Beacon 14
 50 12242 ATIS
 53 12175 Ciampino Ground
+54 12210 Ciampino Tower
 54 12050 Ciampino Tower
-53 13150 Ciampino Apron
-56 11920 Roma Departure
+52 11940 Clearance Delivery
+55 12550 Roma Approach
+55 12795 Roma Approach
+56 13090 Roma Departure
+56 13110 Roma Departure
 99
