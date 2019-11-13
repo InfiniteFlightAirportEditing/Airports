@@ -16352,7 +16352,7 @@ I
 21  53.42154926 -006.28356449 3 95.5400 3.00 New Light Fixture 3
 21  53.42109759 -006.25610618 3 275.7100 3.00 New Light Fixture 2
 21  53.42004594 -006.25627443 2 274.7100 3.00 New Light Fixture 1
-14  53.42848694 -006.26219500 104.99 0 New Tower Viewpoint 1
+14  53.42896347 -006.26434590 288.71 0 New Tower Viewpoint 1
 1300  53.43098064 -006.26238780 -80.27 tie_down jets|turboprops|props CHC Dublin Search and Rescue Base
 1301 A military 
 1300  53.42980868 -006.26140702   1.05 hangar jets|turboprops|props West Hangar 02
@@ -16763,7 +16763,7 @@ I
 1301 C none 
 1300  53.43556862 -006.25548174 -164.56 misc jets|turboprops|props Light Aircraft Apron C01
 1301 C none 
-18  53.42848694 -006.26219500 1 New Airport Beacon 2
+18  53.42896347 -006.26434590 1 New Airport Beacon 2
 50 12452 ATIS
 54 11860 Dublin Tower
 53 11875 Dublin Ground
