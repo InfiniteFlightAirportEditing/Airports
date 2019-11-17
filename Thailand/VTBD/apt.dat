@@ -7205,7 +7205,7 @@ I
 1301 B airline 
 1300  13.90325312  100.60634261 119.16 tie_down jets|turboprops|props EAST 05
 1301 B airline 
-1300  13.90325312  100.60634261 119.16 tie_down jets|turboprops|props EAST 11
+1300  13.90325312  100.60634261 119.16 tie_down jets|turboprops|props EAST 13
 1301 B airline 
 1300  13.90303613  100.60622449 119.16 tie_down jets|turboprops|props EAST 06
 1301 B airline 
@@ -7287,11 +7287,11 @@ I
 1301 B airline 
 1300  13.92457741  100.60629396 298.72 gate jets|turboprops GATE 10A
 1301 B airline 
-1300  13.92474368  100.60641028 298.72 gate jets|props GATE 03
+1300  13.92474368  100.60641028 298.72 gate jets|props GATE 09
 1301 A airline 
-1300  13.92488586  100.60649097 298.72 gate jets|props GATE 03
+1300  13.92488586  100.60649097 298.72 gate jets|props GATE 08
 1301 A airline 
-1300  13.92502924  100.60657166 298.72 gate jets|props GATE 03
+1300  13.92502924  100.60657166 298.72 gate jets|props GATE 07
 1301 A airline 
 1300  13.92517262  100.60665483 298.72 gate jets|props GATE 06
 1301 A airline 
