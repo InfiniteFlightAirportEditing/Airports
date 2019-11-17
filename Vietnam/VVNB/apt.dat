@@ -5274,7 +5274,7 @@ I
 1301 D airline 
 1300  21.21865573  105.79346267 -163.76 gate jets|turboprops Terminal 2 - Gate 39
 1301 D airline 
-1300  21.21844887  105.79412837 -163.76 gate heavy|jets|turboprops Terminal 2 - Gate 37
+1300  21.21844887  105.79412837 -163.76 gate heavy|jets|turboprops Terminal 2 - Gate 38
 1301 E airline 
 1300  21.21821773  105.79499643 -163.76 gate heavy|jets|turboprops Terminal 2 - Gate 34
 1301 E airline 
@@ -5312,7 +5312,7 @@ I
 1301 D general_aviation 
 1300  21.22066908  105.81664649 -107.31 tie_down jets|turboprops|props Stand QS1
 1301 D general_aviation 
-1300  21.21557274  105.80248634 -160.90 gate heavy|jets|turboprops Terminal 1 - Gate 21
+1300  21.21557274  105.80248634 -160.90 gate heavy|jets|turboprops Terminal 1 - Gate 22
 1301 E airline 
 1300  21.21541496  105.80317144 -160.90 gate heavy|jets|turboprops Terminal 1 - Gate 21
 1301 E airline 

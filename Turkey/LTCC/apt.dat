@@ -3182,11 +3182,11 @@ I
 1301 C airline 
 1300  37.89995163  040.18651195 254.36 gate jets GATE 01
 1301 C airline 
-1300  37.90864368  040.19385638 131.51 tie_down props New Ramp Start 1
+1300  37.90864368  040.19385638 131.51 tie_down props ALPHA 3
 1301 A military 
-1300  37.90860417  040.19368657 131.51 tie_down props New Ramp Start 1
+1300  37.90860417  040.19368657 131.51 tie_down props ALPHA 2
 1301 A military 
-1300  37.90855607  040.19351021 131.51 tie_down props New Ramp Start 1
+1300  37.90855607  040.19351021 131.51 tie_down props ALPHA 1
 1301 A military 
 1300  37.87923866  040.20906502 313.49 tie_down fighters BRAVO 01
 1301 A military 
