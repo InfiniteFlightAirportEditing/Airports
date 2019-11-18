@@ -2073,7 +2073,7 @@ I
 1301 B none 
 1300  52.13083202  007.68898315 213.21 gate props GATE 07
 1301 A none 
-1300  52.13173094  007.68855599 159.74 gate jets|turboprops|props GATE 19E
+1300  52.13173094  007.68855599 159.74 gate jets|turboprops|props GATE 07B
 1301 B none 
 1300  52.13124867  007.68680187 268.57 gate props GA 303
 1301 A none 
@@ -2115,9 +2115,9 @@ I
 1301 B none 
 1300  52.13198322  007.68764123 -200.65 gate jets|turboprops GATE 19C
 1301 B airline 
-1300  52.13165769  007.68819945 -200.74 gate jets|turboprops|props GATE 19D
+1300  52.13165769  007.68819945 -200.74 gate jets|turboprops|props GATE 18D
 1301 B none 
-1300  52.13158977  007.68787327 -199.99 gate jets|turboprops|props GATE 19C
+1300  52.13158977  007.68787327 -199.99 gate jets|turboprops|props GATE 18C
 1301 B none 
 1300  52.13152444  007.68753990 160.29 gate jets|turboprops|props GATE 18B
 1301 B none 
