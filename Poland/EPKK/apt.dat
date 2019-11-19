@@ -3053,11 +3053,11 @@ I
 1300  50.07368876  019.80453962 135.79 gate jets|turboprops Terminal 2-9R
 1301 B airline 
 1300  50.07346800  019.80389116 168.09 gate jets|turboprops Cargo 8
-1301 C airline 
+1301 C cargo 
 1300  50.07342249  019.80353374 167.59 gate heavy|jets Cargo 7
-1301 F airline 
+1301 F cargo 
 1300  50.07346728  019.80326965 167.86 gate jets|turboprops Cargo 6
-1301 C airline 
+1301 C cargo 
 1300  50.07350642  019.80246529 168.13 gate jets|turboprops Terminal 1-5
 1301 C airline 
 1300  50.07322051  019.80213119 167.92 gate heavy|jets Terminal 1-4L
