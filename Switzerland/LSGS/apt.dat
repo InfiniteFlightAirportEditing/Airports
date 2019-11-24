@@ -4344,7 +4344,7 @@ I
 1301 B none 
 1300  46.21735263  007.32506884 -17.14 hangar jets|turboprops Alpark Hangar - H01
 1301 B none 
-1300  46.21841957  007.32895172 -16.99 tie_down helos Sector Grely - Apron - HELI
+1300  46.21841957  007.32895172 -16.99 tie_down helos Sector Grely - Apron - HELI A
 1301 A general_aviation 
 1300  46.21861937  007.32964639  73.15 tie_down jets|turboprops Sector Grely - Apron - F
 1301 B general_aviation 
@@ -4358,7 +4358,7 @@ I
 1301 B general_aviation 
 1300  46.21861042  007.32886514 -17.27 tie_down jets|turboprops Sector Grely - Apron 04
 1301 B general_aviation 
-1300  46.21778682  007.32577658 -17.66 tie_down helos Sector Grely - Apron - HELI
+1300  46.21778682  007.32577658 -17.66 tie_down helos Sector Grely - Apron - HELI B
 1301 A general_aviation 
 1300  46.21795548  007.32648006  72.28 tie_down jets|turboprops Sector Grely - Apron - C
 1301 B general_aviation 
