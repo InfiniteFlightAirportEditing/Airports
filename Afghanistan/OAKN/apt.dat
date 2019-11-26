@@ -6182,13 +6182,13 @@ I
 1301 D military 
 1300  31.50665729  065.85564823 324.98 tie_down jets|turboprops|props|fighters Hotel Maintenance
 1301 D military 
-1300  31.50393430  065.85057859 235.01 tie_down jets|turboprops|props Juliet Civil Terminal Apron 
+1300  31.50393430  065.85057859 235.01 tie_down jets|turboprops|props Juliet Civil Terminal Apron NE
 1301 C airline 
-1300  31.50357074  065.85084882 235.76 tie_down jets|turboprops|props Juliet Civil Terminal Apron
+1300  31.50357074  065.85084882 235.76 gate jets|turboprops|props Juliet Civil Terminal Apron SE
 1301 C airline 
-1300  31.50292251  065.84976287  55.21 tie_down jets|turboprops|props Juliet Civil Terminal Apron
+1300  31.50292251  065.84976287  55.21 gate jets|turboprops|props Juliet Civil Terminal Apron SW
 1301 C airline 
-1300  31.50326617  065.84946308  53.47 tie_down jets|turboprops|props Juliet Civil Terminal Apron
+1300  31.50326617  065.84946308  53.47 tie_down jets|turboprops|props Juliet Civil Terminal Apron NW
 1301 C airline 
 1300  31.50015168  065.84503577  52.80 tie_down jets|turboprops|props|fighters Kilo A1 Base Ops
 1301 D military 
@@ -6314,7 +6314,7 @@ I
 1301 E military 
 1300  31.51189644  065.84672172 235.20 tie_down turboprops|props|fighters Yankee 01
 1301 B military 
-1300  31.51165450  065.84691341 235.20 tie_down turboprops|props|fighters Yankee 01
+1300  31.51165450  065.84691341 235.20 tie_down turboprops|props|fighters Yankee 02
 1301 B military 
 1300  31.51146647  065.84706239 235.20 tie_down turboprops|props|fighters Yankee 03
 1301 B military 

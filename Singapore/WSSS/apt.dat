@@ -12666,23 +12666,23 @@ I
 1301 C airline 
 1300  01.36576518  103.99576852 201.29 gate jets North Remote apron 310
 1301 D airline 
-1300  01.37700942  103.99935804  90.61 tie_down heavy North service apron
+1300  01.37700942  103.99935804  90.61 tie_down heavy North service apron 1
 1301 E airline 
-1300  01.37537133  103.99826123 294.86 misc heavy North service apron
+1300  01.37537133  103.99826123 294.86 misc heavy North service apron 2
 1301 E none 
 1300  01.37696389  103.99712623 292.44 hangar heavy SIA Hangar 1
 1301 E none 
-1300  01.37781025  103.99742951 293.66 hangar heavy SIA Hangar 1
+1300  01.37781025  103.99742951 293.66 hangar heavy SIA Hangar 2
 1301 E none 
-1300  01.37513078  103.99730115 295.76 hangar heavy SIA Hangar 2
+1300  01.37513078  103.99730115 295.76 hangar heavy SIA Hangar 3
 1301 F none 
 1300  01.37452518  104.00023561  88.62 hangar jets SIA Hangar 4
 1301 D none 
-1300  01.37821553  103.99885789  24.41 hangar heavy SIA Hangar 3
+1300  01.37821553  103.99885789  24.41 hangar heavy SIA Hangar 5
 1301 E none 
-1300  01.37531711  104.00017703  89.41 hangar heavy SIA Hangar 5
+1300  01.37531711  104.00017703  89.41 hangar heavy SIA Hangar 6
 1301 F none 
-1300  01.37614205  104.00017599  90.72 hangar heavy SIA Hangar 6
+1300  01.37614205  104.00017599  90.72 hangar heavy SIA Hangar 7
 1301 F none 
 1300  01.34851379  103.98719608 291.45 gate heavy|jets East Remote apron 203
 1301 E airline 
