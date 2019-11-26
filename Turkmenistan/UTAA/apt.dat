@@ -9831,7 +9831,7 @@ I
 14  37.98746361  058.35968265 131.23 0 Tower Viewpoint 
 1300  37.98696031  058.35310478  28.57 gate heavy|jets|turboprops Cargo Apron - Stand 505
 1301 E cargo 
-1300  37.98732856  058.35229246  29.66 gate heavy|jets|turboprops Cargo Apron - Stand 502
+1300  37.98732856  058.35229246  29.66 gate heavy|jets|turboprops Cargo Apron - Stand 504
 1301 E cargo 
 1300  37.98768604  058.35147138  29.26 gate heavy|jets|turboprops Cargo Apron - Stand 503
 1301 E cargo 
@@ -10029,7 +10029,7 @@ I
 1301 C general_aviation 
 1300  37.96588863  058.37576594 127.64 tie_down jets|turboprops Remote Apron - Stand 210
 1301 D general_aviation 
-1300  37.96545059  058.37509132 128.00 tie_down jets|turboprops Remote Apron - Stand 210
+1300  37.96545059  058.37509132 128.00 tie_down jets|turboprops Remote Apron - Stand 211
 1301 C general_aviation 
 1300  37.96515494  058.37482643 127.71 tie_down jets|turboprops Remote Apron - Stand 212
 1301 C general_aviation 

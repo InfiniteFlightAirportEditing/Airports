@@ -818,23 +818,23 @@ I
 1301 B airline 
 1300  46.62399345 -080.79533142 162.32 gate jets|turboprops Gate 01
 1301 B airline 
-1300  46.62764361 -080.78725336 -74.86 tie_down props GA 15
+1300  46.62764361 -080.78725336 -74.86 tie_down props GA 16
 1301 A general_aviation 
-1300  46.62752327 -080.78730037 -74.86 tie_down props GA 14
+1300  46.62752327 -080.78730037 -74.86 tie_down props GA 15
 1301 A general_aviation 
-1300  46.62740292 -080.78734739 -74.86 tie_down props GA 13
+1300  46.62740292 -080.78734739 -74.86 tie_down props GA 14
 1301 A general_aviation 
-1300  46.62728356 -080.78739440 -74.86 tie_down props GA 12
+1300  46.62728356 -080.78739440 -74.86 tie_down props GA 13
 1301 A general_aviation 
-1300  46.62716322 -080.78744141 -74.86 tie_down props GA 11
+1300  46.62716322 -080.78744141 -74.86 tie_down props GA 12
 1301 A general_aviation 
-1300  46.62704092 -080.78748843 -74.86 tie_down props GA 10
+1300  46.62704092 -080.78748843 -74.86 tie_down props GA 11
 1301 A general_aviation 
-1300  46.62792411 -080.79077249 196.96 tie_down props GA 09
+1300  46.62792411 -080.79077249 196.96 tie_down props GA 10
 1301 A general_aviation 
-1300  46.62788718 -080.79059773 196.96 tie_down props GA 08
+1300  46.62788718 -080.79059773 196.96 tie_down props GA 09
 1301 A general_aviation 
-1300  46.62785019 -080.79042277 196.96 tie_down props GA 07
+1300  46.62785019 -080.79042277 196.96 tie_down props GA 08
 1301 A general_aviation 
 1300  46.62085320 -080.79648099  28.52 tie_down props Main GA 11
 1301 A general_aviation 
@@ -860,13 +860,13 @@ I
 1301 B cargo 
 1300  46.62127822 -080.79763626  28.52 tie_down props Main GA 06
 1301 A general_aviation 
-1300  46.62762442 -080.79049407  16.82 tie_down props GA 06
+1300  46.62762442 -080.79049407  16.82 tie_down props GA 07
 1301 A general_aviation 
-1300  46.62766080 -080.79066969  16.82 tie_down props GA 05
+1300  46.62766080 -080.79066969  16.82 tie_down props GA 06
 1301 A general_aviation 
-1300  46.62769669 -080.79084584  16.82 tie_down props GA 04
+1300  46.62769669 -080.79084584  16.82 tie_down props GA 05
 1301 A general_aviation 
-1300  46.62773274 -080.79102211  16.82 tie_down props GA 03
+1300  46.62773274 -080.79102211  16.82 tie_down props GA 04
 1301 A general_aviation 
 1300  46.62776979 -080.79119693  16.82 tie_down props GA 03
 1301 A general_aviation 

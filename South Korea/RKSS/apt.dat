@@ -4772,7 +4772,7 @@ I
 1301 D airline 
 1300  37.55848151  126.80207917  45.44 gate jets TERMINAL 2 Gate 14
 1301 D airline 
-1300  37.55905896  126.80172794  45.36 gate heavy|jets TERMINAL 2 Gate 1
+1300  37.55905896  126.80172794  45.36 gate heavy|jets TERMINAL 2 Gate 2
 1301 E airline 
 1300  37.55946301  126.80110135  43.83 gate jets TERMINAL 2 Gate 15
 1301 D airline 
@@ -4872,7 +4872,7 @@ I
 1301 B airline 
 1300  37.55845841  126.79783661 -134.18 gate jets Remote Gate 142
 1301 C airline 
-1300  37.55822494  126.79820392 -134.25 gate jets Remote Gate 121
+1300  37.55822494  126.79820392 -134.25 gate jets Remote Gate 141
 1301 C airline 
 1300  37.55798321  126.79858083 -134.61 gate jets Remote Gate 140
 1301 C airline 
