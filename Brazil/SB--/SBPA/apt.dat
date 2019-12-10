@@ -2145,7 +2145,7 @@ I
 1300 -29.99675057 -051.17668647 -176.99 tie_down turboprops|props GA Apron 01
 1301 A general_aviation 
 1300 -29.99105011 -051.17246025  42.06 gate jets|turboprops Gate 19A
-1301 D airline 
+1301 E airline 
 1300 -29.99105670 -051.17259782   1.56 gate jets|turboprops Gate 19
 1301 C airline 
 1300 -29.99104748 -051.17303208   1.43 gate jets|turboprops Gate 18
@@ -2200,8 +2200,8 @@ I
 1301 C airline 
 1300 -29.99178382 -051.18182144 -64.42 gate jets|turboprops Gate 22
 1301 C airline 
-1300 -29.99186218 -051.18208876 -63.94 gate jets|turboprops Gate 21A
-1301 D airline 
+1300 -29.99186218 -051.18208876 -63.94 gate heavy|jets Gate 21A
+1301 E airline 
 1300 -29.99207047 -051.18209481 -63.69 gate jets|turboprops Gate 21
 1301 C airline 
 1300 -29.99080608 -051.17600348  26.28 gate jets|turboprops Gate 05C
@@ -2210,20 +2210,20 @@ I
 1301 C airline 
 1300 -29.99066689 -051.17682112 -13.79 gate jets|turboprops Gate 04R
 1301 C airline 
-1300 -29.99069608 -051.17679760   8.15 gate jets|turboprops Gate 04C
+1300 -29.99069608 -051.17679760   8.15 gate heavy|jets Gate 04C
 1301 E airline 
 1300 -29.99091222 -051.17710053  12.75 gate jets|turboprops Gate 04L
 1301 C airline 
 1300 -29.99070209 -051.17763926 -11.01 gate jets|turboprops Gate 03R
 1301 C airline 
-1300 -29.99074381 -051.17767240  25.74 gate jets|turboprops Gate 03C
-1301 D airline 
+1300 -29.99074381 -051.17767240  25.74 gate heavy|jets Gate 03C
+1301 E airline 
 1300 -29.99083858 -051.17797127  21.56 gate jets|turboprops Gate 03L
 1301 C airline 
 1300 -29.99068501 -051.17830487  31.72 gate jets|turboprops Gate 02R
 1301 C airline 
-1300 -29.99068096 -051.17833084  55.70 gate jets|turboprops Gate 02C
-1301 D airline 
+1300 -29.99068096 -051.17833084  55.70 gate heavy|jets Gate 02C
+1301 E airline 
 1300 -29.99061755 -051.17861532  90.52 gate jets|turboprops Gate 02L
 1301 C airline 
 1300 -29.99025536 -051.17853415 111.06 gate jets|turboprops Gate 01C

@@ -3002,7 +3002,7 @@ I
 1300 -12.90672502 -038.32599157 -44.09 tie_down fighters Military Apron 2-01
 1301 B military 
 1300 -12.90511077 -038.32666732  46.19 hangar jets|turboprops|fighters Military Hangar 01
-1301 C none 
+1301 D none 
 1300 -12.90755398 -038.32856966 -13.83 misc helos Military Helipad 6-08
 1301 A none 
 1300 -12.90782269 -038.32870872 -42.69 tie_down fighters Military Apron 6-07
@@ -3136,43 +3136,43 @@ I
 1300 -12.91311274 -038.33018295 167.65 gate jets|turboprops Cargo Apron 07R
 1301 C cargo 
 1300 -12.91330382 -038.32994449 168.65 gate heavy|jets|turboprops Cargo Apron 07
-1301 E cargo 
+1301 F cargo 
 1300 -12.91303217 -038.32980269 168.70 gate jets|turboprops Cargo Apron 07L
 1301 C cargo 
 1300 -12.91295499 -038.32942437 168.21 gate jets|turboprops Cargo Apron 06R
 1301 C cargo 
 1300 -12.91316393 -038.32920924 169.44 gate heavy|jets|turboprops Cargo Apron 06
-1301 E cargo 
+1301 F cargo 
 1300 -12.91289118 -038.32905617 168.63 gate jets|turboprops Cargo Apron 06L
 1301 C cargo 
 1300 -12.91279794 -038.32871314 168.25 gate jets|turboprops Cargo Apron 05R
 1301 C cargo 
 1300 -12.91299606 -038.32850145 169.41 gate heavy|jets|turboprops Cargo Apron 05
-1301 E cargo 
+1301 F cargo 
 1300 -12.91272850 -038.32836399 168.87 gate jets|turboprops Cargo Apron 05L
 1301 C cargo 
 1300 -12.91265816 -038.32799471 169.51 gate jets|turboprops Cargo Apron 04R
 1301 C cargo 
 1300 -12.91285423 -038.32775724 169.35 gate heavy|jets|turboprops Cargo Apron 04
-1301 E cargo 
+1301 F cargo 
 1300 -12.91257361 -038.32761208 169.10 gate jets|turboprops Cargo Apron 04L
 1301 C cargo 
 1300 -12.91252396 -038.32722871 168.02 gate jets|turboprops Cargo Apron 03R
 1301 C cargo 
 1300 -12.91271536 -038.32699887 169.37 gate heavy|jets|turboprops Cargo Apron 03
-1301 E cargo 
+1301 F cargo 
 1300 -12.91244124 -038.32687232 167.54 gate jets|turboprops Cargo Apron 03L
 1301 C cargo 
 1300 -12.91236112 -038.32652098 168.00 gate jets|turboprops Cargo Apron 02R
 1301 C cargo 
 1300 -12.91256418 -038.32626918 168.50 gate heavy|jets|turboprops Cargo Apron 02
-1301 E cargo 
+1301 F cargo 
 1300 -12.91229578 -038.32614146 169.01 gate jets|turboprops Cargo Apron 02L
 1301 C cargo 
 1300 -12.91222115 -038.32575829 167.76 gate jets|turboprops Cargo Apron 01R
 1301 C cargo 
 1300 -12.91242787 -038.32552770 168.05 gate heavy|jets|turboprops Cargo Apron 01
-1301 E cargo 
+1301 F cargo 
 1300 -12.91214367 -038.32540220 168.22 gate jets|turboprops Cargo Apron 01L
 1301 C cargo 
 18 -12.91827882 -038.33086910 1 Airport Beacon
