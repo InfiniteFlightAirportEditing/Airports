@@ -3427,9 +3427,9 @@ I
 1300 -23.63572304 -046.65248886 -29.89 tie_down jets|turboprops|props TIE-DOWN 11
 1301 A general_aviation 
 1300 -23.63552257 -046.65257983 -89.95 tie_down jets|turboprops|props TIE-DOWN 10
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -23.63532562 -046.65268455 -89.48 tie_down jets|turboprops|props TIE-DOWN 09
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -23.63512828 -046.65282027 -86.64 tie_down jets|turboprops|props TIE-DOWN 08
 1301 A general_aviation 
 1300 -23.63542843 -046.65331024  -3.65 tie_down jets|turboprops|props TIE-DOWN 07
@@ -3525,9 +3525,9 @@ I
 1300 -23.63003295 -046.65038861 146.10 tie_down turboprops|props RAMP GA 1-01
 1301 A general_aviation 
 1300 -23.63081436 -046.64908511 -122.03 hangar jets|turboprops|props HANGAR 28
-1301 A none 
+1301 B none 
 1300 -23.63041345 -046.64938888 -122.03 hangar jets|turboprops|props HANGAR 27
-1301 A none 
+1301 B none 
 1300 -23.63016532 -046.64981197 -122.03 hangar jets|turboprops|props HANGAR 26
 1301 A none 
 1300 -23.62407989 -046.65403144 -122.03 hangar jets|turboprops|props HANGAR 25
