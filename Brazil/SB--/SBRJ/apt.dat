@@ -2267,9 +2267,9 @@ I
 1300 -22.90528065 -043.16607738  -3.47 tie_down jets|turboprops DECEA 1
 1301 B military 
 1300 -22.90551513 -043.16498314 176.42 tie_down jets|turboprops|props Ramp GA 13
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.90620117 -043.16486268 178.09 tie_down jets|turboprops|props Ramp GA 12
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.90658550 -043.16467308  -2.98 tie_down turboprops|props|helos Ramp GA 11
 1301 A general_aviation 
 1300 -22.90659489 -043.16484472  -2.78 tie_down turboprops|props|helos Ramp GA 10
@@ -2283,15 +2283,15 @@ I
 1300 -22.90706073 -043.16498875  -3.69 tie_down turboprops|props|helos Ramp GA 06
 1301 A general_aviation 
 1300 -22.90773823 -043.16476326 175.44 tie_down jets|turboprops|props Ramp GA 5
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.90873738 -043.16503874 177.20 tie_down jets|turboprops|props Ramp GA 4
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.90941450 -043.16500129 177.03 tie_down jets|turboprops|props Ramp GA 3
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.91000225 -043.16496318 176.43 tie_down jets|turboprops|props Ramp GA 2
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.91060506 -043.16492224 176.47 tie_down jets|turboprops|props Ramp GA 1
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.90996271 -043.16755091  47.29 tie_down jets|turboprops|props Tie-Down 2
 1301 B general_aviation 
 1300 -22.90995373 -043.16713744  47.29 tie_down jets|turboprops|props Tie-Down 1
