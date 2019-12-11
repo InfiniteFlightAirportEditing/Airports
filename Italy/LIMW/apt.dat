@@ -653,7 +653,11 @@ I
 21  45.73838971  007.36005005 2 84.7000 4.00 api PAPI-4L
 21  45.73863063  007.37485819 2 264.7000 5.00 api PAPI-4L
 21  45.73941984  007.37482475 3 264.7000 5.00 api PAPI-4R
-14  45.73959217  007.36404868  65.62 0 0 ATC Tower
+14  45.73959217  007.36404868  82.02 0 0 ATC Tower
+1300  45.73965272  007.36784657 -97.24 tie_down turboprops|props Aero Club Corrado Gex 09
+1301 A general_aviation 
+1300  45.73981496  007.36781260 -97.24 tie_down turboprops|props Aero Club Corrado Gex 08
+1301 A general_aviation 
 1300  45.73947853  007.36655186 176.29 tie_down turboprops|props Aero Club Corrado Gex 07
 1301 A general_aviation 
 1300  45.73946557  007.36632159 176.29 tie_down turboprops|props Aero Club Corrado Gex 06
