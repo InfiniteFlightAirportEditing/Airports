@@ -5464,7 +5464,7 @@ I
 1300 -15.86691504 -047.90984781 -93.46 tie_down jets|turboprops|fighters Military Apron 03A
 1301 B military 
 1300 -15.86606879 -047.91079390 -92.40 tie_down jets|turboprops|fighters Military Apron 02E
-1301 D military 
+1301 E military 
 1300 -15.86672361 -047.91075232 -93.19 tie_down heavy|jets|turboprops|fighters Military Apron 02D
 1301 E military 
 1300 -15.86596045 -047.91076420 -93.96 tie_down jets|turboprops|fighters Military Apron 02C
@@ -5662,9 +5662,9 @@ I
 1300 -15.87022523 -047.92022840 -93.23 gate jets|turboprops Gate 21
 1301 C airline 
 1300 -15.86970949 -047.92027559 -94.37 gate jets|turboprops Gate 20
-1301 D airline 
+1301 E airline 
 1300 -15.86919156 -047.92031143 -94.27 gate jets|turboprops Gate 19
-1301 D airline 
+1301 E airline 
 1300 -15.86872894 -047.92030119 -92.19 gate jets|turboprops Gate 18
 1301 C airline 
 1300 -15.86828644 -047.92013804 -71.05 gate jets|turboprops Gate 17
@@ -5704,7 +5704,7 @@ I
 1300 -15.86766224 -047.92088515 122.31 gate jets|turboprops Gate 02
 1301 C airline 
 1300 -15.86807737 -047.92101070 119.70 gate jets|turboprops Gate 01
-1301 D airline 
+1301 E airline 
 18 -15.86955003 -047.92128486 1 BCN
 50 12780 ATIS
 53 12180 Brasilia Ground
