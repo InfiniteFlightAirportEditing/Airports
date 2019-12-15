@@ -3324,7 +3324,7 @@ I
 115  41.80080953  012.58851442
 120 Linear Feature 118
 111  41.80125058  012.58752112 2
-111  41.80115382  012.58762074 2
+111  41.80116144  012.58761290 2
 115  41.80046999  012.58832473
 120 Linear Feature 117
 111  41.80109693  012.58749167 1
@@ -3574,7 +3574,7 @@ I
 1300  41.79389400  012.59546866  51.70 gate jets|turboprops|props Business Apron 404
 1301 C general_aviation 
 1300  41.79422469  012.59534099 112.49 gate jets|turboprops|props Business Apron 401
-1301 D general_aviation 
+1301 E general_aviation 
 1300  41.79432457  012.59522348  52.77 gate jets|turboprops|props Business Apron 403
 1301 C general_aviation 
 1300  41.79447741  012.59467906  52.37 gate jets|turboprops|props Business Apron 402
@@ -3699,8 +3699,8 @@ I
 1301 C airline 
 1300  41.80104005  012.58755034 -37.36 gate jets|turboprops VIP Stand 02
 1301 C airline 
-1300  41.80115382  012.58762074 -37.53 gate jets|turboprops VIP Stand 01
-1301 D airline 
+1300  41.80116144  012.58761290 -37.53 gate jets|turboprops VIP Stand 01
+1301 E airline 
 1300  41.80119705  012.58811591 -37.65 gate jets|turboprops Remote Stand 109
 1301 C airline 
 1300  41.80176244  012.58710246 -37.02 gate jets|turboprops Remote Stand 105
