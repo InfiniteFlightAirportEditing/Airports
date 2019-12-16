@@ -4000,7 +4000,7 @@ I
 1300  37.46913790  015.05906978  -7.03 tie_down jets|turboprops|props GA Apron 01
 1301 A general_aviation 
 1300  37.46910892  015.06216067  -6.05 gate jets|turboprops|props Remote Stand 322
-1301 D airline 
+1301 E airline 
 1300  37.46956374  015.06912425  -6.10 gate jets|turboprops|props Remote Stand 336
 1301 C airline 
 1300  37.46952173  015.06862219  -5.74 gate jets|turboprops|props Remote Stand 335
@@ -4032,7 +4032,7 @@ I
 1300  37.46899405  015.06189130  -6.10 gate jets|turboprops|props Remote Stand 321
 1301 C airline 
 1300  37.46905799  015.06156486  -5.98 gate jets|turboprops|props Remote Stand 320
-1301 D airline 
+1301 E airline 
 1300  37.46892328  015.06140142  -6.07 gate jets|turboprops|props Remote Stand 319
 1301 C airline 
 1300  37.46889639  015.06090363  -6.01 gate jets|turboprops|props Remote Stand 318
@@ -4048,11 +4048,11 @@ I
 1300  37.46863233  015.05838644  -6.13 gate jets|turboprops|props Remote Stand 312
 1301 C airline 
 1300  37.46856821  015.05824311 -60.31 gate jets|turboprops|props Remote Stand 314
-1301 D airline 
+1301 E airline 
 1300  37.46859193  015.05790230  -5.99 gate jets|turboprops|props Remote Stand 310
 1301 C airline 
 1300  37.46848597  015.05727075 -60.32 gate jets|turboprops|props Remote Stand 311
-1301 D airline 
+1301 E airline 
 1300  37.46855086  015.05741520  -5.98 gate jets|turboprops|props Remote Stand 309
 1301 C airline 
 1300  37.46838593  015.05704590  -6.23 gate jets|turboprops|props Remote Stand 307
@@ -4062,7 +4062,7 @@ I
 1300  37.46835796  015.05672044  -6.16 gate jets|turboprops|props Remote Stand 305
 1301 B airline 
 1300  37.46840383  015.05630022 -60.27 gate jets|turboprops|props Remote Stand 308
-1301 D airline 
+1301 E airline 
 1300  37.46846890  015.05644481  -6.06 gate jets|turboprops|props Remote Stand 304
 1301 C airline 
 1300  37.46833083  015.05639462  -6.12 gate jets|turboprops|props Remote Stand 303

@@ -3530,15 +3530,15 @@ I
 1300  45.19670765  007.64448168   1.32 gate jets|turboprops|props GA Apron 302
 1301 A general_aviation 
 1300  45.20475200  007.64593752   2.22 gate jets|turboprops Remote Stand 700
-1301 E general_aviation 
+1301 F general_aviation 
 1300  45.20459353  007.64554159 -87.47 gate jets|turboprops Remote Stand 800
-1301 E general_aviation 
+1301 F general_aviation 
 1300  45.20508404  007.64596411 -80.52 gate jets|turboprops Remote Stand 601
 1301 C general_aviation 
 1300  45.20490400  007.64562054 -87.35 gate jets|turboprops Remote Stand 701
-1301 D general_aviation 
+1301 E general_aviation 
 1300  45.20425090  007.64557806 -87.44 gate jets|turboprops Remote Stand 702
-1301 D general_aviation 
+1301 E general_aviation 
 1300  45.20502158  007.64531431 -43.44 gate jets|turboprops Remote Stand 602
 1301 C general_aviation 
 1300  45.20407949  007.64535963 -145.00 gate jets|turboprops Remote Stand 604
@@ -3576,11 +3576,11 @@ I
 1300  45.18999867  007.64551193 -137.67 gate jets|turboprops Cargo Apron 201
 1301 C cargo 
 1300  45.18925183  007.64546114 -137.70 gate jets|turboprops Cargo Apron 202
-1301 C cargo 
+1301 D cargo 
 1300  45.18851009  007.64541453 -137.67 gate jets|turboprops Cargo Apron 203
-1301 C cargo 
+1301 D cargo 
 1300  45.18786184  007.64537458 -134.58 gate jets|turboprops Cargo Apron 204
-1301 C cargo 
+1301 D cargo 
 1300  45.18728373  007.65280118  92.24 gate jets|turboprops Alenia Aeronautica Factory 12
 1301 B general_aviation 
 1300  45.18765714  007.65433707  40.49 gate jets|turboprops Alenia Aeronautica Factory 11
