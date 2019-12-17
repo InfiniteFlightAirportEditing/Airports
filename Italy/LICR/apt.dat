@@ -1081,6 +1081,14 @@ I
 14  38.07332538  015.65398518  82.02 0 New Tower Viewpoint 1
 1300  38.07205549  015.65466052  22.59 gate jets Gate 08
 1301 B airline 
+1300  38.07097699  015.65649823 -128.20 tie_down jets|props Tie Down 04
+1301 A general_aviation 
+1300  38.07111805  015.65636792 -128.20 tie_down jets|props Tie Down 03
+1301 A general_aviation 
+1300  38.07158185  015.65563218  61.64 tie_down jets|props Tie Down 02
+1301 A general_aviation 
+1300  38.07172137  015.65554168  61.64 tie_down jets|props Tie Down 01
+1301 A general_aviation 
 1300  38.07205455  015.65424794  22.94 gate jets Gate 07
 1301 A airline 
 1300  38.07151138  015.65455969 112.75 gate jets Gate 09

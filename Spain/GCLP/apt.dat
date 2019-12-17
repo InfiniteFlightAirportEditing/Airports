@@ -4856,37 +4856,37 @@ I
 1300  27.92558739 -015.39453567 112.02 hangar jets|turboprops|props HANGAR 01
 1301 B none 
 1300  27.92584896 -015.39372359  49.70 tie_down jets|turboprops|props RAMP GA L12
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92620385 -015.39365793  44.34 tie_down jets|turboprops|props RAMP GA L11
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92665851 -015.39346471  48.02 tie_down jets|turboprops|props RAMP GA L10
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92707443 -015.39328373  49.25 tie_down jets|turboprops|props RAMP GA L09
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92519104 -015.39226215  21.35 tie_down jets|turboprops|props RAMP GA L08
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92531060 -015.39259185  21.70 tie_down jets|turboprops|props RAMP GA L07
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92579658 -015.39199638  21.28 tie_down jets|turboprops|props RAMP GA L06
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92591673 -015.39232293  21.24 tie_down jets|turboprops|props RAMP GA L05
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92640703 -015.39172368  21.70 tie_down jets|turboprops|props RAMP GA L04
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92652239 -015.39205499  21.36 tie_down jets|turboprops|props RAMP GA L03
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92701514 -015.39145852  21.59 tie_down jets|turboprops|props RAMP GA L02
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92712601 -015.39178818  21.67 tie_down jets|turboprops|props RAMP GA L01
-1301 A general_aviation 
+1301 B general_aviation 
 1300  27.92535098 -015.39263188 -68.77 tie_down jets|turboprops REMOTE P66
-1301 B airline 
+1301 D airline 
 1300  27.92588309 -015.39239932 -68.46 tie_down jets|turboprops REMOTE P64
-1301 B airline 
+1301 D airline 
 1300  27.92641280 -015.39216472 -68.29 tie_down jets|turboprops REMOTE P62
-1301 B airline 
+1301 D airline 
 1300  27.92694153 -015.39193010 -67.97 tie_down jets|turboprops REMOTE P60
-1301 B airline 
+1301 D airline 
 1300  27.92730325 -015.39154948 -68.33 tie_down jets|turboprops REMOTE P58
 1301 B airline 
 1300  27.92767161 -015.39142224 -68.71 tie_down jets|turboprops REMOTE P56
@@ -4956,28 +4956,28 @@ I
 1300  27.92832924 -015.39277737 -67.94 misc turboprops|helos HELIPAD LH01
 1301 A none 
 1300  27.92873566 -015.39270232 -68.47 gate heavy|jets REMOTE T22
-1301 E cargo 
+1301 E airline 
 1300  27.92901653 -015.39258073 -68.54 gate jets|turboprops REMOTE T21B
-1301 B cargo 
+1301 C airline 
 1300  27.92929685 -015.39246492 -68.53 gate heavy|jets REMOTE T21
-1301 E cargo 
+1301 E airline 
 1300  27.92985517 -015.39219446 -68.69 gate heavy|jets REMOTE T20
-1301 E cargo 
+1301 E airline 
 1300  27.93042907 -015.39196225 -68.79 gate heavy|jets REMOTE T19
-1301 E cargo 
+1301 E airline 
 1300  27.93099663 -015.39171049 -68.70 gate heavy|jets REMOTE T18
-1301 E cargo 
+1301 E airline 
 1300  27.93156219 -015.39145299 -68.55 gate heavy|jets REMOTE T17
-1301 E cargo 
+1301 E airline 
 1300  27.93219066 -015.39118208 -68.51 gate heavy|jets REMOTE T16
-1301 E cargo 
+1301 E airline 
 1300  27.93322959 -015.39072053 -68.33 gate heavy|jets CARGO T15
 1301 E cargo 
 1300  27.93387758 -015.39042982 -68.73 gate heavy|jets CARGO T14
 1301 E cargo 
 1300  27.93456678 -015.39012502 -68.48 gate heavy|jets CARGO T13
 1301 E cargo 
-1300  27.93530213 -015.38951555 -18.16 gate jets|turboprops GATE T12A
+1300  27.93530213 -015.38951555 -18.16 gate jets|turboprops REMOTE T12A
 1301 C airline 
 1300  27.93523368 -015.38979937 -68.51 gate heavy|jets GATE T12
 1301 F airline 
@@ -5004,17 +5004,17 @@ I
 1300  27.93989545 -015.38775251 -68.65 gate heavy|jets GATE T01
 1301 D airline 
 1300  27.94047158 -015.38750836 -68.47 gate heavy|jets GATE N03
-1301 D airline 
+1301 E airline 
 1300  27.94026632 -015.38735294 -68.49 gate jets|turboprops GATE M04
-1301 B airline 
+1301 C airline 
 1300  27.94058188 -015.38722870 -68.21 gate jets|turboprops GATE M03
-1301 B airline 
+1301 C airline 
 1300  27.94088739 -015.38707375 -68.35 gate jets|turboprops GATE M02
-1301 B airline 
+1301 C airline 
 1300  27.94114480 -015.38739151 -68.51 gate heavy|jets GATE N02
 1301 F airline 
 1300  27.94119944 -015.38693630 -68.22 gate jets|turboprops GATE M01
-1301 B airline 
+1301 C airline 
 1300  27.94156939 -015.38697255 -68.48 gate jets|turboprops GATE N12
 1301 C airline 
 1300  27.94182692 -015.38708743 -68.45 gate heavy|jets GATE N01
