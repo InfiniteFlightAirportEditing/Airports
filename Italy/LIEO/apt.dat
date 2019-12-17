@@ -3311,6 +3311,8 @@ I
 1301 A general_aviation 
 1300  40.90510388  009.52431504  54.88 tie_down props GA Apron 40
 1301 A general_aviation 
+1300  40.90468842  009.52347625 -36.06 tie_down props GA Apron 38
+1301 C general_aviation 
 1300  40.90501125  009.52413731  55.80 tie_down props GA Apron 39
 1301 A general_aviation 
 1300  40.90402255  009.52258349 144.67 tie_down props GA Apron 37
@@ -3377,7 +3379,7 @@ I
 1301 C airline 
 1300  40.90184604  009.51518110 -34.85 gate jets Gate 101
 1301 C airline 
-1300  40.90146089  009.51450663 -34.42 gate jets Gate 115
+1300  40.90146089  009.51450663 -34.42 gate jets Remote Stand 115
 1301 C airline 
 1300  40.90125747  009.51401179  24.85 gate jets Remote Stand 114
 1301 C cargo 

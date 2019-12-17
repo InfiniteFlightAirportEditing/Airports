@@ -3913,13 +3913,13 @@ I
 1300  45.50795980  012.34699226  42.00 gate jets|turboprops Remote Stand 102
 1301 C airline 
 1300  45.50779676  012.34699529  87.29 gate jets|turboprops Remote Stand 103
-1301 C airline 
-1300  45.50827357  012.34651501  42.00 gate jets|turboprops Remote Stand 104
 1301 D airline 
+1300  45.50827357  012.34651501  42.00 gate jets|turboprops Remote Stand 104
+1301 E airline 
 1300  45.50822111  012.34632780  87.08 gate jets|turboprops Remote Stand 105
 1301 D airline 
 1300  45.50870594  012.34582930  42.24 gate jets|turboprops Remote Stand 106
-1301 D airline 
+1301 E airline 
 1300  45.50666135  012.34446653  76.00 gate jets|turboprops Remote Stand 217
 1301 C airline 
 1300  45.50694299  012.34401952  76.00 gate jets|turboprops Remote Stand 218
@@ -3935,9 +3935,9 @@ I
 1300  45.50912522  012.34483922  87.00 gate jets|turboprops Remote Stand 108
 1301 D airline 
 1300  45.50995562  012.34401750  41.88 gate jets|turboprops Remote Stand 100
-1301 E airline 
+1301 F airline 
 1300  45.50970687  012.34400024  87.00 gate jets|turboprops Remote Stand 109
-1301 D airline 
+1301 E airline 
 1300  45.50659828  012.34518608 222.00 gate jets|turboprops Remote Stand 116
 1301 C airline 
 1300  45.50687674  012.34476136 222.00 gate jets|turboprops Remote Stand 115
@@ -4015,7 +4015,7 @@ I
 1300  45.49968995  012.33776726 -47.73 gate jets|turboprops Remote Stand 440
 1301 C airline 
 1300  45.49993441  012.33850330  44.69 gate jets|turboprops Remote Stand 441
-1301 C airline 
+1301 D airline 
 1300  45.50000051  012.33816755 -47.58 gate jets|turboprops Remote Stand 439
 1301 C airline 
 1300  45.50031339  012.33856290 -47.58 gate jets|turboprops Remote Stand 438
@@ -4031,7 +4031,7 @@ I
 1300  45.50186622  012.34057094 -47.58 gate jets|turboprops Remote Stand 433
 1301 C airline 
 1300  45.50185113  012.34085327 -136.14 gate jets|turboprops Remote Stand 431
-1301 C airline 
+1301 D airline 
 1300  45.50217663  012.34096953 313.00 gate jets|turboprops Remote Stand 432
 1301 C airline 
 18  45.50265702  012.33960169 1 New Airport Beacon 7
