@@ -4444,11 +4444,11 @@ I
 1300  45.66628173  009.70052514 -165.20 gate jets|turboprops Terminal Apron 210
 1301 C airline 
 1300  45.66662765  009.69925266 -165.19 gate jets|turboprops Terminal Apron 207-1
-1301 C airline 
+1301 D airline 
 1300  45.66650202  009.69994486 -165.23 gate jets|turboprops Terminal Apron 209-1
-1301 C airline 
+1301 D airline 
 1300  45.66668948  009.69956933 -116.34 gate jets|turboprops Terminal Apron 208
-1301 C airline 
+1301 D airline 
 1300  45.66632795  009.69987920 -165.29 gate jets|turboprops Terminal Apron 209-2
 1301 D airline 
 1300  45.66640767  009.69916950 -165.15 gate jets|turboprops Terminal Apron 207-2
@@ -4456,11 +4456,11 @@ I
 1300  45.66664054  009.69859268 -165.18 gate jets|turboprops Terminal Apron 206
 1301 C airline 
 1300  45.66692121  009.69832447 -116.36 gate jets|turboprops Terminal Apron 205
-1301 C airline 
+1301 D airline 
 1300  45.66675695  009.69796842 -165.18 gate jets|turboprops Terminal Apron 204
 1301 C airline 
 1300  45.66715252  009.69707886 -116.39 gate jets|turboprops Terminal Apron 202
-1301 C airline 
+1301 D airline 
 1300  45.66687208  009.69734656 -165.17 gate jets|turboprops Terminal Apron 203
 1301 C airline 
 1300  45.66698763  009.69672370 -165.21 gate jets|turboprops Terminal Apron 201
