@@ -6943,17 +6943,17 @@ I
 1301 D airline 
 1300  43.65891897  007.20955539 121.42 gate jets|turboprops Remote 49C
 1301 C airline 
-1300  43.65794054  007.20771628 -44.80 gate jets|turboprops Remote 53A
-1301 B airline 
-1300  43.65787738  007.20766111 -10.20 gate jets|turboprops Remote 53B
-1301 C airline 
-1300  43.65772941  007.20743043 -45.21 gate jets|turboprops Remote 53C
-1301 B airline 
 1300  43.65747791  007.20707961 -44.85 gate jets|turboprops Remote 53A
 1301 B airline 
 1300  43.65745284  007.20705035 -14.90 gate jets|turboprops Remote 53B
 1301 C airline 
 1300  43.65722962  007.20677196 -45.00 gate jets|turboprops Remote 53C
+1301 B airline 
+1300  43.65794054  007.20771628 -44.80 gate jets|turboprops Remote 51A
+1301 B airline 
+1300  43.65787738  007.20766111 -10.20 gate jets|turboprops Remote 51B
+1301 C airline 
+1300  43.65772941  007.20743043 -45.21 gate jets|turboprops Remote 51C
 1301 B airline 
 1300  43.65610286  007.20566378 135.01 gate jets|turboprops Remote 71D
 1301 B airline 
