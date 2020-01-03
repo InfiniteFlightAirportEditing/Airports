@@ -14422,7 +14422,7 @@ I
 1301 C airline 
 1300  48.12523532  016.54557857  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 01
 1301 C airline 
-1300  48.12581030  016.54408310  -6.21 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 04
+1300  48.12581030  016.54408310  -6.21 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 03
 1301 E airline 
 1300  48.12344018  016.54324425 -27.55 gate jets|turboprops|props Remote Stand A96
 1301 E cargo 
@@ -14670,7 +14670,7 @@ I
 1301 D cargo 
 1300  48.12333333  016.54052791 -70.64 gate jets|turboprops|props Remote Stand A91
 1301 C cargo 
-1300  48.12541454  016.54503876  27.83 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 03
+1300  48.12541454  016.54503876  27.83 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 04
 1301 C airline 
 1300  48.12582498  016.54296773 -152.60 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 02
 1301 C airline 
