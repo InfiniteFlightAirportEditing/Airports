@@ -14424,7 +14424,7 @@ I
 1301 C airline 
 1300  48.12581030  016.54408310  -6.21 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 03
 1301 E airline 
-1300  48.12344018  016.54324425 -27.55 gate jets|turboprops|props Remote Stand A96
+1300  48.12344018  016.54324425 -27.55 gate jets|turboprops|props Cargo Apron A96
 1301 E cargo 
 1300  48.12030844  016.55253632 -63.93 gate jets|turboprops|props Remote Stand B85
 1301 C airline 
@@ -14541,9 +14541,9 @@ I
 1300  48.11627873  016.57113110  25.78 gate jets|turboprops|props Remote Stand F45
 1301 C airline 
 1300  48.11647260  016.57053117  25.81 gate jets|turboprops|props Remote Stand F43
-1301 C airline 
-1300  48.11644779  016.57048331  25.82 gate jets|turboprops|props Remote Stand F41
 1301 E airline 
+1300  48.11644779  016.57048331  25.82 gate jets|turboprops|props Remote Stand F41
+1301 C airline 
 1300  48.11666764  016.56960610  26.24 gate jets|turboprops|props Pier North Gate F37
 1301 C airline 
 1300  48.11691762  016.56937429  25.81 gate jets|turboprops|props Pier North Gate F33
@@ -14660,15 +14660,15 @@ I
 1301 F cargo 
 1300  48.12155073  016.54915593  25.78 gate jets|turboprops|props Cargo Apron B51
 1301 C cargo 
-1300  48.12328960  016.54364606  25.93 gate jets|turboprops|props Remote Stand A95
+1300  48.12328960  016.54364606  25.93 gate jets|turboprops|props Cargo Apron A95
 1301 D cargo 
-1300  48.12345135  016.54299316  25.95 gate jets|turboprops|props Remote Stand A94
+1300  48.12345135  016.54299316  25.95 gate jets|turboprops|props Cargo Apron A94
 1301 C cargo 
-1300  48.12372453  016.54242370  25.77 gate jets|turboprops|props Remote Stand A93
+1300  48.12372453  016.54242370  25.77 gate jets|turboprops|props Cargo Apron A93
 1301 D cargo 
-1300  48.12384930  016.54108238 -28.25 gate jets|turboprops|props Remote Stand A92
+1300  48.12384930  016.54108238 -28.25 gate jets|turboprops|props Cargo Apron A92
 1301 D cargo 
-1300  48.12333333  016.54052791 -70.64 gate jets|turboprops|props Remote Stand A91
+1300  48.12333333  016.54052791 -70.64 gate jets|turboprops|props Cargo Apron A91
 1301 C cargo 
 1300  48.12541454  016.54503876  27.83 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 04
 1301 C airline 
