@@ -2512,7 +2512,7 @@ I
 1300 -08.13219970 -034.91877974  71.69 gate jets|turboprops Gate 11
 1301 C airline 
 1300 -08.13269879 -034.91861524  71.47 gate heavy|jets|turboprops Gate 10
-1301 E airline 
+1301 F airline 
 1300 -08.13323257 -034.91854586  72.12 gate jets|turboprops Gate 09
 1301 C airline 
 1300 -08.13340027 -034.91834811  71.94 gate heavy|jets|turboprops Gate 08A
@@ -2528,7 +2528,7 @@ I
 1300 -08.13527756 -034.91790342  72.13 gate jets|turboprops Gate 04
 1301 C airline 
 1300 -08.13530120 -034.91846075 -59.78 gate heavy|jets|turboprops Gate 03A
-1301 E cargo 
+1301 F cargo 
 1300 -08.13564638 -034.91780038  71.92 gate jets|turboprops Gate 03
 1301 C airline 
 1300 -08.13599441 -034.91767591  71.72 gate jets|turboprops Gate 02
