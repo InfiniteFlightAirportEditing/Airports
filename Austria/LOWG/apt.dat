@@ -2891,7 +2891,7 @@ I
 115  46.99446351  015.44362706
 21  46.99880236  015.43682531 3 168.4800 3.00 New Light Fixture 78
 21  46.99900280  015.43813126 2 169.4100 3.00 New Light Fixture 78
-21  46.98044620  015.44187487 2 -11.1200 3.00 New Light Fixture 77
+21  46.98044620  015.44187487 2 348.8800 3.00 New Light Fixture 77
 14  46.99606984  015.44565945  82.02 0 New Tower Viewpoint 1
 1300  46.99770860  015.44522764 169.39 gate jets|turboprops|props Terminal Apron 28
 1301 C airline 
@@ -3005,6 +3005,8 @@ I
 1301 D airline 
 1300  46.99889081  015.44238724 -10.63 gate jets|turboprops|props Remote Stand 30
 1301 C airline 
+1300  46.98994095  015.44523190 212.64 tie_down jets|turboprops|props FBO Austrian Aircraft Corporation 06
+1301 B general_aviation 
 1300  46.99018306  015.44516634 212.64 tie_down jets|turboprops|props FBO Austrian Aircraft Corporation 05
 1301 B general_aviation 
 1300  46.99046593  015.44509271 212.64 tie_down jets|turboprops|props FBO Austrian Aircraft Corporation 04
@@ -3039,5 +3041,5 @@ I
 50 12612 ATIS
 54 11820 Graz Tower
 55 11930 Graz Radar
-55 12302 Graz Direct
+55 12302 Graz Director
 99
