@@ -3005,6 +3005,8 @@ I
 1301 D airline 
 1300  46.99889081  015.44238724 -10.63 gate jets|turboprops|props Remote Stand 30
 1301 C airline 
+1300  46.98948032  015.44563547 -101.41 tie_down jets|turboprops|props Hangar
+1301 B general_aviation 
 1300  46.98994095  015.44523190 212.64 tie_down jets|turboprops|props FBO Austrian Aircraft Corporation 06
 1301 B general_aviation 
 1300  46.99018306  015.44516634 212.64 tie_down jets|turboprops|props FBO Austrian Aircraft Corporation 05
