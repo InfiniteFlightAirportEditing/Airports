@@ -5884,7 +5884,7 @@ I
 1300  56.92523085  023.97867287 -174.72 gate jets|turboprops|props Gate 302
 1301 C airline 
 1300  56.91554764  023.97489609 -84.95 gate jets|turboprops|props Remote Stand 226
-1301 E airline 
+1301 F airline 
 1300  56.91407233  023.97694765  64.77 gate jets|turboprops|props Remote Stand 291
 1301 B airline 
 1300  56.91379685  023.97686413  64.77 gate jets|turboprops|props Remote Stand 292
@@ -5905,7 +5905,7 @@ I
 1301 C airline 
 1300  56.91764648  023.97857374  95.23 gate jets|turboprops|props AirBaltic Hangar 02
 1301 C airline 
-1300  56.92027165  023.97615531 -174.50 gate jets|turboprops|props Remote Stand 110
+1300  56.92027165  023.97615531 -174.50 gate jets|turboprops|props Remote Stand 100
 1301 F airline 
 1300  56.92031997  023.97620472  54.24 gate jets|turboprops|props Remote Stand 114
 1301 E airline 
