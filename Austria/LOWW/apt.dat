@@ -14416,11 +14416,11 @@ I
 1301 C airline 
 1300  48.12515711  016.54139784 -82.22 tie_down jets|turboprops|props Maintenance Apron 04
 1301 D airline 
-1300  48.12487911  016.54659737  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 03
+1300  48.12492867  016.54658462  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 03
 1301 C airline 
-1300  48.12505231  016.54608506  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 02
+1300  48.12485329  016.54597325 -155.08 tie_down jets|turboprops|props Lauda Maintenance Hangar 02
 1301 C airline 
-1300  48.12523532  016.54557857  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 01
+1300  48.12521664  016.54567703  27.83 tie_down jets|turboprops|props Lauda Maintenance Hangar 01
 1301 C airline 
 1300  48.12581030  016.54408310  -6.21 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 03
 1301 E airline 
@@ -14503,11 +14503,11 @@ I
 1300  48.11735751  016.57167846 -154.09 gate jets|turboprops|props Remote Stand F46
 1301 C airline 
 1300  48.11864929  016.56810705 -154.09 gate jets|turboprops|props Pier North Gate G16
-1301 E airline 
+1301 F airline 
 1300  48.11829775  016.56919919 -154.09 gate jets|turboprops|props Pier North Gate G26
-1301 E airline 
+1301 F airline 
 1300  48.11794106  016.57028636 -154.09 gate jets|turboprops|props Pier North Gate G36
-1301 E airline 
+1301 F airline 
 1300  48.11921851  016.56650289 -154.09 gate jets|turboprops|props Pier North Gate F04
 1301 C airline 
 1300  48.11904128  016.56704869 -154.09 gate jets|turboprops|props Pier North Gate F08
@@ -14519,11 +14519,11 @@ I
 1300  48.11815681  016.56977019 -154.09 gate jets|turboprops|props Pier North Gate F32
 1301 C airline 
 1300  48.11862353  016.56808805 -154.09 gate jets|turboprops|props Pier North Gate F16
-1301 E airline 
+1301 F airline 
 1300  48.11827198  016.56918019 -154.09 gate jets|turboprops|props Pier North Gate F26
-1301 E airline 
+1301 F airline 
 1300  48.11791519  016.57026755 -154.09 gate jets|turboprops|props Pier North Gate F36
-1301 E airline 
+1301 F airline 
 1300  48.11750645  016.57122291 -154.09 gate jets|turboprops|props Remote Stand F44
 1301 E airline 
 1300  48.11722061  016.57210037 -154.09 gate jets|turboprops|props Remote Stand F48
@@ -14547,25 +14547,25 @@ I
 1300  48.11666764  016.56960610  26.24 gate jets|turboprops|props Pier North Gate F37
 1301 C airline 
 1300  48.11691762  016.56937429  25.81 gate jets|turboprops|props Pier North Gate F33
-1301 E airline 
+1301 F airline 
 1300  48.11680887  016.56903670  26.31 gate jets|turboprops|props Pier North Gate F31
 1301 C airline 
 1300  48.11703500  016.56853068  25.81 gate jets|turboprops|props Pier North Gate F27
 1301 C airline 
 1300  48.11727496  016.56828920  25.81 gate jets|turboprops|props Pier North Gate F23
-1301 E airline 
+1301 F airline 
 1300  48.11716483  016.56794876  25.81 gate jets|turboprops|props Pier North Gate F21
 1301 C airline 
 1300  48.11738876  016.56744124  25.81 gate jets|turboprops|props Pier North Gate F17
 1301 C airline 
 1300  48.11762707  016.56720026  25.81 gate jets|turboprops|props Pier North Gate F13
-1301 E airline 
+1301 F airline 
 1300  48.11751778  016.56686234  25.81 gate jets|turboprops|props Pier North Gate F11
 1301 C airline 
 1300  48.11774409  016.56634898  25.81 gate jets|turboprops|props Pier North Gate F09
 1301 C airline 
 1300  48.11798205  016.56611398  25.81 gate jets|turboprops|props Pier North Gate F05
-1301 E airline 
+1301 F airline 
 1300  48.11787207  016.56577229  25.81 gate jets|turboprops|props Pier North Gate F03
 1301 C airline 
 1300  48.11830074  016.56518235  25.81 gate jets|turboprops|props Pier North Gate F01
@@ -14669,8 +14669,8 @@ I
 1300  48.12384930  016.54108238 -28.25 gate jets|turboprops|props Cargo Apron A92
 1301 D cargo 
 1300  48.12333333  016.54052791 -70.64 gate jets|turboprops|props Cargo Apron A91
-1301 C cargo 
-1300  48.12541454  016.54503876  27.83 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 04
+1301 D cargo 
+1300  48.12542088  016.54504588  27.83 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 04
 1301 C airline 
 1300  48.12582498  016.54296773 -152.60 tie_down jets|turboprops|props Austrian Airlines Maintenance Hangar 02
 1301 C airline 

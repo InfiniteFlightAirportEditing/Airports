@@ -1015,11 +1015,11 @@ I
 1301 C airline 
 1300  24.55465328 -081.75564165 -132.77 gate jets|turboprops Gate 01
 1301 C airline 
-1300  24.55399571 -081.75379375 270.90 gate jets|turboprops|props GA Main Apron 01
+1300  24.55399571 -081.75379375 270.90 gate jets|turboprops|props GA Main Apron East 01
 1301 B general_aviation 
-1300  24.55423849 -081.75341563 270.90 gate jets|turboprops|props GA Main Apron 02
+1300  24.55423849 -081.75341563 270.90 gate jets|turboprops|props GA Main Apron East 02
 1301 B general_aviation 
-1300  24.55443213 -081.75341086 270.90 gate jets|turboprops|props GA Main Apron 03
+1300  24.55443213 -081.75341086 270.90 gate jets|turboprops|props GA Main Apron East 03
 1301 B general_aviation 
 1300  24.55379851 -081.75750358 344.58 hangar jets|turboprops|props Hangar 10
 1301 B none 
@@ -1041,7 +1041,7 @@ I
 1301 A none 
 1300  24.55470087 -081.75908247   0.00 hangar jets|turboprops|props Hangar 01
 1301 A none 
-1300  24.55462143 -081.75340927 270.90 gate jets|turboprops|props GA Main Apron 04
+1300  24.55462143 -081.75340927 270.90 gate jets|turboprops|props GA Main Apron East 04
 1301 B general_aviation 
 18  24.55373887 -081.75644935 1 BCN
 50 11967 ATIS

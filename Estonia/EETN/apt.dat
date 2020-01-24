@@ -3002,6 +3002,12 @@ I
 14  59.40954470  024.82698117  98.43 0 New Tower Viewpoint 41
 1300  59.41601967  024.80059278   0.61 gate jets|turboprops|props Gate M02
 1301 C airline 
+1300  59.41806424  024.81302580  -0.20 gate jets|turboprops|props Hnagar 03
+1301 A airline 
+1300  59.41811469  024.81231891  -0.20 gate jets|turboprops|props Hnagar 02
+1301 B airline 
+1300  59.41810085  024.81163561  -0.20 gate jets|turboprops|props Hnagar 01
+1301 B airline 
 1300  59.41712274  024.81303541 -89.75 gate jets|turboprops|props Remote Stand M43
 1301 B airline 
 1300  59.41682146  024.81300201 -89.35 gate jets|turboprops|props Remote Stand M45
@@ -3042,7 +3048,7 @@ I
 1301 C airline 
 1300  59.41576675  024.81490765  90.00 gate jets|turboprops|props Remote Stand M42
 1301 B airline 
-1300  59.41814020  024.81393533   0.71 gate jets|turboprops|props Cargo Apron M33
+1300  59.41814020  024.81393533   0.71 gate jets|turboprops|props Cargo Apron M41
 1301 C airline 
 1300  59.41758239  024.81500852 -89.46 gate jets|turboprops|props Magnetic MRO Hangar 02
 1301 D airline 
