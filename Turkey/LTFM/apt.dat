@@ -32587,6 +32587,34 @@ I
 1301 C cargo 
 1300  41.26877151  028.71420652  -1.09 tie_down jets Cargo Apron K02L
 1301 C cargo 
+1300  41.26875644  028.71322443  -1.48 tie_down jets Cargo Apron K01L
+1301 C cargo 
+1300  41.26911184  028.72128210  -1.50 tie_down heavy Cargo Apron K09
+1301 E cargo 
+1300  41.26911004  028.72034208  -1.26 tie_down heavy Cargo Apron K08
+1301 E cargo 
+1300  41.26910388  028.71939552  -1.08 tie_down heavy Cargo Apron K07
+1301 E cargo 
+1300  41.26909725  028.71825736  -1.02 tie_down heavy Cargo Apron K06
+1301 E cargo 
+1300  41.26908787  028.71730134  -0.79 tie_down heavy Cargo Apron K05
+1301 E cargo 
+1300  41.26908547  028.71635586  -0.54 tie_down heavy Cargo Apron K04
+1301 E cargo 
+1300  41.26907977  028.71540861  -0.75 tie_down heavy Cargo Apron K03
+1301 E cargo 
+1300  41.26906764  028.71444360  -0.86 tie_down heavy Cargo Apron K02
+1301 E cargo 
+1300  41.26905399  028.71346337  -1.16 tie_down heavy Cargo Apron K01
+1301 E cargo 
+1300  41.26962156  028.71407579  88.66 tie_down heavy Cargo Apron K57
+1301 E cargo 
+1300  41.27026581  028.71405231  88.88 tie_down heavy Cargo Apron K56
+1301 E cargo 
+1300  41.27091993  028.71403712  88.65 tie_down heavy Cargo Apron K55
+1301 E cargo 
+1300  41.27157275  028.71401396  88.80 tie_down heavy Cargo Apron K54
+1301 E cargo 
 1300  41.26636813  028.72004394   0.00 tie_down jets De-Ice Apron H25R
 1301 C airline 
 1300  41.26635538  028.71877905   0.16 tie_down jets De-Ice Apron H24R
@@ -32611,24 +32639,6 @@ I
 1301 C airline 
 1300  41.26618234  028.71320880  -1.03 tie_down jets De-Ice Apron H20L
 1301 C airline 
-1300  41.26875644  028.71322443  -1.48 tie_down jets Cargo Apron K01L
-1301 C cargo 
-1300  41.26911184  028.72128210  -1.50 tie_down heavy Cargo Apron K09
-1301 E cargo 
-1300  41.26911004  028.72034208  -1.26 tie_down heavy Cargo Apron K08
-1301 E cargo 
-1300  41.26910388  028.71939552  -1.08 tie_down heavy Cargo Apron K07
-1301 E cargo 
-1300  41.26909725  028.71825736  -1.02 tie_down heavy Cargo Apron K06
-1301 E cargo 
-1300  41.26908787  028.71730134  -0.79 tie_down heavy Cargo Apron K05
-1301 E cargo 
-1300  41.26908547  028.71635586  -0.54 tie_down heavy Cargo Apron K04
-1301 E cargo 
-1300  41.26907977  028.71540861  -0.75 tie_down heavy Cargo Apron K03
-1301 E cargo 
-1300  41.26906764  028.71444360  -0.86 tie_down heavy Cargo Apron K02
-1301 E cargo 
 1300  41.26638842  028.71975617   0.62 tie_down heavy De-Ice Apron H25
 1301 E airline 
 1300  41.26637660  028.71849175   0.45 tie_down heavy De-Ice Apron H24
@@ -32641,38 +32651,6 @@ I
 1301 E airline 
 1300  41.26634635  028.71349875  -0.63 tie_down heavy De-Ice Apron H20
 1301 E airline 
-1300  41.26905399  028.71346337  -1.16 tie_down heavy Cargo Apron K01
-1301 E cargo 
-1300  41.26962156  028.71407579  88.66 tie_down heavy Cargo Apron K57
-1301 E cargo 
-1300  41.27026581  028.71405231  88.88 tie_down heavy Cargo Apron K56
-1301 E cargo 
-1300  41.27091993  028.71403712  88.65 tie_down heavy Cargo Apron K55
-1301 E cargo 
-1300  41.27157275  028.71401396  88.80 tie_down heavy Cargo Apron K54
-1301 E cargo 
-1300  41.29363947  028.72075714 -179.24 tie_down heavy Remote Stand M18
-1301 E none 
-1300  41.29363599  028.71990904 179.71 tie_down heavy Remote Stand M17
-1301 E none 
-1300  41.29363378  028.71906715 179.11 tie_down heavy Remote Stand M16
-1301 E none 
-1300  41.29363026  028.71822575 178.92 tie_down heavy Remote Stand M15
-1301 E none 
-1300  41.29390627  028.71753973 178.65 tie_down heavy Remote Stand M14L
-1301 C none 
-1300  41.29366444  028.71702988 179.00 tie_down heavy Remote Stand M14R
-1301 C none 
-1300  41.29362541  028.71729120 179.50 tie_down heavy Remote Stand M14
-1301 E none 
-1300  41.29361875  028.71635011 179.66 tie_down heavy Remote Stand M13
-1301 E none 
-1300  41.29361158  028.71549468 179.63 tie_down heavy Remote Stand M12
-1301 E none 
-1300  41.29360623  028.71463627 179.37 tie_down heavy Remote Stand M11
-1301 E none 
-1300  41.29359354  028.71377234 179.38 tie_down heavy Remote Stand M10
-1301 E none 
 1300  41.29569602  028.71846902 178.94 misc jets De-Ice Apron H14R
 1301 C none 
 1300  41.29568819  028.71721852 178.57 misc jets De-Ice Apron H13R
@@ -32704,6 +32682,28 @@ I
 1300  41.29551228  028.71499139 178.33 misc heavy De-Ice Apron H11
 1301 E none 
 1300  41.29550342  028.71374030 178.59 misc heavy De-Ice Apron H10
+1301 E none 
+1300  41.29363947  028.72075714 -179.24 tie_down heavy Remote Stand M18
+1301 E none 
+1300  41.29363599  028.71990904 179.71 tie_down heavy Remote Stand M17
+1301 E none 
+1300  41.29363378  028.71906715 179.11 tie_down heavy Remote Stand M16
+1301 E none 
+1300  41.29363026  028.71822575 178.92 tie_down heavy Remote Stand M15
+1301 E none 
+1300  41.29390627  028.71753973 178.65 tie_down heavy Remote Stand M14L
+1301 C none 
+1300  41.29366444  028.71702988 179.00 tie_down heavy Remote Stand M14R
+1301 C none 
+1300  41.29362541  028.71729120 179.50 tie_down heavy Remote Stand M14
+1301 E none 
+1300  41.29361875  028.71635011 179.66 tie_down heavy Remote Stand M13
+1301 E none 
+1300  41.29361158  028.71549468 179.63 tie_down heavy Remote Stand M12
+1301 E none 
+1300  41.29360623  028.71463627 179.37 tie_down heavy Remote Stand M11
+1301 E none 
+1300  41.29359354  028.71377234 179.38 tie_down heavy Remote Stand M10
 1301 E none 
 1300  41.25121820  028.73389877  89.71 tie_down heavy|jets Turkish Technic Hangar 02
 1301 E airline 
@@ -32869,311 +32869,311 @@ I
 1301 C general_aviation 
 1300  41.25528752  028.74859872 -91.26 gate jets Remote Stand 300
 1301 C general_aviation 
-1300  41.25728870  028.73748103  -1.58 gate jets Gate A11R
+1300  41.25728870  028.73748103  -1.58 gate jets Concourse A Gate A11R
 1301 C airline 
-1300  41.25729176  028.73647464  -0.99 gate jets Gate A10R
+1300  41.25729176  028.73647464  -0.99 gate jets Concourse A Gate A10R
 1301 C airline 
-1300  41.25724613  028.73729471  -1.83 gate heavy|jets Gate A11
+1300  41.25724613  028.73729471  -1.83 gate heavy|jets Concourse A Gate A11
 1301 E airline 
-1300  41.25724017  028.73629851  -1.44 gate heavy|jets Gate A10
+1300  41.25724017  028.73629851  -1.44 gate heavy|jets Concourse A Gate A10
 1301 E airline 
-1300  41.25696857  028.73701775  -1.32 gate jets Gate A11L
+1300  41.25696857  028.73701775  -1.32 gate jets Concourse A Gate A11L
 1301 C airline 
-1300  41.25698497  028.73600551  -0.75 gate jets Gate A10L
+1300  41.25698497  028.73600551  -0.75 gate jets Concourse A Gate A10L
 1301 C airline 
-1300  41.26790857  028.73731457 -91.55 gate jets Gate B17
+1300  41.25740637  028.73517375  89.14 gate jets Concourse A Gate A08R
+1301 C airline 
+1300  41.25821921  028.73495248 106.76 gate jets Concourse A Gate A07R
+1301 C airline 
+1300  41.25888285  028.73556863 107.40 gate jets Concourse A Gate A06R
+1301 C airline 
+1300  41.25963233  028.73583819 107.47 gate jets Concourse A Gate A05R
+1301 C airline 
+1300  41.26048540  028.73616715 107.65 gate jets Concourse A Gate A03R
+1301 C airline 
+1300  41.26123266  028.73646246 108.12 gate jets Concourse A Gate A02R
+1301 C airline 
+1300  41.25776614  028.73476038  89.20 gate jets Concourse A Gate A08L
+1301 C airline 
+1300  41.25856590  028.73504041 107.45 gate jets Concourse A Gate A07L
+1301 C airline 
+1300  41.25931100  028.73532638 107.73 gate jets Concourse A Gate A06L
+1301 C airline 
+1300  41.26006639  028.73559207 107.73 gate jets Concourse A Gate A05L
+1301 C airline 
+1300  41.26092442  028.73591812 107.89 gate jets Concourse A Gate A03L
+1301 C airline 
+1300  41.26167322  028.73624447 107.80 gate jets Concourse A Gate A02L
+1301 C airline 
+1300  41.25688444  028.73551290  89.37 gate heavy Concourse A Gate A09
 1301 E airline 
-1300  41.26725560  028.73736331 -90.93 gate heavy Gate B18
+1300  41.25753559  028.73513897  89.69 gate heavy Concourse A Gate A08
 1301 E airline 
-1300  41.26650565  028.73734228 -90.51 gate heavy Gate B10
+1300  41.25829137  028.73530890 108.68 gate heavy Concourse A Gate A07
 1301 E airline 
-1300  41.26415769  028.74133844 101.03 gate jets Gate D05
-1301 C airline 
-1300  41.26371740  028.74133551 112.25 gate jets Gate D03
-1301 C airline 
-1300  41.26335915  028.74090409 146.41 gate jets Gate D01
-1301 C airline 
-1300  41.26328986  028.74025774 179.78 gate jets Gate C01
-1301 C airline 
-1300  41.26330231  028.73975767 -178.80 gate jets Gate C02
-1301 C airline 
-1300  41.26327403  028.73918674 -162.12 gate jets Gate C03
-1301 C airline 
-1300  41.26327853  028.73861828 -157.49 gate jets Gate C04
-1301 C airline 
-1300  41.26359280  028.73804980 -116.45 gate jets Gate B02
-1301 C airline 
-1300  41.26411246  028.73783476 -109.19 gate jets Gate B04
+1300  41.25904855  028.73560898 106.81 gate heavy Concourse A Gate A06
 1301 E airline 
-1300  41.26473044  028.74162077  90.16 gate heavy Gate D07
+1300  41.25979376  028.73587067 108.02 gate heavy Concourse A Gate A05
 1301 E airline 
-1300  41.26538571  028.74163872  90.36 gate heavy Gate D09
+1300  41.26064837  028.73620606 108.22 gate heavy Concourse A Gate A03
 1301 E airline 
-1300  41.26605057  028.74164105  89.23 gate heavy Gate D11
+1300  41.26139395  028.73651587 107.85 gate heavy Concourse A Gate A02
 1301 E airline 
-1300  41.26710564  028.74750411  89.21 gate heavy Gate F14
+1300  41.26790857  028.73731457 -91.55 gate jets Concourse B Gate B17
 1301 E airline 
-1300  41.26670779  028.74163920  89.27 gate heavy Gate D13
+1300  41.26725560  028.73736331 -90.93 gate heavy Concourse B Gate B18
 1301 E airline 
-1300  41.26475091  028.74324691 -90.01 gate heavy Gate D06
+1300  41.26650565  028.73734228 -90.51 gate heavy Concourse B Gate B10
 1301 E airline 
-1300  41.26540803  028.74323962 -90.23 gate heavy Gate D08
+1300  41.26359280  028.73804980 -116.45 gate jets Concourse B Gate B02
+1301 C airline 
+1300  41.26411246  028.73783476 -109.19 gate jets Concourse B Gate B04
 1301 E airline 
-1300  41.26606961  028.74326701 -90.02 gate heavy Gate D10
+1300  41.26482357  028.73747265 -108.69 gate heavy Concourse B Gate B06
 1301 E airline 
-1300  41.26672961  028.74328594 -90.27 gate heavy Gate D12
+1300  41.26573798  028.73735936 -90.62 gate heavy Concourse B Gate B08
 1301 E airline 
-1300  41.26739223  028.74329783 -90.32 gate heavy Gate D14
+1300  41.26232399  028.73664577  71.25 gate jets Concourse B Gate B01R
+1301 C airline 
+1300  41.26308552  028.73633182  70.83 gate jets Concourse B Gate B03R
+1301 C airline 
+1300  41.26393973  028.73596477  70.93 gate jets Concourse B Gate B05R
+1301 C airline 
+1300  41.26739063  028.73733336 -90.54 gate jets Concourse B Gate B18R
+1301 C airline 
+1300  41.26662756  028.73731158 -90.77 gate jets Concourse B Gate B10R
+1301 C airline 
+1300  41.26494412  028.73742822 -109.01 gate jets Concourse B Gate B06R
+1301 C airline 
+1300  41.26587439  028.73734742 -90.55 gate jets Concourse B Gate B08R
+1301 C airline 
+1300  41.26702951  028.73772171 -90.32 gate jets Concourse B Gate B18L
+1301 C airline 
+1300  41.26626734  028.73774510 268.84 gate jets Concourse B Gate B10L
+1301 C airline 
+1300  41.26469717  028.73796322 -109.22 gate jets Concourse B Gate B06L
+1301 C airline 
+1300  41.26550743  028.73772558 -90.96 gate jets Concourse B Gate B08L
+1301 C airline 
+1300  41.26469331  028.73564412  71.02 gate jets Concourse B Gate B07R
+1301 C airline 
+1300  41.26544204  028.73530493  71.08 gate jets Concourse B Gate B09R
+1301 C airline 
+1300  41.26619179  028.73496018  71.06 gate jets Concourse B Gate B12R
+1301 C airline 
+1300  41.26257893  028.73613542  70.98 gate jets Concourse B Gate B01L
+1301 C airline 
+1300  41.26332960  028.73581376  71.35 gate jets Concourse B Gate B03L
+1301 C airline 
+1300  41.26417786  028.73543285  71.39 gate jets Concourse B Gate B05L
+1301 C airline 
+1300  41.26494661  028.73517730  71.72 gate jets Concourse B Gate B07L
+1301 C airline 
+1300  41.26567543  028.73471717  71.13 gate jets Concourse B Gate B09L
+1301 C airline 
+1300  41.26645666  028.73451887  71.45 gate jets Concourse B Gate B12L
+1301 C airline 
+1300  41.26247938  028.73655714  71.17 gate heavy Concourse B Gate B01
 1301 E airline 
-1300  41.26804363  028.74329187 -90.38 gate heavy Gate D16
+1300  41.26324689  028.73628706  71.82 gate heavy Concourse B Gate B03
 1301 E airline 
-1300  41.26869165  028.74326633 -90.16 gate heavy Gate D20
+1300  41.26408821  028.73589053  71.51 gate heavy Concourse B Gate B05
 1301 E airline 
-1300  41.26867040  028.74163650  89.23 gate heavy Gate D19
+1300  41.26484284  028.73554563  71.25 gate heavy Concourse B Gate B07
 1301 E airline 
-1300  41.26802078  028.74164994  89.39 gate heavy Gate D17
+1300  41.26559476  028.73520624  71.03 gate heavy Concourse B Gate B09
 1301 E airline 
-1300  41.26736460  028.74164402  89.29 gate heavy Gate D15
+1300  41.26756726  028.73616055 -180.00 gate jets Concourse B Gate B16
 1301 E airline 
-1300  41.26482357  028.73747265 -108.69 gate heavy Gate B06
+1300  41.26755496  028.73526488 -179.85 gate jets Concourse B Gate B15
 1301 E airline 
-1300  41.26573798  028.73735936 -90.62 gate heavy Gate B08
+1300  41.26752610  028.73436685 -179.85 gate jets Concourse B Gate B14
 1301 E airline 
-1300  41.25740637  028.73517375  89.14 gate jets Gate A08R
-1301 C airline 
-1300  41.25821921  028.73495248 106.76 gate jets Gate A07R
-1301 C airline 
-1300  41.25888285  028.73556863 107.40 gate jets Gate A06R
-1301 C airline 
-1300  41.25963233  028.73583819 107.47 gate jets Gate A05R
-1301 C airline 
-1300  41.26048540  028.73616715 107.65 gate jets Gate A03R
-1301 C airline 
-1300  41.26123266  028.73646246 108.12 gate jets Gate A02R
-1301 C airline 
-1300  41.26232399  028.73664577  71.25 gate jets Gate B01R
-1301 C airline 
-1300  41.26308552  028.73633182  70.83 gate jets Gate B03R
-1301 C airline 
-1300  41.26393973  028.73596477  70.93 gate jets Gate B05R
-1301 C airline 
-1300  41.26739063  028.73733336 -90.54 gate jets Gate B18R
-1301 C airline 
-1300  41.26662756  028.73731158 -90.77 gate jets Gate B10R
-1301 C airline 
-1300  41.26494412  028.73742822 -109.01 gate jets Gate B06R
-1301 C airline 
-1300  41.26587439  028.73734742 -90.55 gate jets Gate B08R
-1301 C airline 
-1300  41.26702951  028.73772171 -90.32 gate jets Gate B18L
-1301 C airline 
-1300  41.26626734  028.73774510 268.84 gate jets Gate B10L
-1301 C airline 
-1300  41.26469717  028.73796322 -109.22 gate jets Gate B06L
-1301 C airline 
-1300  41.26550743  028.73772558 -90.96 gate jets Gate B08L
-1301 C airline 
-1300  41.26469331  028.73564412  71.02 gate jets Gate B07R
-1301 C airline 
-1300  41.26381195  028.74687384 107.27 gate jets Gate F04R
-1301 C airline 
-1300  41.26455444  028.74715518 106.85 gate jets Gate F06R
-1301 C airline 
-1300  41.26545109  028.74747642  88.90 gate jets Gate F08R
-1301 C airline 
-1300  41.26621402  028.74746443  88.69 gate jets Gate F12R
-1301 C airline 
-1300  41.26544204  028.73530493  71.08 gate jets Gate B09R
-1301 C airline 
-1300  41.25827326  028.74969269 -109.01 gate jets Gate G08R
-1301 C airline 
-1300  41.25898850  028.74936661 -109.08 gate jets Gate G07R
-1301 C airline 
-1300  41.25969773  028.74901086 -109.07 gate jets Gate G06R
-1301 C airline 
-1300  41.26040572  028.74865278 -108.93 gate jets Gate G05R
-1301 C airline 
-1300  41.26122911  028.74827421 -108.67 gate jets Gate G04R
-1301 C airline 
-1300  41.26193724  028.74795246 -109.02 gate jets Gate G02R
-1301 C airline 
-1300  41.26304607  028.74831896 -72.60 gate jets Gate F01R
-1301 C airline 
-1300  41.26388244  028.74865622 -72.75 gate jets Gate F03R
-1301 C airline 
-1300  41.26460115  028.74900889 -72.91 gate jets Gate F05R
-1301 C airline 
-1300  41.26537438  028.74938285 -71.85 gate jets Gate F07R
-1301 C airline 
-1300  41.26613671  028.74975192 -71.75 gate jets Gate F09R
-1301 C airline 
-1300  41.26769748  028.74734550 -179.46 gate jets Gate F15
+1300  41.26700846  028.73479058  89.00 gate heavy Concourse B Gate B13
 1301 E airline 
-1300  41.26771874  028.74822610 179.74 gate jets Gate F16
+1300  41.26633802  028.73486356  70.82 gate heavy Concourse B Gate B12
 1301 E airline 
-1300  41.26772583  028.74911034 179.32 gate jets Gate F17
+1300  41.26328986  028.74025774 179.78 gate jets Concourse C Gate C01
+1301 C airline 
+1300  41.26330231  028.73975767 -178.80 gate jets Concourse C Gate C02
+1301 C airline 
+1300  41.26327403  028.73918674 -162.12 gate jets Concourse C Gate C03
+1301 C airline 
+1300  41.26327853  028.73861828 -157.49 gate jets Concourse C Gate C04
+1301 C airline 
+1300  41.26335915  028.74090409 146.41 gate jets Concourse D Gate D01
+1301 C airline 
+1300  41.26415769  028.74133844 101.03 gate jets Concourse D Gate D05
+1301 C airline 
+1300  41.26371740  028.74133551 112.25 gate jets Concourse D Gate D03
+1301 C airline 
+1300  41.26473044  028.74162077  90.16 gate heavy Concourse D Gate D07
 1301 E airline 
-1300  41.26805734  028.74985758 -89.91 gate jets Gate F18
+1300  41.26538571  028.74163872  90.36 gate heavy Concourse D Gate D09
 1301 E airline 
-1300  41.26739944  028.75003187 -90.00 gate jets Gate F19
+1300  41.26605057  028.74164105  89.23 gate heavy Concourse D Gate D11
 1301 E airline 
-1300  41.26690832  028.75004199 -80.66 gate jets Gate F13R
-1301 C airline 
-1300  41.26619179  028.73496018  71.06 gate jets Gate B12R
-1301 C airline 
-1300  41.25776614  028.73476038  89.20 gate jets Gate A08L
-1301 C airline 
-1300  41.25856590  028.73504041 107.45 gate jets Gate A07L
-1301 C airline 
-1300  41.25931100  028.73532638 107.73 gate jets Gate A06L
-1301 C airline 
-1300  41.26006639  028.73559207 107.73 gate jets Gate A05L
-1301 C airline 
-1300  41.26092442  028.73591812 107.89 gate jets Gate A03L
-1301 C airline 
-1300  41.26167322  028.73624447 107.80 gate jets Gate A02L
-1301 C airline 
-1300  41.26257893  028.73613542  70.98 gate jets Gate B01L
-1301 C airline 
-1300  41.26332960  028.73581376  71.35 gate jets Gate B03L
-1301 C airline 
-1300  41.26417786  028.73543285  71.39 gate jets Gate B05L
-1301 C airline 
-1300  41.26494661  028.73517730  71.72 gate jets Gate B07L
-1301 C airline 
-1300  41.26422089  028.74339948 -90.67 gate jets Gate D04
-1301 C airline 
-1300  41.26372076  028.74348661 -121.19 gate jets Gate D02
-1301 C airline 
-1300  41.26340931  028.74391892 -149.38 gate jets Gate E01
-1301 C airline 
-1300  41.26332978  028.74448290 -160.59 gate jets Gate E02
-1301 C airline 
-1300  41.26331101  028.74506487 -179.89 gate jets Gate E03
-1301 C airline 
-1300  41.26334235  028.74558135 -179.87 gate jets Gate E04
-1301 C airline 
-1300  41.26339922  028.74627112 144.17 gate jets Gate F02
-1301 C airline 
-1300  41.26423574  028.74672615 107.03 gate jets Gate F04L
-1301 C airline 
-1300  41.26496871  028.74703697 106.55 gate jets Gate F06L
-1301 C airline 
-1300  41.26580958  028.74715895  89.10 gate jets Gate F08L
-1301 C airline 
-1300  41.26656769  028.74716167  89.64 gate jets Gate F12L
-1301 C airline 
-1300  41.26567543  028.73471717  71.13 gate jets Gate B09L
-1301 C airline 
-1300  41.25758664  028.75033354  -0.35 gate jets Gate G09R
-1301 C airline 
-1300  41.25754697  028.74931745   0.15 gate jets Gate G10R
-1301 C airline 
-1300  41.25752779  028.74827577  -0.39 gate jets Gate G11R
-1301 C airline 
-1300  41.25731936  028.74984724  -0.15 gate jets Gate G09L
-1301 C airline 
-1300  41.25719353  028.74881715   0.18 gate jets Gate G10L
-1301 C airline 
-1300  41.25717545  028.74777906  -0.65 gate jets Gate G11L
-1301 C airline 
-1300  41.25802873  028.75023238 -108.89 gate jets Gate G08L
-1301 C airline 
-1300  41.25873505  028.74987654 -109.12 gate jets Gate G07L
-1301 C airline 
-1300  41.25943738  028.74950161 -109.04 gate jets Gate G06L
-1301 C airline 
-1300  41.26015578  028.74916425 -108.73 gate jets Gate G05L
-1301 C airline 
-1300  41.26096664  028.74876699 -108.87 gate jets Gate G04L
-1301 C airline 
-1300  41.26168038  028.74845092 -108.83 gate jets Gate G02L
-1301 C airline 
-1300  41.26262020  028.74848537 -72.44 gate jets Gate F01L
-1301 C airline 
-1300  41.26345820  028.74885680 -72.12 gate jets Gate F03L
-1301 C airline 
-1300  41.26416522  028.74923064 -72.56 gate jets Gate F05L
-1301 C airline 
-1300  41.26493397  028.74956456 -72.07 gate jets Gate F07L
-1301 C airline 
-1300  41.26569516  028.74992004 -71.98 gate jets Gate F09L
-1301 C airline 
-1300  41.26651186  028.75022731 -80.75 gate jets Gate F13L
-1301 C airline 
-1300  41.26645666  028.73451887  71.45 gate jets Gate B12L
-1301 C airline 
-1300  41.25688444  028.73551290  89.37 gate heavy Gate A09
+1300  41.26670779  028.74163920  89.27 gate heavy Concourse D Gate D13
 1301 E airline 
-1300  41.25753559  028.73513897  89.69 gate heavy Gate A08
+1300  41.26475091  028.74324691 -90.01 gate heavy Concourse D Gate D06
 1301 E airline 
-1300  41.25829137  028.73530890 108.68 gate heavy Gate A07
+1300  41.26540803  028.74323962 -90.23 gate heavy Concourse D Gate D08
 1301 E airline 
-1300  41.25904855  028.73560898 106.81 gate heavy Gate A06
+1300  41.26606961  028.74326701 -90.02 gate heavy Concourse D Gate D10
 1301 E airline 
-1300  41.25979376  028.73587067 108.02 gate heavy Gate A05
+1300  41.26672961  028.74328594 -90.27 gate heavy Concourse D Gate D12
 1301 E airline 
-1300  41.26064837  028.73620606 108.22 gate heavy Gate A03
+1300  41.26739223  028.74329783 -90.32 gate heavy Concourse D Gate D14
 1301 E airline 
-1300  41.26139395  028.73651587 107.85 gate heavy Gate A02
+1300  41.26804363  028.74329187 -90.38 gate heavy Concourse D Gate D16
 1301 E airline 
-1300  41.26247938  028.73655714  71.17 gate heavy Gate B01
+1300  41.26869165  028.74326633 -90.16 gate heavy Concourse D Gate D20
 1301 E airline 
-1300  41.26324689  028.73628706  71.82 gate heavy Gate B03
+1300  41.26867040  028.74163650  89.23 gate heavy Concourse D Gate D19
 1301 E airline 
-1300  41.26408821  028.73589053  71.51 gate heavy Gate B05
+1300  41.26802078  028.74164994  89.39 gate heavy Concourse D Gate D17
 1301 E airline 
-1300  41.26484284  028.73554563  71.25 gate heavy Gate B07
+1300  41.26736460  028.74164402  89.29 gate heavy Concourse D Gate D15
 1301 E airline 
-1300  41.26392909  028.74694182 107.47 gate heavy Gate F04
+1300  41.26422089  028.74339948 -90.67 gate jets Concourse D Gate D04
+1301 C airline 
+1300  41.26372076  028.74348661 -121.19 gate jets Concourse D Gate D02
+1301 C airline 
+1300  41.26340931  028.74391892 -149.38 gate jets Concourse E Gate E01
+1301 C airline 
+1300  41.26332978  028.74448290 -160.59 gate jets Concourse E Gate E02
+1301 C airline 
+1300  41.26331101  028.74506487 -179.89 gate jets Concourse E Gate E03
+1301 C airline 
+1300  41.26334235  028.74558135 -179.87 gate jets Concourse E Gate E04
+1301 C airline 
+1300  41.26710564  028.74750411  89.21 gate heavy Concourse F Gate F14
 1301 E airline 
-1300  41.26466969  028.74724914 107.10 gate heavy Gate F06
+1300  41.26381195  028.74687384 107.27 gate jets Concourse F Gate F04R
+1301 C airline 
+1300  41.26455444  028.74715518 106.85 gate jets Concourse F Gate F06R
+1301 C airline 
+1300  41.26545109  028.74747642  88.90 gate jets Concourse F Gate F08R
+1301 C airline 
+1300  41.26621402  028.74746443  88.69 gate jets Concourse F Gate F12R
+1301 C airline 
+1300  41.26304607  028.74831896 -72.60 gate jets Concourse F Gate F01R
+1301 C airline 
+1300  41.26388244  028.74865622 -72.75 gate jets Concourse F Gate F03R
+1301 C airline 
+1300  41.26460115  028.74900889 -72.91 gate jets Concourse F Gate F05R
+1301 C airline 
+1300  41.26537438  028.74938285 -71.85 gate jets Concourse F Gate F07R
+1301 C airline 
+1300  41.26613671  028.74975192 -71.75 gate jets Concourse F Gate F09R
+1301 C airline 
+1300  41.26769748  028.74734550 -179.46 gate jets Concourse F Gate F15
 1301 E airline 
-1300  41.26558315  028.74756041  88.95 gate heavy Gate F08
+1300  41.26771874  028.74822610 179.74 gate jets Concourse F Gate F16
 1301 E airline 
-1300  41.26634728  028.74751082  88.35 gate heavy Gate F12
+1300  41.26772583  028.74911034 179.32 gate jets Concourse F Gate F17
 1301 E airline 
-1300  41.26559476  028.73520624  71.03 gate heavy Gate B09
+1300  41.26805734  028.74985758 -89.91 gate jets Concourse F Gate F18
 1301 E airline 
-1300  41.26756726  028.73616055 -180.00 gate jets Gate B16
+1300  41.26739944  028.75003187 -90.00 gate jets Concourse F Gate F19
 1301 E airline 
-1300  41.26755496  028.73526488 -179.85 gate jets Gate B15
+1300  41.26690832  028.75004199 -80.66 gate jets Concourse F Gate F13R
+1301 C airline 
+1300  41.26339922  028.74627112 144.17 gate jets Concourse F Gate F02
+1301 C airline 
+1300  41.26423574  028.74672615 107.03 gate jets Concourse F Gate F04L
+1301 C airline 
+1300  41.26496871  028.74703697 106.55 gate jets Concourse F Gate F06L
+1301 C airline 
+1300  41.26580958  028.74715895  89.10 gate jets Concourse F Gate F08L
+1301 C airline 
+1300  41.26656769  028.74716167  89.64 gate jets Concourse F Gate F12L
+1301 C airline 
+1300  41.26262020  028.74848537 -72.44 gate jets Concourse F Gate F01L
+1301 C airline 
+1300  41.26345820  028.74885680 -72.12 gate jets Concourse F Gate F03L
+1301 C airline 
+1300  41.26416522  028.74923064 -72.56 gate jets Concourse F Gate F05L
+1301 C airline 
+1300  41.26493397  028.74956456 -72.07 gate jets Concourse F Gate F07L
+1301 C airline 
+1300  41.26569516  028.74992004 -71.98 gate jets Concourse F Gate F09L
+1301 C airline 
+1300  41.26651186  028.75022731 -80.75 gate jets Concourse F Gate F13L
+1301 C airline 
+1300  41.26392909  028.74694182 107.47 gate heavy Concourse F Gate F04
 1301 E airline 
-1300  41.26752610  028.73436685 -179.85 gate jets Gate B14
+1300  41.26466969  028.74724914 107.10 gate heavy Concourse F Gate F06
 1301 E airline 
-1300  41.26700846  028.73479058  89.00 gate heavy Gate B13
+1300  41.26558315  028.74756041  88.95 gate heavy Concourse F Gate F08
 1301 E airline 
-1300  41.25754587  028.75015484  -0.79 gate heavy Gate G09
+1300  41.26634728  028.74751082  88.35 gate heavy Concourse F Gate F12
 1301 E airline 
-1300  41.25748444  028.74913907   0.23 gate heavy Gate G10
+1300  41.26291552  028.74828294 -72.13 gate heavy Concourse F Gate F01
 1301 E airline 
-1300  41.25746363  028.74809755   0.06 gate heavy Gate G11
+1300  41.26374741  028.74865613 -72.26 gate heavy Concourse F Gate F03
 1301 E airline 
-1300  41.25815998  028.74978333 -109.15 gate heavy Gate G08
+1300  41.26444345  028.74899265 -71.52 gate heavy Concourse F Gate F05
 1301 E airline 
-1300  41.25887139  028.74941480 -108.20 gate heavy Gate G07
+1300  41.26520716  028.74933794 -71.20 gate heavy Concourse F Gate F07
 1301 E airline 
-1300  41.25957765  028.74907411 -108.78 gate heavy Gate G06
+1300  41.26597430  028.74969454 -70.78 gate heavy Concourse F Gate F09
 1301 E airline 
-1300  41.26029746  028.74874356 -108.15 gate heavy Gate G05
+1300  41.26674352  028.74997058 -80.97 gate heavy Concourse F Gate F13
 1301 E airline 
-1300  41.26111452  028.74836038 -108.24 gate heavy Gate G04
+1300  41.25827326  028.74969269 -109.01 gate jets Concourse G Gate G08R
+1301 C airline 
+1300  41.25898850  028.74936661 -109.08 gate jets Concourse G Gate G07R
+1301 C airline 
+1300  41.25969773  028.74901086 -109.07 gate jets Concourse G Gate G06R
+1301 C airline 
+1300  41.26040572  028.74865278 -108.93 gate jets Concourse G Gate G05R
+1301 C airline 
+1300  41.26122911  028.74827421 -108.67 gate jets Concourse G Gate G04R
+1301 C airline 
+1300  41.26193724  028.74795246 -109.02 gate jets Concourse G Gate G02R
+1301 C airline 
+1300  41.25758664  028.75033354  -0.35 gate jets Concourse G Gate G09R
+1301 C airline 
+1300  41.25754697  028.74931745   0.15 gate jets Concourse G Gate G10R
+1301 C airline 
+1300  41.25752779  028.74827577  -0.39 gate jets Concourse G Gate G11R
+1301 C airline 
+1300  41.25731936  028.74984724  -0.15 gate jets Concourse G Gate G09L
+1301 C airline 
+1300  41.25719353  028.74881715   0.18 gate jets Concourse G Gate G10L
+1301 C airline 
+1300  41.25717545  028.74777906  -0.65 gate jets Concourse G Gate G11L
+1301 C airline 
+1300  41.25802873  028.75023238 -108.89 gate jets Concourse G Gate G08L
+1301 C airline 
+1300  41.25873505  028.74987654 -109.12 gate jets Concourse G Gate G07L
+1301 C airline 
+1300  41.25943738  028.74950161 -109.04 gate jets Concourse G Gate G06L
+1301 C airline 
+1300  41.26015578  028.74916425 -108.73 gate jets Concourse G Gate G05L
+1301 C airline 
+1300  41.26096664  028.74876699 -108.87 gate jets Concourse G Gate G04L
+1301 C airline 
+1300  41.26168038  028.74845092 -108.83 gate jets Concourse G Gate G02L
+1301 C airline 
+1300  41.25754587  028.75015484  -0.79 gate heavy Concourse G Gate G09
 1301 E airline 
-1300  41.26182257  028.74804600 -109.18 gate heavy Gate G02
+1300  41.25748444  028.74913907   0.23 gate heavy Concourse G Gate G10
 1301 E airline 
-1300  41.26291552  028.74828294 -72.13 gate heavy Gate F01
+1300  41.25746363  028.74809755   0.06 gate heavy Concourse G Gate G11
 1301 E airline 
-1300  41.26374741  028.74865613 -72.26 gate heavy Gate F03
+1300  41.25815998  028.74978333 -109.15 gate heavy Concourse G Gate G08
 1301 E airline 
-1300  41.26444345  028.74899265 -71.52 gate heavy Gate F05
+1300  41.25887139  028.74941480 -108.20 gate heavy Concourse G Gate G07
 1301 E airline 
-1300  41.26520716  028.74933794 -71.20 gate heavy Gate F07
+1300  41.25957765  028.74907411 -108.78 gate heavy Concourse G Gate G06
 1301 E airline 
-1300  41.26597430  028.74969454 -70.78 gate heavy Gate F09
+1300  41.26029746  028.74874356 -108.15 gate heavy Concourse G Gate G05
 1301 E airline 
-1300  41.26674352  028.74997058 -80.97 gate heavy Gate F13
+1300  41.26111452  028.74836038 -108.24 gate heavy Concourse G Gate G04
 1301 E airline 
-1300  41.26633802  028.73486356  70.82 gate heavy Gate B12
+1300  41.26182257  028.74804600 -109.18 gate heavy Concourse G Gate G02
 1301 E airline 
 1300  41.27509865  028.73811094   0.14 gate jets Remote Stand 137R
 1301 C general_aviation 
