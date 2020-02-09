@@ -7957,11 +7957,11 @@ I
 1301 E cargo 
 1300  25.27779534  051.61134063 -111.89 gate heavy|jets Cargo Apron F03
 1301 E cargo 
-1300  25.28301585  051.60904035 248.81 gate heavy|jets Cargo Apron F11
+1300  25.28301585  051.60904035 -112.34 gate heavy|jets Cargo Apron F11
 1301 E cargo 
 1300  25.28110519  051.60987927 248.81 gate heavy|jets Cargo Apron F08
 1301 E cargo 
-1300  25.27906890  051.61077931 248.81 gate heavy|jets Cargo Apron F05
+1300  25.27906890  051.61077931 -111.83 gate heavy|jets Cargo Apron F05
 1301 E cargo 
 1300  25.27715984  051.61162253 248.81 gate heavy|jets Cargo Apron F02
 1301 E cargo 
@@ -8084,7 +8084,7 @@ I
 1300  25.27005071  051.61136894 113.13 gate jets Concourse E Gate E06
 1301 E airline 
 1300  25.26910825  051.61110500 113.09 gate jets Concourse E Gate E04
-1301 E airline 
+1301 F airline 
 1300  25.26844566  051.61036710 158.25 gate jets Concourse E Gate E02
 1301 E airline 
 1300  25.26844972  051.60932205 -156.91 gate jets Concourse D Gate D02
@@ -8130,7 +8130,7 @@ I
 1300  25.26789862  051.60543938  40.88 gate heavy|jets Concourse D Gate D13
 1301 E airline 
 1300  25.26811237  051.60604966   5.75 gate heavy|jets Concourse D Gate D11
-1301 E airline 
+1301 F airline 
 1300  25.26797811  051.60693782  22.22 gate heavy|jets Concourse D Gate D09
 1301 E airline 
 1300  25.26765143  051.60773753  23.41 gate heavy|jets Concourse D Gate D07
@@ -8152,17 +8152,17 @@ I
 1300  25.26265835  051.61519621 158.25 gate heavy|jets Concourse B Gate B01
 1301 F airline 
 1300  25.26295824  051.61599585 158.71 gate heavy|jets Concourse B Gate B03
-1301 E airline 
+1301 F airline 
 1300  25.26323753  051.61673338 158.24 gate heavy|jets Concourse B Gate B05
 1301 E airline 
 1300  25.26342157  051.61720409 -177.03 gate heavy|jets Concourse B Gate B07
-1301 D airline 
+1301 E airline 
 1300  25.26359905  051.61768435 -146.77 gate heavy|jets Concourse B Gate B09
 1301 E airline 
 1300  25.26315997  051.61789348 -111.28 gate heavy|jets Concourse B Gate B10
 1301 E airline 
 1300  25.26264518  051.61818610 303.07 gate heavy|jets Concourse B Gate B08
-1301 D airline 
+1301 E airline 
 1300  25.26244591  051.61773114 -30.72 gate heavy|jets Concourse B Gate B06
 1301 E airline 
 1300  25.26221564  051.61713287 -21.85 gate heavy|jets Concourse B Gate B04
