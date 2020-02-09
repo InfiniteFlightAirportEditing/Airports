@@ -28867,26 +28867,30 @@ I
 1300  40.45976486 -003.53540135  45.01 gate jets Iberia Maintenance Apron 01
 1301 E airline 
 18  40.49192096 -003.56903962 1 New Airport Beacon 2
-50 13085 ATIS
-52 12107 Clearance Delivery
+50 13085 ATIS Departure
+50 11825 ATIS Arrival
+54 12065 Barajas Tower
+54 12015 Barajas Tower
+54 11950 Barajas Tower
+54 11815 Barajas Tower
+53 12175 Barajas Ground
+53 12315 Barajas Ground
 53 12170 Barajas Apron
+53 12325 Barajas Apron
 53 12185 Barajas Apron
 53 12300 Barajas Apron
-53 12325 Barajas Apron
-53 12327 Barajas Apron
-54 11807 Barajas Tower
-54 11815 Barajas Tower
-54 11867 Barajas Tower
-54 11897 Barajas Tower
-54 12015 Barajas Tower
-54 12065 Barajas Tower
-55 13610 Madrid Approach
+52 13035 Clearance Delivery
+52 13000 Clearance Delivery
 55 12750 Madrid Approach
+55 13610 Madrid Approach
+55 13400 Madrid Approach
+55 13080 Madrid Approach
 55 12710 Madrid Approach
+55 12400 Madrid Approach
 55 11875 Madrid Approach
 55 11840 Madrid Approach
-55 13080 Madrid Approach
-55 12705 Madrid Final
-56 12420 Madrid Departure
 56 13117 Madrid Departure
+56 12422 Madrid Departure
+55 13495 Madrid Direct
+55 12870 Madrid Direct
 99
