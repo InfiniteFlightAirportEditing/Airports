@@ -8407,81 +8407,121 @@ I
 1301 C none 
 1300  45.62181976  008.71584059 169.29 tie_down heavy|jets|turboprops|props Remote Stand 625
 1301 C none 
-1300  45.62394805  008.71585511  11.10 gate heavy|jets|turboprops Gate 613
-1301 E airline 
-1300  45.62396846  008.71640155 349.61 gate jets|turboprops Gate 612
+1300  45.62093239  008.72101029  79.30 tie_down jets|turboprops|props Remote Stand 752
 1301 C airline 
-1300  45.62397024  008.71650651 348.79 gate jets|turboprops Gate 611
+1300  45.62041952  008.72115182  79.27 tie_down jets|turboprops|props Remote Stand 753
+1301 C none 
+1300  45.62003889  008.72125536  79.18 tie_down jets|turboprops|props Remote Stand 754
+1301 C none 
+1300  45.61952322  008.72140941  79.05 tie_down jets|turboprops|props Remote Stand 755
+1301 C none 
+1300  45.61914028  008.72150418  79.19 tie_down jets|turboprops|props Remote Stand 756
+1301 C none 
+1300  45.61772014  008.72190464  79.56 tie_down jets|turboprops|props Remote Stand 757
+1301 C none 
+1300  45.61720486  008.72205551  78.84 tie_down jets|turboprops|props Remote Stand 758
+1301 C none 
+1300  45.61681996  008.72215743  79.06 tie_down jets|turboprops|props Remote Stand 759
+1301 C none 
+1300  45.61630377  008.72229866  78.63 tie_down jets|turboprops|props Remote Stand 760
+1301 C none 
+1300  45.61591816  008.72240101  77.99 tie_down jets|turboprops|props Remote Stand 761
+1301 C none 
+1300  45.61540085  008.72255697  78.94 tie_down jets|turboprops|props Remote Stand 762
+1301 C none 
+1300  45.61501433  008.72264612  78.52 tie_down jets|turboprops|props Remote Stand 763
+1301 C none 
+1300  45.61453568  008.72279399  78.79 tie_down jets|turboprops|props Remote Stand 764
+1301 C none 
+1300  45.61600143  008.72239457 112.42 tie_down jets|turboprops|props Remote Stand 791
+1301 D none 
+1300  45.61510657  008.72263413 112.83 tie_down jets|turboprops|props Remote Stand 792
+1301 D none 
+1300  45.61439227  008.72277150 112.87 tie_down jets|turboprops|props Remote Stand 793
+1301 C none 
+1300  45.61223519  008.72317642 -101.14 tie_down jets|turboprops|props De-Ice Pad 804
+1301 E none 
+1300  45.61239933  008.72437698  78.59 tie_down jets|turboprops|props De-Ice Pad 803
+1301 E none 
+1300  45.61300037  008.72295802 259.41 tie_down jets|turboprops|props De-Ice Pad 802
+1301 E none 
+1300  45.61315326  008.72406683  79.06 tie_down jets|turboprops|props De-Ice Pad 801
+1301 E none 
+1300  45.62394805  008.71585511  11.10 gate heavy|jets|turboprops Terminal 1 Gate 613
 1301 D airline 
-1300  45.62405516  008.71711546 -10.85 gate jets|turboprops Gate 610
+1300  45.62396846  008.71640155 349.61 gate jets|turboprops Terminal 1 Gate 612
 1301 D airline 
-1300  45.62431166  008.71760786 -35.49 gate heavy|jets|turboprops Gate 609
+1300  45.62397024  008.71650651 348.79 gate jets|turboprops Terminal 1 Gate 611
 1301 E airline 
-1300  45.62454472  008.71751490 -101.07 gate jets|turboprops Gate 608
+1300  45.62405516  008.71711546 -10.85 gate jets|turboprops Terminal 1 Gate 610
 1301 D airline 
-1300  45.62503206  008.71732579 -101.26 gate jets|turboprops Gate 606
+1300  45.62431166  008.71760786 -35.49 gate heavy|jets|turboprops Terminal 1 Gate 609
+1301 E airline 
+1300  45.62454472  008.71751490 -101.07 gate jets|turboprops Terminal 1 Gate 608
 1301 D airline 
-1300  45.62543105  008.71707302 -126.43 gate heavy|jets|turboprops|props Gate 605
+1300  45.62503206  008.71732579 -101.26 gate jets|turboprops Terminal 1 Gate 606
+1301 D airline 
+1300  45.62543105  008.71707302 -126.43 gate heavy|jets|turboprops|props Terminal 1 Gate 605
+1301 E airline 
+1300  45.62537731  008.71674823 168.83 gate jets|turboprops Terminal 1 Gate 604
+1301 D airline 
+1300  45.62523754  008.71611097 168.98 gate jets|turboprops Terminal 1 Gate 602
+1301 D airline 
+1300  45.62510878  008.71532720 169.22 gate jets|turboprops Terminal 1 Gate 601
+1301 D airline 
+1300  45.62706035  008.71498579  12.06 gate heavy|jets|turboprops Terminal 1 Gate 513
+1301 D airline 
+1300  45.62711435  008.71553939 -10.96 gate jets|turboprops Terminal 1 Gate 512
+1301 D airline 
+1300  45.62704807  008.71565814 350.38 gate jets|turboprops Terminal 1 Gate 511
+1301 C airline 
+1300  45.62717041  008.71623884 349.05 gate jets|turboprops Terminal 1 Gate 510
+1301 D airline 
+1300  45.62741967  008.71679387 348.69 gate jets|turboprops Terminal 1 Gate 599
 1301 F airline 
-1300  45.62537731  008.71674823 168.83 gate jets|turboprops Gate 604
-1301 D airline 
-1300  45.62523754  008.71611097 168.98 gate jets|turboprops Gate 602
-1301 D airline 
-1300  45.62510878  008.71532720 169.22 gate jets|turboprops Gate 601
-1301 D airline 
-1300  45.62706035  008.71498579  12.06 gate heavy|jets|turboprops Gate 513
-1301 D airline 
-1300  45.62711435  008.71553939 -10.96 gate jets|turboprops Gate 512
-1301 D airline 
-1300  45.62704807  008.71565814 350.38 gate jets|turboprops Gate 511
+1300  45.62744154  008.71674808 -29.10 gate heavy|jets|turboprops Terminal 1 Gate 509
+1301 E airline 
+1300  45.62767413  008.71663072 259.09 gate jets|turboprops Terminal 1 Gate 508
 1301 C airline 
-1300  45.62717041  008.71623884 349.05 gate jets|turboprops Gate 510
+1300  45.62809812  008.71639735 259.65 gate heavy|jets|turboprops Terminal 1 Gate 507
+1301 E airline 
+1300  45.62816191  008.71641228 260.11 gate jets|turboprops Terminal 1 Gate 506
 1301 D airline 
-1300  45.62741967  008.71679387 348.69 gate jets|turboprops Gate 599
+1300  45.62858637  008.71613854 258.87 gate jets|turboprops Terminal 1 Gate 595
+1301 E airline 
+1300  45.62855383  008.71619420 -126.58 gate heavy|jets|turboprops Terminal 1 Gate 505
 1301 F airline 
-1300  45.62744154  008.71674808 -29.10 gate heavy|jets|turboprops Gate 509
-1301 E airline 
-1300  45.62767413  008.71663072 259.09 gate jets|turboprops Gate 508
+1300  45.62855624  008.71587602 168.76 gate jets|turboprops Terminal 1 Gate 504
 1301 C airline 
-1300  45.62809812  008.71639735 259.65 gate heavy|jets|turboprops Gate 507
+1300  45.62836193  008.71537203 169.03 gate jets|turboprops Terminal 1 Gate 503
 1301 E airline 
-1300  45.62816191  008.71641228 260.11 gate jets|turboprops Gate 506
+1300  45.62836324  008.71526949 167.97 gate jets|turboprops Terminal 1 Gate 502
 1301 C airline 
-1300  45.62858637  008.71613854 258.87 gate jets|turboprops Gate 595
+1300  45.62815726  008.71447973 169.15 gate jets|turboprops Terminal 1 Gate 501
+1301 E airline 
+1300  45.63015209  008.71413541  11.98 gate jets|turboprops|props Terminal 1 Gate 413
 1301 D airline 
-1300  45.62855383  008.71619420 -126.58 gate heavy|jets|turboprops Gate 505
+1300  45.63031340  008.71537240 350.12 gate jets|turboprops Terminal 1 Gate 410
+1301 C airline 
+1300  45.63051256  008.71597683  -7.53 gate jets|turboprops|props Terminal 1 Gate 499
 1301 F airline 
-1300  45.62855624  008.71587602 168.76 gate jets|turboprops Gate 504
-1301 C airline 
-1300  45.62836193  008.71537203 169.03 gate jets|turboprops Gate 503
+1300  45.63057239  008.71588112 -29.08 gate heavy|jets|turboprops|props Terminal 1 Gate 409
 1301 E airline 
-1300  45.62836324  008.71526949 167.97 gate jets|turboprops Gate 502
+1300  45.63079747  008.71574786 260.33 gate jets|turboprops Terminal 1 Gate 408
 1301 C airline 
-1300  45.62815726  008.71447973 169.15 gate jets|turboprops Gate 501
-1301 E airline 
-1300  45.63015209  008.71413541  11.98 gate jets|turboprops|props Gate 413
+1300  45.63029405  008.71469327 348.60 gate jets|turboprops|props Terminal 1 Gate 412
 1301 D airline 
-1300  45.63031340  008.71537240 350.12 gate jets|turboprops Gate 410
+1300  45.63120266  008.71555227 259.22 gate jets|turboprops Terminal 1 Gate 407
+1301 E airline 
+1300  45.63127400  008.71552666 259.34 gate jets|turboprops Terminal 1 Gate 406
 1301 C airline 
-1300  45.63051256  008.71597683  -7.53 gate jets|turboprops|props Gate 499
+1300  45.63168627  008.71529073 -103.05 gate jets|turboprops Terminal 1 Gate 495
+1301 D airline 
+1300  45.63167311  008.71533397 -123.89 gate heavy|jets|turboprops Terminal 1 Gate 405
 1301 F airline 
-1300  45.63057239  008.71588112 -29.08 gate heavy|jets|turboprops|props Gate 409
+1300  45.63149249  008.71445790 -161.11 gate heavy|jets|turboprops|props Terminal 1 Gate 404
 1301 E airline 
-1300  45.63079747  008.71574786 260.33 gate jets|turboprops Gate 408
-1301 C airline 
-1300  45.63029405  008.71469327 348.60 gate jets|turboprops|props Gate 412
-1301 D airline 
-1300  45.63120266  008.71555227 259.22 gate jets|turboprops Gate 407
-1301 D airline 
-1300  45.63127400  008.71552666 259.34 gate jets|turboprops Gate 406
-1301 C airline 
-1300  45.63168627  008.71529073 -103.05 gate jets|turboprops Gate 495
-1301 E airline 
-1300  45.63167311  008.71533397 -123.89 gate heavy|jets|turboprops Gate 405
-1301 F airline 
-1300  45.63149249  008.71445790 -161.11 gate heavy|jets|turboprops|props Gate 404
-1301 E airline 
-1300  45.63123555  008.71359024 169.35 gate heavy|jets|turboprops Gate 401
+1300  45.63123555  008.71359024 169.35 gate heavy|jets|turboprops Terminal 1 Gate 401
 1301 E airline 
 1300  45.63385357  008.71721171 349.22 tie_down jets|turboprops|props Remote Stand 351
 1301 C airline 
@@ -8555,36 +8595,6 @@ I
 1301 C none 
 1300  45.63502191  008.71243900  68.02 tie_down jets|turboprops|props Maintenance Apron 393
 1301 E none 
-1300  45.64774604  008.72077070 -10.56 tie_down jets|turboprops|props Gate 118
-1301 B none 
-1300  45.64739311  008.72137468  38.49 tie_down jets|turboprops|props Gate 117
-1301 C none 
-1300  45.64687727  008.72150965  38.94 tie_down jets|turboprops|props Gate 116
-1301 C none 
-1300  45.64640706  008.72193193  80.04 tie_down jets|turboprops|props Gate 115
-1301 C none 
-1300  45.64604653  008.72216455  78.81 tie_down jets|turboprops|props Gate 114
-1301 C none 
-1300  45.64563824  008.72227340  78.48 tie_down jets|turboprops|props Gate 113
-1301 C none 
-1300  45.64553072  008.72516480 303.25 tie_down jets|turboprops|props Gate 106
-1301 C none 
-1300  45.64514535  008.72224526  34.69 tie_down jets|turboprops|props Gate 112
-1301 C none 
-1300  45.64533117  008.72274412 348.11 tie_down jets|turboprops|props Gate 111
-1301 C none 
-1300  45.64524912  008.72349218 348.19 tie_down jets|turboprops|props Gate 110
-1301 C none 
-1300  45.64544747  008.72402392 348.82 tie_down jets|turboprops|props Gate 109
-1301 C none 
-1300  45.64559730  008.72450683 348.86 tie_down jets|turboprops|props Gate 108
-1301 E none 
-1300  45.64542512  008.72477016 348.69 tie_down jets|turboprops|props Gate 107
-1301 C none 
-1300  45.64602169  008.72498963 -100.97 tie_down jets|turboprops|props Gate 105
-1301 C none 
-1300  45.64650811  008.72486157 258.69 tie_down jets|turboprops|props Gate 104
-1301 C none 
 1300  45.64023644  008.72629090 258.44 tie_down jets|turboprops|props Remote Stand 201
 1301 C none 
 1300  45.64040467  008.72589237 -101.23 tie_down jets|turboprops|props Remote Stand 202
@@ -8626,67 +8636,57 @@ I
 1300  45.64171427  008.72439533  78.69 tie_down jets|turboprops|props Remote Stand 220
 1301 C none 
 1300  45.64161879  008.72443228  79.10 tie_down jets|turboprops|props Remote Stand 219
-1301 D none 
+1301 E none 
 1300  45.64134366  008.72450009  79.08 tie_down jets|turboprops|props Remote Stand 218
 1301 C none 
 1300  45.64106958  008.72458028  79.14 tie_down jets|turboprops|props Remote Stand 217
-1301 D none 
+1301 E none 
 1300  45.64097425  008.72461469  78.38 tie_down jets|turboprops|props Remote Stand 216
 1301 C none 
-1300  45.62093239  008.72101029  79.30 tie_down jets|turboprops|props Remote Stand 752
-1301 C airline 
-1300  45.62041952  008.72115182  79.27 tie_down jets|turboprops|props Remote Stand 753
+1300  45.64774604  008.72077070 -10.56 tie_down jets|turboprops|props Terminal 2 Gate 118
 1301 C none 
-1300  45.62003889  008.72125536  79.18 tie_down jets|turboprops|props Remote Stand 754
+1300  45.64739311  008.72137468  38.49 tie_down jets|turboprops|props Terminal 2 Gate 117
 1301 C none 
-1300  45.61952322  008.72140941  79.05 tie_down jets|turboprops|props Remote Stand 755
+1300  45.64687727  008.72150965  38.94 tie_down jets|turboprops|props Terminal 2 Gate 116
 1301 C none 
-1300  45.61914028  008.72150418  79.19 tie_down jets|turboprops|props Remote Stand 756
+1300  45.64640706  008.72193193  80.04 tie_down jets|turboprops|props Terminal 2 Gate 115
 1301 C none 
-1300  45.61772014  008.72190464  79.56 tie_down jets|turboprops|props Remote Stand 757
+1300  45.64604653  008.72216455  78.81 tie_down jets|turboprops|props Terminal 2 Gate 114
 1301 C none 
-1300  45.61720486  008.72205551  78.84 tie_down jets|turboprops|props Remote Stand 758
+1300  45.64563824  008.72227340  78.48 tie_down jets|turboprops|props Terminal 2 Gate 113
 1301 C none 
-1300  45.61681996  008.72215743  79.06 tie_down jets|turboprops|props Remote Stand 759
+1300  45.64553072  008.72516480 303.25 tie_down jets|turboprops|props Terminal 2 Gate 106
 1301 C none 
-1300  45.61630377  008.72229866  78.63 tie_down jets|turboprops|props Remote Stand 760
+1300  45.64514535  008.72224526  34.69 tie_down jets|turboprops|props Terminal 2 Gate 112
 1301 C none 
-1300  45.61591816  008.72240101  77.99 tie_down jets|turboprops|props Remote Stand 761
+1300  45.64533117  008.72274412 348.11 tie_down jets|turboprops|props Terminal 2 Gate 111
 1301 C none 
-1300  45.61540085  008.72255697  78.94 tie_down jets|turboprops|props Remote Stand 762
+1300  45.64524912  008.72349218 348.19 tie_down jets|turboprops|props Terminal 2 Gate 110
 1301 C none 
-1300  45.61501433  008.72264612  78.52 tie_down jets|turboprops|props Remote Stand 763
+1300  45.64544747  008.72402392 348.82 tie_down jets|turboprops|props Terminal 2 Gate 109
 1301 C none 
-1300  45.61453568  008.72279399  78.79 tie_down jets|turboprops|props Remote Stand 764
-1301 C none 
-1300  45.61600143  008.72239457 112.42 tie_down jets|turboprops|props Remote Stand 791
-1301 D none 
-1300  45.61510657  008.72263413 112.83 tie_down jets|turboprops|props Remote Stand 792
-1301 D none 
-1300  45.61439227  008.72277150 112.87 tie_down jets|turboprops|props Remote Stand 793
-1301 C none 
-1300  45.61223519  008.72317642 -101.14 tie_down jets|turboprops|props De-Ice Pad 804
+1300  45.64559730  008.72450683 348.86 tie_down jets|turboprops|props Terminal 2 Gate 108
 1301 E none 
-1300  45.61239933  008.72437698  78.59 tie_down jets|turboprops|props De-Ice Pad 803
-1301 E none 
-1300  45.61300037  008.72295802 259.41 tie_down jets|turboprops|props De-Ice Pad 802
-1301 E none 
-1300  45.61315326  008.72406683  79.06 tie_down jets|turboprops|props De-Ice Pad 801
-1301 E none 
-1300  45.64731535  008.72463318 259.22 tie_down jets|turboprops|props Gate 103
+1300  45.64542512  008.72477016 348.69 tie_down jets|turboprops|props Terminal 2 Gate 107
 1301 C none 
-1300  45.64780351  008.72449547 258.23 tie_down jets|turboprops|props Gate 102
+1300  45.64602169  008.72498963 -100.97 tie_down jets|turboprops|props Terminal 2 Gate 105
 1301 C none 
-1300  45.64829790  008.72435885 -100.89 tie_down jets|turboprops|props Gate 101
+1300  45.64650811  008.72486157 258.69 tie_down jets|turboprops|props Terminal 2 Gate 104
+1301 C none 
+1300  45.64731535  008.72463318 259.22 tie_down jets|turboprops|props Terminal 2 Gate 103
+1301 C none 
+1300  45.64780351  008.72449547 258.23 tie_down jets|turboprops|props Terminal 2 Gate 102
+1301 C none 
+1300  45.64829790  008.72435885 -100.89 tie_down jets|turboprops|props Terminal 2 Gate 101
 1301 C none 
 18  45.62053581  008.71496835 1 BCN
 50 12002 ATIS Arrival
 50 12162 ATIS Departure
 52 12090 Clearance Delivery
-53 12182 Milano Ground
-53 12190 Milano Ground
-54 11900 Milano Tower
-54 12835 Milano Tower
+53 12182 Malpensa Ground
+53 12190 Malpensa Ground
+54 11900 Malpensa Tower
+54 12835 Malpensa Tower
 55 12675 Milano Approach
 55 12562 Milano Approach
 55 13270 Milano Approach
