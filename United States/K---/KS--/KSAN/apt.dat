@@ -4164,36 +4164,36 @@ I
 1301 B general_aviation 
 1300  32.73452277 -117.17948162 151.07 tie_down jets|turboprops|props Ramp GA 1
 1301 B general_aviation 
-1300  32.73579794 -117.18559990  84.89 gate jets|turboprops Cargo 14
+1300  32.73579794 -117.18559990  84.89 gate jets|turboprops Cargo Ramp 14
 1301 C cargo 
-1300  32.73621790 -117.18596253  85.42 gate jets|turboprops Cargo 13
+1300  32.73621790 -117.18596253  85.42 gate jets|turboprops Cargo Ramp 13
 1301 C cargo 
-1300  32.73663613 -117.18631198  84.93 gate jets|turboprops Cargo 12
+1300  32.73663613 -117.18631198  84.93 gate jets|turboprops Cargo Ramp 12
 1301 C cargo 
-1300  32.73695807 -117.18661734 100.01 gate jets|turboprops Cargo 11
+1300  32.73695807 -117.18661734 100.01 gate jets|turboprops Cargo Ramp 11
 1301 B cargo 
-1300  32.73713716 -117.18676751  99.85 gate jets|turboprops Cargo 10
+1300  32.73713716 -117.18676751  99.85 gate jets|turboprops Cargo Ramp 10
 1301 B cargo 
-1300  32.73731757 -117.18691669  99.26 gate jets|turboprops Cargo 9
+1300  32.73731757 -117.18691669  99.26 gate jets|turboprops Cargo Ramp 9
 1301 B cargo 
-1300  32.73749674 -117.18706727 100.43 gate jets|turboprops Cargo 8
+1300  32.73749674 -117.18706727 100.43 gate jets|turboprops Cargo Ramp 8
 1301 B cargo 
-1300  32.73398250 -117.18300403 105.75 gate jets Cargo 7
+1300  32.73398250 -117.18300403 105.75 gate jets Cargo Ramp 7
 1301 D cargo 
-1300  32.73531509 -117.18349715  56.12 gate jets Cargo 6
+1300  32.73531509 -117.18349715  56.12 gate jets Cargo Ramp 6
 1301 D cargo 
-1300  32.73597878 -117.18404288  54.06 gate jets Cargo 5
+1300  32.73597878 -117.18404288  54.06 gate jets Cargo Ramp 5
 1301 D cargo 
-1300  32.73684716 -117.18504780  -4.94 gate jets Cargo 4
+1300  32.73684716 -117.18504780  -4.94 gate jets Cargo Ramp 4
 1301 D cargo 
-1300  32.73760083 -117.18568421  -5.07 gate jets Cargo 3
+1300  32.73760083 -117.18568421  -5.07 gate jets Cargo Ramp 3
 1301 D cargo 
-1300  32.73831904 -117.18631490  -4.98 gate jets Cargo 2
+1300  32.73831904 -117.18631490  -4.98 gate jets Cargo Ramp 2
 1301 D cargo 
-1300  32.73823840 -117.18711531 -35.27 gate jets Cargo 1
+1300  32.73823840 -117.18711531 -35.27 gate jets Cargo Ramp 1
 1301 D cargo 
-1300  32.73462286 -117.18599997 106.52 gate jets North Ramp 11
-1301 D airline 
+1300  32.73462286 -117.18599997 106.52 gate heavy|jets North Ramp 11
+1301 E airline 
 1300  32.73418289 -117.18500671 -164.01 gate jets|turboprops North Ramp 10
 1301 C airline 
 1300  32.73432216 -117.18550254 -163.97 gate jets|turboprops North Ramp 9
@@ -4213,7 +4213,7 @@ I
 1300  32.73509521 -117.18866825 -164.10 gate jets|turboprops North Ramp 2
 1301 C airline 
 1300  32.73519377 -117.18932227 -164.19 gate jets|turboprops North Ramp 1
-1301 C airline 
+1301 D airline 
 1300  32.73062731 -117.19118043 -59.95 tie_down jets|turboprops Commuter Ramp 8
 1301 B airline 
 1300  32.73099308 -117.19094800 -26.43 tie_down jets|turboprops Commuter Ramp 7
