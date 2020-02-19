@@ -2527,7 +2527,7 @@ I
 1301 C airline 
 1300 -08.13527756 -034.91790342  72.13 gate jets|turboprops Gate 04
 1301 C airline 
-1300 -08.13530120 -034.91846075 -59.78 gate heavy|jets|turboprops Gate 03A
+1300 -08.13530120 -034.91846075 -59.78 gate heavy|jets|turboprops Cargo 03A
 1301 F cargo 
 1300 -08.13564638 -034.91780038  71.92 gate jets|turboprops Gate 03
 1301 C airline 

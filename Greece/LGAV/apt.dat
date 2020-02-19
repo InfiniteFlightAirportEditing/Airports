@@ -8167,109 +8167,43 @@ I
 21  37.94701338  023.96632071 2 216.5400 3.00 21L PAPI-4L
 21  37.94378944  023.94083260 2 217.2100 3.00 21R PAPI-4L
 14  37.93351876  023.94444179 180.45 0 Tower Viewpoint
-1300  37.92484825  023.93816643 -52.87 gate jets|turboprops Cargo Apron F02
-1301 E cargo 
-1300  37.92423821  023.93757863 -52.83 gate jets|turboprops Cargo Apron F04
-1301 E cargo 
-1300  37.92362139  023.93700049 -53.08 gate jets|turboprops Cargo Apron F06
-1301 E cargo 
-1300  37.92300586  023.93641984 -53.02 gate jets|turboprops Cargo Apron F08
-1301 E cargo 
-1300  37.92316611  023.93774266  38.42 gate jets|turboprops Cargo Apron F06G
-1301 B cargo 
-1300  37.92345936  023.93724595  38.42 gate jets|turboprops Cargo Apron F06E
-1301 B cargo 
-1300  37.92360452  023.93699863  38.14 gate jets|turboprops Cargo Apron F06D
-1301 B cargo 
-1300  37.92331518  023.93748458  38.08 gate jets|turboprops Cargo Apron F06F
-1301 B cargo 
-1300  37.92301258  023.93799370  38.03 gate jets|turboprops Cargo Apron F06H
-1301 B cargo 
-1300  37.92269801  023.93761113  -3.40 gate jets|turboprops Cargo Apron F06C
-1301 B cargo 
-1300  37.92295301  023.93718029  -1.86 gate jets|turboprops Cargo Apron F06B
-1301 B cargo 
-1300  37.92318157  023.93680078  -2.46 gate jets|turboprops Cargo Ramp F06A
-1301 B cargo 
-1300  37.92298364  023.93642619  38.07 gate jets|turboprops Cargo Apron F08D
-1301 B cargo 
-1300  37.92283849  023.93667351  38.04 gate jets|turboprops Cargo Apron F08E
-1301 B cargo 
-1300  37.92269431  023.93691213  38.72 gate jets|turboprops Cargo Apron F08F
-1301 B cargo 
-1300  37.92239171  023.93742125  38.01 gate jets|turboprops Cargo Apron F08H
-1301 B cargo 
-1300  37.92205278  023.93699845  -3.20 gate jets|turboprops Cargo Apron F08C
-1301 B cargo 
-1300  37.92230778  023.93656762  -3.57 gate jets|turboprops Cargo Apron F08B
-1301 B cargo 
-1300  37.92256314  023.93614113  -2.93 gate jets|turboprops Cargo Apron F08A
-1301 B cargo 
-1300  37.92357061  023.93775712  -4.06 gate jets|turboprops Cargo Apron F04B
-1301 B cargo 
-1300  37.92454135  023.93864633  38.14 gate jets|turboprops Cargo Apron F02F
-1301 B cargo 
-1300  37.92468554  023.93840770  38.20 gate jets|turboprops Cargo Apron F02E
-1301 B cargo 
-1300  37.92483069  023.93816038  38.02 gate jets|turboprops Cargo Apron F02D
-1301 B cargo 
-1300  37.92439228  023.93890442  38.23 gate jets|turboprops Cargo Apron F02G
-1301 B cargo 
-1300  37.92423875  023.93915546  38.27 gate jets|turboprops Cargo Apron F02H
-1301 B cargo 
-1300  37.92393457  023.93876860  -2.62 gate jets|turboprops Cargo Apron F02C
-1301 B cargo 
-1300  37.92418934  023.93833563  -2.90 gate jets|turboprops Cargo Apron F02B
-1301 B cargo 
-1300  37.92441629  023.93796061  -3.72 gate jets|turboprops Cargo Apron F02A
-1301 B cargo 
-1300  37.92393088  023.93806953  38.34 gate jets|turboprops Cargo Apron F04F
-1301 B cargo 
-1300  37.92407506  023.93783090  38.25 gate jets|turboprops Cargo Apron F04E
-1301 B cargo 
-1300  37.92422021  023.93758357  38.22 gate jets|turboprops Cargo Apron F04D
-1301 B cargo 
-1300  37.92378180  023.93832762  38.28 gate jets|turboprops Cargo Apron F04G
-1301 B cargo 
-1300  37.92362828  023.93857865  38.24 gate jets|turboprops Cargo Apron F04H
-1301 B cargo 
-1300  37.92331566  023.93818781  -1.45 gate jets|turboprops Cargo Apron F04C
-1301 B cargo 
-1300  37.92379645  023.93738057  -3.00 gate jets|turboprops Cargo Apron F04A
-1301 B cargo 
-1300  37.92254524  023.93717022  37.51 gate jets|turboprops Gargo Apron F08G
-1301 B cargo 
-1300  37.92524137  023.93937182 -144.09 gate jets|turboprops Cargo Apron F09A
-1301 A cargo 
-1300  37.92515500  023.93952100 215.76 gate jets|turboprops Cargo Apron F09B
-1301 A cargo 
-1300  37.92515649  023.93940843 -142.74 gate jets|turboprops Cargo Apron F09
-1301 B cargo 
-1300  37.92553574  023.93882882 -141.52 gate jets|turboprops Cargo Apron F11B
-1301 A cargo 
-1300  37.92562600  023.93868841 217.93 gate jets|turboprops Cargo Apron F11A
-1301 A cargo 
-1300  37.92553716  023.93871680 217.71 gate jets|turboprops Cargo Apron F11
-1301 B cargo 
-1300  37.92556994  023.93986999  37.47 gate jets|turboprops Cargo Apron F01
-1301 A cargo 
-1300  37.92571044  023.93965190  37.42 gate jets|turboprops Cargo Apron F03
-1301 A cargo 
-1300  37.92584194  023.93943576  37.44 gate jets|turboprops Cargo Apron F05
-1301 A cargo 
-1300  37.92596710  023.93921197  37.58 gate jets|turboprops Cargo Apron F07
-1301 A cargo 
-1300  37.92739985  023.93783010 -142.70 gate jets|turboprops South Remote Stand A58
+1300  37.93926916  023.95108578 -52.91 gate jets|turboprops Main Terminal Gate B17
+1301 E airline 
+1300  37.93882468  023.95070883 -52.78 gate jets|turboprops Main Terminal Gate B15
+1301 C airline 
+1300  37.93849482  023.95040847 -52.98 gate jets|turboprops Main Terminal Gate B13
+1301 C airline 
+1300  37.93808379  023.95001356 -53.14 gate jets|turboprops Main Terminal Gate B11
+1301 E airline 
+1300  37.93761186  023.94956194 -52.36 gate jets|turboprops Main Terminal Gate B09
+1301 E airline 
+1300  37.93707368  023.94909565 -52.89 gate jets|turboprops Main Termina Gate B07
 1301 D airline 
-1300  37.92706132  023.93839306 -142.82 gate jets|turboprops South Remote Stand A56
+1300  37.93668136  023.94867084 -53.39 gate jets|turboprops Main Terminal Gate B05
 1301 D airline 
-1300  37.92673105  023.93895587 -142.77 gate jets|turboprops South Remote Stand A54
+1300  37.93621020  023.94823465 -50.72 gate jets|turboprops Main Terminal Gate B03
 1301 D airline 
-1300  37.92613366  023.94044765 126.50 gate jets|turboprops South Remote Stand A50A
-1301 B airline 
-1300  37.92604889  023.94008423 -142.74 gate jets|turboprops South Remote Stand A50
+1300  37.93574695  023.94777345 -52.61 gate jets|turboprops Main Terminal Gate A01
+1301 E airline 
+1300  37.93525399  023.94731155 -52.98 gate jets|turboprops Main Terminal Gate A03
+1301 E airline 
+1300  37.93478755  023.94684172 -51.24 gate jets|turboprops Main Terminal Gate A05
+1301 E airline 
+1300  37.93420931  023.94659238 -61.97 gate jets|turboprops Main Terminal Gate A07A
+1301 C airline 
+1300  37.93424130  023.94644704 -52.10 gate jets|turboprops Main Terminal Gate A07
 1301 D airline 
-1300  37.92639254  023.93952029 -142.71 gate jets|turboprops South Remote Stand A52
+1300  37.93383553  023.94609424 -58.50 gate jets|turboprops Main Terminal Gate A09A
+1301 C airline 
+1300  37.93386371  023.94600558 -51.66 gate jets|turboprops Main Terminal Gate A09
+1301 D airline 
+1300  37.93343078  023.94559043 -53.14 gate jets|turboprops Main Terminal Gate A11
+1301 D airline 
+1300  37.93295030  023.94527430 -43.24 gate jets|turboprops Main Terminal Gate A13A
+1301 D airline 
+1300  37.93301225  023.94519824 -53.27 gate jets|turboprops Main Terminal Gate A13
+1301 D airline 
+1300  37.93939720  023.95151087  19.21 gate jets|turboprops Main Terminal B17A
 1301 D airline 
 1300  37.94473777  023.95353284 -142.97 gate jets|turboprops North Remote Stand B67
 1301 B airline 
@@ -8339,42 +8273,6 @@ I
 1301 C airline 
 1300  37.94174515  023.95069554  37.08 gate jets|turboprops North Remote Stand B44
 1301 C airline 
-1300  37.93926916  023.95108578 -52.91 gate jets|turboprops Gate B17
-1301 E airline 
-1300  37.93882468  023.95070883 -52.78 gate jets|turboprops Gate B15
-1301 C airline 
-1300  37.93849482  023.95040847 -52.98 gate jets|turboprops Gate B13
-1301 C airline 
-1300  37.93808379  023.95001356 -53.14 gate jets|turboprops Gate B11
-1301 E airline 
-1300  37.93761186  023.94956194 -52.36 gate jets|turboprops Gate B09
-1301 E airline 
-1300  37.93707368  023.94909565 -52.89 gate jets|turboprops Gate B07
-1301 D airline 
-1300  37.93668136  023.94867084 -53.39 gate jets|turboprops Gate B05
-1301 D airline 
-1300  37.93621020  023.94823465 -50.72 gate jets|turboprops Gate B03
-1301 D airline 
-1300  37.93574695  023.94777345 -52.61 gate jets|turboprops Gate A01
-1301 E airline 
-1300  37.93525399  023.94731155 -52.98 gate jets|turboprops Gate A03
-1301 E airline 
-1300  37.93478755  023.94684172 -51.24 gate jets|turboprops Gate A05
-1301 E airline 
-1300  37.93420931  023.94659238 -61.97 gate jets|turboprops Gate A07A
-1301 C airline 
-1300  37.93424130  023.94644704 -52.10 gate jets|turboprops Gate A07
-1301 D airline 
-1300  37.93383553  023.94609424 -58.50 gate jets|turboprops Gate A09A
-1301 C airline 
-1300  37.93386371  023.94600558 -51.66 gate jets|turboprops Gate A09
-1301 D airline 
-1300  37.93343078  023.94559043 -53.14 gate jets|turboprops Gate A11
-1301 D airline 
-1300  37.93295030  023.94527430 -43.24 gate jets|turboprops Gate A13A
-1301 D airline 
-1300  37.93301225  023.94519824 -53.27 gate jets|turboprops Gate A13
-1301 D airline 
 1300  37.94384295  023.95716186  37.06 tie_down turboprops|props GA Apron 17A
 1301 B general_aviation 
 1300  37.94385919  023.95714421  37.06 tie_down turboprops|props GA Apron 17
@@ -8507,6 +8405,110 @@ I
 1301 B general_aviation 
 1300  37.94656411  023.95953139 -52.94 tie_down turboprops|props GA Apron C50
 1301 B general_aviation 
+1300  37.92484825  023.93816643 -52.87 gate jets|turboprops Cargo Apron F02
+1301 E cargo 
+1300  37.92423821  023.93757863 -52.83 gate jets|turboprops Cargo Apron F04
+1301 E cargo 
+1300  37.92362139  023.93700049 -53.08 gate jets|turboprops Cargo Apron F06
+1301 E cargo 
+1300  37.92300586  023.93641984 -53.02 gate jets|turboprops Cargo Apron F08
+1301 E cargo 
+1300  37.92316611  023.93774266  38.42 gate jets|turboprops Cargo Apron F06G
+1301 B cargo 
+1300  37.92345936  023.93724595  38.42 gate jets|turboprops Cargo Apron F06E
+1301 B cargo 
+1300  37.92360452  023.93699863  38.14 gate jets|turboprops Cargo Apron F06D
+1301 B cargo 
+1300  37.92331518  023.93748458  38.08 gate jets|turboprops Cargo Apron F06F
+1301 B cargo 
+1300  37.92301258  023.93799370  38.03 gate jets|turboprops Cargo Apron F06H
+1301 B cargo 
+1300  37.92269801  023.93761113  -3.40 gate jets|turboprops Cargo Apron F06C
+1301 B cargo 
+1300  37.92295301  023.93718029  -1.86 gate jets|turboprops Cargo Apron F06B
+1301 B cargo 
+1300  37.92318157  023.93680078  -2.46 gate jets|turboprops Cargo Ramp F06A
+1301 B cargo 
+1300  37.92298364  023.93642619  38.07 gate jets|turboprops Cargo Apron F08D
+1301 B cargo 
+1300  37.92283849  023.93667351  38.04 gate jets|turboprops Cargo Apron F08E
+1301 B cargo 
+1300  37.92269431  023.93691213  38.72 gate jets|turboprops Cargo Apron F08F
+1301 B cargo 
+1300  37.92239171  023.93742125  38.01 gate jets|turboprops Cargo Apron F08H
+1301 B cargo 
+1300  37.92205278  023.93699845  -3.20 gate jets|turboprops Cargo Apron F08C
+1301 B cargo 
+1300  37.92230778  023.93656762  -3.57 gate jets|turboprops Cargo Apron F08B
+1301 B cargo 
+1300  37.92256314  023.93614113  -2.93 gate jets|turboprops Cargo Apron F08A
+1301 B cargo 
+1300  37.92357061  023.93775712  -4.06 gate jets|turboprops Cargo Apron F04B
+1301 B cargo 
+1300  37.92454135  023.93864633  38.14 gate jets|turboprops Cargo Apron F02F
+1301 B cargo 
+1300  37.92468554  023.93840770  38.20 gate jets|turboprops Cargo Apron F02E
+1301 B cargo 
+1300  37.92483069  023.93816038  38.02 gate jets|turboprops Cargo Apron F02D
+1301 B cargo 
+1300  37.92439228  023.93890442  38.23 gate jets|turboprops Cargo Apron F02G
+1301 B cargo 
+1300  37.92423875  023.93915546  38.27 gate jets|turboprops Cargo Apron F02H
+1301 B cargo 
+1300  37.92393457  023.93876860  -2.62 gate jets|turboprops Cargo Apron F02C
+1301 B cargo 
+1300  37.92418934  023.93833563  -2.90 gate jets|turboprops Cargo Apron F02B
+1301 B cargo 
+1300  37.92441629  023.93796061  -3.72 gate jets|turboprops Cargo Apron F02A
+1301 B cargo 
+1300  37.92393088  023.93806953  38.34 gate jets|turboprops Cargo Apron F04F
+1301 B cargo 
+1300  37.92407506  023.93783090  38.25 gate jets|turboprops Cargo Apron F04E
+1301 B cargo 
+1300  37.92422021  023.93758357  38.22 gate jets|turboprops Cargo Apron F04D
+1301 B cargo 
+1300  37.92378180  023.93832762  38.28 gate jets|turboprops Cargo Apron F04G
+1301 B cargo 
+1300  37.92362828  023.93857865  38.24 gate jets|turboprops Cargo Apron F04H
+1301 B cargo 
+1300  37.92331566  023.93818781  -1.45 gate jets|turboprops Cargo Apron F04C
+1301 B cargo 
+1300  37.92379645  023.93738057  -3.00 gate jets|turboprops Cargo Apron F04A
+1301 B cargo 
+1300  37.92254524  023.93717022  37.51 gate jets|turboprops Gargo Apron F08G
+1301 B cargo 
+1300  37.92524137  023.93937182 -144.09 gate jets|turboprops Cargo Apron F09A
+1301 A cargo 
+1300  37.92515500  023.93952100 215.76 gate jets|turboprops Cargo Apron F09B
+1301 A cargo 
+1300  37.92515649  023.93940843 -142.74 gate jets|turboprops Cargo Apron F09
+1301 B cargo 
+1300  37.92553574  023.93882882 -141.52 gate jets|turboprops Cargo Apron F11B
+1301 A cargo 
+1300  37.92562600  023.93868841 217.93 gate jets|turboprops Cargo Apron F11A
+1301 A cargo 
+1300  37.92553716  023.93871680 217.71 gate jets|turboprops Cargo Apron F11
+1301 B cargo 
+1300  37.92556994  023.93986999  37.47 gate jets|turboprops Cargo Apron F01
+1301 A cargo 
+1300  37.92571044  023.93965190  37.42 gate jets|turboprops Cargo Apron F03
+1301 A cargo 
+1300  37.92584194  023.93943576  37.44 gate jets|turboprops Cargo Apron F05
+1301 A cargo 
+1300  37.92596710  023.93921197  37.58 gate jets|turboprops Cargo Apron F07
+1301 A cargo 
+1300  37.92739985  023.93783010 -142.70 gate jets|turboprops South Remote Stand A58
+1301 D airline 
+1300  37.92706132  023.93839306 -142.82 gate jets|turboprops South Remote Stand A56
+1301 D airline 
+1300  37.92673105  023.93895587 -142.77 gate jets|turboprops South Remote Stand A54
+1301 D airline 
+1300  37.92613366  023.94044765 126.50 gate jets|turboprops South Remote Stand A50A
+1301 B airline 
+1300  37.92604889  023.94008423 -142.74 gate jets|turboprops South Remote Stand A50
+1301 D airline 
+1300  37.92639254  023.93952029 -142.71 gate jets|turboprops South Remote Stand A52
+1301 D airline 
 1300  37.92825381  023.94216651 -142.89 gate jets|turboprops South Remote Stand A40
 1301 E airline 
 1300  37.92858293  023.94151976 -142.93 gate jets|turboprops South Remote Stand A42
@@ -8537,65 +8539,68 @@ I
 1301 B airline 
 1300  37.92983350  023.94026466 -51.39 gate jets|turboprops South Remote Stand A46A
 1301 B airline 
-1300  37.93193888  023.94265387 -143.25 gate jets|turboprops Gate A38A
+1300  37.93193888  023.94265387 -143.25 gate jets|turboprops Satellite Terminal Gate A38A
 1301 C airline 
-1300  37.93169206  023.94316382 -143.59 gate jets|turboprops Gate A36A
+1300  37.93169206  023.94316382 -143.59 gate jets|turboprops Satellite Terminal Gate A36A
 1301 C airline 
-1300  37.93154804  023.94305580 -142.77 gate jets|turboprops Gate A36
+1300  37.93154804  023.94305580 -142.77 gate jets|turboprops Satellite Terminal Gate A36
 1301 D airline 
-1300  37.93182898  023.94257318 -143.24 gate jets|turboprops Gate A38
+1300  37.93182898  023.94257318 -143.24 gate jets|turboprops Satellite Terminal Gate A38
 1301 D airline 
-1300  37.93140099  023.94360847 -143.46 gate jets|turboprops Gate A34A
+1300  37.93140099  023.94360847 -143.46 gate jets|turboprops Satellite Terminal Gate A34A
 1301 C airline 
-1300  37.93129055  023.94356469 -143.58 gate jets|turboprops Gate A34
+1300  37.93129055  023.94356469 -143.58 gate jets|turboprops Satellite Terminal Gate A34
 1301 D airline 
-1300  37.93109198  023.94409015 -144.91 gate jets|turboprops Gate A32A
+1300  37.93109198  023.94409015 -144.91 gate jets|turboprops Satellite Terminal Gate A32A
 1301 C airline 
-1300  37.93102132  023.94404242 -143.78 gate jets|turboprops Gate A32
+1300  37.93102132  023.94404242 -143.78 gate jets|turboprops Satellite Terminal Gate A32
 1301 D airline 
-1300  37.93073367  023.94450989 -143.23 gate jets|turboprops Gate A30
+1300  37.93073367  023.94450989 -143.23 gate jets|turboprops Satellite Terminal Gate A30
 1301 D airline 
-1300  37.93005918  023.94388216  36.84 gate jets|turboprops Gate A31
+1300  37.93005918  023.94388216  36.84 gate jets|turboprops Satellite Terminal Gate A31
 1301 D airline 
-1300  37.93020456  023.94331322  36.87 gate jets|turboprops Gate A33A
+1300  37.93020456  023.94331322  36.87 gate jets|turboprops Satellite Terminal Gate A33A
 1301 C airline 
-1300  37.93033922  023.94340715  37.15 gate jets|turboprops Gate A33
+1300  37.93033922  023.94340715  37.15 gate jets|turboprops Satellite Terminal Gate A33
 1301 D airline 
-1300  37.93048752  023.94283278  36.20 gate jets|turboprops Gate A35B
+1300  37.93048752  023.94283278  36.20 gate jets|turboprops Satellite Terminal Gate A35B
 1301 C airline 
-1300  37.93050702  023.94278633  37.47 gate jets|turboprops Gate A35A
+1300  37.93050702  023.94278633  37.47 gate jets|turboprops Satellite Terminal Gate A35A
 1301 C airline 
-1300  37.93062652  023.94292902  37.06 gate jets|turboprops Gate A35
+1300  37.93062652  023.94292902  37.06 gate jets|turboprops Satellite Terminal Gate A35
 1301 D airline 
-1300  37.93076575  023.94236139  35.47 gate jets|turboprops Gate A37A
+1300  37.93076575  023.94236139  35.47 gate jets|turboprops Satellite Terminal Gate A37A
 1301 C airline 
-1300  37.93091923  023.94245811  34.83 gate jets|turboprops Gate A37
+1300  37.93091923  023.94245811  34.83 gate jets|turboprops Satellite Terminal Gate A37
 1301 D airline 
-1300  37.93119369  023.94197297  36.71 gate jets|turboprops Gate A39
+1300  37.93119369  023.94197297  36.71 gate jets|turboprops Satellite Terminal Gate A39
 1301 D airline 
-1300  37.92960860  023.94387687 127.15 gate jets|turboprops Gate A31B
+1300  37.92960860  023.94387687 127.15 gate jets|turboprops Satellite Terminal Gate A31B
 1301 B airline 
-1300  37.92995164  023.94381090  36.01 gate jets|turboprops Gate A31A
+1300  37.92995164  023.94381090  36.01 gate jets|turboprops Satellite Terminal Gate A31A
 1301 C airline 
-1300  37.93105774  023.94141452 -51.97 gate jets|turboprops Gate A39A
+1300  37.93105774  023.94141452 -51.97 gate jets|turboprops Satellite Terminal Gate A39A
 1301 B airline 
-1300  37.93939720  023.95151087  19.21 gate jets|turboprops Gate B17A
-1301 D airline 
 18  37.93351876  023.94444179 1 BCN
 50 13612 ATIS
-52 11867 Clearance Delivery
+50 13117 Athens Information
+50 12402 Athens Information
+54 13627 Venizelos Tower
+54 12210 Venizelos Tower
+54 11862 Venizelos Tower
 53 12175 Venizelos Ground
 53 12195 Venizelos Ground
 53 12190 Venizelos Ground
 53 12180 Venizelos Ground
-54 13627 Venizelos Tower
-54 11862 Venizelos Tower
-55 12657 Athens Approach
-55 12402 Athens Approach
-55 13117 Athens Approach
+52 11867 Clearance Delivery
 55 13297 Athens Approach
+55 13025 Athens Approach
+55 12895 Athens Approach
 55 12657 Athens Approach
+55 12552 Athens Approach
+55 12140 Athens Approach
 55 12140 Athens Direct
+55 11847 Athens Direct
 56 11830 Athens Departure
 56 12895 Athens Departure
 99

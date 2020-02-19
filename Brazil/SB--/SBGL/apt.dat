@@ -6391,7 +6391,7 @@ I
 21 -22.79284084 -043.22223379 3 254.5400 3.00 28  PAPI-4L
 21 -22.79385673 -043.22194047 2 254.4500 3.00 28  PAPI-4L
 21 -22.82656155 -043.24324839 2 305.0600 3.00 33  PAPI-4L
-14 -22.80971676 -043.25045174 131.23 0 Tower Viewpoint
+14 -22.80971676 -043.25045174 236.22 0 Tower Viewpoint
 1300 -22.79988905 -043.22519699 164.71 tie_down heavy|jets|turboprops Maintenance Apron 02
 1301 E airline 
 1300 -22.80049250 -043.22726351 164.71 tie_down heavy|jets|turboprops Maintenance Apron 01
@@ -6744,173 +6744,173 @@ I
 1301 F airline 
 1300 -22.81979659 -043.24021989 125.45 gate jets Remote Stand 85
 1301 C airline 
-1300 -22.81880965 -043.23923290  36.32 gate jets Gate 84
+1300 -22.81880965 -043.23923290  36.32 gate jets Terminal 3-84
 1301 C airline 
-1300 -22.81880663 -043.23930970  61.59 gate heavy|jets Gate 83
-1301 F airline 
-1300 -22.81880961 -043.23973549  36.09 gate jets Gate 82
-1301 C airline 
-1300 -22.81839843 -043.23989370  35.99 gate jets Gate 81
-1301 C airline 
-1300 -22.81828965 -043.23993551  50.38 gate heavy|jets Gate 80
+1300 -22.81880663 -043.23930970  61.59 gate heavy|jets Terminal 3-83
 1301 E airline 
-1300 -22.81831173 -043.24032134  35.18 gate jets Gate 79
+1300 -22.81880961 -043.23973549  36.09 gate jets Terminal 3-82
 1301 C airline 
-1300 -22.81795897 -043.24053712  35.29 gate jets Gate 78
+1300 -22.81839843 -043.23989370  35.99 gate jets Terminal 3-81
 1301 C airline 
-1300 -22.81785691 -043.24067687  36.80 gate heavy|jets Gate 77
-1301 F airline 
-1300 -22.81788240 -043.24096172  36.22 gate jets Gate 76
-1301 C airline 
-1300 -22.81751653 -043.24143023   4.16 gate jets Gate 75
-1301 C airline 
-1300 -22.81753329 -043.24183680 -13.61 gate heavy|jets Gate 74
+1300 -22.81828965 -043.23993551  50.38 gate heavy|jets Terminal 3-80
 1301 E airline 
-1300 -22.81768354 -043.24193653 -15.90 gate jets Gate 73
+1300 -22.81831173 -043.24032134  35.18 gate jets Terminal 3-79
 1301 C airline 
-1300 -22.81806410 -043.24249799 -54.14 gate jets Gate 72
-1301 D airline 
-1300 -22.81818511 -043.24265702 -54.28 gate heavy|jets Gate 71
+1300 -22.81795897 -043.24053712  35.29 gate jets Terminal 3-78
+1301 C airline 
+1300 -22.81785691 -043.24067687  36.80 gate heavy|jets Terminal 3-77
 1301 F airline 
-1300 -22.81847491 -043.24255075 -53.39 gate jets Gate 70
+1300 -22.81788240 -043.24096172  36.22 gate jets Terminal 3-76
 1301 C airline 
-1300 -22.81866494 -043.24298904 -54.02 gate jets Gate 69
+1300 -22.81751653 -043.24143023   4.16 gate jets Terminal 3-75
 1301 C airline 
-1300 -22.81883612 -043.24308673 -54.26 gate heavy|jets Gate 68
-1301 F airline 
-1300 -22.81908537 -043.24305430 -54.66 gate jets Gate 67
-1301 C airline 
-1300 -22.81929388 -043.24320255 -14.72 gate jets Gate 66
-1301 C airline 
-1300 -22.81931157 -043.24337520  -6.80 gate heavy|jets Gate 65
-1301 F airline 
-1300 -22.81949734 -043.24350948   5.69 gate jets Gate 64
-1301 C airline 
-1300 -22.81928813 -043.24380609  23.02 gate jets Gate 63
-1301 C airline 
-1300 -22.81918585 -043.24391384  35.05 gate heavy|jets Gate 62
-1301 F airline 
-1300 -22.81924747 -043.24418163  34.20 gate jets Gate 61
-1301 C airline 
-1300 -22.81902678 -043.24450094  55.75 gate jets Gate 60
-1301 D airline 
-1300 -22.81897509 -043.24447329  75.93 gate heavy|jets Gate 59
-1301 F airline 
-1300 -22.81884670 -043.24469751  99.45 gate jets Gate 58
-1301 C airline 
-1300 -22.81860706 -043.24441325 118.04 gate jets Gate 57
-1301 C airline 
-1300 -22.81850523 -043.24427941 125.72 gate heavy|jets Gate 56
+1300 -22.81753329 -043.24183680 -13.61 gate heavy|jets Terminal 3-74
 1301 E airline 
-1300 -22.81828701 -043.24430247 132.97 gate jets Gate 55
+1300 -22.81768354 -043.24193653 -15.90 gate jets Terminal 3-73
 1301 C airline 
-1300 -22.81801403 -043.24394821 126.28 gate jets Gate 54
+1300 -22.81806410 -043.24249799 -54.14 gate jets Terminal 3-72
 1301 C airline 
-1300 -22.81794243 -043.24380340 126.64 gate heavy|jets Gate 53
+1300 -22.81818511 -043.24265702 -54.28 gate heavy|jets Terminal 3-71
+1301 F airline 
+1300 -22.81847491 -043.24255075 -53.39 gate jets Terminal 3-70
+1301 C airline 
+1300 -22.81866494 -043.24298904 -54.02 gate jets Terminal 3-69
+1301 C airline 
+1300 -22.81883612 -043.24308673 -54.26 gate heavy|jets Terminal 3-68
+1301 F airline 
+1300 -22.81908537 -043.24305430 -54.66 gate jets Terminal 3-67
+1301 C airline 
+1300 -22.81929388 -043.24320255 -14.72 gate jets Terminal 3-66
+1301 C airline 
+1300 -22.81931157 -043.24337520  -6.80 gate heavy|jets Terminal 3-65
+1301 F airline 
+1300 -22.81949734 -043.24350948   5.69 gate jets Terminal 3-64
+1301 C airline 
+1300 -22.81928813 -043.24380609  23.02 gate jets Terminal 3-63
+1301 C airline 
+1300 -22.81918585 -043.24391384  35.05 gate heavy|jets Terminal 3-62
+1301 F airline 
+1300 -22.81924747 -043.24418163  34.20 gate jets Terminal 3-61
+1301 C airline 
+1300 -22.81902678 -043.24450094  55.75 gate jets Terminal 3-60
+1301 D airline 
+1300 -22.81897509 -043.24447329  75.93 gate heavy|jets Terminal 3-59
+1301 F airline 
+1300 -22.81884670 -043.24469751  99.45 gate jets Terminal 3-58
+1301 C airline 
+1300 -22.81860706 -043.24441325 118.04 gate jets Terminal 3-57
+1301 C airline 
+1300 -22.81850523 -043.24427941 125.72 gate heavy|jets Terminal 3-56
 1301 E airline 
-1300 -22.81767840 -043.24380588 133.11 gate jets Gate 52
+1300 -22.81828701 -043.24430247 132.97 gate jets Terminal 3-55
 1301 C airline 
-1300 -22.81752464 -043.24328903 126.17 gate jets Gate 51
+1300 -22.81801403 -043.24394821 126.28 gate jets Terminal 3-54
 1301 C airline 
-1300 -22.81742636 -043.24317089 126.29 gate heavy|jets Gate 50
+1300 -22.81794243 -043.24380340 126.64 gate heavy|jets Terminal 3-53
 1301 E airline 
-1300 -22.81709464 -043.24324996 125.30 gate jets Gate 49
+1300 -22.81767840 -043.24380588 133.11 gate jets Terminal 3-52
 1301 C airline 
-1300 -22.81692731 -043.24283845 126.51 gate jets Gate 48
+1300 -22.81752464 -043.24328903 126.17 gate jets Terminal 3-51
 1301 C airline 
-1300 -22.81680635 -043.24268321 126.57 gate heavy|jets Gate 47
+1300 -22.81742636 -043.24317089 126.29 gate heavy|jets Terminal 3-50
 1301 E airline 
-1300 -22.81661886 -043.24264410 128.00 gate jets Gate 46
+1300 -22.81709464 -043.24324996 125.30 gate jets Terminal 3-49
 1301 C airline 
-1300 -22.81541358 -043.24413005 -22.87 gate jets|turboprops Gate 45
+1300 -22.81692731 -043.24283845 126.51 gate jets Terminal 3-48
 1301 C airline 
-1300 -22.81570748 -043.24453854 -55.37 gate jets|turboprops Gate 44
+1300 -22.81680635 -043.24268321 126.57 gate heavy|jets Terminal 3-47
+1301 E airline 
+1300 -22.81661886 -043.24264410 128.00 gate jets Terminal 3-46
 1301 C airline 
-1300 -22.81560619 -043.24464168 -31.09 gate heavy|jets Gate 43
+1300 -22.81541358 -043.24413005 -22.87 gate jets|turboprops Terminal 2-45
+1301 C airline 
+1300 -22.81570748 -043.24453854 -55.37 gate jets|turboprops Terminal 2-44
+1301 C airline 
+1300 -22.81560619 -043.24464168 -31.09 gate heavy|jets Terminal 2-43
 1301 D airline 
-1300 -22.81593047 -043.24454187 -10.09 gate jets|turboprops Gate 42
+1300 -22.81593047 -043.24454187 -10.09 gate jets|turboprops Terminal 2-42
 1301 C airline 
-1300 -22.81600707 -043.24500379 -23.35 gate jets|turboprops Gate 41
+1300 -22.81600707 -043.24500379 -23.35 gate jets|turboprops Terminal 2-41
 1301 C airline 
-1300 -22.81593149 -043.24511903 -14.83 gate heavy|jets Gate 40
+1300 -22.81593149 -043.24511903 -14.83 gate heavy|jets Terminal 2-40
 1301 D airline 
-1300 -22.81619038 -043.24518502  22.81 gate jets|turboprops Gate 39
+1300 -22.81619038 -043.24518502  22.81 gate jets|turboprops Terminal 2-39
 1301 C airline 
-1300 -22.81601999 -043.24572682  -2.75 gate heavy|jets Gate 38
+1300 -22.81601999 -043.24572682  -2.75 gate heavy|jets Terminal 2-38
 1301 D airline 
-1300 -22.81604264 -043.24624880  -2.72 gate jets|turboprops Gate 37
+1300 -22.81604264 -043.24624880  -2.72 gate jets|turboprops Terminal 2-37
 1301 C airline 
-1300 -22.81586931 -043.24628434  12.43 gate heavy|jets Gate 36
+1300 -22.81586931 -043.24628434  12.43 gate heavy|jets Terminal 2-36
 1301 D airline 
-1300 -22.81608023 -043.24639610  51.28 gate jets|turboprops Gate 35
+1300 -22.81608023 -043.24639610  51.28 gate jets|turboprops Terminal 2-35
 1301 C airline 
-1300 -22.81572121 -043.24682062  24.71 gate jets Gate 34
+1300 -22.81572121 -043.24682062  24.71 gate jets Terminal 2-34
 1301 D airline 
-1300 -22.81530868 -043.24738135  43.77 gate jets Gate 33
+1300 -22.81530868 -043.24738135  43.77 gate jets Terminal 2-33
 1301 D airline 
-1300 -22.81497733 -043.24772667  39.92 gate jets|turboprops Gate 32
+1300 -22.81497733 -043.24772667  39.92 gate jets|turboprops Terminal 2-32
 1301 C airline 
-1300 -22.81500568 -043.24779408  60.10 gate jets|turboprops Gate 31
+1300 -22.81500568 -043.24779408  60.10 gate jets|turboprops Terminal 2-31
 1301 D airline 
-1300 -22.81493348 -043.24799068  61.82 gate jets|turboprops Gate 30
+1300 -22.81493348 -043.24799068  61.82 gate jets|turboprops Terminal 2-30
 1301 C airline 
-1300 -22.81452055 -043.24805224  75.04 gate jets Gate 29
+1300 -22.81452055 -043.24805224  75.04 gate jets Terminal 2-29
 1301 D airline 
-1300 -22.81402803 -043.24814213  66.67 gate jets|turboprops Gate 28
+1300 -22.81402803 -043.24814213  66.67 gate jets|turboprops Terminal 2-28
 1301 C airline 
-1300 -22.81397441 -043.24811210  84.16 gate jets Gate 27
+1300 -22.81397441 -043.24811210  84.16 gate jets Terminal 2-27
 1301 D airline 
-1300 -22.81385354 -043.24839098  96.79 gate jets|turboprops Gate 26
+1300 -22.81385354 -043.24839098  96.79 gate jets|turboprops Terminal 2-26
 1301 C airline 
-1300 -22.81352695 -043.24807620  96.98 gate jets|turboprops Gate 25
+1300 -22.81352695 -043.24807620  96.98 gate jets|turboprops Terminal 2-25
 1301 C airline 
-1300 -22.81339537 -043.24805877  96.84 gate jets Gate 24
+1300 -22.81339537 -043.24805877  96.84 gate jets Terminal 2-24
 1301 D airline 
-1300 -22.81319491 -043.24820856 120.97 gate jets|turboprops Gate 23
+1300 -22.81319491 -043.24820856 120.97 gate jets|turboprops Terminal 2-23
 1301 C airline 
-1300 -22.81209548 -043.24957279 -36.50 gate jets|turboprops Gate 22
+1300 -22.81209548 -043.24957279 -36.50 gate jets|turboprops Terminal 1-22
 1301 C airline 
-1300 -22.81228957 -043.24985716 -29.52 gate jets|turboprops Gate 21
+1300 -22.81228957 -043.24985716 -29.52 gate jets|turboprops Terminal 1-21
 1301 C airline 
-1300 -22.81242807 -043.25019041 -20.88 gate jets|turboprops Gate 20
+1300 -22.81242807 -043.25019041 -20.88 gate jets|turboprops Terminal 1-20
 1301 C airline 
-1300 -22.81251638 -043.25051471 -10.42 gate jets|turboprops Gate 19
+1300 -22.81251638 -043.25051471 -10.42 gate jets|turboprops Terminal 1-19
 1301 C airline 
-1300 -22.81254651 -043.25086435  -0.18 gate jets|turboprops Gate 18
+1300 -22.81254651 -043.25086435  -0.18 gate jets|turboprops Terminal 1-18
 1301 C airline 
-1300 -22.81262667 -043.25129398  -9.77 gate jets|turboprops Gate 17
+1300 -22.81262667 -043.25129398  -9.77 gate jets|turboprops Terminal 1-17
 1301 C airline 
-1300 -22.81249466 -043.25131144  10.85 gate jets|turboprops Gate 16
+1300 -22.81249466 -043.25131144  10.85 gate jets|turboprops Terminal 1-16
 1301 D airline 
-1300 -22.81249637 -043.25150297  26.34 gate jets|turboprops Gate 15
+1300 -22.81249637 -043.25150297  26.34 gate jets|turboprops Terminal 1-15
 1301 C airline 
-1300 -22.81226903 -043.25184982  27.31 gate jets|turboprops Gate 14
+1300 -22.81226903 -043.25184982  27.31 gate jets|turboprops Terminal 1-14
 1301 D airline 
-1300 -22.81207220 -043.25243750  16.54 gate jets|turboprops Gate 13
+1300 -22.81207220 -043.25243750  16.54 gate jets|turboprops Terminal 1-13
 1301 C airline 
-1300 -22.81200781 -043.25241899  47.40 gate jets|turboprops Gate 12
+1300 -22.81200781 -043.25241899  47.40 gate jets|turboprops Terminal 1-12
 1301 D airline 
-1300 -22.81190874 -043.25260060  52.77 gate jets|turboprops Gate 11
+1300 -22.81190874 -043.25260060  52.77 gate jets|turboprops Terminal 1-11
 1301 C airline 
-1300 -22.81159657 -043.25277504  55.78 gate jets|turboprops Gate 10
+1300 -22.81159657 -043.25277504  55.78 gate jets|turboprops Terminal 1-10
 1301 C airline 
-1300 -22.81148081 -043.25273322  59.89 gate jets|turboprops Gate 09
+1300 -22.81148081 -043.25273322  59.89 gate jets|turboprops Terminal 1-09
 1301 D airline 
-1300 -22.81138350 -043.25293712  80.71 gate jets|turboprops Gate 08
+1300 -22.81138350 -043.25293712  80.71 gate jets|turboprops Terminal 1-08
 1301 C airline 
-1300 -22.81101366 -043.25297621  75.22 gate jets|turboprops Gate 07
+1300 -22.81101366 -043.25297621  75.22 gate jets|turboprops Terminal 1-07
 1301 D airline 
-1300 -22.81087799 -043.25312032 109.77 gate jets|turboprops Gate 06
+1300 -22.81087799 -043.25312032 109.77 gate jets|turboprops Terminal 1-06
 1301 C airline 
-1300 -22.81045237 -043.25301618  90.88 gate jets|turboprops Gate 05
+1300 -22.81045237 -043.25301618  90.88 gate jets|turboprops Terminal 1-05
 1301 D airline 
-1300 -22.81040215 -043.25304453  90.83 gate jets|turboprops Gate 04
+1300 -22.81040215 -043.25304453  90.83 gate jets|turboprops Terminal 1-04
 1301 C airline 
-1300 -22.80998221 -043.25295865  83.09 gate jets|turboprops Gate 03
+1300 -22.80998221 -043.25295865  83.09 gate jets|turboprops Terminal 1-03
 1301 C airline 
-1300 -22.80990921 -043.25290189 107.45 gate jets Gate 02
+1300 -22.80990921 -043.25290189 107.45 gate jets Terminal 1-02
 1301 D airline 
-1300 -22.80976223 -043.25298222 115.01 gate jets|turboprops Gate 01
+1300 -22.80976223 -043.25298222 115.01 gate jets|turboprops Terminal 1-01
 1301 C airline 
 18 -22.80971676 -043.25045174 1 Rotating Beacon
 50 13265 ATIS
