@@ -3792,7 +3792,7 @@ I
 111  24.88307133  055.15098301 2
 111  24.88301398  055.15108645 2
 111  24.88266651  055.15171321 1
-115  24.88238949  055.15221290
+115  24.88240614  055.15218286
 120 Linear Feature 128
 111  24.88324785  055.15167786 1
 115  24.88286994  055.15236850
@@ -10208,8 +10208,8 @@ I
 1301 C airline 
 1300  24.89060422  055.15806004 -148.67 gate jets|turboprops Terminal Apron S440R
 1301 C airline 
-1300  24.88238949  055.15221290 121.39 gate heavy|jets|turboprops Terminal Apron S410
-1301 E airline 
+1300  24.88240614  055.15218286 121.39 gate heavy|jets|turboprops Terminal Apron S410
+1301 D airline 
 1300  24.88286994  055.15236850 121.00 gate jets|turboprops Terminal Apron S409R
 1301 C airline 
 1300  24.88325812  055.15254262 121.54 gate jets|turboprops Terminal Apron S409L
@@ -10223,7 +10223,7 @@ I
 1300  24.88467426  055.15349330 121.95 gate jets|turboprops Terminal Apron S407L
 1301 C airline 
 1300  24.88499490  055.15378894 121.37 gate jets|turboprops Terminal Apron S406R
-1301 D airline 
+1301 C airline 
 1300  24.88537334  055.15398593 121.09 gate jets|turboprops Terminal Apron S406L
 1301 C airline 
 1300  24.88571807  055.15423788 121.32 gate jets|turboprops Terminal Apron S405R
@@ -10239,7 +10239,7 @@ I
 1300  24.88825066  055.15616044 121.63 gate heavy|jets|turboprops Terminal Apron S401
 1301 E airline 
 1300  24.88398713  055.14928434 -58.51 gate heavy|jets|turboprops Cargo Apron S332
-1301 E cargo 
+1301 D cargo 
 1300  24.88453865  055.14964332 -58.50 gate heavy|jets|turboprops Cargo Apron S331
 1301 E cargo 
 1300  24.88513907  055.15003925 -58.57 gate heavy|jets|turboprops Cargo Apron S330
@@ -10251,7 +10251,7 @@ I
 1300  24.88708231  055.15133735 -58.13 gate heavy|jets|turboprops Cargo Apron S327
 1301 E cargo 
 1300  24.88762853  055.15171681 -57.93 gate heavy|jets|turboprops Cargo Apron S326
-1301 E cargo 
+1301 D cargo 
 1300  24.88826606  055.15209528 -58.96 gate heavy|jets|turboprops Cargo Apron S325
 1301 F cargo 
 1300  24.88891874  055.15256528 -59.25 gate heavy|jets|turboprops Cargo Apron S324

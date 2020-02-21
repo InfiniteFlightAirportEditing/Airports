@@ -717,10 +717,14 @@ I
 1301 D airline 
 1300 -04.67003304  055.51097232 -144.39 gate jets|turboprops Terminal Apron 01
 1301 E airline 
-1300 -04.66889113  055.51105788 126.42 gate turboprops|props Light Aircraft Apron 03
+1300 -04.66893141  055.51104056 126.42 gate turboprops|props Light Aircraft Apron 03
 1301 A general_aviation 
-1300 -04.66902788  055.51095821 124.18 gate turboprops|props Light Aircraft Apron 02
+1300 -04.66906816  055.51094474 124.18 gate turboprops|props Light Aircraft Apron 02
 1301 A general_aviation 
+1300 -04.66762014  055.50798964 124.98 gate turboprops|props GA Apron 08
+1301 B general_aviation 
+1300 -04.66742450  055.50813051 124.98 gate turboprops|props GA Apron 07
+1301 B general_aviation 
 1300 -04.66815283  055.50855376 -145.55 gate turboprops|props GA Apron 06
 1301 C general_aviation 
 1300 -04.66842660  055.50897376 -145.49 gate turboprops|props GA Apron 05
@@ -733,7 +737,7 @@ I
 1301 B general_aviation 
 1300 -04.66850255  055.50735218  97.28 gate turboprops|props GA Apron 01
 1301 C general_aviation 
-1300 -04.66916926  055.51085370 125.51 gate turboprops|props Light Aircraft Apron 01
+1300 -04.66922105  055.51083638 125.51 gate turboprops|props Light Aircraft Apron 01
 1301 A general_aviation 
 18 -04.67090672  055.51395345 1 BCN
 55 11970 Seychelles Approach
