@@ -559,13 +559,15 @@ I
 1301 C airline 
 1300  38.99826901  017.07651426 -56.31 gate jets Remote Stand N07
 1301 C airline 
-1300  38.99472700  017.07781664 -56.44 gate jets Gate S01
+1300  38.99472700  017.07781664 -56.44 gate jets Terminal Apron S01
 1301 C airline 
-1300  38.99520184  017.07769303 -56.07 gate jets Gate S02
+1300  38.99520184  017.07769303 -56.07 gate jets Terminal Apron S02
 1301 C airline 
-1300  38.99567356  017.07757582 -55.97 gate jets Gate S03
+1300  38.99567356  017.07757582 -55.97 gate jets Terminal Apron S03
 1301 C airline 
 1300  38.99550845  017.07613310  85.35 hangar turboprops|props Hangar 02
+1301 A none 
+1300  38.99588346  017.07641556 178.07 tie_down turboprops|props Tie Down
 1301 A none 
 1300  38.99567660  017.07611720  85.35 hangar turboprops|props Hangar 01
 1301 A none 

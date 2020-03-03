@@ -7122,15 +7122,15 @@ I
 21  46.84882233  006.92511928 2 229.9100 3.70 New Light Fixture 1
 14  46.84770638  006.91928640  29.53 0 Tower
 1300  46.84051293  006.91510153 280.99 tie_down jets|turboprops|props Civil Apron 1
-1301 B general_aviation 
+1301 C general_aviation 
 1300  46.84079245  006.91545450 280.99 tie_down jets|turboprops|props Civil Apron 2
-1301 B general_aviation 
+1301 C general_aviation 
 1300  46.84107196  006.91580748 280.99 tie_down jets|turboprops|props Civil Apron 3
-1301 B general_aviation 
+1301 C general_aviation 
 1300  46.84132251  006.91613097 280.99 tie_down jets|turboprops|props Civil Apron 4
-1301 B general_aviation 
+1301 C general_aviation 
 1300  46.84153449  006.91639515 280.99 tie_down jets|turboprops|props Civil Apron 5
-1301 B general_aviation 
+1301 C general_aviation 
 1300  46.84619895  006.92420137 -41.63 tie_down turboprops|props|helos Apron 1-11
 1301 A military 
 1300  46.84635506  006.92445900 -41.63 tie_down turboprops|props|helos Apron 1-12
@@ -7169,6 +7169,8 @@ I
 1301 A none 
 1300  46.84763576  006.92671812 318.81 hangar fighters BS12
 1301 A none 
+1300  46.84965481  006.92234036 228.92 tie_down heavy|jets|turboprops Apron 2 Heavy
+1301 E military 
 1300  46.84951186  006.92210381 318.30 tie_down turboprops|fighters Apron 25
 1301 B military 
 1300  46.84965481  006.92234036 318.30 tie_down turboprops|fighters Apron 26
@@ -7179,6 +7181,8 @@ I
 1301 B military 
 1300  46.85008365  006.92304624 318.30 tie_down turboprops|fighters Apron 29
 1301 B military 
+1300  46.85037126  006.92351809 228.92 tie_down heavy|jets|turboprops Apron 3 Heavy
+1301 E military 
 1300  46.85022575  006.92328279 318.30 tie_down turboprops|fighters Apron 30
 1301 B military 
 1300  46.85037126  006.92351809 318.30 tie_down turboprops|fighters Apron 31
@@ -7215,6 +7219,10 @@ I
 1301 A none 
 1300  46.85270285  006.92742694 138.66 hangar fighters BN12 (QRA)
 1301 A none 
+1300  46.85317086  006.92830234 230.19 tie_down jets|turboprops Apron 4-Cargo 1
+1301 D military 
+1300  46.85365092  006.92909610 230.19 tie_down jets|turboprops Apron 4-Cargo 2
+1301 D military 
 1300  46.85304960  006.92810416 288.51 tie_down turboprops|fighters Apron 4-41
 1301 B military 
 1300  46.85317086  006.92830234 288.51 tie_down turboprops|fighters Apron 4-42

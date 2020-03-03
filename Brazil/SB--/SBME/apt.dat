@@ -892,20 +892,20 @@ I
 21 -22.34080277 -041.76396814 2 213.0100 3.00 24  PAPI-4L
 14 -22.34399774 -041.76473697  82.02 0 Tower Viewpoint
 1300 -22.34569067 -041.76591458 -56.68 hangar jets|turboprops|props Hangar 6
-1301 A none 
-1300 -22.34544115 -041.76567136 -56.68 hangar jets|turboprops|props Hangar 5
+1301 B none 
+1300 -22.34544115 -041.76567136 -56.68 hangar turboprops|props Hangar 5
 1301 A none 
 1300 -22.34523300 -041.76550642 -56.68 hangar jets|turboprops|props Hangar 4
-1301 A none 
-1300 -22.34496021 -041.76538202 -56.68 hangar jets|turboprops|props Hangar 3
+1301 B none 
+1300 -22.34496021 -041.76538202 -56.68 hangar turboprops|props Hangar 3
 1301 A none 
 1300 -22.33909955 -041.76132369 -56.68 hangar jets|turboprops|props Hangar 2
-1301 A none 
+1301 B none 
 1300 -22.33835784 -041.76081165 -56.68 hangar jets|turboprops|props Hangar 1
-1301 A none 
+1301 B none 
 1300 -22.34621359 -041.76706685 -147.22 misc helos Helipad 45
 1301 A none 
-1300 -22.34591150 -041.76641453 150.92 tie_down jets|turboprops|props Helipad 44
+1300 -22.34591150 -041.76641453 150.92 tie_down turboprops|props Helipad 44
 1301 A general_aviation 
 1300 -22.34600718 -041.76659017  33.12 misc helos Helipad 43
 1301 A none 
@@ -932,16 +932,16 @@ I
 1300 -22.34341034 -041.76517884  33.12 misc helos Helipad 32
 1301 A none 
 1300 -22.34309337 -041.76473376 143.18 tie_down jets|turboprops|props Ramp GA 31
-1301 A general_aviation 
+1301 B general_aviation 
 1300 -22.34277952 -041.76430440  34.79 tie_down jets|turboprops|props Ramp GA 30
+1301 B general_aviation 
+1300 -22.34213123 -041.76411935  34.03 tie_down turboprops|props Ramp GA 29
 1301 A general_aviation 
-1300 -22.34213123 -041.76411935  34.03 tie_down jets|turboprops|props Ramp GA 29
+1300 -22.34188703 -041.76395037  32.31 tie_down turboprops|props Ramp GA 28
 1301 A general_aviation 
-1300 -22.34188703 -041.76395037  32.31 tie_down jets|turboprops|props Ramp GA 28
+1300 -22.34163429 -041.76376928  34.21 tie_down turboprops|props Ramp GA 27
 1301 A general_aviation 
-1300 -22.34163429 -041.76376928  34.21 tie_down jets|turboprops|props Ramp GA 27
-1301 A general_aviation 
-1300 -22.34133222 -041.76355366  33.17 tie_down jets|turboprops|props Ramp GA 26
+1300 -22.34133222 -041.76355366  33.17 tie_down turboprops|props Ramp GA 26
 1301 A general_aviation 
 1300 -22.34045735 -041.76315440 -148.18 misc helos Helipad 25
 1301 A none 

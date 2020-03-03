@@ -1781,11 +1781,11 @@ I
 1300  12.50321362 -070.00909696  12.67 gate jets|turboprops Gate 06
 1301 C airline 
 1300  12.50127016 -070.00744293 120.79 gate jets|turboprops Remote Stand 22
-1301 B airline 
+1301 C airline 
 1300  12.50144409 -070.00820437 120.03 gate jets|turboprops Remote Stand 21
-1301 B airline 
+1301 C airline 
 1300  12.50164497 -070.00899305 116.87 gate jets|turboprops Remote Stand 20
-1301 B airline 
+1301 C airline 
 1300  12.50313588 -070.00868290  14.72 gate jets|turboprops Gate 05
 1301 C airline 
 1300  12.50304173 -070.00821075  15.77 gate jets|turboprops Gate 04
@@ -1853,6 +1853,7 @@ I
 1300  12.50411912 -070.01373211 -16.42 gate jets|turboprops Remote Stand 17
 1301 C airline 
 18  12.50340716 -070.00728991 1 BCN
+55 12090 Beatrix Approach
 50 13210 ATIS
 53 12160 Beatrix Apron
 54 11800 Beatrix Tower
