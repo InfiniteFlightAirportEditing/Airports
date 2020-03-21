@@ -9178,7 +9178,7 @@ I
 1300  50.10253338  014.28411209 -52.74 tie_down jets|turboprops|props Hardstand V17
 1301 C general_aviation 
 1300  50.10049788  014.28177563 -108.92 tie_down jets|turboprops|props Hardstand V11A
-1301 D general_aviation 
+1301 E general_aviation 
 1300  50.10055018  014.28180077 -52.55 tie_down jets|turboprops|props Hardstand V11
 1301 C general_aviation 
 1300  50.10084519  014.28214568 -52.74 tie_down jets|turboprops|props Hardstand V12
@@ -9226,19 +9226,19 @@ I
 1300  50.09222087  014.27204502   3.01 tie_down jets|turboprops|props Hardstand V30A
 1301 E general_aviation 
 1300  50.09926072  014.28036998 -52.74 tie_down jets|turboprops|props Hardstand S17
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09884012  014.27984836 -52.77 tie_down jets|turboprops|props Hardstand S16
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09840841  014.27934008 -52.53 tie_down jets|turboprops|props Hardstand S15
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09797717  014.27883459 307.40 tie_down jets|turboprops|props Hardstand S14
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09754568  014.27833087 307.31 tie_down jets|turboprops|props Hardstand S13
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09707627  014.27781038 307.72 tie_down jets|turboprops|props Hardstand S12
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09659854  014.27725196 307.44 tie_down jets|turboprops|props Hardstand S11
-1301 B general_aviation 
+1301 C general_aviation 
 1300  50.09627073  014.28199245 168.66 tie_down jets|turboprops|props GA Apron S56
 1301 B general_aviation 
 1300  50.09639021  014.28249639 168.92 tie_down jets|turboprops|props GA Apron S55
@@ -9438,7 +9438,7 @@ I
 1300  50.11258031  014.27521064 154.94 gate jets|turboprops Cargo Apron E02
 1301 D cargo 
 1300  50.11253564  014.27476071 154.61 gate jets|turboprops Cargo Apron E01B
-1301 C cargo 
+1301 D cargo 
 1300  50.11235411  014.27445590 155.12 gate jets|turboprops Cargo Apron E01
 1301 D cargo 
 1300  50.11238953  014.27422835 154.80 gate jets|turboprops Cargo Apron E01A
