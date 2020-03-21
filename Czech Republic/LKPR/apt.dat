@@ -8890,9 +8890,9 @@ I
 1301 A general_aviation 
 1300  50.09690396  014.28351386 -33.37 tie_down jets|turboprops|props Ramp GA S51
 1301 B general_aviation 
-1300  50.09681004  014.28633339 -156.72 gate jets|turboprops Terminal 3-S30
+1300  50.09681004  014.28633339 -156.72 gate jets|turboprops Terminal 4-S30
 1301 C airline 
-1300  50.09694780  014.28630732 -15.89 gate jets|turboprops Terminal 3-S10
+1300  50.09694780  014.28630732 -15.89 gate jets|turboprops Terminal 4-S10
 1301 B airline 
 1300  50.09915841  014.28553504 -173.10 gate jets|turboprops Terminal 3-S9
 1301 C airline 
@@ -8908,13 +8908,13 @@ I
 1301 B airline 
 1300  50.09835617  014.28592424 168.84 gate jets|turboprops Terminal 3-S5
 1301 C airline 
-1300  50.09751347  014.28518336 168.65 gate jets|turboprops Terminal 3-S4
+1300  50.09751347  014.28518336 168.65 gate jets|turboprops Terminal 4-S4
 1301 B airline 
-1300  50.09755798  014.28551399 169.03 gate jets|turboprops Terminal 3-S3
+1300  50.09755798  014.28551399 169.03 gate jets|turboprops Terminal 4-S3
 1301 B airline 
-1300  50.09760252  014.28586571 169.15 gate jets|turboprops Terminal 3-S2
+1300  50.09760252  014.28586571 169.15 gate jets|turboprops Terminal 4-S2
 1301 B airline 
-1300  50.09764782  014.28621781 168.75 gate jets|turboprops Terminal 3-S1
+1300  50.09764782  014.28621781 168.75 gate jets|turboprops Terminal 4-S1
 1301 B airline 
 1300  50.10760150  014.25554994 -55.41 gate jets|turboprops Remote Stand 75
 1301 C airline 
