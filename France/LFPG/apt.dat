@@ -3325,7 +3325,7 @@ I
 112  49.00804275  002.58857584  49.00811738  002.58851473
 111  49.00817378  002.58850827
 111  49.00817364  002.58849198
-111  49.00877139  002.58842143
+111  49.00877139  002.58842143 102
 111  49.00865533  002.58732324
 112  49.00865533  002.58732324  49.00864219  002.58714383
 111  49.00865197  002.58692146
@@ -34465,11 +34465,11 @@ I
 1300  49.00206417  002.56896965 -17.81 gate jets|turboprops Terminal 2 Gate C10
 1301 C airline 
 1300  49.00227912  002.56899029 -22.64 gate jets|turboprops Terminal 2 Gate C12
-1301 C airline 
+1301 D airline 
 1300  49.00250666  002.56971110 -17.08 gate heavy|jets Terminal 2 Gate CFE
 1301 F airline 
 1300  49.00255111  002.56968342 -40.51 gate heavy|jets Terminal 2 Gate C14
-1301 E airline 
+1301 F airline 
 1300  49.00533827  002.56937534 -119.82 gate jets|turboprops Terminal 2 Gate D02
 1301 C airline 
 1300  49.00543283  002.56905156 -121.25 gate heavy|jets Terminal 2 Gate D04
@@ -34554,7 +34554,7 @@ I
 1301 E airline 
 1300  49.00140361  002.57443555  12.68 gate heavy|jets Terminal 2 Gate E14
 1301 E airline 
-1300  49.00131700  002.57435602  -1.03 gate jets Terminal 2 Gate E16
+1300  49.00131700  002.57435602  -1.60 gate jets Terminal 2 Gate E16
 1301 D airline 
 1300  49.00147853  002.57527725  -1.03 gate heavy|jets Terminal 2 Gate E18
 1301 E airline 
@@ -34610,8 +34610,8 @@ I
 1301 C airline 
 1300  49.00702533  002.57774002 126.93 gate jets|turboprops Terminal 2 Gate F70
 1301 C airline 
-1300  49.00701192  002.57776009 -201.97 gate jets Terminal 2 Gate F72
-1301 D airline 
+1300  49.00701192  002.57776009 157.66 gate jets Terminal 2 Gate F72
+1301 E airline 
 1300  49.00695723  002.57777278 -187.21 gate jets Terminal 2 Gate F74
 1301 F airline 
 1300  49.00720368  002.57797205 164.19 gate jets|turboprops Terminal 2 Gate F76
@@ -34647,11 +34647,11 @@ I
 1300  49.00089863  002.58443622  85.17 gate jets|turboprops Terminal S3 Gate E29
 1301 C airline 
 1300  49.00743353  002.58384446  85.51 gate heavy|jets Terminal S3 Gate F03
-1301 E airline 
+1301 F airline 
 1300  49.00668387  002.58393168  85.44 gate heavy|jets Terminal S3 Gate F09
-1301 E airline 
+1301 F airline 
 1300  49.00590314  002.58401990  86.21 gate heavy|jets Terminal S3 Gate F15
-1301 E airline 
+1301 F airline 
 1300  49.00754814  002.58525039 -94.76 gate heavy|jets Terminal S3 Gate K01
 1301 E airline 
 1300  49.00748353  002.58525820 -94.76 gate heavy|jets Terminal S3 Gate K05
