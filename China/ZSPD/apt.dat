@@ -13716,8 +13716,27 @@ I
 1301 E airline 
 18  31.14361382  121.80220491 1 New Airport Beacon 1
 50 12785 ATIS
-54 11840 Shanghai Tower
-53 12165 Shanghai Ground
-56 12195 Clearance Delivery
-55 12540 Shanghai Approach Control
+54 11880 Pudong Tower
+54 11840 Pudong Tower
+54 12435 Pudong Tower
+54 11857 Pudong Tower
+53 12170 Pudong Ground
+53 12180 Pudong Ground
+53 12187 Pudong Ground
+53 12162 Pudong Ground
+53 12165 Pudong Apron
+53 12197 Pudong Apron
+53 12270 Pudong Apron
+53 12260 Pudong Apron
+56 12195 Pudong Delivery
+55 12030 Shanghai Approach
+55 12540 Shanghai Approach
+55 12585 Shanghai Approach
+55 12380 Shanghai Approach
+55 12665 Shanghai Approach
+55 12630 Shanghai Approach
+55 12110 Shanghai Approach
+55 12137 Shanghai Approach
+55 12162 Shanghai Approach
+55 11907 Shanghai Approach
 99

@@ -15004,8 +15004,19 @@ I
 1301 B general_aviation 
 18  31.19672330  121.34134515 1 BCN
 50 13225 ATIS
-52 12175 DELIVERY
-53 12160 HONGQIAO GROUND
-54 11810 HONGQIAO TOWER
-55 11975 SHANGHAI APPROACH WEST
+52 12175 Hongqiao Delivery
+53 12160 Hongqiao Ground
+53 12185 Hongqiao Ground
+54 11810 Hongqiao Tower
+54 11865 Hongqiao Tower
+55 12030 Shanghai Approach
+55 12540 Shanghai Approach
+55 12585 Shanghai Approach
+55 12380 Shanghai Approach
+55 12665 Shanghai Approach
+55 12630 Shanghai Approach
+55 12110 Shanghai Approach
+55 12137 Shanghai Approach
+55 12162 Shanghai Approach
+55 11907 Shanghai Approach
 99
