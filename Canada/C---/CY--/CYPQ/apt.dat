@@ -1161,17 +1161,17 @@ I
 21  44.22914772 -078.37332047 2 76.0100 3.00 09  PAPI-4L
 21  44.23196714 -078.35296281 2 256.0200 3.00 27  PAPI-4L
 14  44.23383180 -078.35917013  82.02 0 New Tower Viewpoint 1
-1300  44.23591114 -078.35546124 255.59 hangar jets|turboprops|props Remote 33
+1300  44.23591114 -078.35546124 255.59 hangar jets|turboprops|props Remote 39
 1301 B none 
-1300  44.23418747 -078.35453446 344.93 hangar jets|turboprops|props Remote 32
+1300  44.23418747 -078.35453446 344.93 hangar jets|turboprops|props Remote 38
 1301 B none 
-1300  44.23411885 -078.35488154 344.77 hangar jets|turboprops|props Remote 31
+1300  44.23411885 -078.35488154 344.77 hangar jets|turboprops|props Remote 37
 1301 B none 
-1300  44.23482805 -078.35470799 167.09 hangar jets|turboprops|props Remote 30
+1300  44.23482805 -078.35470799 167.09 hangar jets|turboprops|props Remote 36
 1301 B none 
-1300  44.23474557 -078.35512746 166.00 hangar jets|turboprops|props Remote 29
+1300  44.23474557 -078.35512746 166.00 hangar jets|turboprops|props Remote 35
 1301 B none 
-1300  44.23765961 -078.35897629 293.66 hangar jets|turboprops|props Hangar 28
+1300  44.23765961 -078.35897629 293.66 hangar jets|turboprops|props Hangar 34
 1301 B none 
 1300  44.23788297 -078.35973567 204.29 hangar props Hangar 27
 1301 A none 
@@ -1227,59 +1227,59 @@ I
 1301 A none 
 1300  44.23358697 -078.36199597 203.87 hangar props Hangar 1
 1301 A none 
-1300  44.23456838 -078.35551482 213.25 tie_down jets|turboprops|props Remote 32
+1300  44.23456838 -078.35551482 213.25 tie_down jets|turboprops|props Remote 33
 1301 B general_aviation 
-1300  44.23481119 -078.35558153 213.25 tie_down jets|turboprops|props Remote 31
+1300  44.23481119 -078.35558153 213.25 tie_down jets|turboprops|props Remote 32
 1301 B general_aviation 
-1300  44.23524200 -078.35578679 254.71 tie_down props Remote 30
+1300  44.23524200 -078.35578679 254.71 tie_down props Remote 31
 1301 A general_aviation 
-1300  44.23538127 -078.35584193 254.71 tie_down props Remote 29
+1300  44.23538127 -078.35584193 254.71 tie_down props Remote 30
 1301 A general_aviation 
-1300  44.23552116 -078.35589354 254.71 tie_down props Remote 28
+1300  44.23552116 -078.35589354 254.71 tie_down props Remote 29
 1301 A general_aviation 
-1300  44.23565931 -078.35594464 254.71 tie_down props Remote 27
+1300  44.23565931 -078.35594464 254.71 tie_down props Remote 28
 1301 A general_aviation 
-1300  44.23608823 -078.35606013 254.71 tie_down props Remote 26
+1300  44.23608823 -078.35606013 254.71 tie_down props Remote 27
 1301 A general_aviation 
-1300  44.23623063 -078.35611562 254.71 tie_down props Remote 25
+1300  44.23623063 -078.35611562 254.71 tie_down props Remote 26
 1301 A general_aviation 
-1300  44.23636936 -078.35616940 254.71 tie_down props Remote 24
+1300  44.23636936 -078.35616940 254.71 tie_down props Remote 25
 1301 A general_aviation 
-1300  44.23650986 -078.35622328 254.71 tie_down props Remote 23
+1300  44.23650986 -078.35622328 254.71 tie_down props Remote 24
 1301 A general_aviation 
-1300  44.23679446 -078.35600018 255.04 misc jets|turboprops|props Remote 22
+1300  44.23679446 -078.35600018 255.04 misc jets|turboprops|props Remote 23
 1301 B none 
-1300  44.23695727 -078.35635403 213.25 misc jets|turboprops|props Remote 21
+1300  44.23695727 -078.35635403 213.25 misc jets|turboprops|props Remote 22
 1301 B none 
-1300  44.23716103 -078.35644353 213.25 misc jets|turboprops|props Remote 20
+1300  44.23716103 -078.35644353 213.25 misc jets|turboprops|props Remote 21
 1301 B none 
-1300  44.23805134 -078.35601642 167.16 misc jets|turboprops|props Remote 19
+1300  44.23805134 -078.35601642 167.16 misc jets|turboprops|props Remote 20
 1301 B none 
-1300  44.23799057 -078.35638100 167.16 misc jets|turboprops|props Remote 18
+1300  44.23799057 -078.35638100 167.16 misc jets|turboprops|props Remote 19
 1301 B none 
-1300  44.23822816 -078.35691573 113.96 misc jets|turboprops|props Remote 17
+1300  44.23822816 -078.35691573 113.96 misc jets|turboprops|props Remote 18
 1301 B none 
-1300  44.23838028 -078.35697105 113.96 misc jets|turboprops|props Remote 16
+1300  44.23838028 -078.35697105 113.96 misc jets|turboprops|props Remote 17
 1301 B none 
-1300  44.23853108 -078.35702352 113.96 misc jets|turboprops|props Remote 15
+1300  44.23853108 -078.35702352 113.96 misc jets|turboprops|props Remote 16
 1301 B none 
-1300  44.23305391 -078.35657180 345.32 tie_down props Remote 14
+1300  44.23305391 -078.35657180 345.32 tie_down props Remote 15
 1301 A general_aviation 
-1300  44.23302010 -078.35676129 347.08 tie_down props Remote 13
+1300  44.23302010 -078.35676129 347.08 tie_down props Remote 14
 1301 A general_aviation 
-1300  44.23298717 -078.35695299 347.17 tie_down props Remote 12
+1300  44.23298717 -078.35695299 347.17 tie_down props Remote 13
 1301 A general_aviation 
-1300  44.23295327 -078.35714820 346.30 tie_down props Remote 11
+1300  44.23295327 -078.35714820 346.30 tie_down props Remote 12
 1301 A general_aviation 
-1300  44.23291861 -078.35734373 346.62 tie_down props Remote 10
+1300  44.23291861 -078.35734373 346.62 tie_down props Remote 11
 1301 A general_aviation 
-1300  44.23288405 -078.35754176 346.63 tie_down props Remote 9
+1300  44.23288405 -078.35754176 346.63 tie_down props Remote 10
 1301 A general_aviation 
-1300  44.23284998 -078.35774063 345.48 tie_down props Remote 8
+1300  44.23284998 -078.35774063 345.48 tie_down props Remote 9
 1301 A general_aviation 
-1300  44.23281361 -078.35793629 344.05 tie_down props Remote 7
+1300  44.23281361 -078.35793629 344.05 tie_down props Remote 8
 1301 A general_aviation 
-1300  44.23277541 -078.35812952 345.77 tie_down props Remote 6
+1300  44.23277541 -078.35812952 345.77 tie_down props Remote 7
 1301 A general_aviation 
 1300  44.23273835 -078.35832856 345.32 tie_down props Remote 6
 1301 A general_aviation 
