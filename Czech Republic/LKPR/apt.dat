@@ -9357,11 +9357,11 @@ I
 1300  50.10568877  014.26346079  55.02 gate jets|turboprops Terminal 2 Gate 24A
 1301 C airline 
 1300  50.10604946  014.26290676  34.48 gate jets|turboprops Terminal 2 Gate 23
-1301 D airline 
+1301 C airline 
 1300  50.10633727  014.26233360  25.58 gate jets|turboprops Terminal 2 Gate 22B
 1301 C airline 
 1300  50.10642123  014.26218481  34.39 gate heavy|jets Terminal 2 Gate 22
-1301 E airline 
+1301 F airline 
 1300  50.10636099  014.26190266  61.40 gate jets|turboprops Terminal 2 Gate 22A
 1301 C airline 
 1300  50.10732333  014.26291725 -164.07 gate jets|turboprops Terminal 2 Gate 21
@@ -9415,7 +9415,7 @@ I
 1300  50.11041334  014.26949764 -115.35 gate jets|turboprops Terminal 1 Gate 02
 1301 C airline 
 1300  50.10987068  014.26975925 -115.52 gate heavy|jets Terminal 1 Gate 01
-1301 F airline 
+1301 E airline 
 1300  50.11369885  014.27873416 155.04 gate jets|turboprops Cargo Apron E07A
 1301 C cargo 
 1300  50.11368686  014.27856340 155.00 gate heavy|jets Cargo Apron E07
