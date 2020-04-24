@@ -2857,39 +2857,39 @@ I
 1301 A general_aviation 
 1300  35.96328788 -115.13862018 -180.00 tie_down jets|turboprops|props Ramp GA 378
 1301 A general_aviation 
-1300  35.96342128 -115.13855042  -0.00 tie_down jets|turboprops|props Ramp GA 377
+1300  35.96342128 -115.13855042   0.00 tie_down jets|turboprops|props Ramp GA 377
 1301 A general_aviation 
 1300  35.96328705 -115.13848272 -180.00 tie_down jets|turboprops|props Ramp GA 376
 1301 A general_aviation 
-1300  35.96342045 -115.13841501  -0.00 tie_down jets|turboprops|props Ramp GA 375
+1300  35.96342045 -115.13841501   0.00 tie_down jets|turboprops|props Ramp GA 375
 1301 A general_aviation 
 1300  35.96328622 -115.13834628 -180.00 tie_down jets|turboprops|props Ramp GA 374
 1301 A general_aviation 
-1300  35.96342045 -115.13827858  -0.00 tie_down jets|turboprops|props Ramp GA 373
+1300  35.96342045 -115.13827858   0.00 tie_down jets|turboprops|props Ramp GA 373
 1301 A general_aviation 
 1300  35.96328456 -115.13821087 -180.00 tie_down jets|turboprops|props Ramp GA 372
 1301 A general_aviation 
-1300  35.96342045 -115.13814419  -0.00 tie_down jets|turboprops|props Ramp GA 371
+1300  35.96342045 -115.13814419   0.00 tie_down jets|turboprops|props Ramp GA 371
 1301 A general_aviation 
 1300  35.96328414 -115.13807666 -180.00 tie_down jets|turboprops|props Ramp GA 370
 1301 A general_aviation 
-1300  35.96341907 -115.13800913  -0.00 tie_down jets|turboprops|props Ramp GA 369
+1300  35.96341907 -115.13800913   0.00 tie_down jets|turboprops|props Ramp GA 369
 1301 A general_aviation 
 1300  35.96328234 -115.13794142 -180.00 tie_down jets|turboprops|props Ramp GA 368
 1301 A general_aviation 
-1300  35.96341907 -115.13787064  -0.00 tie_down jets|turboprops|props Ramp GA 367
+1300  35.96341907 -115.13787064   0.00 tie_down jets|turboprops|props Ramp GA 367
 1301 A general_aviation 
 1300  35.96328151 -115.13780396 -180.00 tie_down jets|turboprops|props Ramp GA 366
 1301 A general_aviation 
-1300  35.96341713 -115.13773813  -0.00 tie_down jets|turboprops|props Ramp GA 365
+1300  35.96341713 -115.13773813   0.00 tie_down jets|turboprops|props Ramp GA 365
 1301 A general_aviation 
 1300  35.96328082 -115.13767060 -180.00 tie_down jets|turboprops|props Ramp GA 364
 1301 A general_aviation 
-1300  35.96341436 -115.13760221  -0.00 tie_down jets|turboprops|props Ramp GA 363
+1300  35.96341436 -115.13760221   0.00 tie_down jets|turboprops|props Ramp GA 363
 1301 A general_aviation 
 1300  35.96327944 -115.13753382 -180.00 tie_down jets|turboprops|props Ramp GA 362
 1301 A general_aviation 
-1300  35.96341575 -115.13746543  -0.00 tie_down jets|turboprops|props Ramp GA 361
+1300  35.96341575 -115.13746543   0.00 tie_down jets|turboprops|props Ramp GA 361
 1301 A general_aviation 
 1300  35.96364256 -115.13861227 -180.00 tie_down jets|turboprops|props Ramp GA 360
 1301 A general_aviation 
@@ -3922,9 +3922,12 @@ I
 18  35.96930644 -115.13834724 1 Airport Beacon
 19  35.97371729 -115.13450775 0 Windsock
 50 12077 ATIS
-51 12510 Henderson CTAF
+51 12295 Henderson UNICOM
+52 13535 Henderson Clearance
 53 12780 Henderson Ground
 54 12510 Henderson Tower
 55 11840 Las Vegas Approach
+55 12502 Las Vegas Approach
+55 12560 Las Vegas Approach
 56 11840 Las Vegas Departure
 99
