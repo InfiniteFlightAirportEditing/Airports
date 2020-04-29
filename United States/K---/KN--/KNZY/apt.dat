@@ -5329,19 +5329,19 @@ I
 21  32.71191371 -117.21101311 2 195.4000 3.00 18  PAPI-4L
 21  32.68710674 -117.21923757 2 15.3900 3.00 36  PAPI-4L
 14  32.70276770 -117.21142595  82.02 0 New Tower Viewpoint 29
-1300  32.70284668 -117.19675408 210.42 tie_down jets|turboprops TRANSIENT 4-4
+1300  32.70284668 -117.19675408 210.42 tie_down jets|turboprops TRANSIENT 4-5
 1301 B military 
 1300  32.70325538 -117.19646850 210.42 tie_down jets|turboprops TRANSIENT 3-4
 1301 B military 
 1300  32.70368680 -117.19619064 210.42 tie_down jets|turboprops TRANSIENT 2-4
 1301 B military 
-1300  32.70271263 -117.19646815 210.42 tie_down jets|turboprops TRANSIENT 4-3
+1300  32.70271263 -117.19646815 210.42 tie_down jets|turboprops TRANSIENT 4-4
 1301 B military 
 1300  32.70312701 -117.19619945 210.42 tie_down jets|turboprops TRANSIENT 3-3
 1301 B military 
 1300  32.70355275 -117.19590471 210.42 tie_down jets|turboprops TRANSIENT 2-3
 1301 B military 
-1300  32.70257514 -117.19618222 210.42 tie_down jets|turboprops TRANSIENT 4-2
+1300  32.70257514 -117.19618222 210.42 tie_down jets|turboprops TRANSIENT 4-3
 1301 B military 
 1300  32.70298100 -117.19591015 210.42 tie_down jets|turboprops TRANSIENT 4-2
 1301 B military 
@@ -5687,7 +5687,7 @@ I
 1301 B military 
 1300  32.69768845 -117.20422944 300.96 tie_down jets|turboprops BRAVO 1-5
 1301 B military 
-1300  32.69988855 -117.20883294 302.44 tie_down jets|turboprops BRAVO 8-4
+1300  32.69988855 -117.20883294 302.44 tie_down jets|turboprops BRAVO 8-5
 1301 B military 
 1300  32.69956134 -117.20822083 302.44 tie_down jets|turboprops BRAVO 8-4
 1301 B military 

@@ -2358,11 +2358,11 @@ A
 1301 A none 
 1300  44.62905319 -093.22732842 180.00 hangar props Hangar 05
 1301 A none 
-1300  44.62916705 -093.22762698 270.87 tie_down props GA 10
+1300  44.62916705 -093.22762698 270.87 tie_down props GA 11
 1301 A general_aviation 
-1300  44.62921674 -093.22771972 180.00 tie_down props GA 09
+1300  44.62921674 -093.22771972 180.00 tie_down props GA 10
 1301 A general_aviation 
-1300  44.62924591 -093.22783811   1.33 tie_down props GA 08
+1300  44.62924591 -093.22783811   1.33 tie_down props GA 09
 1301 A general_aviation 
 1300  44.62950235 -093.22856037 206.86 tie_down props GA 08
 1301 A general_aviation 
@@ -2372,7 +2372,7 @@ A
 1301 A general_aviation 
 1300  44.62900897 -093.22773379 205.44 tie_down props GA 12
 1301 A general_aviation 
-1300  44.62907160 -093.22790347 208.64 tie_down props GA 11
+1300  44.62907160 -093.22790347 208.64 tie_down props GA 13
 1301 A general_aviation 
 1300  44.62977804 -093.22945505 116.87 tie_down props GA 01
 1301 A general_aviation 

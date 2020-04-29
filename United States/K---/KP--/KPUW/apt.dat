@@ -1390,7 +1390,7 @@ I
 1301 A none 
 1300  46.74543916 -117.10766398 249.56 tie_down props GA - Fuel Station
 1301 A general_aviation 
-1300  46.74565381 -117.10616909 249.56 tie_down props GA - Apron 49
+1300  46.74565381 -117.10616909 249.56 tie_down props GA - Apron 50
 1301 A general_aviation 
 1300  46.74576973 -117.10623070 249.56 tie_down props GA - Apron 48
 1301 A general_aviation 
@@ -1404,7 +1404,7 @@ I
 1301 A general_aviation 
 1300  46.74610261 -117.10673910  71.00 tie_down props GA - Apron 39
 1301 A general_aviation 
-1300  46.74554634 -117.10661000 251.37 tie_down props GA - Apron 48
+1300  46.74554634 -117.10661000 251.37 tie_down props GA - Apron 49
 1301 A general_aviation 
 1300  46.74565367 -117.10667579 251.37 tie_down props GA - Apron 46
 1301 A general_aviation 

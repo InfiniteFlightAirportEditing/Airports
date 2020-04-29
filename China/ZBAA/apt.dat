@@ -18963,9 +18963,28 @@ I
 1301 C airline 
 1300  40.07510839  116.58779300  -7.53 gate jets Terminal 2 - G 209               
 1301 C airline 
-52 12160 Beijing Delivery                      
-50 12865 Beijing ATIS                      
-53 12170 Beijing Ground                      
-54 12430 Beijing West Tower                     
-55 12060 Beijing Approach Area 1                    
+50 12760 ATIS
+50 12865 ATIS                      
+52 12160 Beijing Delivery
+52 12165 Beijing Delivery
+53 12190 Beijing Ground
+53 12180 Beijing Ground
+53 12170 Beijing Ground
+53 12175 Beijing Ground
+53 12185 Beijing Ground
+53 12222 Beijing Apron
+53 12265 Beijing Apron
+54 12430 Beijing Tower
+54 11850 Beijing Tower
+54 11860 Beijing Tower
+55 12610 Beijing Approach
+55 11900 Beijing Approach
+55 12650 Beijing Approach
+55 12110 Beijing Approach
+55 11970 Beijing Approach
+55 12470 Beijing Approach
+55 12775 Beijing Approach
+55 12060 Beijing Approach
+55 12550 Beijing Approach
+                    
 99
