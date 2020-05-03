@@ -5765,9 +5765,10 @@ I
 19 -31.93137907  115.96954585 1 Windsock
 19 -31.92640907  115.96103585 1 Windsock
 50 11370 Perth ATIS
-55 11870 Perth Approach
-56 12370 Perth Departure
-54 12050 Perth Tower
-53 12170 Perth Ground
-52 13595 Perth Clearance Delivery
+55 12360 Perth Approach
+56 11870 Perth Departure
+54 12740 Perth Tower
+53 12170 Perth Ground West
+53 12220 Perth Ground East
+52 11855 Perth Clearance Delivery
 99
