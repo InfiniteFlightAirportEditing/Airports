@@ -1275,9 +1275,7 @@ I
 111  37.32175058 -079.96904102
 111  37.32177263 -079.96948196
 111  37.32253237 -079.96942511
-111  37.32254119 -079.96948334
-111  37.32289405 -079.96945284
-111  37.32295029 -079.96945145
+111  37.32254119 -079.96947291
 111  37.32307048 -079.96943758
 111  37.32306497 -079.96918384
 111  37.32303630 -079.96918522
@@ -1289,8 +1287,7 @@ I
 111  37.32381479 -079.96901328
 111  37.32329128 -079.97001286
 111  37.32309121 -079.97001286
-111  37.32306689 -079.97004039
-111  37.32302882 -079.97013834
+111  37.32303540 -079.97016214
 111  37.32304834 -079.97066778
 111  37.32298482 -079.97157628
 111  37.32314043 -079.97160624
@@ -3800,11 +3797,11 @@ I
 1301 A none 
 1300  37.32255368 -079.97282952  -6.96 hangar jets|turboprops|props GA Apron Hangar 39
 1301 A none 
-1300  37.32451188 -079.97104222  -6.96 hangar jets|turboprops|props GA Apron Hangar 38
+1300  37.32451187 -079.97104222  -6.96 hangar jets|turboprops|props GA Apron Hangar 38
 1301 A none 
 1300  37.32449329 -079.97122220  -6.96 hangar jets|turboprops|props GA Apron Hangar 37
 1301 A none 
-1300  37.32447935 -079.97140102  -6.96 hangar jets|turboprops|props GA Apron Hangar 36
+1300  37.32447935 -079.97140101  -6.96 hangar jets|turboprops|props GA Apron Hangar 36
 1301 A none 
 1300  37.32445890 -079.97158450  -6.96 hangar jets|turboprops|props GA Apron Hangar 35
 1301 A none 
@@ -3814,9 +3811,9 @@ I
 1301 A none 
 1300  37.32440314 -079.97212795  -6.96 hangar jets|turboprops|props GA Apron Hangar 32
 1301 A none 
-1300  37.32419681 -079.97214431 173.21 hangar jets|turboprops|props GA Apron Hangar 31
+1300  37.32419682 -079.97214431 173.21 hangar jets|turboprops|props GA Apron Hangar 31
 1301 A none 
-1300  37.32421168 -079.97200407 173.21 hangar jets|turboprops|props GA Apron Hangar 30
+1300  37.32421169 -079.97200407 173.21 hangar jets|turboprops|props GA Apron Hangar 30
 1301 A none 
 1300  37.32422470 -079.97185214 173.21 hangar jets|turboprops|props GA Apron Hangar 29
 1301 A none 
@@ -3840,7 +3837,7 @@ I
 1301 A none 
 1300  37.32529091 -079.96987166 174.24 hangar jets|turboprops|props GA Apron Hangar 19
 1301 A none 
-1300  37.32527084 -079.97009185 174.24 hangar jets|turboprops|props GA Apron Hangar 18
+1300  37.32527084 -079.97009184 174.24 hangar jets|turboprops|props GA Apron Hangar 18
 1301 A none 
 1300  37.32461953 -079.97046490 -27.92 hangar jets|turboprops|props GA Apron Hangar 17
 1301 A none 
@@ -3866,7 +3863,7 @@ I
 1301 A none 
 1300  37.32432097 -079.97020917 -27.92 hangar jets|turboprops|props GA Apron Hangar 06
 1301 A none 
-1300  37.32426477 -079.97033841 -27.92 hangar jets|turboprops|props GA Apron Hangar 05
+1300  37.32426477 -079.97033842 -27.92 hangar jets|turboprops|props GA Apron Hangar 05
 1301 A none 
 1300  37.32410738 -079.96957908 -27.92 hangar jets|turboprops|props GA Apron Hangar 04
 1301 A none 
@@ -4064,7 +4061,7 @@ I
 1301 D airline 
 1300  37.32165767 -079.97093039 -122.20 gate jets|turboprops Terminal Gate 05A
 1301 B airline 
-1300  37.32043154 -079.97204218  57.76 gate jets|turboprops Terminal Apron 05
+1300  37.32043154 -079.97204219  57.76 gate jets|turboprops Terminal Apron 05
 1301 B airline 
 1300  37.32066307 -079.97222057  57.76 gate jets|turboprops Terminal Apron 04
 1301 B airline 
