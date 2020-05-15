@@ -621,8 +621,8 @@ I
 1301 C airline 
 1300  21.03976774  105.88860160  23.55 gate jets|turboprops|props|helos Stand 02
 1301 C airline 
-1300  21.03955123  105.88904263  22.76 gate jets|turboprops|props|helos|fighters Stand 01A
-1301 C none 
+1300  21.03955123  105.88904263  22.76 gate jets|turboprops|props Stand 01A
+1301 C airline 
 1300  21.03954238  105.88895906  23.20 gate jets|turboprops|props|helos Stand 01
 1301 C airline 
 18  21.04048952  105.88902078 1 New Airport Beacon 8
