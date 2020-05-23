@@ -493,37 +493,37 @@ I
 111  30.40280593 -097.57427135 53
 116  30.40271615 -097.57427503  30.40267238 -097.57424190
 14  30.39438414 -097.56578643  82.02 0 New Tower Viewpoint 1
-1300  30.40043916 -097.57383407 181.04 hangar props Hangar 11-4
+1300  30.40043916 -097.57383407 181.04 hangar props Hangar 12-4
 1301 A none 
-1300  30.40043642 -097.57373444 181.04 hangar props Hangar 11-3
+1300  30.40043642 -097.57373444 181.04 hangar props Hangar 12-3
 1301 A none 
-1300  30.40043870 -097.57363269 181.04 hangar props Hangar 11-2
+1300  30.40043870 -097.57363269 181.04 hangar props Hangar 12-2
 1301 A none 
-1300  30.40043642 -097.57351558 181.04 hangar props Hangar 11-1
+1300  30.40043642 -097.57351558 181.04 hangar props Hangar 12-1
 1301 A none 
-1300  30.40034866 -097.57351345   1.01 hangar props Hangar 10-4
+1300  30.40034866 -097.57351345   1.01 hangar props Hangar 11-4
 1301 A none 
-1300  30.40035003 -097.57363799   1.01 hangar props Hangar 10-3
+1300  30.40035003 -097.57363799   1.01 hangar props Hangar 11-3
 1301 A none 
-1300  30.40035323 -097.57375140   1.01 hangar props Hangar 10-2
+1300  30.40035323 -097.57375140   1.01 hangar props Hangar 11-2
 1301 A none 
-1300  30.40035688 -097.57385792   1.01 hangar props Hangar 10-1
+1300  30.40035688 -097.57385792   1.01 hangar props Hangar 11-1
 1301 A none 
-1300  30.39873615 -097.57370223 181.47 hangar turboprops|props Hangar 9-3
+1300  30.39873615 -097.57370223 181.47 hangar turboprops|props Hangar 10-3
 1301 B none 
-1300  30.39878226 -097.57418680 181.47 hangar turboprops|props Hangar 9-2
+1300  30.39878226 -097.57418680 181.47 hangar turboprops|props Hangar 10-2
 1301 B none 
-1300  30.39878962 -097.57447023 181.47 hangar turboprops|props Hangar 9-1
+1300  30.39878962 -097.57447023 181.47 hangar turboprops|props Hangar 10-1
 1301 B none 
-1300  30.39794628 -097.57484158   2.32 hangar turboprops|props Hangar 8-2
+1300  30.39794628 -097.57484158   2.32 hangar turboprops|props Hangar 9-2
 1301 B none 
-1300  30.39793647 -097.57452674   2.32 hangar turboprops|props Hangar 8-1
+1300  30.39793647 -097.57452674   2.32 hangar turboprops|props Hangar 9-1
 1301 B none 
-1300  30.39793435 -097.57405165   2.32 hangar turboprops|props Hangar 7-2
+1300  30.39793435 -097.57405165   2.32 hangar turboprops|props Hangar 8-2
 1301 B none 
-1300  30.39792454 -097.57373681   2.32 hangar turboprops|props Hangar 7-1
+1300  30.39792454 -097.57373681   2.32 hangar turboprops|props Hangar 8-1
 1301 B none 
-1300  30.39649726 -097.57221746   2.32 hangar turboprops|props Hangar 5-9
+1300  30.39649726 -097.57221746   2.32 hangar turboprops|props Hangar 6
 1301 B none 
 1300  30.39698041 -097.57225042 180.73 hangar props Hangar 5-8
 1301 A none 
@@ -531,7 +531,7 @@ I
 1301 A none 
 1300  30.39698958 -097.57244632 180.73 hangar props Hangar 5-6
 1301 A none 
-1300  30.39633248 -097.57376499   2.32 hangar turboprops|props Hangar 6-1
+1300  30.39633248 -097.57376499   2.32 hangar turboprops|props Hangar 7-1
 1301 B none 
 1300  30.39700298 -097.57283496 180.73 hangar props Hangar 5-2
 1301 A none 
@@ -541,7 +541,7 @@ I
 1301 A none 
 1300  30.39708203 -097.57214308   1.51 hangar props Hangar 5-9
 1301 A none 
-1300  30.39634229 -097.57416766   2.32 hangar turboprops|props Hangar 6-2
+1300  30.39634229 -097.57416766   2.32 hangar turboprops|props Hangar 7-2
 1301 B none 
 1300  30.39709117 -097.57254348   1.51 hangar props Hangar 5-5
 1301 A none 
