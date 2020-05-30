@@ -75,13 +75,13 @@ I
 111 -20.00412560 -048.95970902 1
 115 -20.00444334 -048.95940409
 14 -20.00459602 -048.95867905  82.02 0 Tower Viewpoint 
-1300 -20.00456989 -048.95930253 -42.70 tie_down turboprops|props Tie-Down 04
+1300 -20.00425868 -048.95898298 136.85 tie_down turboprops|props Tie-Down 06
+1301 A general_aviation 
+1300 -20.00456989 -048.95930253 -42.70 tie_down turboprops|props Tie-Down 05
 1301 A general_aviation 
 1300 -20.00456844 -048.95896148 -41.93 tie_down turboprops|props Tie-Down 04
 1301 A general_aviation 
 1300 -20.00429124 -048.95873172 223.49 tie_down turboprops|props Tie-Down 02
-1301 A general_aviation 
-1300 -20.00425868 -048.95898298 136.85 tie_down turboprops|props Tie-Down 05
 1301 A general_aviation 
 1300 -20.00419199 -048.95883510 225.34 tie_down turboprops|props Tie-Down 01
 1301 A general_aviation 
