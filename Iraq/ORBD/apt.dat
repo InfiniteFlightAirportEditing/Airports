@@ -18520,7 +18520,7 @@ I
 1301 E military 
 1300  33.95505018  044.36106947 326.41 tie_down heavy|jets|turboprops Delta N1
 1301 E military 
-1300  33.95529890  044.36153194 326.41 tie_down heavy|jets|turboprops Delta 4N2
+1300  33.95529890  044.36153194 326.41 tie_down heavy|jets|turboprops Delta N2
 1301 E military 
 1300  33.94744354  044.36992216 234.59 tie_down turboprops|props|fighters Charly 01
 1301 A military 
@@ -18912,9 +18912,9 @@ I
 1301 A none 
 1300  33.92140453  044.37264296  56.13 hangar turboprops|fighters SW HAS 6L
 1301 A none 
-1300  33.92079777  044.37507875 -84.20 hangar turboprops|fighters SW HAS 7R
+1300  33.92079777  044.37507875 -84.20 hangar turboprops|fighters SW HAS 7L
 1301 A none 
-1300  33.91924893  044.37368146  20.64 hangar turboprops|fighters SW HAS 8R
+1300  33.91924893  044.37368146  20.64 hangar turboprops|fighters SW HAS 8L
 1301 A none 
 53 12875 Ground
 54 11987 Tower
