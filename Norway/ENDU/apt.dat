@@ -1690,7 +1690,7 @@ I
 1301 E military 
 1300  69.05938136  018.53538201 283.14 gate jets Apron 2-1
 1301 C airline 
-1300  69.05905332  018.53810903  -5.76 gate jets Apron 2-1
+1300  69.05905332  018.53810903  -5.76 gate jets Apron 2-2
 1301 D airline 
 1300  69.05885650  018.53957742  -5.76 gate jets Apron 2 Gate
 1301 D airline 
@@ -1738,11 +1738,11 @@ I
 1301 C military 
 1300  69.05818013  018.54586077  18.01 tie_down props Apron 10 NAC 1
 1301 A general_aviation 
-1300  69.05816050  018.54615786  19.32 tie_down props Apron 10 NAC 3
+1300  69.05816050  018.54615786  19.32 tie_down props Apron 10 NAC 2
 1301 A general_aviation 
 1300  69.05812976  018.54646772  19.32 tie_down props Apron 10 NAC 3
 1301 A general_aviation 
-1300  69.05810046  018.54674262  19.32 tie_down props Apron 10 NAC 5
+1300  69.05810046  018.54674262  19.32 tie_down props Apron 10 NAC 4
 1301 A general_aviation 
 1300  69.05806146  018.54702987  19.32 tie_down props Apron 10 NAC 5
 1301 A general_aviation 
