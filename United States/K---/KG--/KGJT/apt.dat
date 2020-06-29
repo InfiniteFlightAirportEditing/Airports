@@ -2690,11 +2690,11 @@ I
 1301 A general_aviation 
 1300  39.13069518 -108.54009431 124.72 tie_down props Tiedown 1
 1301 A general_aviation 
-1300  39.12218001 -108.52632439 -147.60 gate jets|turboprops|props Gate 1
+1300  39.12218001 -108.52632439 -147.60 gate jets|turboprops|props Gate 11
 1301 C cargo 
-1300  39.12217959 -108.52695057 -147.60 gate jets|turboprops|props Gate 2
+1300  39.12217959 -108.52695057 -147.60 gate jets|turboprops|props Gate 10
 1301 C cargo 
-1300  39.12224376 -108.52718097 -147.60 gate jets|turboprops|props Gate 3
+1300  39.12224376 -108.52718097 -147.60 gate jets|turboprops|props Gate 9
 1301 B airline 
 1300  39.12238492 -108.52741053 -147.60 gate jets|turboprops|props Gate 8
 1301 B airline 
