@@ -6380,15 +6380,15 @@ I
 1301 B none 
 1300  35.43005993 -119.04601790 315.00 hangar jets|turboprops|props Hangar 02
 1301 B none 
-1300  35.43140454 -119.04542263 178.90 tie_down props NE GA 01
+1300  35.43140454 -119.04542263 178.90 tie_down props FedEx 01
 1301 A general_aviation 
-1300  35.43148658 -119.04536545  -0.18 tie_down props NE GA 02
+1300  35.43148658 -119.04536545  -0.18 tie_down props FedEx 02
 1301 A general_aviation 
-1300  35.43140712 -119.04522182 177.85 tie_down props NE GA 03
+1300  35.43140712 -119.04522182 177.85 tie_down props FedEx 03
 1301 A general_aviation 
-1300  35.43149690 -119.04515100  -1.42 tie_down props NE GA 04
+1300  35.43149690 -119.04515100  -1.42 tie_down props FedEx 04
 1301 A general_aviation 
-1300  35.43141014 -119.04502244 177.54 tie_down props NE GA 05
+1300  35.43141014 -119.04502244 177.54 tie_down props FedEx 05
 1301 A general_aviation 
 1300  35.43143655 -119.04626926 135.71 hangar jets|turboprops|props NE Hangar 01
 1301 C none 
