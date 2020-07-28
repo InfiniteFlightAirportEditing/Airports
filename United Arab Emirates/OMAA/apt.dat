@@ -17156,7 +17156,7 @@ I
 1301 F airline 
 1300  24.44832419  054.63812804 -14.33 gate jets|turboprops|props Midfield Terminal Gate 605L
 1301 C airline 
-1300  24.44864947  054.63819261 -24.64 gate heavy|jets|turboprops|props Midfield Terminal Gate 605R
+1300  24.44864947  054.63819261 -24.64 gate heavy|jets|turboprops|props Midfield Terminal Gate 605C
 1301 F airline 
 1300  24.44869059  054.63821101 -40.36 gate jets|turboprops|props Midfield Terminal Gate 605R
 1301 C airline 
@@ -17194,7 +17194,7 @@ I
 1301 F airline 
 1300  24.44493354  054.64533291 -82.45 gate jets|turboprops|props Midfield Terminal Gate 618R
 1301 C airline 
-1300  24.44534097  054.64597485 -61.61 gate jets|turboprops|props Midfield Terminal Gate 619C
+1300  24.44534097  054.64597485 -61.61 gate jets|turboprops|props Midfield Terminal Gate 619L
 1301 C airline 
 1300  24.44551354  054.64569598 -93.65 gate heavy|jets|turboprops|props Midfield Terminal Gate 619C
 1301 F airline 
