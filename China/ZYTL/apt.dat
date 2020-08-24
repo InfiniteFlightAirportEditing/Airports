@@ -1834,11 +1834,11 @@ I
 1301 B general_aviation 
 18  38.96155423  121.54308091 4 BCN
 50 12665 ATIS
-52 12185 Dalian Delivery
-53 12165 Dalian Ground
-54 11825 Dalian Tower
-54 11885 Dalian Tower
 55 12385 Dalian Approach
 55 11960 Dalian Approach
 55 12795 Dalian Approach
+54 11825 Dalian Tower
+54 11885 Dalian Tower
+53 12165 Dalian Ground
+52 12185 Dalian Delivery
 99
