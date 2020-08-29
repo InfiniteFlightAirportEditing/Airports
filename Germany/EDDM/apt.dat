@@ -25035,8 +25035,20 @@ I
 19  48.34396831  011.80314962 1 New Windsock 3
 19  48.34162440  011.75405390 1 New Windsock 2
 19  48.36587901  011.81846572 1 48.365863
-50 12312 ATIS
-53 12170 Munich Apron
-54 11870 Munich Tower
-55 12077 Munich Arrival
+50 12312 Muenchen ATIS
+51 12280 Muenchen Unicom
+52 12172 Muenchen Delivery
+53 12197 Muenchen Ground North
+53 12182 Muenchen Ground South	
+53 12177 Muenchen Apron 1	
+53 12170 Muenchen Apron 2	
+53 12192 Muenchen Apron 3	
+54 12050 Muenchen Tower South	
+54 11870 Muenchen Tower North	
+55 12390 Muenchen Radar North	
+55 12795 Muenchen Radar South	
+55 12825 Muenchen Arrival North	
+55 12077 Muenchen Arrival South	
+55 11882 Muenchen Director North	
+55 13230 Muenchen Director South
 99
