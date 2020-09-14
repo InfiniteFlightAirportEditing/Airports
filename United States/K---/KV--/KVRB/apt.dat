@@ -14,11 +14,6 @@ I
 111  27.65515175 -080.42886441
 111  27.65511094 -080.42873468
 113  27.65533243 -080.42864523
-110 15 0.00 0.0000 New Taxiway 158
-111  27.64675193 -080.41375729
-111  27.64778743 -080.41373466
-111  27.64781192 -080.41513238
-113  27.64677643 -080.41514747
 110 2 0.00 0.0000 New Taxiway 150
 111  27.65214325 -080.42655594
 111  27.65241352 -080.42695739
@@ -4940,15 +4935,13 @@ I
 14  27.65114662 -080.41989505 298.56 0 Tower Viewpoint
 1300  27.65213992 -080.42676909 124.61 hangar jets|props FBO Corporate Air Inc
 1301 B none 
-1300  27.65106120 -080.42775834 127.14 hangar jets|props HANGAR W06
-1301 B none 
 1300  27.65096453 -080.41683699 109.14 hangar jets|props Sun Jet Center
 1301 B none 
 1300  27.65091478 -080.41518732  20.80 hangar jets|props FBO Hangar 01
 1301 B none 
 1300  27.65125596 -080.41577704 290.08 hangar props Sun Aviation
 1301 A none 
-1300  27.64827404 -080.40736503 338.23 misc jets|props PIPER 05
+1300  27.64827404 -080.40736503 338.23 misc jets|props PIPER Remote
 1301 A none 
 1300  27.65527183 -080.40544554 301.91 hangar props Hangar NE 06
 1301 A none 
@@ -5066,76 +5059,6 @@ I
 1301 A general_aviation 
 1300  27.65240266 -080.42163291 287.18 tie_down props Apron C05
 1301 A general_aviation 
-1300  27.65371539 -080.42524789 127.45 tie_down props Apron B30
-1301 A general_aviation 
-1300  27.65459063 -080.42529817 -69.58 tie_down props Apron B25
-1301 A general_aviation 
-1300  27.65475364 -080.42578353 -69.58 tie_down props Apron B20
-1301 A general_aviation 
-1300  27.65491665 -080.42626460 -69.58 tie_down props Apron B15
-1301 A general_aviation 
-1300  27.65507966 -080.42674243 -69.58 tie_down props Apron B10
-1301 A general_aviation 
-1300  27.65524457 -080.42723318 -69.58 tie_down props Apron B04
-1301 A general_aviation 
-1300  27.65524457 -080.42723318 -69.58 tie_down props Apron B05
-1301 A general_aviation 
-1300  27.65394057 -080.42505952 124.57 tie_down props Apron B29
-1301 A general_aviation 
-1300  27.65483085 -080.42519915 -69.58 tie_down props Apron B24
-1301 A general_aviation 
-1300  27.65499386 -080.42568451 -69.58 tie_down props Apron B19
-1301 A general_aviation 
-1300  27.65515687 -080.42616558 -69.58 tie_down props Apron B14
-1301 A general_aviation 
-1300  27.65531988 -080.42664341 -69.58 tie_down props Apron B09
-1301 A general_aviation 
-1300  27.65548479 -080.42713416 -69.58 tie_down props Apron B04
-1301 A general_aviation 
-1300  27.65548479 -080.42713416 -69.58 tie_down props Apron B04
-1301 A general_aviation 
-1300  27.65438949 -080.42509153 -69.58 tie_down props Apron B28
-1301 A general_aviation 
-1300  27.65455917 -080.42558659 -69.58 tie_down props Apron B23
-1301 A general_aviation 
-1300  27.65472218 -080.42607195 -69.58 tie_down props Apron B18
-1301 A general_aviation 
-1300  27.65488519 -080.42655301 -69.58 tie_down props Apron B13
-1301 A general_aviation 
-1300  27.65504820 -080.42703085 -69.58 tie_down props Apron B08
-1301 A general_aviation 
-1300  27.65521311 -080.42752160 -69.58 tie_down props Apron B03
-1301 A general_aviation 
-1300  27.65521311 -080.42752160 -69.58 tie_down props Apron B03
-1301 A general_aviation 
-1300  27.65462399 -080.42499144 -69.58 tie_down props Apron B27
-1301 A general_aviation 
-1300  27.65479367 -080.42548650 -69.58 tie_down props Apron B22
-1301 A general_aviation 
-1300  27.65495668 -080.42597186 -69.58 tie_down props Apron B17
-1301 A general_aviation 
-1300  27.65511969 -080.42645293 -69.58 tie_down props Apron B12
-1301 A general_aviation 
-1300  27.65528270 -080.42693076 -69.58 tie_down props Apron B07
-1301 A general_aviation 
-1300  27.65544761 -080.42742151 -69.58 tie_down props Apron B02
-1301 A general_aviation 
-1300  27.65544761 -080.42742151 -69.58 tie_down props Apron B02
-1301 A general_aviation 
-1300  27.65486104 -080.42489962 -69.58 tie_down props Apron B26
-1301 A general_aviation 
-1300  27.65503072 -080.42539467 -69.58 tie_down props Apron B21
-1301 A general_aviation 
-1300  27.65519373 -080.42588003 -69.58 tie_down props Apron B16
-1301 A general_aviation 
-1300  27.65535674 -080.42636110 -69.58 tie_down props Apron B11
-1301 A general_aviation 
-1300  27.65551975 -080.42683893 -69.58 tie_down props Apron B06
-1301 A general_aviation 
-1300  27.65568466 -080.42732968 -69.58 tie_down props Apron B01
-1301 A general_aviation 
-1300  27.65568466 -080.42732968 -69.58 tie_down props Apron B01
-1301 A general_aviation 
 1300  27.65302546 -080.42160870 287.18 tie_down props Apron C04
 1301 A general_aviation 
 1300  27.65279826 -080.42170555 287.18 tie_down props Apron C03
@@ -5144,13 +5067,65 @@ I
 1301 A general_aviation 
 1300  27.65236930 -080.42188492 287.18 tie_down props Apron C01
 1301 A general_aviation 
-1300  27.65168773 -080.42269311 304.08 tie_down jets|props Apron A05
+1300  27.65371539 -080.42524789 127.45 tie_down props Apron B30
 1301 A general_aviation 
-1300  27.65149231 -080.42286529 304.08 tie_down jets|props Apron A04
+1300  27.65394057 -080.42505952 124.57 tie_down props Apron B29
 1301 A general_aviation 
-1300  27.65129212 -080.42302851 304.08 tie_down jets|props Apron A03
+1300  27.65438949 -080.42509153 -69.58 tie_down props Apron B28
 1301 A general_aviation 
-1300  27.65109432 -080.42319442 304.08 tie_down jets|props Apron A02
+1300  27.65462399 -080.42499144 -69.58 tie_down props Apron B27
+1301 A general_aviation 
+1300  27.65486104 -080.42489962 -69.58 tie_down props Apron B26
+1301 A general_aviation 
+1300  27.65459063 -080.42529817 -69.58 tie_down props Apron B25
+1301 A general_aviation 
+1300  27.65483085 -080.42519915 -69.58 tie_down props Apron B24
+1301 A general_aviation 
+1300  27.65455917 -080.42558659 -69.58 tie_down props Apron B23
+1301 A general_aviation 
+1300  27.65479367 -080.42548650 -69.58 tie_down props Apron B22
+1301 A general_aviation 
+1300  27.65503072 -080.42539467 -69.58 tie_down props Apron B21
+1301 A general_aviation 
+1300  27.65475364 -080.42578353 -69.58 tie_down props Apron B20
+1301 A general_aviation 
+1300  27.65499386 -080.42568451 -69.58 tie_down props Apron B19
+1301 A general_aviation 
+1300  27.65472218 -080.42607195 -69.58 tie_down props Apron B18
+1301 A general_aviation 
+1300  27.65495668 -080.42597186 -69.58 tie_down props Apron B17
+1301 A general_aviation 
+1300  27.65519373 -080.42588003 -69.58 tie_down props Apron B16
+1301 A general_aviation 
+1300  27.65491665 -080.42626460 -69.58 tie_down props Apron B15
+1301 A general_aviation 
+1300  27.65515687 -080.42616558 -69.58 tie_down props Apron B14
+1301 A general_aviation 
+1300  27.65488519 -080.42655301 -69.58 tie_down props Apron B13
+1301 A general_aviation 
+1300  27.65511969 -080.42645293 -69.58 tie_down props Apron B12
+1301 A general_aviation 
+1300  27.65535674 -080.42636110 -69.58 tie_down props Apron B11
+1301 A general_aviation 
+1300  27.65507966 -080.42674243 -69.58 tie_down props Apron B10
+1301 A general_aviation 
+1300  27.65531988 -080.42664341 -69.58 tie_down props Apron B09
+1301 A general_aviation 
+1300  27.65504820 -080.42703085 -69.58 tie_down props Apron B08
+1301 A general_aviation 
+1300  27.65528270 -080.42693076 -69.58 tie_down props Apron B07
+1301 A general_aviation 
+1300  27.65551975 -080.42683893 -69.58 tie_down props Apron B06
+1301 A general_aviation 
+1300  27.65524457 -080.42723318 -69.58 tie_down props Apron B05
+1301 A general_aviation 
+1300  27.65548479 -080.42713416 -69.58 tie_down props Apron B04
+1301 A general_aviation 
+1300  27.65521311 -080.42752160 -69.58 tie_down props Apron B03
+1301 A general_aviation 
+1300  27.65544761 -080.42742151 -69.58 tie_down props Apron B02
+1301 A general_aviation 
+1300  27.65568466 -080.42732968 -69.58 tie_down props Apron B01
 1301 A general_aviation 
 1300  27.65183559 -080.42292196 304.08 tie_down jets|props Apron A12
 1301 A general_aviation 
@@ -5166,10 +5141,16 @@ I
 1301 A general_aviation 
 1300  27.65064388 -080.42391491 304.08 tie_down jets|props Apron A06
 1301 A general_aviation 
+1300  27.65168773 -080.42269311 304.08 tie_down jets|props Apron A05
+1301 A general_aviation 
+1300  27.65149231 -080.42286529 304.08 tie_down jets|props Apron A04
+1301 A general_aviation 
+1300  27.65129212 -080.42302851 304.08 tie_down jets|props Apron A03
+1301 A general_aviation 
+1300  27.65109432 -080.42319442 304.08 tie_down jets|props Apron A02
+1301 A general_aviation 
 1300  27.65089096 -080.42335316 304.08 tie_down jets|props Apron A01
 1301 A general_aviation 
-1300  27.64970435 -080.42237059 201.98 hangar props Hangar S10
-1301 A none 
 1300  27.65095824 -080.42228908  20.88 hangar props FlightSafety Academy
 1301 A none 
 1300  27.65057093 -080.42105989 293.33 hangar props Hangar E16
@@ -5204,6 +5185,8 @@ I
 1301 A none 
 1300  27.65149259 -080.42177813 201.98 hangar props Hangar E01
 1301 A none 
+1300  27.64970435 -080.42237059 201.98 hangar props Hangar S10
+1301 A none 
 1300  27.64985670 -080.42282681 201.98 hangar props Hangar S09
 1301 A none 
 1300  27.64940094 -080.42249740 201.98 hangar props Hangar S08
@@ -5222,15 +5205,17 @@ I
 1301 A none 
 1300  27.64888645 -080.42415971 201.98 hangar props Hangar S01
 1301 A none 
-1300  27.65154628 -080.42740651 127.14 hangar jets|props HANGAR W05
-1301 A none 
-1300  27.65190118 -080.42720687 127.14 hangar jets|props HANGAR W04
-1301 A none 
-1300  27.65286625 -080.42643049 215.79 hangar jets|props HANGAR W03
-1301 A none 
-1300  27.65319256 -080.42588615 125.07 hangar jets HANGAR W02
+1300  27.65106120 -080.42775834 127.14 hangar jets|props Hangar W06
 1301 B none 
-1300  27.65512923 -080.42827111  22.75 hangar jets HANGAR W01
+1300  27.65154628 -080.42740651 127.14 hangar jets|props Hangar W05
+1301 A none 
+1300  27.65190118 -080.42720687 127.14 hangar jets|props Hangar W04
+1301 A none 
+1300  27.65286625 -080.42643049 215.79 hangar jets|props Hangar W03
+1301 A none 
+1300  27.65319256 -080.42588615 125.07 hangar jets Hangar W02
+1301 B none 
+1300  27.65512923 -080.42827111  22.75 hangar jets Hangar W01
 1301 B none 
 1300  27.65218879 -080.41734950 290.48 gate jets|turboprops Main Terminal
 1301 B airline 
