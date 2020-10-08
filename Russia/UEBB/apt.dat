@@ -321,16 +321,16 @@ I
 1301 B general_aviation 
 1300  67.64774605  134.68982693 282.16 tie_down turboprops|props GA 6
 1301 B general_aviation 
-1300  67.64854507  134.69034122 285.38 tie_down turboprops|props GA 7
-1301 B general_aviation 
-1300  67.64882050  134.69060269 285.38 tie_down turboprops|props GA 8
-1301 B general_aviation 
-1300  67.64909789  134.69088403 285.38 tie_down turboprops|props GA 9
-1301 B general_aviation 
-1300  67.64949454  134.69162087 -70.18 tie_down turboprops|props GA 10
-1301 B general_aviation 
-1300  67.64976552  134.69188313 -70.18 tie_down turboprops|props GA 11
-1301 B general_aviation 
+1300  67.64854507  134.69034122 285.38 gate turboprops Remote 7
+1301 B airline 
+1300  67.64882050  134.69060269 285.38 gate turboprops Remote 8
+1301 B airline 
+1300  67.64909789  134.69088403 285.38 gate turboprops Remote 9
+1301 B airline 
+1300  67.64949454  134.69162087 -70.18 gate turboprops Remote 10
+1301 B airline 
+1300  67.64976552  134.69188313 -70.18 gate turboprops Remote 11
+1301 B airline 
 1300  67.65021701  134.69252782 292.61 tie_down turboprops|props GA 12
 1301 B general_aviation 
 1300  67.65045028  134.69279946 292.61 tie_down turboprops|props GA 13
