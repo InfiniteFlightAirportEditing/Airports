@@ -5633,7 +5633,7 @@ I
 21  52.56094504  013.30421508 2 260.5400 3.00 New Light Fixture 1
 14  52.55469848  013.29330763 154.20 0 Tower Viewpoint
 1300  52.56433357  013.29953571 125.68 tie_down jets Military Apron A
-1301 E military 
+1301 D military 
 1300  52.56395249  013.29746273 170.79 tie_down jets Military Apron B
 1301 C military 
 1300  52.56387868  013.29673605 170.55 tie_down jets Military Apron C
@@ -5661,41 +5661,41 @@ I
 1300  52.55472380  013.27986130 171.03 gate jets|turboprops Remote Stand 31
 1301 C airline 
 1300  52.55486613  013.29776671 -14.70 gate jets|turboprops Remote Stand 65A
-1301 E airline 
+1301 D airline 
 1300  52.55385460  013.29700165 -69.00 gate jets|turboprops Remote Stand 66
-1301 E airline 
+1301 D airline 
 1300  52.55438368  013.29753638 -69.10 gate jets|turboprops Remote Stand 65
 1301 C airline 
 1300  52.55479144  013.29772705 -69.26 gate jets|turboprops Remote Stand 64
 1301 D airline 
 1300  52.55561023  013.29822989 -14.70 gate jets|turboprops Remote Stand 63A
-1301 E airline 
+1301 D airline 
 1300  52.55522382  013.29799839 -68.99 gate jets|turboprops Remote Stand 63
-1301 D airline 
+1301 C airline 
 1300  52.55565978  013.29827128 -68.66 gate jets|turboprops Remote Stand 62
-1301 D airline 
+1301 C airline 
 1300  52.55608790  013.29854012 -69.28 gate jets|turboprops Remote Stand 61
-1301 D airline 
+1301 C airline 
 1300  52.55491338  013.29319494 163.56 gate jets|turboprops Remote Stand 51
-1301 D airline 
+1301 C airline 
 1300  52.55569051  013.29367262 137.53 gate jets|turboprops Remote Stand 52
 1301 D airline 
 1300  52.55570105  013.29362772 170.52 gate jets|turboprops Remote Stand 52A
-1301 E airline 
-1300  52.55611583  013.29427066 171.02 gate jets|turboprops Remote Stand 53A
 1301 D airline 
+1300  52.55611583  013.29427066 171.02 gate jets|turboprops Remote Stand 53A
+1301 C airline 
 1300  52.55608036  013.29389328 170.72 gate jets|turboprops Remote Stand 53
 1301 C airline 
 1300  52.55625775  013.29581293 171.03 gate jets|turboprops Remote Stand 55A
-1301 D airline 
+1301 C airline 
 1300  52.55618047  013.29504882 170.98 gate jets|turboprops Remote Stand 54A
-1301 D airline 
+1301 C airline 
 1300  52.55612104  013.29466952 170.86 gate jets|turboprops Remote Stand 54
 1301 C airline 
 1300  52.55623098  013.29542932 170.99 gate jets|turboprops Remote Stand 55
 1301 C airline 
 1300  52.55634259  013.29658126 171.07 gate jets|turboprops Remote Stand 56A
-1301 D airline 
+1301 C airline 
 1300  52.55630285  013.29619057 171.44 gate jets|turboprops Remote Stand 56
 1301 C airline 
 1300  52.55638026  013.29694486 171.13 gate jets|turboprops Remote Stand 57
@@ -5705,7 +5705,7 @@ I
 1300  52.55652603  013.29844268 170.85 gate jets|turboprops Remote Stand 59
 1301 C airline 
 1300  52.55650516  013.29851884 -132.90 gate jets|turboprops Remote Stand 60A
-1301 E airline 
+1301 D airline 
 1300  52.55659942  013.29919163 170.93 gate jets|turboprops Remote Stand 60
 1301 C airline 
 1300  52.55383155  013.28242250  -8.79 gate jets|turboprops Lufthansa Technik Hangar 02
@@ -5713,71 +5713,71 @@ I
 1300  52.55347946  013.28185593 171.06 gate jets|turboprops Lufthansa Technik Hangar 01
 1301 C airline 
 1300  52.55474842  013.28206675 170.87 gate jets|turboprops Cargo Apron 29
-1301 D cargo 
+1301 C cargo 
 1300  52.55473398  013.28238536 170.94 gate jets|turboprops Cargo Apron 29A
-1301 E cargo 
+1301 D cargo 
 1300  52.55482353  013.28283587 170.83 gate jets|turboprops Cargo Apron 28
-1301 D cargo 
+1301 C cargo 
 1300  52.55489806  013.28360373 170.79 gate jets|turboprops Cargo Apron 27
-1301 D cargo 
+1301 C cargo 
 1300  52.55477164  013.28394106 -129.39 gate jets|turboprops Cargo Apron 26
-1301 D cargo 
+1301 C cargo 
 1300  52.55424081  013.28436588 -129.22 gate jets|turboprops Cargo Apron 25A
-1301 E cargo 
+1301 D cargo 
 1300  52.55440500  013.28443001 -129.22 gate jets|turboprops Cargo Apron 25
-1301 D cargo 
+1301 C cargo 
 1300  52.55351656  013.28560290 -129.30 gate jets|turboprops Cargo Apron 24
-1301 D cargo 
+1301 C cargo 
 1300  52.55314764  013.28609616 -129.31 gate jets|turboprops Cargo Apron 23
-1301 D cargo 
+1301 C cargo 
 1300  52.55274341  013.28663488 -129.49 gate jets|turboprops Cargo Apron 22
-1301 D cargo 
+1301 C cargo 
 1300  52.55230041  013.28697891 -129.31 gate jets|turboprops Cargo Apron 21
-1301 D cargo 
+1301 C cargo 
 1300  52.55193241  013.28746907 -129.41 gate jets|turboprops Cargo Apron 20
-1301 D cargo 
+1301 C cargo 
 1300  52.55166023  013.28815200 -129.38 gate jets|turboprops Cargo Apron 19
-1301 D cargo 
+1301 C cargo 
 1300  52.55129145  013.28864159 -129.32 gate jets|turboprops Cargo Apron 18
-1301 D cargo 
+1301 C cargo 
 1300  52.55092391  013.28913567 -129.50 gate jets|turboprops Cargo Apron 17
-1301 D cargo 
+1301 C cargo 
 1300  52.55322860  013.29067026  -8.89 gate heavy|jets|turboprops Gate 13A
-1301 E none 
+1301 D none 
 1300  52.55308781  013.29046188  20.83 gate jets|turboprops Gate 13
 1301 C airline 
 1300  52.55308188  013.28991370  41.90 gate heavy|jets|turboprops Gate 12
 1301 C airline 
 1300  52.55327373  013.29141010  20.81 gate jets|turboprops Gate 14
-1301 D airline 
+1301 C airline 
 1300  52.55329642  013.28934683  59.97 gate jets|turboprops Gate 11
-1301 D airline 
+1301 C airline 
 1300  52.55364182  013.28887640  71.26 gate jets|turboprops Gate 10
-1301 D airline 
+1301 C airline 
 1300  52.55393248  013.28835710  92.12 gate jets|turboprops Gate 09
-1301 D airline 
+1301 C airline 
 1300  52.55435614  013.28833759 122.88 gate jets|turboprops Gate 08
-1301 D airline 
+1301 C airline 
 1300  52.55479191  013.28856968 131.89 gate jets|turboprops Gate 07
-1301 D airline 
+1301 C airline 
 1300  52.55524633  013.28867175 151.76 gate jets|turboprops Gate 06
-1301 D airline 
+1301 C airline 
 1300  52.55545908  013.28928517 -175.73 gate jets|turboprops Gate 05
-1301 D airline 
+1301 C airline 
 1300  52.55553586  013.29001330 -170.84 gate jets|turboprops Gate 04
-1301 D airline 
+1301 C airline 
 1300  52.55570231  013.29069625 -148.28 gate jets|turboprops Gate 03
-1301 D airline 
+1301 C airline 
 1300  52.55551656  013.29134856 -129.12 gate jets|turboprops Gate 02
 1301 D airline 
 1300  52.55516133  013.29187880 -130.29 gate jets|turboprops Gate 01
 1301 D airline 
 1300  52.55197807  013.29119559  51.01 gate jets Remote Stand 15A
-1301 E airline 
+1301 D airline 
 1300  52.55210978  013.29082129  51.15 gate jets Remote Stand 15
-1301 D airline 
+1301 C airline 
 1300  52.55176522  013.29141014  50.72 gate jets Remote Stand 16
-1301 D airline 
+1301 C airline 
 18  52.55469848  013.29330763 1 BCN
 50 12590 ATIS
 50 11230 ATIS
