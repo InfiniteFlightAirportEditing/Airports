@@ -3872,225 +3872,225 @@ I
 1301 A none 
 1300  40.79562471 -074.42203499 170.50 hangar turboprops|props Hangar 01
 1301 A none 
-1300  40.79985268 -074.42526049  22.96 tie_down turboprops|props GA 108
-1301 A none 
-1300  40.79980217 -074.42511248  26.45 tie_down turboprops|props GA 109
-1301 A none 
-1300  40.79975120 -074.42495718  22.96 tie_down turboprops|props GA 110
-1301 A none 
-1300  40.79970063 -074.42481684  22.96 tie_down turboprops|props GA 111
-1301 A none 
-1300  40.79964826 -074.42467428  25.03 tie_down turboprops|props GA 112
-1301 A none 
-1300  40.79959986 -074.42452334  22.96 tie_down turboprops|props GA113
-1301 A none 
-1300  40.79938878 -074.42476548  23.77 tie_down turboprops|props GA 97
-1301 A none 
-1300  40.79943954 -074.42491255  23.96 tie_down turboprops|props GA 96
-1301 A none 
-1300  40.79978685 -074.42621975 -151.96 tie_down turboprops|props GA 86
-1301 A none 
-1300  40.80000262 -074.42597646 -154.95 tie_down turboprops|props GA 107
+1300  40.79959986 -074.42452334  26.12 tie_down turboprops|props GA 115
 1301 A general_aviation 
-1300  40.79995070 -074.42582991 -155.24 tie_down turboprops|props GA 106
+1300  40.79964826 -074.42467428  26.12 tie_down turboprops|props GA 114
 1301 A general_aviation 
-1300  40.79989895 -074.42568317 -154.82 tie_down turboprops|props GA 105
+1300  40.79970063 -074.42481684  26.12 tie_down turboprops|props GA 113
 1301 A general_aviation 
-1300  40.79985077 -074.42553110 -154.85 tie_down turboprops|props GA 104
+1300  40.79975120 -074.42495718  26.12 tie_down turboprops|props GA 112
 1301 A general_aviation 
-1300  40.79980007 -074.42538058 -154.75 tie_down turboprops|props GA 103
+1300  40.79980217 -074.42511248  26.12 tie_down turboprops|props GA 111
 1301 A general_aviation 
-1300  40.79974878 -074.42523441 -154.63 tie_down turboprops|props GA 102
+1300  40.79985268 -074.42526049  26.12 tie_down turboprops|props GA 110
 1301 A general_aviation 
-1300  40.79954080 -074.42464643 -155.61 tie_down turboprops|props GA 98
+1300  40.80000262 -074.42597646 -154.25 tie_down turboprops|props GA 109
 1301 A general_aviation 
-1300  40.79959480 -074.42479420 -153.93 tie_down turboprops|props GA 99
+1300  40.79995070 -074.42582991 -154.25 tie_down turboprops|props GA 108
 1301 A general_aviation 
-1300  40.79964495 -074.42493469 -154.00 tie_down turboprops|props GA 100
+1300  40.79989895 -074.42568317 -154.25 tie_down turboprops|props GA 107
 1301 A general_aviation 
-1300  40.79969840 -074.42507882 -155.61 tie_down turboprops|props GA 101
+1300  40.79985077 -074.42553110 -154.25 tie_down turboprops|props GA 106
 1301 A general_aviation 
-1300  40.79989675 -074.42623975  25.76 tie_down turboprops|props GA 87
+1300  40.79980007 -074.42538058 -154.25 tie_down turboprops|props GA 105
 1301 A general_aviation 
-1300  40.79973839 -074.42607623 -153.58 tie_down turboprops|props GA 85
+1300  40.79974878 -074.42523441 -154.25 tie_down turboprops|props GA 104
 1301 A general_aviation 
-1300  40.79984689 -074.42609517  25.10 tie_down turboprops|props GA 88
+1300  40.79969840 -074.42507882 -154.25 tie_down turboprops|props GA 103
 1301 A general_aviation 
-1300  40.79968567 -074.42592189 -155.53 tie_down turboprops|props GA 84
+1300  40.79964495 -074.42493469 -154.25 tie_down turboprops|props GA 102
 1301 A general_aviation 
-1300  40.79979655 -074.42594697  25.55 tie_down turboprops|props GA 89
+1300  40.79959480 -074.42479420 -154.25 tie_down turboprops|props GA 101
 1301 A general_aviation 
-1300  40.79964227 -074.42577689 -154.34 tie_down turboprops|props GA 83
+1300  40.79954080 -074.42464643 -154.25 tie_down turboprops|props GA 100
 1301 A general_aviation 
-1300  40.79974624 -074.42580171  23.58 tie_down turboprops|props GA 90
+1300  40.79938878 -074.42476548  25.25 tie_down turboprops|props GA 99
 1301 A general_aviation 
-1300  40.79959063 -074.42562989 -153.98 tie_down turboprops|props GA 82
+1300  40.79943954 -074.42491255  25.25 tie_down turboprops|props GA 98
 1301 A general_aviation 
-1300  40.79969274 -074.42565181  25.18 tie_down turboprops|props GA 91
+1300  40.79949022 -074.42505963  25.25 tie_down turboprops|props GA 97
 1301 A general_aviation 
-1300  40.79953636 -074.42548353 -154.71 tie_down turboprops|props GA 81
+1300  40.79954273 -074.42520771  25.25 tie_down turboprops|props GA 96
 1301 A general_aviation 
-1300  40.79964480 -074.42550308  26.68 tie_down turboprops|props GA 92
+1300  40.79959551 -074.42535826  25.25 tie_down turboprops|props GA 95
 1301 A general_aviation 
-1300  40.79948292 -074.42533286 -154.51 tie_down turboprops|props GA 80
+1300  40.79964480 -074.42550308  25.25 tie_down turboprops|props GA 94
 1301 A general_aviation 
-1300  40.79959551 -074.42535826  24.91 tie_down turboprops|props GA 93
+1300  40.79969274 -074.42565181  25.25 tie_down turboprops|props GA 93
 1301 A general_aviation 
-1300  40.79942966 -074.42519285 -154.09 tie_down turboprops|props GA 79
+1300  40.79974624 -074.42580171  25.25 tie_down turboprops|props GA 92
 1301 A general_aviation 
-1300  40.79954273 -074.42520771  25.30 tie_down turboprops|props GA 94
+1300  40.79979655 -074.42594697  25.25 tie_down turboprops|props GA 91
 1301 A general_aviation 
-1300  40.79938129 -074.42504404 -154.56 tie_down turboprops|props GA 78
+1300  40.79984689 -074.42609517  25.25 tie_down turboprops|props GA 90
 1301 A general_aviation 
-1300  40.79949022 -074.42505963  24.80 tie_down turboprops|props GA 95
+1300  40.79989675 -074.42623975  25.25 tie_down turboprops|props GA 89
 1301 A general_aviation 
-1300  40.79933187 -074.42489232 -154.22 tie_down turboprops|props GA 77
+1300  40.79978685 -074.42621975 -154.44 tie_down turboprops|props GA 88
 1301 A general_aviation 
-1300  40.79960745 -074.42624493  24.91 tie_down turboprops|props GA 67
+1300  40.79973839 -074.42607623 -154.44 tie_down turboprops|props GA 87
 1301 A general_aviation 
-1300  40.79954285 -074.42636524 -153.90 tie_down turboprops|props GA 66
+1300  40.79968567 -074.42592189 -154.44 tie_down turboprops|props GA 86
 1301 A general_aviation 
-1300  40.79948881 -074.42621865 205.42 tie_down turboprops|props GA 65
+1300  40.79964227 -074.42577689 -154.44 tie_down turboprops|props GA 85
 1301 A general_aviation 
-1300  40.79943911 -074.42607305 -154.17 tie_down turboprops|props GA 64
+1300  40.79959063 -074.42562989 -154.44 tie_down turboprops|props GA 84
 1301 A general_aviation 
-1300  40.79955164 -074.42609800  24.39 tie_down turboprops|props GA 68
+1300  40.79953636 -074.42548353 -154.44 tie_down turboprops|props GA 83
 1301 A general_aviation 
-1300  40.79938994 -074.42592851 -154.38 tie_down turboprops|props GA 63
+1300  40.79948292 -074.42533286 -154.44 tie_down turboprops|props GA 82
 1301 A general_aviation 
-1300  40.79945132 -074.42581318  26.88 tie_down turboprops|props GA 70
+1300  40.79942966 -074.42519285 -154.44 tie_down turboprops|props GA 81
 1301 A general_aviation 
-1300  40.79950224 -074.42595905  25.29 tie_down turboprops|props GA 69
+1300  40.79938129 -074.42504404 -154.44 tie_down turboprops|props GA 80
 1301 A general_aviation 
-1300  40.79933763 -074.42577539 -154.12 tie_down turboprops|props GA 62
+1300  40.79933187 -074.42489232 -155.16 tie_down turboprops|props GA 79
 1301 A general_aviation 
-1300  40.79939748 -074.42565005  25.54 tie_down turboprops|props GA 71
+1300  40.79914322 -074.42490901  25.09 tie_down turboprops|props GA 78
 1301 A general_aviation 
-1300  40.79928398 -074.42562222 -154.08 tie_down turboprops|props GA 61
+1300  40.79919479 -074.42506362  25.09 tie_down turboprops|props GA 77
 1301 A general_aviation 
-1300  40.79934662 -074.42550852  25.64 tie_down turboprops|props GA 72
+1300  40.79924400 -074.42520733  25.09 tie_down turboprops|props GA 76
 1301 A general_aviation 
-1300  40.79923190 -074.42548709 -154.71 tie_down turboprops|props GA 60
+1300  40.79929623 -074.42536371  25.09 tie_down turboprops|props GA 75
 1301 A general_aviation 
-1300  40.79929623 -074.42536371  25.09 tie_down turboprops|props GA 73
+1300  40.79934662 -074.42550852  25.09 tie_down turboprops|props GA 74
 1301 A general_aviation 
-1300  40.79918460 -074.42533223 -154.19 tie_down turboprops|props GA 59
+1300  40.79939748 -074.42565005  25.09 tie_down turboprops|props GA 73
 1301 A general_aviation 
-1300  40.79924400 -074.42520733  25.91 tie_down turboprops|props GA 74
+1300  40.79945132 -074.42581318  25.09 tie_down turboprops|props GA 72
 1301 A general_aviation 
-1300  40.79913425 -074.42519565 -154.94 tie_down turboprops|props GA 58
+1300  40.79950224 -074.42595905  25.09 tie_down turboprops|props GA 71
 1301 A general_aviation 
-1300  40.79914322 -074.42490901  25.21 tie_down turboprops|props GA 76
+1300  40.79955164 -074.42609800  25.09 tie_down turboprops|props GA 70
 1301 A general_aviation 
-1300  40.79919479 -074.42506362  25.89 tie_down turboprops|props GA 75
+1300  40.79960745 -074.42624493  25.09 tie_down turboprops|props GA 69
 1301 A general_aviation 
-1300  40.79903281 -074.42489238 -155.29 tie_down turboprops|props GA 56
+1300  40.79954285 -074.42636524 -154.38 tie_down turboprops|props GA 68
 1301 A general_aviation 
-1300  40.79908085 -074.42503432 -154.20 tie_down turboprops|props GA 57
+1300  40.79948881 -074.42621865 -154.38 tie_down turboprops|props GA 67
 1301 A general_aviation 
-1300  40.79935424 -074.42639487  24.92 tie_down turboprops|props GA 46
+1300  40.79943911 -074.42607305 -154.38 tie_down turboprops|props GA 66
 1301 A general_aviation 
-1300  40.79930393 -074.42624170  24.84 tie_down turboprops|props GA 47
+1300  40.79938994 -074.42592851 -154.38 tie_down turboprops|props GA 65
 1301 A general_aviation 
-1300  40.79925083 -074.42609205  25.99 tie_down turboprops|props GA 48
+1300  40.79933763 -074.42577539 -154.38 tie_down turboprops|props GA 64
 1301 A general_aviation 
-1300  40.79920051 -074.42596062  25.15 tie_down turboprops|props GA 49
+1300  40.79928398 -074.42562222 -154.38 tie_down turboprops|props GA 63
 1301 A general_aviation 
-1300  40.79914829 -074.42579624  26.21 tie_down turboprops|props GA 50
+1300  40.79923190 -074.42548709 -154.38 tie_down turboprops|props GA 62
 1301 A general_aviation 
-1300  40.79910018 -074.42565398  25.25 tie_down turboprops|props GA 51
+1300  40.79918460 -074.42533223 -154.38 tie_down turboprops|props GA 61
 1301 A general_aviation 
-1300  40.79905145 -074.42550772  25.33 tie_down turboprops|props GA 52
+1300  40.79913425 -074.42519565 -154.38 tie_down turboprops|props GA 60
 1301 A general_aviation 
-1300  40.79900418 -074.42536371  22.47 tie_down turboprops|props GA 53
+1300  40.79908085 -074.42503432 -154.38 tie_down turboprops|props GA 59
 1301 A general_aviation 
-1300  40.79894616 -074.42521054  25.29 tie_down turboprops|props GA 54
+1300  40.79903281 -074.42489238 -154.38 tie_down turboprops|props GA 58
 1301 A general_aviation 
-1300  40.79883134 -074.42519231 -152.87 tie_down turboprops|props GA 37
+1300  40.79889127 -074.42506822  25.04 tie_down turboprops|props GA 57
 1301 A general_aviation 
-1300  40.79888660 -074.42533748 -156.10 tie_down turboprops|props GA 38
+1300  40.79894616 -074.42521054  25.04 tie_down turboprops|props GA 56
 1301 A general_aviation 
-1300  40.79893663 -074.42548512 -155.31 tie_down turboprops|props GA 39
+1300  40.79900418 -074.42536371  25.04 tie_down turboprops|props GA 55
 1301 A general_aviation 
-1300  40.79899638 -074.42562920 -154.48 tie_down turboprops|props GA 40
+1300  40.79905145 -074.42550772  25.04 tie_down turboprops|props GA 54
 1301 A general_aviation 
-1300  40.79904228 -074.42577582 -155.25 tie_down turboprops|props GA 41
+1300  40.79910018 -074.42565398  25.04 tie_down turboprops|props GA 53
 1301 A general_aviation 
-1300  40.79909009 -074.42592565 -154.93 tie_down turboprops|props GA 42
+1300  40.79914829 -074.42579624  25.04 tie_down turboprops|props GA 52
 1301 A general_aviation 
-1300  40.79914317 -074.42607164 -154.35 tie_down turboprops|props GA 43
+1300  40.79920051 -074.42596062  25.04 tie_down turboprops|props GA 51
 1301 A general_aviation 
-1300  40.79919152 -074.42622509 -155.89 tie_down turboprops|props GA 44
+1300  40.79925083 -074.42609205  25.04 tie_down turboprops|props GA 50
 1301 A general_aviation 
-1300  40.79924501 -074.42636494 -154.41 tie_down turboprops|props GA 45
+1300  40.79930393 -074.42624170  25.04 tie_down turboprops|props GA 49
 1301 A general_aviation 
-1300  40.79910587 -074.42654382  25.43 tie_down turboprops|props GA 26
+1300  40.79935424 -074.42639487  25.04 tie_down turboprops|props GA 48
 1301 A general_aviation 
-1300  40.79905131 -074.42639387  24.72 tie_down turboprops|props GA 27
+1300  40.79924501 -074.42636494 -154.34 tie_down turboprops|props GA 47
 1301 A general_aviation 
-1300  40.79900543 -074.42624816  26.63 tie_down turboprops|props GA 28
+1300  40.79919152 -074.42622509 -154.34 tie_down turboprops|props GA 46
 1301 A general_aviation 
-1300  40.79895256 -074.42609731  25.89 tie_down turboprops|props GA 29
+1300  40.79914317 -074.42607164 -154.34 tie_down turboprops|props GA 45
 1301 A general_aviation 
-1300  40.79889788 -074.42594856  24.78 tie_down turboprops|props GA 30
+1300  40.79909009 -074.42592565 -154.34 tie_down turboprops|props GA 44
 1301 A general_aviation 
-1300  40.79885076 -074.42579921  24.11 tie_down turboprops|props GA 31
+1300  40.79904228 -074.42577582 -154.34 tie_down turboprops|props GA 43
 1301 A general_aviation 
-1300  40.79880029 -074.42564844  24.52 tie_down turboprops|props GA 32
+1300  40.79899638 -074.42562920 -154.34 tie_down turboprops|props GA 42
 1301 A general_aviation 
-1300  40.79874785 -074.42550280  25.39 tie_down turboprops|props GA 33
+1300  40.79893663 -074.42548512 -154.34 tie_down turboprops|props GA 41
 1301 A general_aviation 
-1300  40.79889127 -074.42506822  25.67 tie_down turboprops|props GA 55
+1300  40.79888660 -074.42533748 -154.34 tie_down turboprops|props GA 40
 1301 A general_aviation 
-1300  40.79864766 -074.42520972  25.67 tie_down turboprops|props GA 35
+1300  40.79883134 -074.42519231 -154.34 tie_down turboprops|props GA 39
 1301 A general_aviation 
-1300  40.79869891 -074.42535822  25.69 tie_down turboprops|props GA 34
+1300  40.79878516 -074.42504586 -154.34 tie_down turboprops|props GA 38
 1301 A general_aviation 
-1300  40.79878516 -074.42504586 -153.66 tie_down turboprops|props GA 36
+1300  40.79864766 -074.42520972  25.11 tie_down turboprops|props GA 37
 1301 A general_aviation 
-1300  40.79854156 -074.42518737 -153.66 tie_down turboprops|props GA 16
+1300  40.79869891 -074.42535822  25.11 tie_down turboprops|props GA 36
 1301 A general_aviation 
-1300  40.79859069 -074.42533417 -154.69 tie_down turboprops|props GA 17
+1300  40.79874785 -074.42550280  25.11 tie_down turboprops|props GA 35
 1301 A general_aviation 
-1300  40.79864044 -074.42549244 -154.66 tie_down turboprops|props GA 18
+1300  40.79880029 -074.42564844  25.11 tie_down turboprops|props GA 34
 1301 A general_aviation 
-1300  40.79868785 -074.42562571 -154.29 tie_down turboprops|props GA 19
+1300  40.79885076 -074.42579921  25.11 tie_down turboprops|props GA 33
 1301 A general_aviation 
-1300  40.79874139 -074.42578103 -154.71 tie_down turboprops|props GA 20
+1300  40.79889788 -074.42594856  25.11 tie_down turboprops|props GA 32
 1301 A general_aviation 
-1300  40.79879233 -074.42592482 -153.59 tie_down turboprops|props GA 21
+1300  40.79895256 -074.42609731  25.11 tie_down turboprops|props GA 31
 1301 A general_aviation 
-1300  40.79884434 -074.42608064 -155.09 tie_down turboprops|props GA 22
+1300  40.79900543 -074.42624816  25.11 tie_down turboprops|props GA 30
 1301 A general_aviation 
-1300  40.79889223 -074.42621632 -154.84 tie_down turboprops|props GA 23
+1300  40.79905131 -074.42639387  25.11 tie_down turboprops|props GA 29
 1301 A general_aviation 
-1300  40.79899268 -074.42652115 -155.01 tie_down turboprops|props GA 25
+1300  40.79910587 -074.42654382  25.11 tie_down turboprops|props GA 28
 1301 A general_aviation 
-1300  40.79894308 -074.42637265 -154.41 tie_down turboprops|props GA 24
+1300  40.79899268 -074.42652115 -154.41 tie_down turboprops|props GA 27
 1301 A general_aviation 
-1300  40.79862029 -074.42599916  24.28 tie_down turboprops|props GA 15
+1300  40.79894308 -074.42637265 -154.41 tie_down turboprops|props GA 26
 1301 A general_aviation 
-1300  40.79866744 -074.42612785  27.00 tie_down turboprops|props GA 14
+1300  40.79889223 -074.42621632 -154.41 tie_down turboprops|props GA 25
 1301 A general_aviation 
-1300  40.79871632 -074.42626753  25.40 tie_down turboprops|props GA 13
+1300  40.79884434 -074.42608064 -154.41 tie_down turboprops|props GA 24
 1301 A general_aviation 
-1300  40.79875754 -074.42639589  25.08 tie_down turboprops|props GA 12
+1300  40.79879233 -074.42592482 -154.41 tie_down turboprops|props GA 23
 1301 A general_aviation 
-1300  40.79880753 -074.42653813  25.63 tie_down turboprops|props GA 11
+1300  40.79874139 -074.42578103 -154.41 tie_down turboprops|props GA 22
 1301 A general_aviation 
-1300  40.79885557 -074.42667422  26.05 tie_down turboprops|props GA 10
+1300  40.79868785 -074.42562571 -154.41 tie_down turboprops|props GA 21
 1301 A general_aviation 
-1300  40.79880590 -074.42679711 -155.56 tie_down turboprops|props GA 09
+1300  40.79864044 -074.42549244 -154.41 tie_down turboprops|props GA 20
 1301 A general_aviation 
-1300  40.79875517 -074.42665824 -154.36 tie_down turboprops|props GA 08
+1300  40.79859069 -074.42533417 -154.41 tie_down turboprops|props GA 19
 1301 A general_aviation 
-1300  40.79870835 -074.42652777 -155.00 tie_down turboprops|props GA 07
+1300  40.79854156 -074.42518737 -154.41 tie_down turboprops|props GA 18
 1301 A general_aviation 
-1300  40.79866299 -074.42638292 -154.42 tie_down turboprops|props GA 06
+1300  40.79862029 -074.42599916  24.28 tie_down turboprops|props GA 17
 1301 A general_aviation 
-1300  40.79861384 -074.42625017 -154.98 tie_down turboprops|props GA 05
+1300  40.79866744 -074.42612785  27.00 tie_down turboprops|props GA 16
 1301 A general_aviation 
-1300  40.79857421 -074.42611487 -151.72 tie_down turboprops|props GA 04
+1300  40.79871632 -074.42626753  25.40 tie_down turboprops|props GA 15
+1301 A general_aviation 
+1300  40.79875754 -074.42639589  25.08 tie_down turboprops|props GA 14
+1301 A general_aviation 
+1300  40.79880753 -074.42653813  25.63 tie_down turboprops|props GA 13
+1301 A general_aviation 
+1300  40.79885557 -074.42667422  26.05 tie_down turboprops|props GA 12
+1301 A general_aviation 
+1300  40.79880590 -074.42679711 -155.56 tie_down turboprops|props GA 11
+1301 A general_aviation 
+1300  40.79875517 -074.42665824 -154.36 tie_down turboprops|props GA 10
+1301 A general_aviation 
+1300  40.79870835 -074.42652777 -155.00 tie_down turboprops|props GA 09
+1301 A general_aviation 
+1300  40.79866299 -074.42638292 -154.42 tie_down turboprops|props GA 08
+1301 A general_aviation 
+1300  40.79861384 -074.42625017 -154.98 tie_down turboprops|props GA 07
+1301 A general_aviation 
+1300  40.79857421 -074.42611487 -151.72 tie_down turboprops|props GA 06
 1301 A general_aviation 
 1300  40.79816243 -074.42568454 237.36 tie_down turboprops|props GA 05
 1301 A general_aviation 
