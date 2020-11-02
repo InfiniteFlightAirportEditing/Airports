@@ -495,9 +495,9 @@ I
 1301 D airline 
 1300  61.15720103  012.83844089 279.93 gate jets|turboprops Apron 1-4
 1301 D airline 
-1300  61.15800170  012.83789328 146.79 tie_down jets|turboprops|props|helos Apron GA 13
+1300  61.15800170  012.83789328 146.79 tie_down jets|turboprops|props|helos Apron GA 11
 1301 B general_aviation 
-1300  61.15788892  012.83754464 146.79 tie_down jets|turboprops|props|helos Apron GA 13
+1300  61.15788892  012.83754464 146.79 tie_down jets|turboprops|props|helos Apron GA 12
 1301 B general_aviation 
 1300  61.15777556  012.83719420 146.79 tie_down jets|turboprops|props|helos Apron GA 13
 1301 B general_aviation 
