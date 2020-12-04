@@ -6709,7 +6709,7 @@ I
 111  55.98440925  037.38249346
 111  55.98441829  037.38248784
 113  55.98438725  037.38229190
-130 Airport Boundary 1
+130 Airport Boundary
 111  55.96556194  037.42528352
 111  55.96566220  037.42538094
 111  55.96582091  037.42542218
@@ -26784,7 +26784,7 @@ I
 21  55.97669406  037.43653702 2 255.0600 2.98 PAPI-24C-L
 21  55.96844755  037.39148051 2 75.0500 2.98 PAPI-06R-L
 21  55.97425824  037.43767649 2 255.0500 2.98 PAPI-24L-L
-14  55.98204080  037.41725868  82.02 0 Tower 1
+14  55.98204080  037.41725868  82.02 0 Tower Viewpoint
 1300  55.96567315  037.39803548  75.20 gate jets|turboprops Terminal D Remote 01
 1301 D airline 
 1300  55.96595722  037.39798287  28.21 gate heavy|jets|turboprops Terminal D Remote 01A
@@ -27417,7 +27417,7 @@ I
 1301 B none 
 1300  55.98295951  037.44079074 191.73 hangar jets|turboprops|props West Hangar 4
 1301 B none 
-18  55.98204080  037.41725868 1 New Airport Beacon 1
+18  55.98204080  037.41725868 1 Airport Beacon
 50 12207 ATIS
 50 12512 ATIS
 54 13150 Sheremetyevo Tower
@@ -27432,11 +27432,13 @@ I
 53 13455 Sheremetyevo Apron 4
 52 12860 Sheremetyevo Clearance Delivery
 52 12087 Sheremetyevo Clearance Delivery
-55 11930 Sheremetyevo Approach
-55 12370 Sheremetyevo Approach
-55 11945 Moscow Approach
-55 12440 Moscow Approach
-55 12900 Moscow Approach
-55 11810 Sheremetyevo Radar
-55 12660 Sheremetyevo Radar
+55 12720 Moscow Approach
+55 12800 Moscow Approach
+55 13400 Moscow Approach
+55 13120 Moscow Approach
+55 13467 Moscow Approach
+56 11895 Moscow Departure
+56 11855 Moscow Departure
+56 13037 Moscow Departure
+56 12420 Moscow Departure
 99
