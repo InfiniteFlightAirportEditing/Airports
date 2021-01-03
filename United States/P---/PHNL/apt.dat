@@ -944,7 +944,6 @@ I
 111  21.33032795 -157.91989809
 111  21.33028266 -157.91990610
 111  21.33024043 -157.91991356
-111  21.32923574 -157.92009118
 111  21.32915552 -157.92010536
 112  21.32922802 -157.92056437  21.32939967 -157.92075876
 111  21.32922802 -157.92056437
@@ -4683,8 +4682,7 @@ I
 115  21.33267619 -157.92452842
 120 Linear Feature 169
 111  21.32847235 -157.91931523 51
-111  21.32920035 -157.92005521 51
-115  21.32923574 -157.92009118
+115  21.32916259 -157.92001683
 120 Linear Feature 168
 111  21.32934694 -157.91916389 51
 115  21.32946589 -157.91994990
@@ -6669,8 +6667,8 @@ I
 111  21.32613703 -157.94282639 51 105
 115  21.32545979 -157.94210325
 120 Linear Feature 172
-111  21.32546184 -157.94279026 51 101
-111  21.32597884 -157.94276824 51 101
+111  21.32546184 -157.94279026 51 105
+111  21.32597884 -157.94276824 51 105
 112  21.32613703 -157.94282639  21.32620054 -157.94288220
 111  21.32613703 -157.94282639 51 101
 111  21.32616665 -157.94285797 57 105
@@ -10665,21 +10663,21 @@ I
 1301 E cargo 
 1300  21.32855558 -157.93091102 359.67 gate jets|turboprops|props Aloha Air Cargo Gate 90A
 1301 C airline 
-1300  21.33509847 -157.92417044  98.56 gate jets|turboprops|props Gate A13
+1300  21.33509847 -157.92417044  99.78 gate jets|turboprops|props Gate A13
 1301 C airline 
-1300  21.33479853 -157.92427029  98.56 gate jets|turboprops|props Gate A14
+1300  21.33479853 -157.92427029  99.24 gate jets|turboprops|props Gate A14
 1301 C airline 
 1300  21.33448737 -157.92429415  98.56 gate jets|turboprops|props Gate A15
 1301 C airline 
-1300  21.33417398 -157.92438061  98.56 gate jets|turboprops|props Gate A16
+1300  21.33417398 -157.92438061  99.20 gate jets|turboprops|props Gate A16
 1301 C airline 
 1300  21.33385114 -157.92440000  98.56 gate jets|turboprops|props Gate A17
 1301 C airline 
-1300  21.33311037 -157.92453447 100.75 gate jets|turboprops|props Gate A19
+1300  21.33311037 -157.92453447  99.22 gate jets|turboprops|props Gate A19
 1301 C airline 
-1300  21.33267619 -157.92452842 100.75 gate jets|turboprops|props Gate A20
+1300  21.33267619 -157.92452842  99.37 gate jets|turboprops|props Gate A20
 1301 C airline 
-1300  21.33343619 -157.92450285  98.56 gate jets|turboprops|props Gate A18
+1300  21.33343619 -157.92450285  99.10 gate jets|turboprops|props Gate A18
 1301 C airline 
 1300  21.33222430 -157.92496431 153.32 gate jets|turboprops|props Gate B5
 1301 C airline 
@@ -10705,30 +10703,30 @@ I
 1301 E airline 
 1300  21.33083906 -157.92310348 -81.16 gate jets|turboprops|props Gate C1
 1301 E airline 
-1300  21.33159449 -157.92190319   9.79 gate jets|turboprops|props Gate D2
-1301 C airline 
-1300  21.33153325 -157.92121470   9.79 gate jets|turboprops|props Gate D1
-1301 C airline 
+1300  21.33159449 -157.92190319   9.53 gate jets|turboprops|props Gate D2
+1301 E airline 
+1300  21.33153325 -157.92121470   9.36 gate jets|turboprops|props Gate D1
+1301 E airline 
 1300  21.33060021 -157.92045145  98.68 gate jets|turboprops|props Gate E1
-1301 C airline 
+1301 D airline 
 1300  21.33008094 -157.92054605  98.68 gate jets|turboprops|props Gate E3
-1301 C airline 
-1300  21.32957773 -157.92071284  98.68 gate jets|turboprops|props Gate E5
-1301 C airline 
-1300  21.32927063 -157.92068808  67.30 gate jets|turboprops|props Gate E7
-1301 C airline 
+1301 D airline 
+1300  21.32957773 -157.92071284  99.17 gate jets|turboprops|props Gate E5
+1301 D airline 
+1300  21.32927063 -157.92068808  67.61 gate jets|turboprops|props Gate E7
+1301 D airline 
 1300  21.32888860 -157.92059598  42.04 gate jets|turboprops|props Gate E9
-1301 C airline 
+1301 D airline 
 1300  21.32893106 -157.92025041  -3.20 gate jets|turboprops|props Gate E10
-1301 C airline 
-1300  21.32920035 -157.92005521 -43.68 gate jets|turboprops|props Gate E8
-1301 C airline 
+1301 D airline 
+1300  21.32916259 -157.92001683 -43.68 gate jets|turboprops|props Gate E8
+1301 D airline 
 1300  21.32946589 -157.91994990 -81.05 gate jets|turboprops|props Gate E6
-1301 C airline 
+1301 D airline 
 1300  21.32997829 -157.91984261 -81.05 gate jets|turboprops|props Gate E4
-1301 C airline 
+1301 D airline 
 1300  21.33049655 -157.91976292 -81.05 gate jets|turboprops|props Gate E2
-1301 C airline 
+1301 D airline 
 1300  21.33117064 -157.91870779  10.09 gate heavy|jets|turboprops|props Gate F1
 1301 E airline 
 1300  21.33110893 -157.91803476   9.58 gate heavy|jets|turboprops|props Gate F2
