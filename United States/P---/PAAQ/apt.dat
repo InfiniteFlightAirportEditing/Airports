@@ -2489,9 +2489,9 @@ I
 1301 A general_aviation 
 1300  61.60270149 -149.09128584  73.99 tie_down turboprops|props North Ramp 32
 1301 A general_aviation 
-1300  61.60320350 -149.09187538  91.72 gate jets|turboprops|props North Stand 12
+1300  61.60320350 -149.09187538  91.72 gate jets|turboprops|props North Stand 13
 1301 B airline 
-1300  61.60320531 -149.09257161  91.52 gate jets|turboprops|props North Stand 11
+1300  61.60320531 -149.09257161  91.52 gate jets|turboprops|props North Stand 12
 1301 B airline 
 1300  61.60227071 -149.09482640  19.67 tie_down turboprops|props North Dirt Stand 3
 1301 A general_aviation 
@@ -2613,11 +2613,11 @@ I
 1301 B airline 
 1300  61.60526689 -149.09315714 133.72 tie_down turboprops|props North Stand 2
 1301 A general_aviation 
-1300  61.60409686 -149.09221137 -269.68 gate jets|turboprops|props North Stand 10
+1300  61.60409686 -149.09221137 -269.68 gate jets|turboprops|props North Stand 11
 1301 C airline 
 1300  61.60360936 -149.09422633   0.13 gate jets|turboprops|props North Stand 9
 1301 B airline 
-1300  61.60376851 -149.09220866 -269.68 gate jets|turboprops|props North Stand 9
+1300  61.60376851 -149.09220866 -269.68 gate jets|turboprops|props North Stand 10
 1301 C airline 
 1300  61.60530567 -149.09275465 -178.80 gate jets|turboprops|props North Stand 1
 1301 C airline 
