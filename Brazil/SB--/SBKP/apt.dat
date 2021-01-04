@@ -5101,11 +5101,11 @@ A
 1301 C none 
 1300 -23.01831818 -047.12554313 128.19 misc heavy|jets|turboprops|props Azul Ramp 01
 1301 E none 
-1300 -23.01884926 -047.12566585  37.74 hangar heavy|jets|turboprops|props Azul Hangar - 01L
-1301 F none 
-1300 -23.01902755 -047.12541139  37.74 hangar heavy|jets|turboprops|props Azul Hangar - 01
+1300 -23.01900948 -047.12540265  37.64 hangar heavy|jets|turboprops|props Azul Hangar - 01
 1301 E none 
-1300 -23.01938522 -047.12491532  37.74 hangar heavy|jets|turboprops|props Azul Hangar - 02
+1300 -23.01979876 -047.12529257 217.75 hangar heavy|jets|turboprops|props Azul Hangar - 02
+1301 E none 
+1300 -23.01927904 -047.12601595 217.75 hangar heavy|jets|turboprops|props Azul Hangar - 01L
 1301 E none 
 1300 -23.00289911 -047.14710414 -142.78 gate jets|turboprops Remote 107
 1301 C airline 
