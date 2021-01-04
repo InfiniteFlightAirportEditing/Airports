@@ -606,19 +606,19 @@ I
 21  70.19350207 -148.48320404 1 74.5163 3.00 New Light Fixture 5
 21  70.19599649 -148.44745608 1 255.1693 3.00 New Light Fixture 4
 14  70.19924935 -148.45499561  82.02 0 New Tower Viewpoint 7
-1300  70.19874817 -148.44895622 343.11 tie_down jets Tiedown 17
+1300  70.19874817 -148.44895622 343.11 tie_down jets Tiedown 18
 1301 A general_aviation 
-1300  70.19878520 -148.44858508 343.11 tie_down jets Tiedown 16
+1300  70.19878520 -148.44858508 343.11 tie_down jets Tiedown 17
 1301 A general_aviation 
-1300  70.19882223 -148.44821903 343.11 tie_down jets Tiedown 15
+1300  70.19882223 -148.44821903 343.11 tie_down jets Tiedown 16
 1301 A general_aviation 
-1300  70.19886012 -148.44785297 343.11 tie_down jets Tiedown 14
+1300  70.19886012 -148.44785297 343.11 tie_down jets Tiedown 15
 1301 A general_aviation 
-1300  70.19889629 -148.44748946 343.11 tie_down jets Tiedown 13
+1300  70.19889629 -148.44748946 343.11 tie_down jets Tiedown 14
 1301 A general_aviation 
 1300  70.19883960 -148.45501707  74.41 gate jets Gate 1
 1301 C airline 
-1300  70.19860154 -148.45756285 165.65 tie_down jets|turboprops|props Tiedown 1
+1300  70.19860154 -148.45756285 165.65 tie_down jets|turboprops|props Tiedown 13
 1301 B general_aviation 
 1300  70.19855442 -148.45811925 165.65 tie_down jets|turboprops|props Tiedown 12
 1301 B general_aviation 
