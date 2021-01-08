@@ -21749,7 +21749,7 @@ I
 112  35.03179351 -089.97402753  35.03187422 -089.97388594
 111  35.03179351 -089.97402753 51 101
 111  35.03188302 -089.97389087 57 105
-111  35.03205266 -089.97369533 57 105
+112  35.03205266 -089.97369533  35.03208612 -089.97366017 57 105
 111  35.03219870 -089.97355203 51 105
 111  35.03224894 -089.97350449 51 105
 111  35.03236937 -089.97340420
@@ -24273,9 +24273,9 @@ I
 1300  35.06719279 -089.97703589  -0.69 gate jets|turboprops|props FedEx Ramp 671
 1301 D cargo 
 1300  35.06713902 -089.97768014  -0.50 gate jets|turboprops|props FedEx Ramp 670
-1301 D cargo 
+1301 C cargo 
 1300  35.06713650 -089.97819759  -0.26 gate jets|turboprops|props FedEx Ramp 669
-1301 D cargo 
+1301 C cargo 
 1300  35.06553050 -089.97061824 179.77 gate jets|turboprops|props FedEx Ramp 656
 1301 D cargo 
 1300  35.06552659 -089.97128635 179.77 gate jets|turboprops|props FedEx Ramp 655
@@ -24631,7 +24631,7 @@ I
 1300  35.04476305 -089.97915235 -65.14 gate jets|turboprops|props Gate C14B
 1301 B airline 
 1300  35.04490536 -089.97928280 -103.33 gate jets|turboprops|props Gate C14A
-1301 C airline 
+1301 B airline 
 1300  35.04487698 -089.97926418 -67.85 gate jets|turboprops|props Gate C14
 1301 C airline 
 1300  35.04433624 -089.97925390 -97.65 gate jets|turboprops|props Gate C12B
@@ -24639,23 +24639,23 @@ I
 1300  35.04414857 -089.97911457 -53.70 gate jets|turboprops|props Gate C12
 1301 B airline 
 1300  35.04362604 -089.97995494  88.71 gate jets|turboprops|props Gate C11
-1301 C airline 
+1301 B airline 
 1300  35.04373286 -089.97932594 -90.41 gate jets|turboprops|props Gate C10
 1301 C airline 
 1300  35.04333674 -089.97999116  88.96 gate jets|turboprops|props Gate C9
-1301 C airline 
+1301 B airline 
 1300  35.04350067 -089.97912183 -51.32 gate jets|turboprops|props Gate C8A
 1301 C airline 
 1300  35.04343421 -089.97915560 -73.55 gate jets|turboprops|props Gate C8
-1301 C airline 
+1301 B airline 
 1300  35.04302594 -089.97998511  88.82 gate jets|turboprops|props Gate C7
-1301 C airline 
+1301 B airline 
 1300  35.04286861 -089.97991390  43.87 gate jets|turboprops|props Gate C5
 1301 B airline 
 1300  35.04310635 -089.97919128 -59.69 gate jets|turboprops|props Gate C4
 1301 C airline 
 1300  35.04266893 -089.97974912  14.37 gate jets|turboprops|props Gate C3
-1301 C airline 
+1301 B airline 
 1300  35.04274568 -089.97917489 -45.79 gate jets|turboprops|props Gate C2
 1301 C airline 
 1300  35.04263022 -089.97943113  -9.23 gate jets|turboprops|props Gate C1
