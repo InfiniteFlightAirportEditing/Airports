@@ -30731,7 +30731,7 @@ I
 21  41.26934319  028.71044046 3 359.8200 3.00 PAPI 34R
 21  41.28668460  028.75666397 2 178.6000 3.00 New Light Fixture 390
 14  41.28408525  028.71742542 295.28 0 Tower 1
-1300  41.27626955  028.71399397  88.80 tie_down heavy|jets Cargo Apron K53
+1300  41.27626955  028.71399397  89.34 tie_down heavy|jets Cargo Apron K53
 1301 E cargo 
 1300  41.27692232  028.71397313  89.08 tie_down heavy|jets Cargo Apron K52
 1301 E cargo 
@@ -30749,9 +30749,9 @@ I
 1301 E cargo 
 1300  41.27431028  028.72067507 -91.37 tie_down heavy|jets Cargo Apron K16
 1301 E cargo 
-1300  41.27496235  028.72064952 -91.62 tie_down heavy|jets Cargo Apron K17
+1300  41.27496235  028.72064952 -91.02 tie_down heavy|jets Cargo Apron K17
 1301 E cargo 
-1300  41.27561604  028.72064370 -91.71 tie_down heavy|jets Cargo Apron K18
+1300  41.27561604  028.72064370 -91.01 tie_down heavy|jets Cargo Apron K18
 1301 E cargo 
 1300  41.27706129  028.72060987 -91.50 tie_down heavy|jets Cargo Apron K19
 1301 E cargo 
@@ -30799,13 +30799,13 @@ I
 1301 C cargo 
 1300  41.26868709  028.71327076  -1.48 tie_down jets|turboprops Cargo Apron K1L
 1301 C cargo 
-1300  41.26906681  028.72141858  -1.50 tie_down heavy|jets Cargo Apron K9
+1300  41.26906681  028.72141858  -0.72 tie_down heavy|jets Cargo Apron K9
 1301 E cargo 
-1300  41.26905680  028.72045041  -1.26 tie_down heavy|jets Cargo Apron K8
+1300  41.26905680  028.72045041  -0.75 tie_down heavy|jets Cargo Apron K8
 1301 E cargo 
 1300  41.26903806  028.71948395  -1.08 tie_down heavy|jets Cargo Apron K7
 1301 E cargo 
-1300  41.26903160  028.71832625  -1.02 tie_down heavy|jets Cargo Apron K6
+1300  41.26903160  028.71832625  -0.37 tie_down heavy|jets Cargo Apron K6
 1301 E cargo 
 1300  41.26901654  028.71736227  -0.79 tie_down heavy Cargo Apron K5
 1301 E cargo 
@@ -30827,7 +30827,7 @@ I
 1301 E cargo 
 1300  41.26608691  028.72016473   0.00 tie_down jets De-Ice Apron H25R
 1301 C airline 
-1300  41.26607820  028.71889609   0.16 tie_down jets De-Ice Apron H24R
+1300  41.26607820  028.71889609  -0.49 tie_down jets De-Ice Apron H24R
 1301 C airline 
 1300  41.26606085  028.71764314  -0.25 tie_down jets De-Ice Apron H23R
 1301 C airline 
@@ -30837,7 +30837,7 @@ I
 1301 C airline 
 1300  41.26601683  028.71380338  -0.72 tie_down jets De-Ice Apron H20R
 1301 C airline 
-1300  41.26607751  028.71959082   0.19 tie_down jets De-Ice Apron H25L
+1300  41.26607751  028.71959082  -0.22 tie_down jets De-Ice Apron H25L
 1301 C airline 
 1300  41.26606880  028.71832218   0.18 tie_down jets De-Ice Apron H24L
 1301 C airline 
@@ -30849,9 +30849,9 @@ I
 1301 C airline 
 1300  41.26600744  028.71322946  -1.03 tie_down jets De-Ice Apron H20L
 1301 C airline 
-1300  41.26624387  028.71986958   0.62 tie_down heavy De-Ice Apron H25
+1300  41.26624387  028.71986958   0.03 tie_down heavy De-Ice Apron H25
 1301 F airline 
-1300  41.26623516  028.71860094   0.45 tie_down heavy De-Ice Apron H24
+1300  41.26623516  028.71860094   0.25 tie_down heavy De-Ice Apron H24
 1301 F airline 
 1300  41.26621781  028.71734798   0.00 tie_down heavy De-Ice Apron H23
 1301 F airline 
@@ -30865,9 +30865,9 @@ I
 1301 C airline 
 1300  41.29560814  028.71716579 178.57 tie_down jets De-Ice Apron H13R
 1301 C airline 
-1300  41.29558707  028.71589818 178.26 tie_down jets De-Ice Apron H12R
+1300  41.29558707  028.71589818 179.15 tie_down jets De-Ice Apron H12R
 1301 C airline 
-1300  41.29557343  028.71462235 178.21 tie_down jets De-Ice Apron H11R
+1300  41.29557343  028.71462235 179.00 tie_down jets De-Ice Apron H11R
 1301 C airline 
 1300  41.29555834  028.71335093 178.55 tie_down jets De-Ice Apron H10R
 1301 C airline 
@@ -30885,13 +30885,13 @@ I
 1301 F airline 
 1300  41.29545180  028.71745744 178.60 tie_down heavy De-Ice Apron H13
 1301 F airline 
-1300  41.29543440  028.71619081 178.00 tie_down heavy De-Ice Apron H12
+1300  41.29543440  028.71619081 179.25 tie_down heavy De-Ice Apron H12
 1301 F airline 
-1300  41.29542031  028.71491766 178.33 tie_down heavy De-Ice Apron H11
+1300  41.29542031  028.71491766 179.08 tie_down heavy De-Ice Apron H11
 1301 F airline 
-1300  41.29540011  028.71364502 178.59 tie_down heavy De-Ice Apron H10
-1301 E airline 
-1300  41.29357537  028.72076268 -179.24 tie_down heavy Remote Stand 409
+1300  41.29540011  028.71364502 179.16 tie_down heavy De-Ice Apron H10
+1301 F airline 
+1300  41.29357537  028.72076268 179.08 tie_down heavy Remote Stand 409
 1301 E airline 
 1300  41.29356334  028.71989879 179.71 tie_down heavy Remote Stand 408
 1301 E airline 
@@ -30899,13 +30899,13 @@ I
 1301 E airline 
 1300  41.29354463  028.71817339 178.92 tie_down heavy Remote Stand 406
 1301 E airline 
-1300  41.29382036  028.71748151 178.65 tie_down jets Remote Stand 405L
+1300  41.29382036  028.71748151 179.12 tie_down jets Remote Stand 405L
 1301 C airline 
 1300  41.29357390  028.71695631 179.00 tie_down jets Remote Stand 405R
 1301 C airline 
 1300  41.29353048  028.71722259 179.50 tie_down heavy Remote Stand 405
 1301 E airline 
-1300  41.29350990  028.71626613 179.66 tie_down heavy Remote Stand 404
+1300  41.29350990  028.71626613 179.14 tie_down heavy Remote Stand 404
 1301 E airline 
 1300  41.29351072  028.71540292 179.63 tie_down heavy Remote Stand 403
 1301 E airline 
@@ -30929,7 +30929,7 @@ I
 1301 E airline 
 1300  41.25146197  028.73282572  88.82 tie_down heavy|jets Turkish Airlines Maintenance Apron 218
 1301 E airline 
-1300  41.24899778  028.73189520 178.89 tie_down jets Remote Stand 224L
+1300  41.24899778  028.73189520 179.79 tie_down jets Remote Stand 224L
 1301 C airline 
 1300  41.24910202  028.73575687 179.26 tie_down jets Remote Stand 220L
 1301 C airline 
@@ -30937,9 +30937,9 @@ I
 1301 C airline 
 1300  41.24907542  028.73382515 179.08 tie_down jets Remote Stand 222L
 1301 C airline 
-1300  41.24901584  028.73285800 178.75 tie_down jets Remote Stand 223L
+1300  41.24901584  028.73285800 179.79 tie_down jets Remote Stand 223L
 1301 C airline 
-1300  41.24877357  028.73141902 178.81 tie_down jets Remote Stand 224R
+1300  41.24877357  028.73141902 179.23 tie_down jets Remote Stand 224R
 1301 C airline 
 1300  41.24887780  028.73528069 179.29 tie_down jets Remote Stand 220R
 1301 C airline 
@@ -30949,7 +30949,7 @@ I
 1301 C airline 
 1300  41.24879162  028.73238182 178.80 tie_down jets Remote Stand 223R
 1301 C airline 
-1300  41.24871154  028.73166203 178.73 tie_down heavy Remote Stand 224
+1300  41.24871154  028.73166203 179.21 tie_down heavy Remote Stand 224
 1301 E airline 
 1300  41.24881578  028.73552370 179.09 tie_down heavy Remote Stand 220
 1301 E airline 
@@ -30967,7 +30967,7 @@ I
 1301 C airline 
 1300  41.24989667  028.73652830  88.92 tie_down jets Remote Stand 214
 1301 C airline 
-1300  41.25026386  028.73652236  88.94 tie_down jets Remote Stand 213
+1300  41.25026386  028.73652236  89.95 tie_down jets Remote Stand 213
 1301 C airline 
 1300  41.25062660  028.73651822  88.84 tie_down jets Remote Stand 212
 1301 C airline 
@@ -31081,7 +31081,7 @@ I
 1301 C airline 
 1300  41.25716938  028.73730268  -0.69 gate heavy|jets Concourse A Gate A11
 1301 F airline 
-1300  41.25716180  028.73633643  -1.44 gate heavy|jets Concourse A Gate A10
+1300  41.25716180  028.73633643  -0.50 gate heavy|jets Concourse A Gate A10
 1301 E airline 
 1300  41.25688513  028.73706035  -1.32 gate jets Concourse A Gate A11L
 1301 C airline 
@@ -31103,7 +31103,7 @@ I
 1301 C airline 
 1300  41.25848469  028.73509672 107.45 gate jets Concourse A Gate A7L
 1301 C airline 
-1300  41.25924141  028.73540160 107.73 gate jets Concourse A Gate A6L
+1300  41.25924141  028.73540160 107.20 gate jets Concourse A Gate A6L
 1301 C airline 
 1300  41.25999816  028.73570582 107.73 gate jets Concourse A Gate A5L
 1301 C airline 
@@ -31115,7 +31115,7 @@ I
 1301 E airline 
 1300  41.25745416  028.73516673  89.69 gate heavy Concourse A Gate A8
 1301 E airline 
-1300  41.25820849  028.73534906 108.68 gate heavy Concourse A Gate A7
+1300  41.25820849  028.73534906 107.46 gate heavy Concourse A Gate A7
 1301 F airline 
 1300  41.25897231  028.73566608 106.81 gate heavy Concourse A Gate A6
 1301 F airline 
@@ -31133,7 +31133,7 @@ I
 1301 E airline 
 1300  41.26351860  028.73807813 -116.45 gate jets Concourse B Gate B2
 1301 C airline 
-1300  41.26401792  028.73777694 -109.19 gate jets Concourse B Gate B4
+1300  41.26401792  028.73777694 -108.42 gate jets Concourse B Gate B4
 1301 E airline 
 1300  41.26474639  028.73749533 -108.69 gate heavy Concourse B Gate B6
 1301 E airline 
@@ -31273,15 +31273,15 @@ I
 1301 C airline 
 1300  41.26604327  028.74974899 -71.75 gate jets Concourse F Gate F9R
 1301 C airline 
-1300  41.26761917  028.74732951 179.21 gate jets Concourse F Gate F15
+1300  41.26761917  028.74732951 178.83 gate jets Concourse F Gate F15
 1301 E airline 
 1300  41.26763481  028.74818790 178.79 gate jets Concourse F Gate F16
 1301 E airline 
-1300  41.26764451  028.74905564 178.62 gate jets Concourse F Gate F17
+1300  41.26764451  028.74905564 178.54 gate jets Concourse F Gate F17
 1301 E airline 
-1300  41.26796090  028.74978605 -89.91 gate jets Concourse F Gate F18
+1300  41.26796090  028.74978605 -91.03 gate jets Concourse F Gate F18
 1301 E airline 
-1300  41.26730764  028.74995680 -90.00 gate jets Concourse F Gate F19
+1300  41.26730764  028.74995680 -91.97 gate jets Concourse F Gate F19
 1301 E airline 
 1300  41.26680161  028.74995205 -82.23 gate jets Concourse F Gate F13R
 1301 C airline 
@@ -31319,11 +31319,11 @@ I
 1301 E airline 
 1300  41.26368112  028.74878596 -72.26 gate heavy Concourse F Gate F3
 1301 E airline 
-1300  41.26437127  028.74907657 -71.52 gate heavy Concourse F Gate F5
+1300  41.26437127  028.74907657 -72.70 gate heavy Concourse F Gate F5
 1301 F airline 
 1300  41.26512312  028.74941487 -72.76 gate heavy Concourse F Gate F7
 1301 F airline 
-1300  41.26588967  028.74969636 -70.78 gate heavy Concourse F Gate F9
+1300  41.26588967  028.74969636 -72.73 gate heavy Concourse F Gate F9
 1301 F airline 
 1300  41.26664365  028.74993280 -82.05 gate heavy Concourse F Gate F13
 1301 E airline 
@@ -31367,23 +31367,23 @@ I
 1301 E airline 
 1300  41.25744743  028.74924285  -0.52 gate heavy Concourse G Gate G10
 1301 E airline 
-1300  41.25740438  028.74824023   0.06 gate heavy Concourse G Gate G11
+1300  41.25740438  028.74824023  -0.83 gate heavy Concourse G Gate G11
 1301 E airline 
-1300  41.25811056  028.74988462 -109.15 gate heavy Concourse G Gate G8
+1300  41.25811056  028.74988462 -108.94 gate heavy Concourse G Gate G8
 1301 E airline 
-1300  41.25882080  028.74955505 -108.20 gate heavy Concourse G Gate G7
+1300  41.25882080  028.74955505 -108.97 gate heavy Concourse G Gate G7
 1301 E airline 
-1300  41.25953612  028.74923744 -108.78 gate heavy Concourse G Gate G6
+1300  41.25953612  028.74923744 -109.03 gate heavy Concourse G Gate G6
 1301 E airline 
-1300  41.26025110  028.74891339 -108.15 gate heavy Concourse G Gate G5
+1300  41.26025110  028.74891339 -109.37 gate heavy Concourse G Gate G5
 1301 E airline 
 1300  41.26106547  028.74853820 -108.24 gate heavy Concourse G Gate G4
 1301 E airline 
-1300  41.26178010  028.74820425 -109.18 gate heavy Concourse G Gate G2
+1300  41.26178010  028.74820425 -107.95 gate heavy Concourse G Gate G2
 1301 E airline 
-1300  41.27495259  028.73795678   0.14 tie_down jets Remote Stand 137R
+1300  41.27495259  028.73795678  -2.23 tie_down jets Remote Stand 137R
 1301 C airline 
-1300  41.27494220  028.73699152   0.18 tie_down jets Remote Stand 136R
+1300  41.27494220  028.73699152  -1.81 tie_down jets Remote Stand 136R
 1301 C airline 
 1300  41.27493306  028.73602237  -0.90 tie_down jets Remote Stand 135R
 1301 C airline 
@@ -31391,9 +31391,9 @@ I
 1301 C airline 
 1300  41.27491335  028.73409351  -2.07 tie_down jets Remote Stand 133R
 1301 C airline 
-1300  41.27477690  028.73749126   0.37 tie_down jets Remote Stand 137L
+1300  41.27477690  028.73749126  -0.73 tie_down jets Remote Stand 137L
 1301 C airline 
-1300  41.27476651  028.73652601   0.00 tie_down jets Remote Stand 136L
+1300  41.27476651  028.73652601  -0.94 tie_down jets Remote Stand 136L
 1301 C airline 
 1300  41.27475736  028.73555686  -1.53 tie_down jets Remote Stand 135L
 1301 C airline 
@@ -31401,15 +31401,15 @@ I
 1301 C airline 
 1300  41.27469592  028.73313573  -1.01 tie_down jets Remote Stand 132
 1301 C airline 
-1300  41.27473766  028.73362800  -1.99 tie_down jets Remote Stand 133L
+1300  41.27473766  028.73362800  -0.43 tie_down jets Remote Stand 133L
 1301 C airline 
-1300  41.27501223  028.73773311 360.00 tie_down heavy Remote Stand 137
+1300  41.27501223  028.73773311  -1.40 tie_down heavy Remote Stand 137
 1301 E airline 
-1300  41.27500184  028.73676785   0.02 tie_down heavy Remote Stand 136
+1300  41.27500184  028.73676785  -0.55 tie_down heavy Remote Stand 136
 1301 E airline 
 1300  41.27499269  028.73579870  -1.42 tie_down heavy Remote Stand 135
 1301 E airline 
-1300  41.27498791  028.73483390  -1.95 tie_down heavy Remote Stand 134
+1300  41.27498791  028.73483390  -0.92 tie_down heavy Remote Stand 134
 1301 E airline 
 1300  41.27497299  028.73386984  -1.54 tie_down heavy Remote Stand 133
 1301 E airline 
@@ -31435,35 +31435,35 @@ I
 1301 C airline 
 1300  41.27481257  028.74046491  -0.86 tie_down jets Remote Stand 139L
 1301 C airline 
-1300  41.27480218  028.73949799  -0.64 tie_down jets Remote Stand 138L
+1300  41.27480218  028.73949799  -1.14 tie_down jets Remote Stand 138L
 1301 C airline 
 1300  41.27508948  028.74474652  -0.75 tie_down heavy Remote Stand 143
 1301 E airline 
 1300  41.27508208  028.74377995  -1.03 tie_down heavy Remote Stand 142
 1301 E airline 
-1300  41.27506845  028.74281075  -0.91 tie_down heavy Remote Stand 141
+1300  41.27506845  028.74281075  -0.90 tie_down heavy Remote Stand 141
 1301 E airline 
-1300  41.27505875  028.74167183  -0.72 tie_down heavy Remote Stand 140
+1300  41.27505875  028.74167183  -0.86 tie_down heavy Remote Stand 140
 1301 E airline 
-1300  41.27504790  028.74070676  -0.64 tie_down heavy Remote Stand 139
+1300  41.27504790  028.74070676  -1.42 tie_down heavy Remote Stand 139
 1301 E airline 
-1300  41.27503751  028.73973983  -0.75 tie_down heavy Remote Stand 138
+1300  41.27503751  028.73973983  -1.22 tie_down heavy Remote Stand 138
 1301 E airline 
 1300  41.27531199  028.73748627 179.39 tie_down heavy Remote Stand 109
-1301 E airline 
+1301 C airline 
 1300  41.27530217  028.73700292 179.07 tie_down jets Remote Stand 108
 1301 C airline 
 1300  41.27529965  028.73651622 179.34 tie_down jets Remote Stand 107
 1301 C airline 
 1300  41.27529149  028.73603629 179.42 tie_down jets Remote Stand 106
 1301 C airline 
-1300  41.27528960  028.73554614 179.95 tie_down jets Remote Stand 105
+1300  41.27528960  028.73554614 178.87 tie_down jets Remote Stand 105
 1301 C airline 
 1300  41.27528750  028.73506503 179.95 tie_down jets Remote Stand 104
 1301 C airline 
 1300  41.27527993  028.73461985 179.35 tie_down jets Remote Stand 103
 1301 C airline 
-1300  41.27527696  028.73413715 -179.54 tie_down jets Remote Stand 102
+1300  41.27527696  028.73413715 179.54 tie_down jets Remote Stand 102
 1301 C airline 
 1300  41.27527191  028.73365950 179.75 tie_down jets Remote Stand 101
 1301 C airline 
@@ -31493,19 +31493,19 @@ I
 1301 C airline 
 1300  41.27533150  028.73948342 178.77 tie_down jets Remote Stand 110
 1301 C airline 
-1300  41.27492787  028.75133936   0.00 tie_down jets Remote Stand 149
+1300  41.27492787  028.75133936  -0.72 tie_down jets Remote Stand 149
 1301 C airline 
-1300  41.27509261  028.75083187  -0.27 tie_down jets Remote Stand 148R
+1300  41.27509261  028.75083187  -1.45 tie_down jets Remote Stand 148R
 1301 C airline 
 1300  41.27508377  028.74987124  -0.16 tie_down jets Remote Stand 147R
 1301 C airline 
-1300  41.27508143  028.74890095  -0.15 tie_down jets Remote Stand 146R
+1300  41.27508143  028.74890095  -1.31 tie_down jets Remote Stand 146R
 1301 C airline 
-1300  41.27506167  028.74794047  -0.18 tie_down jets Remote Stand 145R
+1300  41.27506167  028.74794047  -1.36 tie_down jets Remote Stand 145R
 1301 C airline 
-1300  41.27505928  028.74697109  -0.43 tie_down jets Remote Stand 144R
+1300  41.27505928  028.74697109  -1.77 tie_down jets Remote Stand 144R
 1301 C airline 
-1300  41.27491692  028.75036636  -0.34 tie_down jets Remote Stand 148L
+1300  41.27491692  028.75036636  -0.58 tie_down jets Remote Stand 148L
 1301 C airline 
 1300  41.27490808  028.74940573  -0.21 tie_down jets Remote Stand 147L
 1301 C airline 
@@ -31513,7 +31513,7 @@ I
 1301 C airline 
 1300  41.27488598  028.74747496  -0.30 tie_down jets Remote Stand 145L
 1301 C airline 
-1300  41.27488358  028.74650558  -0.41 tie_down jets Remote Stand 144L
+1300  41.27488358  028.74650558  -1.22 tie_down jets Remote Stand 144L
 1301 C airline 
 1300  41.27545026  028.75129742 179.18 tie_down jets Remote Stand 131
 1301 C airline 
@@ -31535,15 +31535,15 @@ I
 1301 C airline 
 1300  41.27540288  028.74698422 179.41 tie_down jets Remote Stand 122
 1301 C airline 
-1300  41.27515225  028.75060820  -0.16 tie_down heavy Remote Stand 148
+1300  41.27515225  028.75060820  -0.83 tie_down heavy Remote Stand 148
 1301 E airline 
 1300  41.27514341  028.74964757  -0.31 tie_down heavy Remote Stand 147
 1301 E airline 
-1300  41.27514107  028.74867728  -0.17 tie_down heavy Remote Stand 146
+1300  41.27514107  028.74867728  -1.00 tie_down heavy Remote Stand 146
 1301 E airline 
-1300  41.27512130  028.74771680   0.16 tie_down heavy Remote Stand 145
+1300  41.27512130  028.74771680  -1.39 tie_down heavy Remote Stand 145
 1301 E airline 
-1300  41.27511891  028.74674743  -0.47 tie_down heavy Remote Stand 144
+1300  41.27511891  028.74674743  -0.89 tie_down heavy Remote Stand 144
 1301 E airline 
 1300  41.27215416  028.73324088   0.33 tie_down jets De-Ice Apron H30L
 1301 C airline 
@@ -31595,25 +31595,25 @@ I
 1301 C airline 
 1300  41.27249952  028.75107797  -0.05 tie_down heavy De-Ice Apron H46
 1301 F airline 
-1300  41.27249136  028.74980920  -1.38 tie_down heavy De-Ice Apron H45
+1300  41.27249136  028.74980920  -0.27 tie_down heavy De-Ice Apron H45
 1301 F airline 
-1300  41.27247511  028.74855613  -0.92 tie_down heavy De-Ice Apron H44
+1300  41.27247511  028.74855613   0.16 tie_down heavy De-Ice Apron H44
 1301 F airline 
 1300  41.27244995  028.74726182  -0.47 tie_down heavy De-Ice Apron H43
 1301 F airline 
-1300  41.27243388  028.74471599  -1.27 tie_down heavy De-Ice Apron H41
+1300  41.27243388  028.74471599   0.34 tie_down heavy De-Ice Apron H41
 1301 F airline 
-1300  41.27241513  028.74343281  -1.14 tie_down heavy De-Ice Apron H40
+1300  41.27241513  028.74343281  -0.25 tie_down heavy De-Ice Apron H40
 1301 F airline 
-1300  41.27239198  028.74116334  -0.99 tie_down heavy De-Ice Apron H36
+1300  41.27239198  028.74116334  -0.04 tie_down heavy De-Ice Apron H36
 1301 F airline 
 1300  41.27237561  028.73988163  -0.65 tie_down heavy De-Ice Apron H35
 1301 F airline 
 1300  41.27235121  028.73735980  -0.87 tie_down heavy De-Ice Apron H33
 1301 F airline 
-1300  41.27232605  028.73606550  -1.03 tie_down heavy De-Ice Apron H32
+1300  41.27232605  028.73606550   0.13 tie_down heavy De-Ice Apron H32
 1301 F airline 
-1300  41.27232251  028.73479510  -0.61 tie_down heavy De-Ice Apron H31
+1300  41.27232251  028.73479510   0.33 tie_down heavy De-Ice Apron H31
 1301 F airline 
 1300  41.27230998  028.73351967   0.18 tie_down heavy De-Ice Apron H30
 1301 F airline 
