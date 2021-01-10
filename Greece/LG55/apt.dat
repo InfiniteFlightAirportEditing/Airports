@@ -252,11 +252,11 @@ I
 111  37.09490489  021.98905952 20
 115  37.09486865  021.98908441
 14  37.09472509  021.98868056  82.02 0 New Tower Viewpoint 2
-1300  37.09450057  021.98955909 332.45 tie_down jets|turboprops|props|helos Helipad 
+1300  37.09450057  021.98955909 332.45 tie_down jets|turboprops|props|helos Helipad 1
 1301 A general_aviation 
-1300  37.09442788  021.98938308 332.45 tie_down jets|turboprops|props|helos Helipad 
+1300  37.09442788  021.98938308 332.45 tie_down jets|turboprops|props|helos Helipad 2
 1301 A general_aviation 
-1300  37.09435875  021.98921601 332.45 tie_down jets|turboprops|props|helos Helipad 
+1300  37.09435875  021.98921601 332.45 tie_down jets|turboprops|props|helos Helipad 3
 1301 A general_aviation 
 1300  37.09515070  021.98895189 152.28 tie_down jets|turboprops|props|helos Ramp 1
 1301 B general_aviation 
