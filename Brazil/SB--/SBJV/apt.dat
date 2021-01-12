@@ -548,11 +548,11 @@ I
 21 -26.22773270 -048.79369822 2 308.8900 3.00 33 PAPI-4L
 14 -26.22499200 -048.80032087  82.02 0 New Tower Viewpoint 1
 1300 -26.22305893 -048.80176628 218.82 gate jets|turboprops|props Remote 01 
-1301 B general_aviation 
+1301 B airline 
 1300 -26.22323858 -048.80151455 218.05 gate jets|turboprops|props Remote 02
-1301 B general_aviation 
+1301 B airline 
 1300 -26.22313817 -048.80162933 264.92 gate jets|turboprops|props Remote 2A
-1301 B general_aviation 
+1301 C airline 
 1300 -26.22379481 -048.80150467 219.05 gate jets|turboprops|props Gate 03
 1301 C airline 
 1300 -26.22407943 -048.80111241 218.65 gate jets|turboprops|props Gate 04

@@ -2463,14 +2463,6 @@ I
 111  09.08786163 -079.37385868 51
 111  09.08731232 -079.37361787 51
 115  09.08724662 -079.37358907
-120 Linear Feature 68
-111  09.08787867 -079.37301398 51
-111  09.08815438 -079.37257913 51
-115  09.08817479 -079.37254695
-120 Linear Feature 68
-111  09.08751055 -079.37243858 51
-111  09.08778627 -079.37200372 51
-115  09.08780667 -079.37197155
 120 Linear Feature 125
 111  09.08753255 -079.37329474 51
 111  09.08696664 -079.37305852 51
@@ -5447,10 +5439,6 @@ I
 1301 D cargo 
 1300  09.08625290 -079.37495248 122.10 gate jets Cargo Apron 710
 1301 D cargo 
-1300  09.08815438 -079.37257913  57.33 gate jets Cargo Apron 701
-1301 D cargo 
-1300  09.08778627 -079.37200372  57.33 gate jets Cargo Apron 702
-1301 D cargo 
 1300  09.08663895 -079.37247335 156.76 gate jets Cargo Apron 703
 1301 D cargo 
 1300  09.08696664 -079.37305852 157.68 gate jets Cargo Apron 704
@@ -5463,13 +5451,15 @@ I
 1301 E cargo 
 1300  09.08650243 -079.37477287 122.07 gate jets Cargo Apron 709W
 1301 E cargo 
+1300  09.09039842 -079.37156899 -164.53 gate jets|turboprops|props SENAN Apron 05
+1301 A military 
 1300  09.09043805 -079.37171109 -164.53 gate jets|turboprops|props SENAN Apron 04
 1301 A military 
 1300  09.09047407 -079.37184658 -164.53 gate jets|turboprops|props SENAN Apron 03
 1301 A military 
 1300  09.09051138 -079.37198597 -164.53 gate jets|turboprops|props SENAN Apron 02
 1301 A military 
-1300  09.09054997 -079.37212385 -164.53 gate jets|turboprops|props SENAN Apron 01
+1300  09.09054997 -079.37213296 -164.53 gate jets|turboprops|props SENAN Apron 01
 1301 A military 
 1300  09.07853601 -079.38100476 210.79 gate jets FBO Signature Flight Support PTY 07
 1301 B general_aviation 
@@ -5485,11 +5475,11 @@ I
 1301 B general_aviation 
 1300  09.07808400 -079.38115022  30.81 gate jets FBO Signature Flight Support PTY 01
 1301 B general_aviation 
-1300  09.08928751 -079.37176698  18.37 gate jets Copa Airlines Maintenance Hangar 05
+1300  09.08928751 -079.37176698  18.37 gate jets Copa Airlines MRO Hangar 01
 1301 C none 
-1300  09.08914346 -079.37209926 -159.57 gate jets Copa Airlines Maintenance Hangar 04
+1300  09.08914346 -079.37209926 -159.57 gate jets Copa Airlines MRO Hangar 02
 1301 C none 
-1300  09.08945112 -079.37228161  17.76 gate jets Copa Airlines Maintenance Hangar 03
+1300  09.08945112 -079.37228161  17.76 gate jets Copa Airlines MRO Hangar 03
 1301 C none 
 1300  09.08954016 -079.37295144 291.18 gate jets Copa Airlines Maintenance Hangar 02
 1301 C none 
@@ -5497,7 +5487,9 @@ I
 1301 C none 
 1300  09.08923461 -079.37347917  20.71 gate jets Copa Airlines Maintenance Apron 01
 1301 C none 
-1300  09.08997607 -079.37311263  38.93 gate jets Copa Airlines Maintenance Apron 02
+1300  09.08983564 -079.37323956 216.67 gate jets Copa Airlines Maintenance Apron 03
+1301 C none 
+1300  09.08962775 -079.37338207 145.59 gate jets Copa Airlines Maintenance Apron 02
 1301 C none 
 1300  09.06599437 -079.38647624 -61.14 gate jets Terminal 1 Gate 137
 1301 C airline 
