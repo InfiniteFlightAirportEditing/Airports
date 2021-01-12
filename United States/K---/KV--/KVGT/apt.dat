@@ -6007,8 +6007,6 @@ I
 1301 A none 
 1300  36.21056163 -115.20505296 142.91 hangar props Hangar 72
 1301 A none 
-1300  36.21091216 -115.20523416 142.91 hangar props Hangar 52
-1301 A none 
 1300  36.21124434 -115.20543597 142.91 hangar props Hangar 33
 1301 A none 
 1300  36.21160902 -115.20543828 142.91 hangar props Hangar 21
@@ -6363,10 +6361,6 @@ I
 1301 A general_aviation 
 1300  36.21003298 -115.20325225 142.97 hangar props Cessna Service Center Hangar
 1301 A none 
-1300  36.21007789 -115.20396465 142.97 hangar jets|turboprops|props Hangar 170
-1301 B none 
-1300  36.20994581 -115.20418665 142.97 hangar jets|turboprops|props Hangar 169
-1301 B none 
 1300  36.20938134 -115.20400290  52.31 hangar jets|turboprops|props Horton Aviation Services Hangar
 1301 B none 
 1300  36.20950823 -115.20240832 324.61 tie_down turboprops|props West Air Flight Training 08
