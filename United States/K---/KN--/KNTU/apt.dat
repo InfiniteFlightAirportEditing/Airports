@@ -7103,7 +7103,7 @@ I
 1301 B none 
 1300  36.81353827 -076.02077890  42.86 hangar jets Hangar 145 1-7
 1301 B none 
-1300  36.81340646 -076.02059445  42.86 hangar jets Hangar 145 1-7
+1300  36.81340646 -076.02059445  42.86 hangar jets Hangar 145 1-8
 1301 B none 
 1300  36.81584425 -076.02422709  41.48 hangar jets Hangar 122 1-1
 1301 D none 
@@ -7132,5 +7132,5 @@ I
 54 12707 Oceana Tower
 53 11960 Oceana Ground
 55 12390 Oceana Approach
-52 13410 Oceana Radar
+55 13410 Oceana Radar
 99
