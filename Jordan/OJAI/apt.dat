@@ -4028,7 +4028,7 @@ I
 1301 C airline 
 1300  31.72730588  036.00032361 169.41 gate heavy|jets|turboprops Hotel Apron 30
 1301 E airline 
-1300  31.72741852  035.99990052 170.56 gate jets|turboprops Hotel Apron 29
+1300  31.72741852  035.99990052 170.56 gate jets|turboprops Hotel Apron 29A
 1301 C airline 
 1300  31.72719579  035.99957149 169.96 gate heavy|jets|turboprops Hotel Apron 29
 1301 E airline 
@@ -4086,7 +4086,7 @@ I
 1301 C airline 
 1300  31.72423696  035.98964479 170.31 gate heavy|jets|turboprops Terminal N26
 1301 E airline 
-1300  31.72426229  035.98763449 -155.95 gate jets|turboprops Terminal N14
+1300  31.72426229  035.98763449 -155.95 gate jets|turboprops Terminal N16
 1301 C airline 
 1300  31.72382257  035.98673881 173.40 gate heavy|jets|turboprops Terminal N8
 1301 E airline 

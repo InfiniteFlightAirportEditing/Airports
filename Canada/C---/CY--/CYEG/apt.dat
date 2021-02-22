@@ -4980,11 +4980,11 @@ I
 1300  53.31731544 -113.57746153 -144.79 gate jets|turboprops WestJet Apron A
 1301 C airline 
 1300  53.29687090 -113.57017699  44.75 gate heavy|jets|turboprops Cargo 7
-1301 E cargo 
+1301 F cargo 
 1300  53.29647016 -113.56967642  44.99 gate jets|turboprops Cargo 6
-1301 C cargo 
-1300  53.29637592 -113.56934765  44.86 gate heavy|jets|turboprops Cargo 5
 1301 E cargo 
+1300  53.29637592 -113.56934765  44.86 gate heavy|jets|turboprops Cargo 5
+1301 F cargo 
 1300  53.29609550 -113.56905092  45.00 gate jets|turboprops Cargo 4
 1301 C cargo 
 1300  53.29601895 -113.56892459  44.99 gate jets|turboprops Cargo 4A
@@ -4992,7 +4992,7 @@ I
 1300  53.29586337 -113.56857905  44.77 gate jets|turboprops Cargo 3
 1301 C cargo 
 1300  53.29563787 -113.56828665  45.00 gate heavy|jets|turboprops Cargo 2A
-1301 D cargo 
+1301 E cargo 
 1300  53.29558121 -113.56819372  44.99 gate jets|turboprops Cargo 2
 1301 C cargo 
 1300  53.29532464 -113.56776288  44.85 gate heavy|jets|turboprops Cargo 1
@@ -5074,7 +5074,7 @@ I
 1300  53.30397995 -113.58456515  45.01 gate jets|turboprops Remote Stand 57
 1301 C airline 
 1300  53.30602045 -113.58414984  24.97 gate heavy|jets|turboprops Gate 56
-1301 D airline 
+1301 C airline 
 1300  53.30424086 -113.58500575  45.15 gate jets|turboprops Remote Stand 55
 1301 C airline 
 1300  53.30609849 -113.58460078  69.75 gate jets|turboprops Gate 54
