@@ -613,41 +613,43 @@ I
 1301 A general_aviation 
 1300  54.35060543  041.97264704  99.85 tie_down props Apron 1 Stand 51
 1301 A general_aviation 
-1300  54.35085705  041.97272216  99.85 tie_down props Apron 1 Stand 52
+1300  54.35073103  041.97268447  99.85 tie_down props Apron 1 Stand 52
 1301 A general_aviation 
-1300  54.35098365  041.97275985  99.85 tie_down props Apron 1 Stand 53
+1300  54.35085705  041.97272216  99.85 tie_down props Apron 1 Stand 53
 1301 A general_aviation 
-1300  54.35111025  041.97279853  99.85 tie_down props Apron 1 Stand 54
+1300  54.35098365  041.97275985  99.85 tie_down props Apron 1 Stand 54
 1301 A general_aviation 
-1300  54.35123491  041.97283555  99.85 tie_down props Apron 1 Stand 55
+1300  54.35111025  041.97279853  99.85 tie_down props Apron 1 Stand 55
 1301 A general_aviation 
-1300  54.35136026  041.97287201  99.85 tie_down props Apron 1 Stand 56
+1300  54.35123491  041.97283555  99.85 tie_down props Apron 1 Stand 56
 1301 A general_aviation 
-1300  54.35148587  041.97290944  99.85 tie_down props Apron 1 Stand 57
+1300  54.35136026  041.97287201  99.85 tie_down props Apron 1 Stand 57
 1301 A general_aviation 
-1300  54.35161189  041.97294713  99.85 tie_down props Apron 1 Stand 58
+1300  54.35148587  041.97290944  99.85 tie_down props Apron 1 Stand 58
 1301 A general_aviation 
-1300  54.35173849  041.97298482  99.85 tie_down props Apron 1 Stand 59
+1300  54.35161189  041.97294713  99.85 tie_down props Apron 1 Stand 59
 1301 A general_aviation 
-1300  54.35186509  041.97302350  99.85 tie_down props Apron 1 Stand 60
+1300  54.35173849  041.97298482  99.85 tie_down props Apron 1 Stand 60
 1301 A general_aviation 
-1300  54.35198975  041.97306052  99.85 tie_down props Apron 1 Stand 61
+1300  54.35186509  041.97302350  99.85 tie_down props Apron 1 Stand 61
 1301 A general_aviation 
-1300  54.35211544  041.97309710  99.85 tie_down props Apron 1 Stand 62
+1300  54.35198975  041.97306052  99.85 tie_down props Apron 1 Stand 62
 1301 A general_aviation 
-1300  54.35224105  041.97313452  99.85 tie_down props Apron 1 Stand 63
+1300  54.35211544  041.97309710  99.85 tie_down props Apron 1 Stand 63
 1301 A general_aviation 
-1300  54.35236707  041.97317222  99.85 tie_down props Apron 1 Stand 64
+1300  54.35224105  041.97313452  99.85 tie_down props Apron 1 Stand 64
 1301 A general_aviation 
-1300  54.35249366  041.97320991  99.85 tie_down props Apron 1 Stand 65
+1300  54.35236707  041.97317222  99.85 tie_down props Apron 1 Stand 65
 1301 A general_aviation 
-1300  54.35262026  041.97324859  99.85 tie_down props Apron 1 Stand 66
+1300  54.35249366  041.97320991  99.85 tie_down props Apron 1 Stand 66
 1301 A general_aviation 
-1300  54.35274493  041.97328561  99.85 tie_down props Apron 1 Stand 67
+1300  54.35262026  041.97324859  99.85 tie_down props Apron 1 Stand 67
 1301 A general_aviation 
-1300  54.35287325  041.97332303  99.85 tie_down props Apron 1 Stand 68
+1300  54.35274493  041.97328561  99.85 tie_down props Apron 1 Stand 68
 1301 A general_aviation 
-1300  54.35299985  041.97336171  99.85 tie_down props Apron 1 Stand 69
+1300  54.35287325  041.97332303  99.85 tie_down props Apron 1 Stand 69
+1301 A general_aviation 
+1300  54.35299985  041.97336171  99.85 tie_down props Apron 1 Stand 70
 1301 A general_aviation 
 1300  54.35429448  041.97472608  98.58 tie_down props Apron 2 Stand 1
 1301 A general_aviation 
@@ -786,8 +788,6 @@ I
 1300  54.35761638  041.97314184 179.06 tie_down props Apron 2 Stand 68
 1301 A general_aviation 
 1300  54.35761947  041.97348292 179.06 tie_down props Apron 2 Stand 69
-1301 A general_aviation 
-1300  54.35073103  041.97268447  99.85 tie_down props Apron 1 Stand 52
 1301 A general_aviation 
 18  54.35387410  041.97080946 1 Beacon
 99
