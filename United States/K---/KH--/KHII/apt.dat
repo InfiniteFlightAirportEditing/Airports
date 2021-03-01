@@ -3123,6 +3123,18 @@ I
 1301 A general_aviation 
 1300  34.57125103 -114.36107089  62.63 tie_down props Tiedown 8-2
 1301 A general_aviation 
+1300  34.57740819 -114.36449411 237.46 tie_down props Tiedown 10-54
+1301 A general_aviation 
+1300  34.57751595 -114.36457518 237.46 tie_down props Tiedown 10-53
+1301 A general_aviation 
+1300  34.57763112 -114.36465996 237.46 tie_down props Tiedown 10-52
+1301 A general_aviation 
+1300  34.57774149 -114.36475003 237.46 tie_down props Tiedown 10-51
+1301 A general_aviation 
+1300  34.57818112 -114.36499082 -116.70 tie_down props Tiedown 10-50
+1301 A general_aviation 
+1300  34.57829745 -114.36507251 -128.80 tie_down props Tiedown 10-49
+1301 A general_aviation 
 1300  34.57423326 -114.36232884 -123.62 tie_down props Tiedown 10-48
 1301 A general_aviation 
 1300  34.57434055 -114.36240642 -123.62 tie_down props Tiedown 10-47
@@ -3375,18 +3387,6 @@ I
 1301 A none 
 1300  34.57176255 -114.36113844 330.09 hangar props Hangar 3-1
 1301 A none 
-1300  34.57740819 -114.36449411 237.46 tie_down props Tiedown 10-6
-1301 A general_aviation 
-1300  34.57751595 -114.36457518 237.46 tie_down props Tiedown 10-5
-1301 A general_aviation 
-1300  34.57763112 -114.36465996 237.46 tie_down props Tiedown 10-4
-1301 A general_aviation 
-1300  34.57774149 -114.36475003 237.46 tie_down props Tiedown 10-3
-1301 A general_aviation 
-1300  34.57818112 -114.36499082 -116.70 tie_down props Tiedown 10-2
-1301 A general_aviation 
-1300  34.57829745 -114.36507251 -128.80 tie_down props Tiedown 10-1
-1301 A general_aviation 
 1300  34.57822576 -114.36541874  72.95 hangar props Hangar 9-18
 1301 A none 
 1300  34.57805457 -114.36536596  72.95 hangar props Hangar 9-17
