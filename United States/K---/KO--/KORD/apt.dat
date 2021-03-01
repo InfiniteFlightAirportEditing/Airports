@@ -23449,7 +23449,7 @@ I
 1300  41.97377448 -087.88809654   0.00 gate jets Gate M15
 1301 E airline 
 1300  41.97367046 -087.88554985   0.02 gate jets Gate M18A
-1301 E airline 
+1301 D airline 
 1300  41.97369268 -087.88567151   0.02 gate jets Gate M18
 1301 C airline 
 1300  41.97377386 -087.88896897  -0.27 gate jets Gate M13
@@ -23534,7 +23534,7 @@ I
 1301 E airline 
 1300  41.99828077 -087.92115728 -40.25 tie_down jets|turboprops|props United Maintenance Ramp 5
 1301 E airline 
-1300  41.99867873 -087.92051072 -39.88 tie_down jets|turboprops|props United Maintenance Ramp 6
+1300  41.99867873 -087.92051072 -39.88 tie_down jets|turboprops|props United Maintenance Ramp 7
 1301 E airline 
 1300  41.99621701 -087.91713355 139.90 tie_down jets|turboprops|props United Maintenance Ramp 14
 1301 C airline 
