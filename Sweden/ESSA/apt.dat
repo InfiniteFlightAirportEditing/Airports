@@ -7045,12 +7045,12 @@ A
 19  59.66419168  017.97258235 1 WS-26
 50 11900 ATIS
 50 12162 ATIS
-55 12375 Stockholm Control Terminal Control Approach
-55 12015 Stockholm Control Terminal Control Approach
-55 12665 Stockholm Control Terminal Control Approach
-56 12375 Stockholm Control Terminal Control Departure
-56 12015 Stockholm Control Terminal Control Departure
-56 12665 Stockholm Control Terminal Control Departure
+55 12375 Stockholm Control Approach
+55 12015 Stockholm Control Approach
+55 12665 Stockholm Control Approach
+56 12375 Stockholm Control Departure
+56 12015 Stockholm Control Departure
+56 12665 Stockholm Control Departure
 54 11850 Arlanda Tower
 54 12512 Arlanda Tower
 54 12872 Arlanda Tower
