@@ -2036,10 +2036,10 @@ I
 111  42.88000088 -002.73405250 20
 111  42.87976705 -002.73361311 20
 111  42.88036702 -002.73303361 20
-115  42.88041132 -002.73299082
+115  42.88041374 -002.73298800
 120 Linear Feature 1
 111  42.88148144 -002.73500665 20
-115  42.88041132 -002.73299082
+115  42.88041374 -002.73298800
 120 Linear Feature 94
 111  42.88143118 -002.73505594 20
 111  42.88125865 -002.73472807 20
@@ -2512,23 +2512,23 @@ I
 1301 A general_aviation 
 1300  42.88476044 -002.72837374  35.80 tie_down turboprops|props GA Apron 107
 1301 A general_aviation 
-1300  42.88460188 -002.72930624  -8.97 gate jets|turboprops Gate 106
+1300  42.88460188 -002.72930624  -8.97 gate jets|turboprops Terminal Apron 106
 1301 B airline 
-1300  42.88449887 -002.72928385  20.04 gate jets|turboprops Gate 105A
+1300  42.88449887 -002.72928385  20.04 gate jets|turboprops Terminal Apron 105A
 1301 C airline 
-1300  42.88428385 -002.72961885  -9.43 gate jets|turboprops Gate 105
+1300  42.88428385 -002.72961885  -9.43 gate jets|turboprops Terminal Apron 105
 1301 B airline 
-1300  42.88394709 -002.72995167  -8.89 gate jets|turboprops Gate 104
+1300  42.88394709 -002.72995167  -8.89 gate jets|turboprops Terminal Apron 104
 1301 B airline 
-1300  42.88384985 -002.72992585  19.85 gate jets|turboprops Gate 103A
+1300  42.88384985 -002.72992585  19.85 gate jets|turboprops Terminal Apron 103A
 1301 C airline 
-1300  42.88361980 -002.73027470  -7.44 gate jets|turboprops Gate 103
+1300  42.88361980 -002.73027470  -7.44 gate jets|turboprops Terminal Apron 103
 1301 B airline 
-1300  42.88328320 -002.73060789  -8.10 gate jets|turboprops Gate 102
+1300  42.88328320 -002.73060789  -8.10 gate jets|turboprops Terminal Apron 102
 1301 B airline 
-1300  42.88320160 -002.73056378  20.53 gate jets|turboprops Gate 101A
+1300  42.88320160 -002.73056378  20.53 gate jets|turboprops Terminal Apron 101A
 1301 C airline 
-1300  42.88296415 -002.73092262  -8.48 gate jets|turboprops Gate 101
+1300  42.88296415 -002.73092262  -8.48 gate jets|turboprops Terminal Apron 101
 1301 B airline 
 1300  42.87677965 -002.73660320  35.99 gate heavy|jets|turboprops Cargo Apron 12
 1301 D airline 
