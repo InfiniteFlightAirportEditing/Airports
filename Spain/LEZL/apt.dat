@@ -2732,6 +2732,22 @@ I
 111  37.42354539 -005.90622562
 111  37.42333591 -005.90676134
 113  37.42322812 -005.90699575
+120 Linear Feature 111
+111  37.41934470 -005.91291887 4 103
+111  37.41940239 -005.91305636 4 103
+115  37.41946431 -005.91319480
+120 Linear Feature 110
+111  37.41871301 -005.91119055 4 103
+111  37.41882400 -005.91127449 4 103
+115  37.41891658 -005.91134250
+120 Linear Feature 103
+111  37.41966949 -005.87304569 4 103
+111  37.41959655 -005.87317607 4 103
+115  37.41952181 -005.87330311
+120 Linear Feature 104
+111  37.41883077 -005.87411081 4 103
+111  37.41883952 -005.87426301 4 103
+115  37.41884755 -005.87442539
 120 Linear Feature 108
 111  37.41873604 -005.90289763 4 103
 111  37.41873463 -005.90304338 4 103
@@ -4627,7 +4643,10 @@ I
 111  37.41988008 -005.87414422 51 101
 112  37.41982611 -005.87363591  37.41977196 -005.87331471
 111  37.41982611 -005.87363591
-112  37.41982611 -005.87363591  37.41975215 -005.87327116 57 105
+112  37.41982611 -005.87363591  37.41977835 -005.87340035 57 105
+112  37.41964457 -005.87321961  37.41959261 -005.87316197
+111  37.41964457 -005.87321961
+112  37.41964457 -005.87321961  37.41961489 -005.87319008 57 105
 111  37.41959655 -005.87317607
 112  37.41959655 -005.87317607  37.41904490 -005.87269879 51 105
 111  37.41858570 -005.87365142 51 105
@@ -4691,7 +4710,7 @@ I
 112  37.41946431 -005.91319480  37.41908081 -005.91343310
 111  37.41946431 -005.91319480
 112  37.41946431 -005.91319480  37.41887942 -005.91353323 3 102
-112  37.41836749 -005.91270984  37.41816152 -005.91242622
+112  37.41836749 -005.91270984  37.41816327 -005.91242402
 111  37.41836749 -005.91270984 3 102
 115  37.41807971 -005.91206811
 120 Linear Feature 51
@@ -5121,26 +5140,10 @@ I
 111  37.42033635 -005.88712937 2
 111  37.42036609 -005.88732358 2
 115  37.42039591 -005.88751829
-120 Linear Feature 111
-111  37.41934470 -005.91291887 4 103
-111  37.41940239 -005.91305636 4 103
-115  37.41946431 -005.91319480
-120 Linear Feature 110
-111  37.41871301 -005.91119055 4 103
-111  37.41882400 -005.91127449 4 103
-115  37.41891658 -005.91134250
 120 Linear Feature 105
 111  37.41878172 -005.88748362 4 103
 111  37.41880849 -005.88767819 4 103
 115  37.41883515 -005.88787094
-120 Linear Feature 104
-111  37.41883077 -005.87411081 4 103
-111  37.41883952 -005.87426301 4 103
-115  37.41884755 -005.87442539
-120 Linear Feature 103
-111  37.41966949 -005.87304569 4 103
-111  37.41959655 -005.87317607 4 103
-115  37.41952181 -005.87330311
 120 Linear Feature 102
 111  37.41592755 -005.87474284 4 103
 111  37.41586157 -005.87464133 4 103
@@ -8699,75 +8702,75 @@ I
 1301 C general_aviation 
 1300  37.42038873 -005.90486758 270.00 tie_down jets|turboprops GA Apron 39
 1301 C general_aviation 
-1300  37.41365096 -005.88785860   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 01
+1300  37.41365096 -005.88785860   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 01
 1301 D military 
-1300  37.41335291 -005.88785531 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 01B
+1300  37.41335291 -005.88785531 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 01B
 1301 D military 
-1300  37.41365573 -005.88729021   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 02
+1300  37.41365573 -005.88729021   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 02
 1301 D military 
-1300  37.41337292 -005.88728708 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 02B
+1300  37.41337292 -005.88728708 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 02B
 1301 D military 
-1300  37.41366022 -005.88672387   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 03
+1300  37.41366022 -005.88672387   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 03
 1301 D military 
-1300  37.41339263 -005.88672165 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 03B
+1300  37.41339263 -005.88672165 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 03B
 1301 D military 
-1300  37.41355479 -005.88624098   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 04
+1300  37.41355479 -005.88624098   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 04
 1301 B military 
-1300  37.41337919 -005.88623918 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 04B
+1300  37.41337919 -005.88623918 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 04B
 1301 B military 
-1300  37.41355749 -005.88583681   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 05
+1300  37.41355749 -005.88583681   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 05
 1301 B military 
-1300  37.41338218 -005.88583828 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 05B
+1300  37.41338218 -005.88583828 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 05B
 1301 B military 
-1300  37.41356107 -005.88548219   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 06
+1300  37.41356107 -005.88548219   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 06
 1301 B military 
-1300  37.41345648 -005.88548041 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 06B
+1300  37.41345648 -005.88548041 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 06B
 1301 B military 
-1300  37.41356406 -005.88511173   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 07
+1300  37.41356406 -005.88511173   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 07
 1301 B military 
-1300  37.41338815 -005.88511150 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 07B
+1300  37.41338815 -005.88511150 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 07B
 1301 B military 
-1300  37.41356828 -005.88474652   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 08
+1300  37.41356828 -005.88474652   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 08
 1301 B military 
-1300  37.41339084 -005.88474677 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 08B
+1300  37.41339084 -005.88474677 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 08B
 1301 B military 
-1300  37.41367934 -005.88419541   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 09
+1300  37.41367934 -005.88419541   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 09
 1301 D military 
-1300  37.41341115 -005.88419269 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 09B
+1300  37.41341115 -005.88419269 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 09B
 1301 D military 
-1300  37.41368381 -005.88363258   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 10
+1300  37.41368381 -005.88363258   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 10
 1301 D military 
-1300  37.41341533 -005.88362917 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 10B
+1300  37.41341533 -005.88362917 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 10B
 1301 D military 
-1300  37.41371547 -005.88257116   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 11
+1300  37.41371547 -005.88257116   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 11
 1301 D military 
-1300  37.41373721 -005.88150138   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 12
+1300  37.41373721 -005.88150138   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 12
 1301 D military 
-1300  37.41194210 -005.88573279  90.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 13
+1300  37.41194210 -005.88573279  90.00 tie_down jets|turboprops|props|fighters Airbus South Apron 13
 1301 D military 
-1300  37.41239288 -005.88574136  90.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 14
+1300  37.41239288 -005.88574136  90.00 tie_down jets|turboprops|props|fighters Airbus South Apron 14
 1301 D military 
-1300  37.41338953 -005.88603857 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 10C
+1300  37.41338953 -005.88603857 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 10C
 1301 D military 
-1300  37.41339774 -005.88483804 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 20C
+1300  37.41339774 -005.88483804 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 20C
 1301 D military 
-1300  37.41378565 -005.88310103   0.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 30C
+1300  37.41378565 -005.88310103   0.00 tie_down jets|turboprops|props|fighters Airbus South Apron 30C
 1301 D military 
-1300  37.41180582 -005.88961102 180.00 tie_down jets|turboprops|props|fighters Airbus Defense and Space South Apron 50
+1300  37.41180582 -005.88961102 180.00 tie_down jets|turboprops|props|fighters Airbus South Apron 50
 1301 D military 
 1300  37.41237524 -005.87820230 -90.38 tie_down jets|turboprops|props|fighters Airbus Beluga Stand
 1301 E military 
-1300  37.42340423 -005.88674355 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 01
+1300  37.42340423 -005.88674355 100.00 tie_down turboprops|props|fighters Airbus North Apron 01
 1301 B military 
-1300  37.42387636 -005.88664158 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 02
+1300  37.42387636 -005.88664158 100.00 tie_down turboprops|props|fighters Airbus North Apron 02
 1301 B military 
-1300  37.42434504 -005.88652658 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 03
+1300  37.42434504 -005.88652658 100.00 tie_down turboprops|props|fighters Airbus North Apron 03
 1301 B military 
-1300  37.42481631 -005.88642135 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 04
+1300  37.42481631 -005.88642135 100.00 tie_down turboprops|props|fighters Airbus North Apron 04
 1301 B military 
-1300  37.42526863 -005.88631286 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 05
+1300  37.42526863 -005.88631286 100.00 tie_down turboprops|props|fighters Airbus North Apron 05
 1301 B military 
-1300  37.42573645 -005.88618268 100.00 tie_down turboprops|props|fighters Airbus Defense and Space North Apron 06
+1300  37.42573645 -005.88618268 100.00 tie_down turboprops|props|fighters Airbus North Apron 06
 1301 B military 
 18  37.41428589 -005.89379240 1 New Airport Beacon 1
 19  37.42102630 -005.89067583 0 WS center

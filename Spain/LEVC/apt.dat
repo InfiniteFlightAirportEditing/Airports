@@ -9637,83 +9637,81 @@ I
 1301 D cargo 
 1300  39.49243316 -000.48101813 -154.12 tie_down jets Cargo Apron 26
 1301 C cargo 
-1300  39.48184387 -000.48109792 178.23 tie_down jets|turboprops South Apron Stand 101
+1300  39.47954662 -000.48264398 177.23 hangar jets|turboprops Air Nostrum Hangar 03
+1301 B none 
+1300  39.47954917 -000.48220519 177.23 hangar jets|turboprops Air Nostrum Hangar 02
+1301 B none 
+1300  39.47957589 -000.48179247 177.23 hangar jets|turboprops Air Nostrum Hangar 01
+1301 B none 
+1300  39.48184387 -000.48109792 178.23 tie_down jets|turboprops South Apron 101
 1301 C general_aviation 
-1300  39.48185539 -000.48057481 178.54 tie_down jets|turboprops South Apron Stand 102
+1300  39.48185539 -000.48057481 178.54 tie_down jets|turboprops South Apron 102
 1301 C general_aviation 
-1300  39.48186635 -000.48005075 178.34 tie_down jets|turboprops South Apron Stand 103
+1300  39.48186635 -000.48005075 178.34 tie_down jets|turboprops South Apron 103
 1301 C general_aviation 
-1300  39.48187730 -000.47952972 178.46 tie_down jets|turboprops South Apron Stand 104
+1300  39.48187730 -000.47952972 178.46 tie_down jets|turboprops South Apron 104
 1301 C general_aviation 
-1300  39.48188747 -000.47900464 178.30 tie_down jets|turboprops South Apron Stand 105
+1300  39.48188747 -000.47900464 178.30 tie_down jets|turboprops South Apron 105
 1301 C general_aviation 
-1300  39.48189921 -000.47848463 178.86 tie_down jets|turboprops South Apron Stand 106
+1300  39.48189921 -000.47848463 178.86 tie_down jets|turboprops South Apron 106
 1301 C general_aviation 
-1300  39.48191016 -000.47796056 179.18 tie_down jets|turboprops South Apron Stand 107
+1300  39.48191016 -000.47796056 179.18 tie_down jets|turboprops South Apron 107
 1301 C general_aviation 
-1300  39.48193938 -000.47769322 129.28 tie_down jets|turboprops South Apron Stand 108
+1300  39.48193938 -000.47769322 129.28 tie_down jets|turboprops South Apron 108
 1301 D general_aviation 
-1300  39.48115935 -000.47716606  -1.03 tie_down jets|turboprops South Apron Stand 125
+1300  39.48115935 -000.47716606  -1.03 tie_down jets|turboprops South Apron 125
 1301 A general_aviation 
-1300  39.48115365 -000.47743101  -1.34 tie_down jets|turboprops South Apron Stand 126
+1300  39.48115365 -000.47743101  -1.34 tie_down jets|turboprops South Apron 126
 1301 A general_aviation 
-1300  39.48114722 -000.47769959  -2.08 tie_down jets|turboprops South Apron Stand 127
+1300  39.48114722 -000.47769959  -2.08 tie_down jets|turboprops South Apron 127
 1301 A general_aviation 
-1300  39.48114213 -000.47796929  -1.66 tie_down jets|turboprops South Apron Stand 128
+1300  39.48114213 -000.47796929  -1.66 tie_down jets|turboprops South Apron 128
 1301 A general_aviation 
-1300  39.48113530 -000.47823558  -1.87 tie_down jets|turboprops South Apron Stand 129
+1300  39.48113530 -000.47823558  -1.87 tie_down jets|turboprops South Apron 129
 1301 A general_aviation 
-1300  39.48112805 -000.47849971  -2.06 tie_down jets|turboprops South Apron Stand 130
+1300  39.48112805 -000.47849971  -2.06 tie_down jets|turboprops South Apron 130
 1301 A general_aviation 
-1300  39.48112131 -000.47876597  -1.74 tie_down jets|turboprops South Apron Stand 131
+1300  39.48112131 -000.47876597  -1.74 tie_down jets|turboprops South Apron 131
 1301 A general_aviation 
-1300  39.48111505 -000.47903497  -0.97 tie_down jets|turboprops South Apron Stand 132
+1300  39.48111505 -000.47903497  -0.97 tie_down jets|turboprops South Apron 132
 1301 A general_aviation 
-1300  39.48111078 -000.47930028  -1.60 tie_down jets|turboprops South Apron Stand 133
+1300  39.48111078 -000.47930028  -1.60 tie_down jets|turboprops South Apron 133
 1301 A general_aviation 
-1300  39.48110340 -000.47956724  -1.67 tie_down jets|turboprops South Apron Stand 134
+1300  39.48110340 -000.47956724  -1.67 tie_down jets|turboprops South Apron 134
 1301 A general_aviation 
-1300  39.48109819 -000.47983456  -2.83 tie_down jets|turboprops South Apron Stand 135
+1300  39.48109819 -000.47983456  -2.83 tie_down jets|turboprops South Apron 135
 1301 A general_aviation 
-1300  39.48109315 -000.48010255  -1.34 tie_down jets|turboprops South Apron Stand 136
+1300  39.48109315 -000.48010255  -1.34 tie_down jets|turboprops South Apron 136
 1301 A general_aviation 
-1300  39.48106819 -000.48051851  -1.90 tie_down jets|turboprops South Apron Stand 137
+1300  39.48106819 -000.48051851  -1.90 tie_down jets|turboprops South Apron 137
 1301 A general_aviation 
-1300  39.48106089 -000.48078954  -1.54 tie_down jets|turboprops South Apron Stand 138
+1300  39.48106089 -000.48078954  -1.54 tie_down jets|turboprops South Apron 138
 1301 A general_aviation 
-1300  39.48105745 -000.48105627  -1.31 tie_down jets|turboprops South Apron Stand 139
+1300  39.48105745 -000.48105627  -1.31 tie_down jets|turboprops South Apron 139
 1301 A general_aviation 
-1300  39.48003471 -000.48234015 178.71 tie_down jets|turboprops South Apron Stand 141
+1300  39.48003471 -000.48234015 178.71 tie_down jets|turboprops South Apron 141
 1301 B general_aviation 
-1300  39.48004371 -000.48198401 178.52 tie_down jets|turboprops South Apron Stand 142
+1300  39.48004371 -000.48198401 178.52 tie_down jets|turboprops South Apron 142
 1301 B general_aviation 
-1300  39.48005305 -000.48162656 178.76 tie_down jets|turboprops South Apron Stand 143
+1300  39.48005305 -000.48162656 178.76 tie_down jets|turboprops South Apron 143
 1301 B general_aviation 
-1300  39.47953126 -000.48267262 177.23 hangar jets|turboprops Air Nostrum Maintenance Hangar 04
-1301 B none 
-1300  39.47954019 -000.48237199 177.23 hangar jets|turboprops Air Nostrum Maintenance Hangar 03
-1301 B none 
-1300  39.47955447 -000.48205979 177.23 hangar jets|turboprops Air Nostrum Maintenance Hangar 02
-1301 B none 
-1300  39.47957589 -000.48173141 177.23 hangar jets|turboprops Air Nostrum Maintenance Hangar 01
-1301 B none 
-1300  39.48006097 -000.48127056 178.90 tie_down jets|turboprops South Apron Stand 144
+1300  39.48006097 -000.48127056 178.90 tie_down jets|turboprops South Apron 144
 1301 B general_aviation 
-1300  39.48022902 -000.48091931 179.57 tie_down jets|turboprops South Apron Stand 145
+1300  39.48022902 -000.48091931 179.57 tie_down jets|turboprops South Apron 145
 1301 A general_aviation 
-1300  39.48020881 -000.47973850 178.14 tie_down jets|turboprops South Apron Stand 146
+1300  39.48020881 -000.47973850 178.14 tie_down jets|turboprops South Apron 146
 1301 A general_aviation 
-1300  39.48021866 -000.47932500 178.82 tie_down jets|turboprops South Apron Stand 147
+1300  39.48021866 -000.47932500 178.82 tie_down jets|turboprops South Apron 147
 1301 B general_aviation 
-1300  39.48033015 -000.47700392 178.93 tie_down jets|turboprops South Apron Stand 152
+1300  39.48033015 -000.47700392 178.93 tie_down jets|turboprops South Apron 152
 1301 B general_aviation 
-1300  39.48032798 -000.47651531 178.93 tie_down jets|turboprops South Apron Stand 153
+1300  39.48032798 -000.47651531 178.93 tie_down jets|turboprops South Apron 153
 1301 B general_aviation 
-1300  39.48030842 -000.47891555 178.56 tie_down jets|turboprops South Apron Stand 148
+1300  39.48030842 -000.47891555 178.56 tie_down jets|turboprops South Apron 148
 1301 A general_aviation 
-1300  39.48032156 -000.47845185 178.56 tie_down jets|turboprops South Apron Stand 149
+1300  39.48032156 -000.47845185 178.56 tie_down jets|turboprops South Apron 149
 1301 A general_aviation 
-1300  39.48028625 -000.47769643 178.56 tie_down jets|turboprops South Apron Stand 151
+1300  39.48028625 -000.47769643 178.56 tie_down jets|turboprops South Apron 151
 1301 B general_aviation 
 1300  39.48267562 -000.48244023 -91.87 tie_down jets|turboprops|props GA Apron 201
 1301 B general_aviation 
@@ -9747,21 +9745,21 @@ I
 1301 B general_aviation 
 1300  39.48101568 -000.48238354 267.21 tie_down jets|turboprops|props GA Apron 208
 1301 A general_aviation 
-1300  39.48086290 -000.48409276 174.81 tie_down jets|turboprops|props Cessna Citation Service Center N01
+1300  39.48086290 -000.48409276 174.81 tie_down jets|turboprops|props Cessna Service N01
 1301 B general_aviation 
-1300  39.48072202 -000.48437160 174.47 tie_down turboprops|props Cessna Citation Service Center N02
+1300  39.48072202 -000.48437160 174.47 tie_down turboprops|props Cessna Service N02
 1301 A general_aviation 
-1300  39.48071420 -000.48459467 177.14 tie_down turboprops|props Cessna Citation Service Center N03
+1300  39.48071420 -000.48459467 177.14 tie_down turboprops|props Cessna Service N03
 1301 A general_aviation 
-1300  39.48070246 -000.48484816 176.42 tie_down turboprops|props Cessna Citation Service Center N04
+1300  39.48070246 -000.48484816 176.42 tie_down turboprops|props Cessna Service N04
 1301 A general_aviation 
-1300  39.48056941 -000.48505602 176.63 tie_down jets|turboprops|props Cessna Citation Service Center N05
+1300  39.48056941 -000.48505602 176.63 tie_down jets|turboprops|props Cessna Service N05
 1301 B general_aviation 
-1300  39.48021548 -000.48431145 359.16 tie_down turboprops|props Cessna Citation Service Center S01
+1300  39.48021548 -000.48431145 359.16 tie_down turboprops|props Cessna Service S01
 1301 A general_aviation 
-1300  39.48019375 -000.48497490 357.80 tie_down turboprops|props Cessna Citation Service Center S03
+1300  39.48019375 -000.48497490 357.80 tie_down turboprops|props Cessna Service S03
 1301 A general_aviation 
-1300  39.48019766 -000.48473155 355.91 tie_down turboprops|props Cessna Citation Service Center S02
+1300  39.48019766 -000.48473155 355.91 tie_down turboprops|props Cessna Service S02
 1301 A general_aviation 
 1300  39.48359254 -000.48935152 268.03 tie_down turboprops|props Airtractor 01
 1301 A general_aviation 
