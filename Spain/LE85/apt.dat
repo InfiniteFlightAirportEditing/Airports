@@ -34,17 +34,17 @@ I
 111  37.36851747 -006.01973163
 113  37.36799201 -006.02306564
 14  37.35375160 -006.01360407   9.84 0 New Tower Viewpoint 2
-1300  37.35360834 -006.01380545 -71.20 tie_down props Tiedown 6
+1300  37.35360834 -006.01380545 -71.20 tie_down props Tie Down 06
 1301 A general_aviation 
-1300  37.35348271 -006.01386374 -71.20 tie_down props Tiedown 5
+1300  37.35348271 -006.01386374 -71.20 tie_down props Tie Down 05
 1301 A general_aviation 
-1300  37.35334267 -006.01389095 265.71 tie_down props Tiedown 4
+1300  37.35334267 -006.01389095 265.71 tie_down props Tie Down 04
 1301 A general_aviation 
-1300  37.35321189 -006.01388576 265.71 tie_down props Tiedown 3
+1300  37.35321189 -006.01388576 265.71 tie_down props Tie Down 03
 1301 A general_aviation 
-1300  37.35308214 -006.01387410 265.71 tie_down props Tiedown 2
+1300  37.35308214 -006.01387410 265.71 tie_down props Tie Down 02
 1301 A general_aviation 
-1300  37.35295239 -006.01386245 265.71 tie_down props Tiedown 1
+1300  37.35295239 -006.01386245 265.71 tie_down props Tie Down 01
 1301 A general_aviation 
 18  37.35375160 -006.01360407 1 New Airport Beacon 3
 99
