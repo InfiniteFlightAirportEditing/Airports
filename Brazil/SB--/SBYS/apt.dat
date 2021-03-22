@@ -3056,8 +3056,11 @@ I
 19 -21.98171935 -047.34328342 0 New Windsock 5
 19 -21.98640200 -047.32905270 0 New Windsock 4
 50 12770 ATIS
-53 12190 Academia Ground Control
+53 12190 Academia Ground
 54 11830 Academia Tower
-55 12240 Academia Approach
+55 11955 Academia Approach
+55 11975 Academia Approach
 55 12010 Academia Approach
+55 12040 Academia Approach
+55 12240 Academia Approach
 99
