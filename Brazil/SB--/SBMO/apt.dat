@@ -1515,9 +1515,9 @@ I
 1300 -09.51385446 -035.79451162 190.64 gate jets|turboprops|props Terminal 1 Remote 3
 1301 D airline 
 1300 -09.51363522 -035.79508231 220.66 gate jets|turboprops|props Terminal 1 Remote 2
-1301 D airline 
+1301 C airline 
 1300 -09.51311341 -035.79520943 247.94 gate jets|turboprops|props Terminal 1 Remote 1
-1301 D airline 
+1301 C airline 
 1300 -09.51290831 -035.79715968 -79.14 hangar jets|turboprops|props Hangar 02
 1301 B none 
 1300 -09.51265478 -035.79804417 101.53 hangar jets|turboprops|props Hangar 01
