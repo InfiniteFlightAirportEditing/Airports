@@ -421,11 +421,13 @@ I
 1301 C airline 
 1300  08.39195715 -082.43168791 174.76 gate jets|props Terminal Apron 03
 1301 B airline 
-1300  08.39378561 -082.43071123 129.37 tie_down turboprops|props Tie Down 08
+1300  08.39379550 -082.43066974 167.18 tie_down turboprops|props Tie Down 09
 1301 A general_aviation 
-1300  08.39367272 -082.43080719 129.37 tie_down turboprops|props Tie Down 07
+1300  08.39372559 -082.43076354 129.37 tie_down turboprops|props Tie Down 08
 1301 A general_aviation 
-1300  08.39356341 -082.43089900 129.37 tie_down turboprops|props Tie Down 06
+1300  08.39361703 -082.43085512 129.37 tie_down turboprops|props Tie Down 07
+1301 A general_aviation 
+1300  08.39351081 -082.43094568 129.37 tie_down turboprops|props Tie Down 06
 1301 A general_aviation 
 1300  08.39239738 -082.43267476 129.37 tie_down turboprops|props Tie Down 05
 1301 A general_aviation 

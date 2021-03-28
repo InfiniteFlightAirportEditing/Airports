@@ -1140,6 +1140,26 @@ I
 1301 C airline 
 1300  08.91778028 -079.59734679 -89.79 gate jets|props Remote Stand 01
 1301 C airline 
+1300  08.91203252 -079.59652035  47.09 tie_down props Tie Down 10
+1301 A general_aviation 
+1300  08.91215953 -079.59664105  47.09 tie_down props Tie Down 09
+1301 A general_aviation 
+1300  08.91227077 -079.59674928  47.09 tie_down props Tie Down 08
+1301 A general_aviation 
+1300  08.91238742 -079.59686262  47.09 tie_down props Tie Down 07
+1301 A general_aviation 
+1300  08.91250251 -079.59697754  47.09 tie_down props Tie Down 06
+1301 A general_aviation 
+1300  08.91261822 -079.59708522  47.09 tie_down props Tie Down 05
+1301 A general_aviation 
+1300  08.91273702 -079.59718817  47.09 tie_down props Tie Down 04
+1301 A general_aviation 
+1300  08.91285087 -079.59730152  47.09 tie_down props Tie Down 03
+1301 A general_aviation 
+1300  08.91296471 -079.59740731  47.09 tie_down props Tie Down 02
+1301 A general_aviation 
+1300  08.91308135 -079.59751882  47.09 tie_down props Tie Down 01
+1301 A general_aviation 
 1300  08.91102492 -079.59560275 -51.90 gate jets|props GA Apron 07
 1301 B general_aviation 
 1300  08.91083391 -079.59575677 -53.71 gate jets|props GA Apron 06
