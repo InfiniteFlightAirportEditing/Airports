@@ -7247,14 +7247,14 @@ I
 1301 C airline 
 1300 -15.86682247 -047.92353920 -154.08 gate jets|turboprops Remote Stand 50
 1301 C airline 
-1300 -15.86666655 -047.92324146 -154.18 gate jets|turboprops Remote Stand 49A
-1301 B airline 
+1300 -15.86681264 -047.92331511 -154.18 gate heavy|jets|turboprops Remote Stand 49A
+1301 E airline 
 1300 -15.86699030 -047.92318440 -154.11 gate jets|turboprops Remote Stand 49
 1301 C airline 
 1300 -15.86715765 -047.92282805 -154.21 gate jets|turboprops Remote Stand 48
 1301 C airline 
-1300 -15.86700265 -047.92253267 -154.04 gate jets|turboprops Remote Stand 47A
-1301 B airline 
+1300 -15.86715039 -047.92260729 -154.04 gate heavy|jets|turboprops Remote Stand 47A
+1301 E airline 
 1300 -15.86732469 -047.92247389 -154.13 gate jets|turboprops Remote Stand 47
 1301 C airline 
 1300 -15.86999971 -047.91848437  -3.77 gate jets|turboprops Remote Stand 46
