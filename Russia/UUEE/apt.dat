@@ -28604,18 +28604,17 @@ I
 53 13455 Sheremetyevo Apron 4
 52 12860 Sheremetyevo Clearance Delivery
 52 12087 Sheremetyevo Clearance Delivery
-55 12270 Sheremetyevo Arrival
-55 13590 Sheremetyevo Arrival
-55 11810 Sheremetyevo Arrival
-55 12660 Sheremetyevo Arrival
-56 12067 Sheremetyevo Departure
+55 12270 Sheremetyevo Radar
+55 13517 Sheremetyevo Radar
+55 11810 Sheremetyevo Radar
+55 12660 Sheremetyevo Radar
+55 12067 Sheremetyevo Radar
 55 12720 Moscow Approach
 55 12800 Moscow Approach
 55 13400 Moscow Approach
 55 13120 Moscow Approach
-55 13467 Moscow Approach
-54 11895 Moscow Departure
-54 11855 Moscow Departure
-54 13037 Moscow Departure
-54 12420 Moscow Departure
+55 11895 Moscow Approach
+55 11855 Moscow Approach
+55 13037 Moscow Approach
+55 12420 Moscow Approach
 99

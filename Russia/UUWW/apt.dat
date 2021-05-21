@@ -25422,25 +25422,24 @@ I
 1300  55.60657026  037.26762623 296.58 misc jets|turboprops|props Maintenance Ramp 62
 1301 B none 
 18  55.58993768  037.27429675 1 New Airport Beacon 2
-55 12340 Vnukovo Arrival
-55 12600 Vnukovo Arrival
-56 13517 Vnukovo Departure
-54 11900 Vnukovo Tower
-54 12180 Vnukovo Tower
+55 12340 Vnukovo Radar
+55 12600 Vnukovo Radar
+55 13590 Vnukovo Radar
+54 11830 Vnukovo Tower
+54 11945 Vnukovo Tower
 54 12230 Vnukovo Tower
 53 12045 Vnukovo Ground
 53 12170 Vnukovo Ground
 52 13180 Vnukovo Clearance Delivery
 52 12970 Vnukovo Clearance Delivery
-50 13185 ATIS Arrival
-50 12445 ATIS Departure
-56 11895 Moscow Departure
-56 11855 Moscow Departure
-56 13037 Moscow Departure
-56 12420 Moscow Departure
+50 12587 ATIS Arrival
+50 12780 ATIS Departure
+55 11895 Moscow Approach
+55 11855 Moscow Approach
+55 13037 Moscow Approach
+55 12420 Moscow Approach
 55 12720 Moscow Approach
 55 12800 Moscow Approach
 55 13400 Moscow Approach
 55 13120 Moscow Approach
-55 13467 Moscow Approach
 99
