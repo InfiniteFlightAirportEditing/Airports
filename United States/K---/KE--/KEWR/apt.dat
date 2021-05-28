@@ -16118,14 +16118,6 @@ I
 1301 C airline 
 1300  40.68748575 -074.18505695 238.01 gate jets Gate A10
 1301 C airline 
-1300  40.69959774 -074.16959791   4.88 misc heavy|jets|turboprops De-Ice Pad 1
-1301 E none 
-1300  40.69966361 -074.17057576   4.88 misc heavy|jets|turboprops De-Ice Pad 2
-1301 E none 
-1300  40.69972933 -074.17155320   4.88 misc heavy|jets|turboprops De-Ice Pad 3
-1301 E none 
-1300  40.69979041 -074.17246261   4.88 misc heavy|jets|turboprops De-Ice Pad 4
-1301 C none 
 18  40.70776382 -074.17100100 1 BCN
 50 11570 D-ATIS
 50 13482 D-ATIS
