@@ -4975,6 +4975,12 @@ I
 21  36.20571294 -115.18844071 2 313.9600 3.00 30R PAPI-4L
 21  36.21076327 -115.19369115 2 134.5700 3.00 12L PAPI-4L
 14  36.21016682 -115.18925351  49.21 0 New Tower Viewpoint 7
+1300  36.21210051 -115.20655200 -127.83 tie_down turboprops|props Governmental Agency 3
+1301 A general_aviation 
+1300  36.21200842 -115.20646299 -127.83 tie_down turboprops|props Governmental Agency 2
+1301 A general_aviation 
+1300  36.21191960 -115.20637673 -127.83 tie_down turboprops|props Governmental Agency 1
+1301 A general_aviation 
 1300  36.20743726 -115.19895848 179.05 hangar props Hangar 173
 1301 A none 
 1300  36.20743942 -115.19880172 179.05 hangar props Hangar 172
