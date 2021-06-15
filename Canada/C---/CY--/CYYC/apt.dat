@@ -16268,7 +16268,7 @@ I
 1301 E airline 
 1300  51.12802878 -114.00339117 -89.87 gate heavy|jets|turboprops|props Gate 78B
 1301 E airline 
-1300  51.12797255 -114.00474284  89.60 gate heavy|jets|turboprops|props Gate 73
+1300  51.12797255 -114.00474284  89.60 gate heavy|jets|turboprops|props Gate 76
 1301 E airline 
 1300  51.12903759 -113.99621453  90.16 gate jets|turboprops|props Remote Stand E191
 1301 D airline 
@@ -16606,7 +16606,7 @@ I
 1301 C airline 
 1300  51.12446702 -114.01387223 -90.25 tie_down heavy|jets|turboprops|props De-Ice Ramp Bay 2
 1301 E airline 
-1300  51.11908524 -114.00533769 -90.18 tie_down heavy|jets|turboprops|props WestJet Maintenance Apron 3
+1300  51.11908524 -114.00533769 -90.18 tie_down heavy|jets|turboprops|props WestJet Maintenance Apron 4
 1301 E airline 
 1300  51.11941389 -114.00688772 120.08 tie_down jets|turboprops|props WestJet Maintenance Apron 3
 1301 D airline 
@@ -16694,7 +16694,7 @@ I
 1301 B none 
 1300  51.10183714 -114.03037341 269.81 hangar jets|turboprops|props Shaw Hangar
 1301 B none 
-1300  51.10137913 -114.03205398  90.21 hangar turboprops|props Buffalo Airways Hangar 3
+1300  51.10137913 -114.03205398  90.21 hangar turboprops|props Buffalo Airways Hangar 4
 1301 C none 
 1300  51.10103202 -114.03206015  90.21 hangar turboprops|props Buffalo Airways Hangar 3
 1301 C none 
