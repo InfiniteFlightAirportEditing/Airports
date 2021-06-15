@@ -889,15 +889,15 @@ I
 1301 A none 
 1300 -22.25802752  166.47424958 -91.34 hangar turboprops|props GA Hangar 8
 1301 A none 
-1300 -22.25692104  166.47398986 179.20 misc turboprops|props Maintenance 1
+1300 -22.25692104  166.47398986 179.20 misc turboprops|props E Maintenance 1
 1301 A none 
-1300 -22.25719181  166.47409348 -91.61 misc turboprops|props Maintenance 2
+1300 -22.25719181  166.47409348 -91.61 misc turboprops|props E Maintenance 2
 1301 A none 
-1300 -22.25704890  166.47409145 -91.61 misc turboprops|props Maintenance 3
+1300 -22.25704890  166.47409145 -91.61 misc turboprops|props E Maintenance 3
 1301 A none 
-1300 -22.25966149  166.47013272  87.46 misc turboprops Maintenance 1
+1300 -22.25966149  166.47013272  87.46 misc turboprops W Maintenance 1
 1301 C none 
-1300 -22.25952124  166.47052443  88.07 misc turboprops Maintenance 2
+1300 -22.25952124  166.47052443  88.07 misc turboprops W Maintenance 2
 1301 C none 
 18 -22.25999507  166.47125977 1 New Airport Beacon 2
 19 -22.26399958  166.47232565 1 New Windsock 3
