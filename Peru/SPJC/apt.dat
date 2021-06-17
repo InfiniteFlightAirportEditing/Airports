@@ -4229,10 +4229,6 @@ I
 1301 B general_aviation 
 1300 -12.03271323 -077.10594091 -76.32 tie_down jets|turboprops Tie Down 01
 1301 B general_aviation 
-1300 -12.00720355 -077.11776872 -174.30 tie_down jets|turboprops Remote Stand 01
-1301 C airline 
-1300 -12.00713938 -077.11743305 -177.05 tie_down jets|turboprops Remote Stand 02
-1301 C airline 
 1300 -12.03542736 -077.10254988 -25.05 hangar turboprops|props Hangar 08
 1301 A none 
 1300 -12.03555552 -077.10284982 -25.05 hangar turboprops|props Hangar 07
