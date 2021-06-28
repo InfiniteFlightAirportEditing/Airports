@@ -1163,51 +1163,71 @@ I
 21  32.85369344 -109.62953416 2 270.2200 3.00 New Light Fixture 11
 21  32.85428749 -109.64018882 2 90.0000 3.00 New Light Fixture 8
 14  32.85224329 -109.63755522   9.84 0 New Tower Viewpoint 94
-1300  32.85160040 -109.63562331 223.17 tie_down turboprops|props Tie-Down 1
+1300  32.85160040 -109.63562331 -133.19 tie_down turboprops|props Tie-Down 33
 1301 A general_aviation 
-1300  32.85174281 -109.63578696 229.82 tie_down turboprops|props Tie-Down 2
+1300  32.85174281 -109.63578696 -133.19 tie_down turboprops|props Tie-Down 32
 1301 A general_aviation 
-1300  32.85187588 -109.63594447 227.00 tie_down turboprops|props Tie-Down 3
+1300  32.85187588 -109.63594447 -133.19 tie_down turboprops|props Tie-Down 31
 1301 A general_aviation 
-1300  32.85201171 -109.63610679 225.74 tie_down turboprops|props Tie-Down 4
+1300  32.85201171 -109.63610679 -133.19 tie_down turboprops|props Tie-Down 30
 1301 A general_aviation 
-1300  32.85214921 -109.63626326 224.44 tie_down turboprops|props Tie-down 5
+1300  32.85214921 -109.63626326 -133.19 tie_down turboprops|props Tie-Down 29
 1301 A general_aviation 
-1300  32.85228816 -109.63642637 227.06 tie_down turboprops|props Tie-Down 6
+1300  32.85228816 -109.63642637 -133.19 tie_down turboprops|props Tie-Down 28
 1301 A general_aviation 
-1300  32.85166567 -109.63635336 222.80 tie_down turboprops|props Tie-Down 18
+1300  32.85238076 -109.63696748  43.78 tie_down turboprops|props Tie-Down 27
 1301 A general_aviation 
-1300  32.85153062 -109.63619462 225.31 tie_down turboprops|props Tie-Down 19
+1300  32.85224852 -109.63679748  44.82 tie_down turboprops|props Tie-Down 26
+1301 A general_aviation 
+1300  32.85211166 -109.63663533  44.82 tie_down turboprops|props Tie-Down 25
+1301 A general_aviation 
+1300  32.85197531 -109.63647778  44.42 tie_down turboprops|props Tie-Down 24
+1301 A general_aviation 
+1300  32.85183853 -109.63631666  44.42 tie_down turboprops|props Tie-Down 23
+1301 A general_aviation 
+1300  32.85170040 -109.63615381  44.42 tie_down turboprops|props Tie-Down 22
+1301 A general_aviation 
+1300  32.85156817 -109.63599842  44.42 tie_down turboprops|props Tie-Down 21
 1301 A general_aviation 
 1300  32.85139436 -109.63603389 224.92 tie_down turboprops|props Tie-Down 20
 1301 A general_aviation 
-1300  32.85156817 -109.63599842  45.10 tie_down turboprops|props Tie-Down 13
+1300  32.85153062 -109.63619462 225.31 tie_down turboprops|props Tie-Down 19
 1301 A general_aviation 
-1300  32.85170040 -109.63615381  46.09 tie_down turboprops|props Tie-Down 12
-1301 A general_aviation 
-1300  32.85183853 -109.63631666  43.47 tie_down turboprops|props Tie-Down 11
+1300  32.85166567 -109.63635336 222.80 tie_down turboprops|props Tie-Down 18
 1301 A general_aviation 
 1300  32.85182950 -109.63649406 218.73 tie_down turboprops|props Tie-Down 17
 1301 A general_aviation 
-1300  32.85197531 -109.63647778  42.71 tie_down turboprops|props Tie-Down 10
-1301 A general_aviation 
 1300  32.85196226 -109.63665468 227.56 tie_down turboprops|props Tie-Down 16
-1301 A general_aviation 
-1300  32.85211166 -109.63663533  44.33 tie_down turboprops|props Tie-Down 9
 1301 A general_aviation 
 1300  32.85209895 -109.63681376 226.20 tie_down turboprops|props Tie-Down 15
 1301 A general_aviation 
-1300  32.85224852 -109.63679748  44.71 tie_down turboprops|props Tie-Down 8
-1301 A general_aviation 
 1300  32.85223767 -109.63697489 227.32 tie_down turboprops|props Tie-Down 14
 1301 A general_aviation 
-1300  32.85238076 -109.63696748  41.75 tie_down turboprops|props Tie-Down 7
-1301 A general_aviation 
-1300  32.85249672 -109.63761388 359.07 tie_down turboprops|props Tie-Down 11
+1300  32.85254225 -109.63889600 359.05 tie_down turboprops|props Tie-Down 13
 1301 A general_aviation 
 1300  32.85249383 -109.63783954 359.14 tie_down turboprops|props Tie-Down 12
 1301 A general_aviation 
-1300  32.85254225 -109.63889600 359.05 tie_down turboprops|props Tie-Down 13
+1300  32.85249672 -109.63761388 359.07 tie_down turboprops|props Tie-Down 11
+1301 A general_aviation 
+1300  32.85311466 -109.63887954 358.67 tie_down turboprops|props Tie-Down 10
+1301 A general_aviation 
+1300  32.85297277 -109.63876751 179.14 tie_down turboprops|props Tie-Down 9
+1301 A general_aviation 
+1300  32.85311357 -109.63864772   0.00 tie_down turboprops|props Tie-Down 8
+1301 A general_aviation 
+1300  32.85297386 -109.63854673 179.26 tie_down turboprops|props Tie-Down 7
+1301 A general_aviation 
+1300  32.85311251 -109.63842182   0.00 tie_down turboprops|props Tie-Down 6
+1301 A general_aviation 
+1300  32.85297504 -109.63830809 179.91 tie_down turboprops|props Tie-Down 5
+1301 A general_aviation 
+1300  32.85311143 -109.63819306   0.00 tie_down turboprops|props Tie-Down 4
+1301 A general_aviation 
+1300  32.85297613 -109.63808628 180.00 tie_down turboprops|props Tie-Down 3
+1301 A general_aviation 
+1300  32.85311036 -109.63796537   0.00 tie_down turboprops|props Tie-Down 2
+1301 A general_aviation 
+1300  32.85297724 -109.63785972 178.50 tie_down turboprops|props Tie-Down 1
 1301 A general_aviation 
 1300  32.85251410 -109.64038511  90.00 hangar turboprops|props Ponderosa Fire 1
 1301 A none 
@@ -1251,26 +1271,6 @@ I
 1301 A none 
 1300  32.85226104 -109.63949984  88.99 hangar turboprops|props Hangar 15
 1301 A none 
-1300  32.85297724 -109.63785972 178.50 tie_down turboprops|props Tie-Down 1
-1301 A general_aviation 
-1300  32.85311036 -109.63796537   0.00 tie_down turboprops|props Tie-Down 2
-1301 A general_aviation 
-1300  32.85297613 -109.63808628 180.00 tie_down turboprops|props Tie-Down 3
-1301 A general_aviation 
-1300  32.85311143 -109.63819306   0.00 tie_down turboprops|props Tie-Down 4
-1301 A general_aviation 
-1300  32.85297504 -109.63830809 179.91 tie_down turboprops|props Tie-Down 5
-1301 A general_aviation 
-1300  32.85311251 -109.63842182   0.00 tie_down turboprops|props Tie-Down 6
-1301 A general_aviation 
-1300  32.85297386 -109.63854673 179.26 tie_down turboprops|props Tie-Down 7
-1301 A general_aviation 
-1300  32.85311357 -109.63864772   0.00 tie_down turboprops|props Tie-Down 8
-1301 A general_aviation 
-1300  32.85297277 -109.63876751 179.14 tie_down turboprops|props Tie-Down 9
-1301 A general_aviation 
-1300  32.85311466 -109.63887954 358.67 tie_down turboprops|props Tie-Down 10
-1301 A general_aviation 
 1300  32.85249982 -109.64095411   0.91 hangar jets|turboprops|props Hangar 18
 1301 A none 
 1300  32.85216916 -109.64268626 -88.79 hangar turboprops|props Hangar 19
