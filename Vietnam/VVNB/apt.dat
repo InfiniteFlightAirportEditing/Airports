@@ -342,7 +342,7 @@ I
 112  21.21758245  105.80714121  21.21761720  105.80713622 3 102
 111  21.21768106  105.80716110 3 102
 111  21.21780364  105.80722590 3 102
-111  21.21801942  105.80733927 3 102
+111  21.21801942  105.80733928 3 102
 111  21.21813080  105.80739884
 112  21.21813080  105.80739884  21.21830955  105.80752303 3 102
 111  21.21818400  105.80781464
@@ -1086,6 +1086,7 @@ I
 112  21.22453018  105.79203526  21.22442831  105.79171603
 111  21.22453018  105.79203526 3 102
 111  21.22424795  105.79111205 3 102
+111  21.22417203  105.79075403 3 102
 111  21.22402359  105.79005409
 112  21.22402359  105.79005409  21.22395152  105.78964133 3 102
 115  21.22400654  105.78941913
@@ -1094,6 +1095,18 @@ I
 112  21.21282323  105.81291414  21.21263389  105.81286336
 111  21.21282323  105.81291414 2
 115  21.21235875  105.81276248
+120 Linear Feature 4
+111  21.22207712  105.78615039 20
+115  21.22254627  105.78603096
+120 Linear Feature 1
+111  21.22219270  105.78575064 20
+111  21.22207712  105.78615039 20
+111  21.22196307  105.78654486 20
+111  21.22210534  105.78694469 20
+111  21.22226644  105.78699937 20
+111  21.22254627  105.78603096 20
+111  21.22264292  105.78569648 20
+113  21.22240728  105.78561858 20
 120 Linear Feature 31
 111  21.21258047  105.81334404 2
 112  21.21287026  105.81316186  21.21300506  105.81301229
@@ -1326,6 +1339,9 @@ I
 111  21.22120173  105.79187824 2
 115  21.22150205  105.79197533
 120 Linear Feature 145
+111  21.22417203  105.79075403 6
+115  21.22398350  105.79080064
+120 Linear Feature 145
 111  21.22241139  105.78862818 6
 115  21.22221537  105.78856339
 120 Linear Feature 145
@@ -1396,8 +1412,8 @@ I
 115  21.21535245  105.81570274
 120 Linear Feature 127
 111  21.21813003  105.80695675 4 104
-111  21.21807664  105.80714168 4 104
-115  21.21801942  105.80733927
+111  21.21807664  105.80714169 4 104
+115  21.21801942  105.80733928
 120 Linear Feature 127
 111  21.21992532  105.79988873 4 104
 111  21.21988106  105.80004178 4 104
@@ -2193,6 +2209,7 @@ I
 115  21.22477567  105.79348180
 120 Linear Feature 111
 111  21.22382229  105.79004048 3 102
+111  21.22398350  105.79080064 3 102
 111  21.22429330  105.79226147 3 102
 111  21.22412830  105.79220351 3 102
 115  21.22387606  105.79206918
@@ -2228,7 +2245,7 @@ I
 120 Linear Feature 8
 111  21.21862135  105.80732177 51 101
 111  21.21815899  105.80716893 51 101
-111  21.21807664  105.80714168 7 105
+111  21.21807664  105.80714169 7 105
 111  21.21769203  105.80701456 51 101
 111  21.21742500  105.80692629 51 101
 111  21.21666338  105.80667452 51 101
@@ -2271,6 +2288,7 @@ I
 111  21.22229726  105.78678477 51
 112  21.22224796  105.78678457  21.22222307  105.78678962
 111  21.22224796  105.78678457 51
+111  21.22211915  105.78681849 51
 111  21.22205844  105.78683448
 112  21.22205844  105.78683448  21.22188601  105.78688852 51
 115  21.22184827  105.78700079
@@ -2281,6 +2299,7 @@ I
 111  21.22243540  105.78630641 51
 112  21.22238609  105.78630621  21.22236120  105.78631126
 111  21.22238609  105.78630621 51
+111  21.22213369  105.78637302 51
 111  21.22205491  105.78639388
 112  21.22205491  105.78639388  21.22202423  105.78640341 51
 115  21.22201111  105.78643762
@@ -2289,6 +2308,7 @@ I
 111  21.22266883  105.78580059 51
 112  21.22257325  105.78579524  21.22253173  105.78580419
 111  21.22257325  105.78579524 51
+111  21.22227918  105.78587012 51
 111  21.22220050  105.78589015
 112  21.22220050  105.78589015  21.22216983  105.78589968 51
 111  21.22215687  105.78593351 51 101
@@ -5698,6 +5718,18 @@ I
 111  21.22066174  105.78679566 51
 111  21.22065472  105.78681992 51
 115  21.22064781  105.78684382
+120 Linear Feature 5
+111  21.22211044  105.78677839 51
+111  21.22211915  105.78681849 51
+115  21.22212816  105.78685768
+120 Linear Feature 5
+111  21.22212553  105.78633835 51
+111  21.22213369  105.78637302 51
+115  21.22214169  105.78640883
+120 Linear Feature 5
+111  21.22227047  105.78583002 51
+111  21.22227918  105.78587012 51
+115  21.22228719  105.78590592
 120 Linear Feature 1
 111  21.22077950  105.78638841 51
 111  21.22077231  105.78641329 51
@@ -5718,6 +5750,15 @@ I
 111  21.21723093  105.79965817 51
 111  21.21721627  105.79965332 51
 115  21.21720108  105.79964830
+120 Linear Feature 3
+111  21.21921966  105.79923804 1
+115  21.21924866  105.79924764
+120 Linear Feature 3
+111  21.21940141  105.79861245 1
+115  21.21943041  105.79862205
+120 Linear Feature 3
+111  21.21960313  105.79791655 1
+115  21.21963213  105.79792615
 120 Linear Feature 3
 111  21.21739032  105.79971086 51
 111  21.21737582  105.79970606 51
@@ -6489,7 +6530,7 @@ I
 111  21.21694821  105.82126099 51 101
 115  21.21707402  105.82082592
 120 Linear Feature 28
-112  21.21475378  105.82073808  21.21462136  105.82114561 52
+112  21.21475378  105.82073808  21.21462136  105.82114561 2
 115  21.21419692  105.82103835
 120 Linear Feature 27
 111  21.21506206  105.82136413 51 101
@@ -6576,39 +6617,39 @@ I
 1301 A military 
 1300  21.22632906  105.79750918 197.88 tie_down turboprops|props|fighters Military Stand 01
 1301 A military 
-1300  21.22750960  105.79446841 198.32 hangar turboprops|props|fighters Military Hangar 17
+1300  21.22750960  105.79446841 198.32 hangar turboprops|props|fighters Military Shelter 17
 1301 A none 
-1300  21.22746567  105.79462032 198.55 hangar turboprops|props|fighters Military Hangar 16
+1300  21.22746567  105.79462032 198.55 hangar turboprops|props|fighters Military Shelter 16
 1301 A none 
-1300  21.22741832  105.79478410 198.63 hangar turboprops|props|fighters Military Hangar 15
+1300  21.22741832  105.79478410 198.63 hangar turboprops|props|fighters Military Shelter 15
 1301 A none 
-1300  21.22736169  105.79497990 197.40 hangar turboprops|props|fighters Military Hangar 14
+1300  21.22736169  105.79497990 197.40 hangar turboprops|props|fighters Military Shelter 14
 1301 A none 
-1300  21.22729690  105.79520398 197.67 hangar turboprops|props|fighters Military Hangar 13
+1300  21.22729690  105.79520398 197.67 hangar turboprops|props|fighters Military Shelter 13
 1301 A none 
-1300  21.22723270  105.79542598 197.37 hangar turboprops|props|fighters Military Hangar 12
+1300  21.22723270  105.79542598 197.37 hangar turboprops|props|fighters Military Shelter 12
 1301 A none 
-1300  21.22716907  105.79564603 196.81 hangar turboprops|props|fighters Military Hangar 11
+1300  21.22716907  105.79564603 196.81 hangar turboprops|props|fighters Military Shelter 11
 1301 A none 
-1300  21.22710309  105.79587418 196.08 hangar turboprops|props|fighters Military Hangar 10
+1300  21.22710309  105.79587418 196.08 hangar turboprops|props|fighters Military Shelter 10
 1301 A none 
-1300  21.22703411  105.79611276 197.27 hangar turboprops|props|fighters Military Hangar 09
+1300  21.22703411  105.79611276 197.27 hangar turboprops|props|fighters Military Shelter 09
 1301 A none 
-1300  21.22696451  105.79635345 197.34 hangar turboprops|props|fighters Military Hangar 08
+1300  21.22696451  105.79635345 197.34 hangar turboprops|props|fighters Military Shelter 08
 1301 A none 
-1300  21.22689703  105.79658681 197.84 hangar turboprops|props|fighters Military Hangar 07
+1300  21.22689703  105.79658681 197.84 hangar turboprops|props|fighters Military Shelter 07
 1301 A none 
-1300  21.22683701  105.79679433 198.26 hangar turboprops|props|fighters Military Hangar 06
+1300  21.22683701  105.79679433 198.26 hangar turboprops|props|fighters Military Shelter 06
 1301 A none 
-1300  21.22678865  105.79696161 197.93 hangar turboprops|props|fighters Military Hangar 05
+1300  21.22678865  105.79696161 197.93 hangar turboprops|props|fighters Military Shelter 05
 1301 A none 
-1300  21.22674366  105.79711720 198.66 hangar turboprops|props|fighters Military Hangar 04
+1300  21.22674366  105.79711720 198.66 hangar turboprops|props|fighters Military Shelter 04
 1301 A none 
-1300  21.22669799  105.79727514 198.13 hangar turboprops|props|fighters Military Hangar 03
+1300  21.22669799  105.79727514 198.13 hangar turboprops|props|fighters Military Shelter 03
 1301 A none 
-1300  21.22665084  105.79743817 197.27 hangar turboprops|props|fighters Military Hangar 02
+1300  21.22665084  105.79743817 197.27 hangar turboprops|props|fighters Military Shelter 02
 1301 A none 
-1300  21.22660402  105.79760008 197.37 hangar turboprops|props|fighters Military Hangar 01
+1300  21.22660402  105.79760008 197.37 hangar turboprops|props|fighters Military Shelter 01
 1301 A none 
 1300  21.21216728  105.81159435 -162.69 hangar jets|turboprops VAECO Hangar 05
 1301 C none 
@@ -6616,70 +6657,74 @@ I
 1301 E none 
 1300  21.21196561  105.81222574 197.06 hangar jets|turboprops VAECO Hangar 01
 1301 C none 
-1300  21.22591884  105.79873415 -95.85 tie_down jets|turboprops Stand QS5
+1300  21.22591884  105.79873415 -95.85 tie_down jets|turboprops Military - Cargo Speical Stand QS5
+1301 B cargo 
+1300  21.22156885  105.81372509 137.69 tie_down jets|turboprops Military - Cargo Speical Stand QS4
+1301 B cargo 
+1300  21.22140521  105.81429174 138.95 tie_down jets|turboprops Military - Cargo Speical Stand QS4A
+1301 B cargo 
+1300  21.22115950  105.81519988 -103.46 tie_down jets|turboprops Military - Cargo Speical Stand QS3
 1301 C cargo 
-1300  21.22156885  105.81372509 137.69 tie_down jets|turboprops Stand QS4
-1301 C cargo 
-1300  21.22140521  105.81429174 138.95 tie_down jets|turboprops Stand QS4A
-1301 C cargo 
-1300  21.22115950  105.81519988 -103.46 tie_down jets|turboprops Stand QS3
-1301 C cargo 
-1300  21.22097311  105.81587058 -106.13 tie_down jets|turboprops Stand QS2
+1300  21.22097311  105.81587058 -106.13 tie_down jets|turboprops Military - Cargo Speical Stand QS2
 1301 D cargo 
-1300  21.22076225  105.81652262 -105.82 tie_down jets|turboprops Stand QS1A
+1300  21.22076225  105.81652262 -105.82 tie_down jets|turboprops Military - Cargo Speical Stand QS1A
 1301 C cargo 
-1300  21.22069781  105.81680294 -106.71 tie_down heavy|jets|turboprops Stand QS1
+1300  21.22069781  105.81680294 -106.71 tie_down heavy|jets|turboprops Military - Cargo Speical Stand QS1
 1301 E cargo 
-1300  21.22056531  105.81718645 -108.13 tie_down jets|turboprops Stand QS1B
+1300  21.22056531  105.81718645 -108.13 tie_down jets|turboprops Military - Cargo Speical Stand QS1B
 1301 C cargo 
-1300  21.21316035  105.81173338 -72.78 gate jets|turboprops|props Stand O4
+1300  21.21316035  105.81173338 -72.78 gate jets|turboprops|props VEACO Private Stand O4
 1301 B airline 
-1300  21.21286028  105.81164278 -72.64 gate jets|turboprops|props Stand O3
+1300  21.21286028  105.81164278 -72.64 gate jets|turboprops|props VEACO Private Stand O3
 1301 B airline 
-1300  21.21339303  105.81326223 107.04 gate jets|turboprops|props Stand O2
+1300  21.21339303  105.81326223 107.04 gate jets|turboprops|props VEACO Private Stand O2
 1301 B airline 
-1300  21.21313296  105.81317620 107.14 gate jets|turboprops|props Stand O1
+1300  21.21313296  105.81317620 107.14 gate jets|turboprops|props VEACO Private Stand O1
 1301 B airline 
-1300  21.21298711  105.81273661 196.79 gate jets|turboprops|props Stand H11A
+1300  21.21298711  105.81273661 196.79 gate jets|turboprops|props VEACO Maintenance Stand H11A
 1301 C airline 
-1300  21.21261854  105.81261612 196.89 gate jets|turboprops|props Stand H11
+1300  21.21261854  105.81261612 196.89 gate jets|turboprops|props VEACO Maintenance Stand H11
 1301 C airline 
-1300  21.21235875  105.81276248 196.82 gate jets|turboprops|props Stand H10
+1300  21.21235875  105.81276248 196.82 gate jets|turboprops|props VEACO Maintenance Stand H10
 1301 C airline 
-1300  21.21202903  105.81341918 172.79 gate heavy|jets|turboprops|props Stand H9
+1300  21.21202903  105.81341918 172.79 gate heavy|jets|turboprops|props VEACO Maintenance Stand H9
 1301 E airline 
-1300  21.21393131  105.81437934 107.22 gate heavy|jets|turboprops|props Stand H4
+1300  21.21393131  105.81437934 107.22 gate heavy|jets|turboprops|props VEACO Maintenance Stand H4
 1301 E airline 
-1300  21.21414429  105.81364280 -72.79 gate heavy|jets|turboprops|props Stand H4A
+1300  21.21414429  105.81364280 -72.79 gate heavy|jets|turboprops|props VEACO Maintenance Stand H4A
 1301 E airline 
-1300  21.21322889  105.81433589 107.96 gate jets|turboprops|props Stand H5
+1300  21.21322889  105.81433589 107.96 gate jets|turboprops|props VEACO Maintenance Stand H5
 1301 C airline 
-1300  21.21361078  105.81407510 -120.86 gate jets|turboprops|props Stand H5A
+1300  21.21361078  105.81407510 -120.86 gate jets|turboprops|props VEACO Maintenance Stand H5A
 1301 C airline 
-1300  21.21283594  105.81419277 107.72 gate jets|turboprops|props Stand H6A
+1300  21.21283594  105.81419277 107.72 gate jets|turboprops|props VEACO Maintenance Stand H6A
 1301 E airline 
-1300  21.21301847  105.81425116 107.53 gate jets|turboprops|props Stand H6
+1300  21.21301847  105.81425116 107.53 gate jets|turboprops|props VEACO Maintenance Stand H6
 1301 C airline 
-1300  21.21224144  105.81399508 107.44 gate jets|turboprops|props Stand H8
+1300  21.21224144  105.81399508 107.44 gate jets|turboprops|props VEACO Maintenance Stand H8
 1301 C airline 
-1300  21.21209336  105.81389509 145.13 gate jets|turboprops|props Stand H8A
+1300  21.21209336  105.81389509 145.13 gate jets|turboprops|props VEACO Maintenance Stand H8A
 1301 C airline 
-1300  21.21262159  105.81411998 107.40 gate jets|turboprops|props Stand H7
+1300  21.21262159  105.81411998 107.40 gate jets|turboprops|props VEACO Maintenance Stand H7
 1301 C airline 
-1300  21.21348855  105.81198963 -162.93 gate heavy|jets|turboprops|props Stand H3
+1300  21.21348855  105.81198963 -162.93 gate heavy|jets|turboprops|props VEACO Maintenance Stand H3
 1301 E airline 
-1300  21.21367103  105.81136276 -162.89 gate heavy|jets|turboprops|props Stand H2
+1300  21.21367103  105.81136276 -162.89 gate heavy|jets|turboprops|props VEACO Maintenance Stand H2
 1301 E airline 
-1300  21.21384369  105.81177660  17.23 gate jets|turboprops|props Stand H2B
+1300  21.21384369  105.81177660  17.23 gate jets|turboprops|props VEACO Maintenance Stand H2B
 1301 C airline 
-1300  21.21424274  105.81039388  17.05 gate jets|turboprops|props Stand H1B
+1300  21.21424274  105.81039388  17.05 gate jets|turboprops|props VEACO Maintenance Stand H1B
 1301 C airline 
-1300  21.21402464  105.81115052  17.18 gate jets|turboprops|props Stand H2A
+1300  21.21402464  105.81115052  17.18 gate jets|turboprops|props VEACO Maintenance Stand H2A
 1301 C airline 
-1300  21.21382039  105.81027322 -163.07 gate jets|turboprops|props Stand H1A
+1300  21.21382039  105.81027322 -163.07 gate jets|turboprops|props VEACO Maintenance Stand H1A
 1301 C airline 
-1300  21.21385877  105.81075805 -162.97 gate heavy|jets|turboprops|props Stand H1
+1300  21.21385877  105.81075805 -162.97 gate heavy|jets|turboprops|props VEACO Maintenance Stand H1
 1301 E airline 
+1300  21.21357121  105.82086555  32.48 gate jets|turboprops|props Stand 25S
+1301 E none 
+1300  21.21329926  105.81977139 -72.84 gate jets|turboprops|props Stand 26S
+1301 E none 
 1300  21.21129772  105.81671280 -74.00 gate jets|turboprops|props Stand 86
 1301 C airline 
 1300  21.21169615  105.81684451 285.94 gate jets|turboprops|props Stand 85
@@ -6691,25 +6736,25 @@ I
 1300  21.21136268  105.81648820 106.65 gate jets|turboprops|props Stand 82
 1301 C airline 
 1300  21.21135174  105.81732256 106.15 gate heavy|jets|turboprops|props Stand 81R
-1301 E airline 
+1301 F airline 
 1300  21.21176110  105.81661991 105.97 gate jets|turboprops|props Stand 81
 1301 C airline 
 1300  21.21215408  105.81674982 106.94 gate jets|turboprops|props Stand 80
 1301 C airline 
 1300  21.21210508  105.81757160 107.12 gate heavy|jets|turboprops|props Stand 79R
-1301 E airline 
+1301 F airline 
 1300  21.21254591  105.81687934 107.51 gate jets|turboprops|props Stand 79
 1301 C airline 
 1300  21.21171757  105.81526088 -73.21 gate jets|turboprops|props Stand 78
 1301 C airline 
 1300  21.21201943  105.81501350 -72.93 gate heavy|jets|turboprops|props Stand 77L
-1301 E airline 
+1301 F airline 
 1300  21.21211600  105.81539258 -73.08 gate jets|turboprops|props Stand 77
 1301 C airline 
 1300  21.21250898  105.81552249 -73.35 gate jets|turboprops|props Stand 76
 1301 C airline 
 1300  21.21277278  105.81526254 -73.03 gate heavy|jets|turboprops|props Stand 75L
-1301 E airline 
+1301 F airline 
 1300  21.21290082  105.81565202 -73.22 gate jets|turboprops|props Stand 75
 1301 C airline 
 1300  21.21178374  105.81503203 106.97 gate jets|turboprops|props Stand 74
@@ -6720,6 +6765,12 @@ I
 1301 C airline 
 1300  21.21296699  105.81542317 106.67 gate jets|turboprops|props Stand 71
 1301 C airline 
+1300  21.22227918  105.78587012 166.61 gate jets|turboprops|props Stand 56
+1301 C none 
+1300  21.22213369  105.78637302 166.11 gate jets|turboprops|props Stand 55
+1301 C none 
+1300  21.22211915  105.78681849 166.30 gate jets|turboprops|props Stand 54
+1301 B none 
 1300  21.22133477  105.78659922 196.53 gate jets|turboprops|props Stand 53A
 1301 C airline 
 1300  21.22077231  105.78641329 196.17 gate jets|turboprops|props Stand 53
@@ -6734,49 +6785,49 @@ I
 1301 C airline 
 1300  21.22047057  105.78710852 196.41 gate heavy|jets|turboprops|props Stand 52
 1301 E airline 
-1300  21.22025875  105.78783703 197.05 gate heavy|jets|turboprops|props Stand 51
+1300  21.22025875  105.78783703 197.05 gate heavy|jets|turboprops|props Stand 51 - Gate 36 - International Terminal
+1301 F airline 
+1300  21.22004608  105.78857249 196.74 gate heavy|jets|turboprops|props Stand 50 - Gate 35 - International Terminal
 1301 E airline 
-1300  21.22004608  105.78857249 196.74 gate heavy|jets|turboprops|props Stand 50
+1300  21.21985264  105.78924147 -163.02 gate heavy|jets|turboprops|props Stand 49 - Gate 34 - International Terminal
 1301 E airline 
-1300  21.21985264  105.78924147 -163.02 gate heavy|jets|turboprops|props Stand 49
-1301 E airline 
-1300  21.21970037  105.78983621 187.26 gate jets|turboprops|props Stand 48
+1300  21.21970037  105.78983621 187.26 gate jets|turboprops|props Stand 48 - Night Parking
 1301 C airline 
-1300  21.21965940  105.78990972 196.53 gate heavy|jets|turboprops|props Stand 47
+1300  21.21965940  105.78990972 196.53 gate heavy|jets|turboprops|props Stand 47 - Gate 33 - International Terminal
 1301 E airline 
-1300  21.21986614  105.79012516 228.20 gate jets|turboprops|props Stand 46
+1300  21.21986614  105.79012516 228.20 gate jets|turboprops|props Stand 46 - Night Parking
 1301 C airline 
-1300  21.21948482  105.79072578 173.07 gate jets|turboprops|props Stand 45
+1300  21.21948482  105.79072578 173.07 gate jets|turboprops|props Stand 45 - Night Parking
 1301 C airline 
-1300  21.21941408  105.79075809 -163.73 gate heavy|jets|turboprops|props Stand 44
+1300  21.21941408  105.79075809 -163.73 gate heavy|jets|turboprops|props Stand 44 - Gate 32 - International Terminal
 1301 E airline 
-1300  21.21960468  105.79091508 213.38 gate jets|turboprops|props Stand 43
+1300  21.21960468  105.79091508 213.38 gate jets|turboprops|props Stand 43 - Night Parking
 1301 C airline 
-1300  21.21921544  105.79144503 197.53 gate heavy|jets|turboprops|props Stand 42
+1300  21.21921544  105.79144503 197.53 gate heavy|jets|turboprops|props Stand 42 - Gate 31 - International Terminal
 1301 E airline 
-1300  21.21902226  105.79211306 197.03 gate heavy|jets|turboprops|props Stand 41
+1300  21.21902226  105.79211306 197.03 gate heavy|jets|turboprops|props Stand 41 - Gate 30 - International Terminal
 1301 E airline 
-1300  21.21883086  105.79277500 196.58 gate heavy|jets|turboprops|props Stand 40
+1300  21.21883086  105.79277500 196.58 gate heavy|jets|turboprops|props Stand 40 - Gate 29 - International Terminal
 1301 E airline 
-1300  21.21863660  105.79344680 196.21 gate heavy|jets|turboprops|props Stand 39
+1300  21.21863660  105.79344680 196.21 gate heavy|jets|turboprops|props Stand 39 - Gate 28 - International Terminal
 1301 E airline 
-1300  21.21848759  105.79403028 188.00 gate jets|turboprops|props Stand 38
+1300  21.21848759  105.79403028 188.00 gate jets|turboprops|props Stand 38 - Night Parking
 1301 C airline 
-1300  21.21844266  105.79411748 -163.34 gate heavy|jets|turboprops|props Stand 37
+1300  21.21844266  105.79411748 -163.34 gate heavy|jets|turboprops|props Stand 37 - Gate 27 - International Terminal
 1301 E airline 
-1300  21.21865293  105.79432078 229.50 gate jets|turboprops|props Stand 36
+1300  21.21865293  105.79432078 229.50 gate jets|turboprops|props Stand 36 - Night Parking
 1301 C airline 
-1300  21.21826706  105.79493704 174.04 gate jets|turboprops|props Stand 35
+1300  21.21826706  105.79493704 174.04 gate jets|turboprops|props Stand 35 - Night Parking
 1301 C airline 
-1300  21.21819449  105.79497572 197.13 gate heavy|jets|turboprops|props Stand 34
+1300  21.21819449  105.79497572 197.13 gate heavy|jets|turboprops|props Stand 34 - Gate 23 - International Terminal
 1301 E airline 
-1300  21.21838529  105.79513200 213.24 gate jets|turboprops|props Stand 33
+1300  21.21838529  105.79513200 213.24 gate jets|turboprops|props Stand 33 - Night Parking
 1301 C airline 
-1300  21.21799946  105.79565016 197.02 gate heavy|jets|turboprops|props Stand 32
+1300  21.21799946  105.79565016 197.02 gate heavy|jets|turboprops|props Stand 32 - Gate 22 - International Terminal
 1301 E airline 
-1300  21.21780697  105.79631586 -163.88 gate heavy|jets|turboprops|props Stand 31
+1300  21.21780697  105.79631586 -163.88 gate heavy|jets|turboprops|props Stand 31 - Gate 21 - International Terminal
 1301 E airline 
-1300  21.21761490  105.79698012 196.70 gate heavy|jets|turboprops|props Stand 30
+1300  21.21761490  105.79698012 196.70 gate heavy|jets|turboprops|props Stand 30 - Gate 20 - International Terminal
 1301 E airline 
 1300  21.21742555  105.79806929 196.68 gate jets|turboprops|props Stand 29B
 1301 C airline 
@@ -6793,7 +6844,7 @@ I
 1300  21.21671463  105.79948749 -73.45 gate heavy|jets|turboprops|props Stand 27
 1301 F airline 
 1300  21.21737582  105.79970606 -72.57 gate heavy|jets|turboprops|props Stand 26A
-1301 E airline 
+1301 F airline 
 1300  21.21721627  105.79965332 -72.92 gate jets|turboprops|props Stand 26
 1301 C airline 
 1300  21.21752993  105.79975701 -73.23 gate jets|turboprops|props Stand 25
@@ -6812,28 +6863,28 @@ I
 1301 C airline 
 1300  21.21640873  105.80274975 197.22 gate jets|turboprops|props Stand 21A
 1301 C airline 
-1300  21.21555189  105.80246650 -163.14 gate heavy|jets|turboprops|props Stand 21
+1300  21.21555189  105.80246650 -163.14 gate heavy|jets|turboprops|props Stand 21 - Gate 11 - Domestic Terminal
 1301 E airline 
 1300  21.21620268  105.80346233 -162.81 gate jets|turboprops|props Stand 20A
 1301 C airline 
-1300  21.21544188  105.80321083 -162.55 gate heavy|jets|turboprops|props Stand 20
+1300  21.21544188  105.80321083 -162.55 gate heavy|jets|turboprops|props Stand 20 - Gate 10 - Domestic Terminal
 1301 E airline 
-1300  21.21578993  105.80393308 -138.29 gate heavy|jets|turboprops|props Stand 19
+1300  21.21578993  105.80393308 -138.29 gate heavy|jets|turboprops|props Stand 19 - Gate 8 - Domestic Terminal
 1301 E airline 
-1300  21.21588064  105.80484488 -115.17 gate jets|turboprops|props Stand 18
+1300  21.21588064  105.80484488 -115.17 gate jets|turboprops|props Stand 18 - Gate 7 - Domestic Terminal
 1301 C airline 
-1300  21.21557090  105.80515621 -79.39 gate heavy|jets|turboprops|props Stand 17
+1300  21.21557090  105.80515621 -79.39 gate heavy|jets|turboprops|props Stand 17 - Gate 6 - Domestic Terminal
 1301 E airline 
-1300  21.21499321  105.80507044 -53.80 gate heavy|jets|turboprops|props Stand 16
+1300  21.21499321  105.80507044 -53.80 gate heavy|jets|turboprops|props Stand 16 - Gate 5 - Domestic Terminal
 1301 E airline 
-1300  21.21432121  105.80465220 -69.36 gate heavy|jets|turboprops|props Stand 15
+1300  21.21432121  105.80465220 -69.36 gate heavy|jets|turboprops|props Stand 15 - Gate 3 - Domestic Terminal
 1301 E airline 
 1300  21.21416008  105.80636021 -72.80 gate heavy|jets|turboprops|props Stand 14
 1301 E airline 
 1300  21.21478143  105.80656560 -72.74 gate heavy|jets|turboprops|props Stand 12
 1301 E airline 
 1300  21.21538454  105.80676498 -72.72 gate jets|turboprops|props Stand 11
-1301 E airline 
+1301 D airline 
 1300  21.21346615  105.80822730 107.27 gate jets|turboprops|props Stand 10
 1301 C airline 
 1300  21.21353260  105.80855908 107.21 gate heavy|jets|turboprops|props Stand 09
@@ -6851,13 +6902,13 @@ I
 1300  21.21462658  105.80937640 196.71 gate jets|turboprops|props Stand 03
 1301 B airline 
 1300  21.21456692  105.80969995 197.62 gate jets|turboprops|props Stand 02A
-1301 B airline 
+1301 A airline 
 1300  21.21452641  105.80972284 195.56 gate jets|turboprops|props Stand 02
 1301 B airline 
 1300  21.21444202  105.81013192 196.92 gate jets|turboprops|props Stand 01B
-1301 B airline 
+1301 A airline 
 1300  21.21450469  105.80991516 197.02 gate jets|turboprops|props Stand 01A
-1301 B airline 
+1301 A airline 
 1300  21.21442512  105.81007310 196.12 gate jets|turboprops|props Stand 01
 1301 B airline 
 18  21.21242530  105.80126419 1 New Airport Beacon 1
