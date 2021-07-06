@@ -19219,8 +19219,30 @@ I
 1301 F airline 
 18  37.46096121  126.44038759 1 BCN
 50 12840 Incheon ATIS
+50 12865 Incheon ATIS
 53 12175 Incheon Ground
+53 12170 Incheon Ground
+53 12192 Incheon Ground
+53 12165 Incheon Apron
+53 12180 Incheon Apron
+53 12217 Incheon Apron
+53 12222 Incheon Apron
+53 12232 Incheon Apron
+53 12357 Incheon Apron
+53 12367 Incheon Apron
+52 12160 Clearance Delivery
+52 12187 Clearance Delivery
 54 11820 Incheon Tower
+54 11827 Incheon Tower
+54 11880 Incheon Tower
 55 11975 Seoul Approach
+55 11990 Seoul Approach
+55 12135 Seoul Approach
+55 12420 Seoul Approach
+55 11910 Seoul Approach
+55 12080 Seoul Approach
+55 11905 Seoul Approach
 56 12140 Seoul Departure
+56 12480 Seoul Departure
+56 12515 Seoul Departure
 99
