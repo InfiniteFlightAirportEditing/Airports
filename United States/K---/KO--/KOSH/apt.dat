@@ -283,11 +283,11 @@ I
 111  43.98129199 -088.55962831
 111  43.98128564 -088.55901872
 111  43.98125827 -088.55897730
-111  43.98126054 -088.55814379
-111  43.98134795 -088.55814326
-111  43.98134621 -088.55858966
-111  43.98137456 -088.55863348
+111  43.98125860 -088.55885625
+111  43.98140024 -088.55885783
+111  43.98139969 -088.55897710
 111  43.98137581 -088.55901920
+111  43.98137851 -088.55944084
 111  43.98137965 -088.55961922
 111  43.98138068 -088.55977916
 111  43.98138587 -088.56058964
@@ -1760,13 +1760,13 @@ I
 111  43.98264307 -088.55950958
 111  43.98264162 -088.55902858
 111  43.98220464 -088.55902851
-111  43.98220418 -088.55949154
-111  43.98177214 -088.55946688
-111  43.98164433 -088.55921639
-111  43.98165089 -088.55869719
-111  43.98141821 -088.55868808
-111  43.98137456 -088.55863348
-113  43.98134621 -088.55858966
+111  43.98219816 -088.55943713
+111  43.98137851 -088.55944084
+111  43.98137581 -088.55901920
+111  43.98139969 -088.55897710
+111  43.98140024 -088.55885783
+111  43.98125860 -088.55885625
+113  43.98126054 -088.55814379
 110 3 0.00 0.0000 New Taxiway 127
 111  43.97908855 -088.55958543
 111  43.97904811 -088.55945867
@@ -1776,6 +1776,7 @@ I
 111  43.97921666 -088.55810901
 111  43.98121172 -088.55806917
 111  43.98126054 -088.55814379
+111  43.98125860 -088.55885625
 111  43.98125827 -088.55897730
 111  43.98128564 -088.55901872
 111  43.98129199 -088.55962831
@@ -4368,7 +4369,7 @@ I
 1301 C general_aviation 
 1300  43.98903895 -088.55788991 294.95 tie_down jets|turboprops|props EAA AirVenture - Warbird Parking 88
 1301 C general_aviation 
-1300  43.97853187 -088.56068875   1.44 tie_down turboprops|props EAA AirVenture - Boeing Plaza 03
+1300  43.97839308 -088.56067669   1.44 tie_down turboprops|props EAA AirVenture - Boeing Plaza 03
 1301 B military 
 1300  43.97869564 -088.56019925 -25.03 tie_down jets|turboprops|props EAA AirVenture - Boeing Plaza 05
 1301 B cargo 
@@ -4380,9 +4381,9 @@ I
 1301 B cargo 
 1300  43.97937901 -088.56103223 308.28 tie_down heavy|jets|turboprops|props EAA AirVenture - Boeing Plaza Heavy
 1301 E cargo 
-1300  43.97847861 -088.56095858  47.27 tie_down heavy|jets|turboprops|props EAA AirVenture - Boeing Plaza 02
+1300  43.97852632 -088.56092242  47.27 tie_down heavy|jets|turboprops|props EAA AirVenture - Boeing Plaza 02
 1301 D cargo 
-1300  43.97848766 -088.56041872 314.34 tie_down heavy|jets|turboprops|props EAA AirVenture - Boeing Plaza 04
+1300  43.97851802 -088.56043078 314.34 tie_down heavy|jets|turboprops|props EAA AirVenture - Boeing Plaza 04
 1301 D cargo 
 1300  43.97792000 -088.56075639  33.64 tie_down turboprops|props EAA AirVenture - American Legend Aircraft 01
 1301 A general_aviation 
@@ -5360,8 +5361,6 @@ I
 1301 A general_aviation 
 1300  43.98306262 -088.55872819 180.00 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 226
 1301 A general_aviation 
-1300  43.97921957 -088.55889384 180.00 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 274
-1301 B general_aviation 
 1300  43.98399316 -088.55893997 180.00 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 204
 1301 A general_aviation 
 1300  43.98002017 -088.55913020 180.00 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 259
@@ -5424,8 +5423,6 @@ I
 1301 A general_aviation 
 1300  43.98306465 -088.55892008 179.36 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 225
 1301 A general_aviation 
-1300  43.97920977 -088.55924433 179.36 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 273
-1301 B general_aviation 
 1300  43.98399520 -088.55913186 179.36 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 203
 1301 A general_aviation 
 1300  43.98002334 -088.55937706 179.36 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 258
@@ -5510,8 +5507,6 @@ I
 1301 A general_aviation 
 1300  43.98306053 -088.55854065 181.25 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 227
 1301 A general_aviation 
-1300  43.97920983 -088.55853543 181.25 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 275
-1301 B general_aviation 
 1300  43.98399107 -088.55875242 181.25 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 205
 1301 A general_aviation 
 1300  43.98079663 -088.55886790 181.25 tie_down turboprops|props EAA AirVenture - Homebuilt Parking 251
