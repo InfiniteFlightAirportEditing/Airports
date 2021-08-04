@@ -1260,9 +1260,10 @@ I
 1300  18.04126711 -063.11704642 252.00 tie_down jets|turboprops|props GA West Apron 11
 1301 B general_aviation 
 18  18.04313535 -063.11691244 1 BCN  
+50 12765 ATIS
 54 11870 Juliana Tower
+52 12165 Juliana Clearance Delivery
 53 12190 Juliana Ground
 55 12895 Juliana Approach
-56 12895 Juliana Departure
-50 12765 ATIS
+55 11870 Juliana Approach
 99
