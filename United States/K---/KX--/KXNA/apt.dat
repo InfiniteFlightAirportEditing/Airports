@@ -1112,10 +1112,12 @@ I
 1300  36.28097249 -094.30307992  69.80 gate jets|turboprops FBO REGIONAL AIR CENTER 01
 1301 B general_aviation 
 18  36.27935106 -094.30235815 1 BCN
-50 11942 ASOS
 51 12710 CTAF
-51 12295 UNICOM
-53 12190 GND
-54 12710 TWR
-55 12100 RAZORBACK APP/DEP
+50 11942 ATIS 
+53 12190 Northwest Arkansas Ground
+54 12710 Northwest Arkansas Tower
+55 12100 Razorback Approach
+56 12100 Razorback Departure
+55 12660 Razorback Approach
+56 12660 Razorback Departure
 99
