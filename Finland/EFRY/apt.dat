@@ -1049,7 +1049,7 @@ I
 111  60.74443747  024.10933347 5
 115  60.74437815  024.10936204
 14  60.74472440  024.11614876  98.43 0 Tower Viewpoint 
-1300  60.74617529  024.11615087  42.34 tie_down jets|turboprops|props Gras main Hangar Apron
+1300  60.74617529  024.11615087  42.34 tie_down jets|turboprops|props Grass Main Hangar Apron
 1301 A general_aviation 
 1300  60.74602358  024.11318644 128.37 tie_down jets|turboprops|props Grass 1
 1301 A general_aviation 
@@ -1063,7 +1063,7 @@ I
 1301 B general_aviation 
 1300  60.74611091  024.11489702 171.63 tie_down jets|turboprops|props Grass 6
 1301 B general_aviation 
-1300  60.74497407  024.11587068 218.66 tie_down jets|turboprops|props Grass  Fuel Pad
+1300  60.74497407  024.11587068 218.66 tie_down jets|turboprops|props Grass Fuel Pad
 1301 A general_aviation 
 19  60.74437408  024.10761949 0 Windsock 
 51 12265 Unicom
