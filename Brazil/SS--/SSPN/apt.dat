@@ -277,6 +277,18 @@ I
 111 -19.65020985 -051.20179644 3
 115 -19.65007413 -051.20200927
 14 -19.65034984 -051.20245761  82.02 0 Tower Viewpoint
+1300 -19.65235003 -051.19941288 -54.24 hangar turboprops|props Hangar 6
+1301 A none 
+1300 -19.65236615 -051.19956631  35.86 hangar turboprops|props Hangar 5
+1301 A none 
+1300 -19.65215382 -051.20008103  47.35 hangar turboprops|props Hangar 4
+1301 A none 
+1300 -19.65176057 -051.20020102  38.97 hangar turboprops|props Hangar 3
+1301 A none 
+1300 -19.65131224 -051.20113386  32.01 hangar turboprops|props Hangar 2
+1301 A none 
+1300 -19.65089217 -051.20158438  32.01 hangar turboprops|props Hangar 1
+1301 A none 
 1300 -19.65031691 -051.20199810  36.47 gate turboprops|props Ramp GA 7
 1301 A general_aviation 
 1300 -19.65024549 -051.20210815  36.47 gate turboprops|props Ramp GA 6
