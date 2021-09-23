@@ -1471,25 +1471,25 @@ I
 1301 B general_aviation 
 1300 -03.03152120 -060.03883620 -104.91 tie_down turboprops|props Ramp GA 1
 1301 A general_aviation 
-1300 -03.03279115 -060.03697241 -15.61 hangar jets|turboprops|props Hangar 10
+1300 -03.03281266 -060.03696595 -15.61 hangar jets|turboprops|props Hangar 10
 1301 B none 
-1300 -03.03287392 -060.03725874 -15.61 hangar jets|turboprops|props Hangar 09
+1300 -03.03289112 -060.03725443 -15.61 hangar jets|turboprops|props Hangar 09
 1301 B none 
-1300 -03.03296421 -060.03768069 -15.61 hangar jets|turboprops|props Hangar 08
+1300 -03.03299647 -060.03767423 -15.61 hangar jets|turboprops|props Hangar 08
 1301 B none 
-1300 -03.03309777 -060.03815351 -15.61 hangar jets|turboprops|props Hangar 07
+1300 -03.03312788 -060.03814490 -15.61 hangar jets|turboprops|props Hangar 07
 1301 B none 
-1300 -03.03324224 -060.03856718 -15.61 hangar turboprops|props Hangar 06
+1300 -03.03326160 -060.03856072 -15.61 hangar turboprops|props Hangar 06
 1301 A none 
-1300 -03.03332350 -060.03895373 -15.61 hangar jets|turboprops|props Hangar 05
+1300 -03.03334680 -060.03894655 -15.61 hangar jets|turboprops|props Hangar 05
 1301 B none 
-1300 -03.03344013 -060.03936627 -15.61 hangar jets|turboprops|props Hangar 04
+1300 -03.03346164 -060.03936089 -15.61 hangar jets|turboprops|props Hangar 04
 1301 B none 
 1300 -03.03353795 -060.03973360 -15.61 hangar turboprops|props Hangar 03
 1301 A none 
-1300 -03.03360755 -060.03998037 -15.61 hangar jets|turboprops|props Hangar 02
+1300 -03.03363622 -060.03997140 -15.61 hangar jets|turboprops|props Hangar 02
 1301 B none 
-1300 -03.03369333 -060.04027197 -15.61 hangar jets|turboprops|props Hangar 01
+1300 -03.03371663 -060.04026659 -15.61 hangar jets|turboprops|props Hangar 01
 1301 B none 
 1300 -03.03142978 -060.04093125 -15.53 gate jets|turboprops Cargo 4
 1301 D cargo 
